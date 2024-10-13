@@ -181,4 +181,11 @@
         "word_type": "COMMON_NOUN",
         "priority": 5
     },
+    {
+        "surface": "水邊",
+        "pronunciation": "ミズベ",
+        "accent_type": "3",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
 ]
