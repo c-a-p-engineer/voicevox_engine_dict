@@ -1,0 +1,184 @@
+[
+    {
+        "surface": "出來",
+        "pronunciation": "デキ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "學ぶ",
+        "pronunciation": "マナブ",
+        "accent_type": "3",
+        "word_type": "VERB",
+        "priority": 5
+    },
+    {
+        "surface": "學び",
+        "pronunciation": "マナビ",
+        "accent_type": "3",
+        "word_type": "VERB",
+        "priority": 5
+    },
+    {
+        "surface": "寢床",
+        "pronunciation": "ネドコ",
+        "accent_type": "2",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "兩",
+        "pronunciation": "リョウ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "搜ス",
+        "pronunciation": "サガス",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "搜サ",
+        "pronunciation": "サガサ",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "搜",
+        "pronunciation": "ソウ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "默まる",
+        "pronunciation": "ダマル",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "默々",
+        "pronunciation": "モクモク",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "勇氣",
+        "pronunciation": "ユウキ",
+        "accent_type": "3",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "決斷",
+        "pronunciation": "ケツダン",
+        "accent_type": "3",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "齒",
+        "pronunciation": "ハ",
+        "accent_type": "0",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "怒號",
+        "pronunciation": "ドゴウ",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "聲",
+        "pronunciation": "コエ",
+        "accent_type": "0",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "聽えた",
+        "pronunciation": "キコエタ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "聽こえた",
+        "pronunciation": "キコエタ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "聽く",
+        "pronunciation": "キク",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "滯",
+        "pronunciation": "タイ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "奔",
+        "pronunciation": "カケ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "勵まし",
+        "pronunciation": "ハゲマシ",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "勵",
+        "pronunciation": "レイ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "顏",
+        "pronunciation": "カオ",
+        "accent_type": "0",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "盡",
+        "pronunciation": "ツ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "無邪氣",
+        "pronunciation": "ムジャキ",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "體",
+        "pronunciation": "カラダ",
+        "accent_type": "3",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+]
