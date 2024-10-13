@@ -1859,5 +1859,18 @@
         "accent_type": "0",
         "word_type": "ADJECTIVE",
         "priority": 5
+    },    {
+        "surface": "思ふ",
+        "pronunciation": "オモフ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "想ふ",
+        "pronunciation": "オモフ",
+        "accent_type": "0",
+        "word_type": "ADJECTIVE",
+        "priority": 5
     },
 ]
