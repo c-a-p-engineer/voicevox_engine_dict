@@ -1,0 +1,37 @@
+[
+    {
+        "surface": "青々軒",
+        "pronunciation": "セイセイケン",
+        "accent_type": "0",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "庄吉",
+        "pronunciation": "ショウキチ",
+        "accent_type": "4",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "猿飛",
+        "pronunciation": "サルトビ",
+        "accent_type": "4",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "鷄介",
+        "pronunciation": "ケイスケ",
+        "accent_type": "1",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "雪緒",
+        "pronunciation": "ユキオ",
+        "accent_type": "3",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+]
