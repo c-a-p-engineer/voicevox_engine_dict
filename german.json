@@ -1,0 +1,86 @@
+[
+    {
+        "surface": "HAIKU",
+        "pronunciation": "ハイク",
+        "accent_type": "1",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "über",
+        "pronunciation": "ウーバー",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "dem",
+        "pronunciation": "デム",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "japanischen",
+        "pronunciation": "ヤパーニシェン",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "Gedichte",
+        "pronunciation": "ゲディヒテ",
+        "accent_type": "2",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "von",
+        "pronunciation": "フォン",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "der",
+        "pronunciation": "デア",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "kürzesten",
+        "pronunciation": "キュルツェステン",
+        "accent_type": "2",
+        "word_type": "ADJECTIVE",
+        "priority": 5
+    },
+    {
+        "surface": "Gedicht-form",
+        "pronunciation": "ゲディヒトフォルム",
+        "accent_type": "3",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "in",
+        "pronunciation": "イン",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "der",
+        "pronunciation": "デア",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "Welt",
+        "pronunciation": "ヴェルト",
+        "accent_type": "1",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+]
