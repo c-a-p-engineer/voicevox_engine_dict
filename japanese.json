@@ -1,184 +1,184 @@
 [
-	{
-		"surface": "その様",
-		"pronunciation": "ソノサマ",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "工場主",
-		"pronunciation": "コウジョウヌシ",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "所謂",
-		"pronunciation": "イワユル",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "嗤う",
-		"pronunciation": "ワラウ",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "嗤",
-		"pronunciation": "ワラウ",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "重大事",
-		"pronunciation": "ジュウダイジ",
-		"accent_type": "4",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "寝床",
-		"pronunciation": "ネドコ",
-		"accent_type": "2",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "反影",
-		"pronunciation": "ハンエイ",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "襁褓",
-		"pronunciation": "ムツキ",
-		"accent_type": "2",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "蚊帳",
-		"pronunciation": "カヤ",
-		"accent_type": "0",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "慥へ",
-		"pronunciation": "タシカヘ",
-		"accent_type": "3",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "番頭",
-		"pronunciation": "バントウ",
-		"accent_type": "1",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "露ほど",
-		"pronunciation": "ツユホド",
-		"accent_type": "2",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "強き",
-		"pronunciation": "ツヨキ",
-		"accent_type": "2",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "敗か",
-		"pronunciation": "マカ",
-		"accent_type": "2",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "味噌漬け",
-		"pronunciation": "ミソヅケ",
-		"accent_type": "3",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "味噌漬",
-		"pronunciation": "ミソヅケ",
-		"accent_type": "3",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "識らず",
-		"pronunciation": "シラズ",
-		"accent_type": "3",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "童児",
-		"pronunciation": "ドウジ",
-		"accent_type": "3",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "珍らし",
-		"pronunciation": "メズラシ",
-		"accent_type": "0",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "家並み",
-		"pronunciation": "イエナミ",
-		"accent_type": "3",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "家並",
-		"pronunciation": "イエナミ",
-		"accent_type": "3",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "親娘",
-		"pronunciation": "オヤムスメ",
-		"accent_type": "3",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "緊った",
-		"pronunciation": "シマッタ",
-		"accent_type": "4",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "親しかッた",
-		"pronunciation": "シタシカッタ",
-		"accent_type": "6",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "親しかった",
-		"pronunciation": "シタシカッタ",
-		"accent_type": "6",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	}
+  {
+    "surface": "その様",
+    "pronunciation": "ソノサマ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "工場主",
+    "pronunciation": "コウジョウヌシ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "所謂",
+    "pronunciation": "イワユル",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "嗤う",
+    "pronunciation": "ワラウ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "嗤",
+    "pronunciation": "ワラウ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "重大事",
+    "pronunciation": "ジュウダイジ",
+    "accent_type": "4",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "寝床",
+    "pronunciation": "ネドコ",
+    "accent_type": "2",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "反影",
+    "pronunciation": "ハンエイ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "襁褓",
+    "pronunciation": "ムツキ",
+    "accent_type": "2",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "蚊帳",
+    "pronunciation": "カヤ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "慥へ",
+    "pronunciation": "タシカヘ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "番頭",
+    "pronunciation": "バントウ",
+    "accent_type": "1",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "露ほど",
+    "pronunciation": "ツユホド",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "強き",
+    "pronunciation": "ツヨキ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "敗か",
+    "pronunciation": "マカ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "味噌漬け",
+    "pronunciation": "ミソヅケ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "味噌漬",
+    "pronunciation": "ミソヅケ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "識らず",
+    "pronunciation": "シラズ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "童児",
+    "pronunciation": "ドウジ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "珍らし",
+    "pronunciation": "メズラシ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "家並み",
+    "pronunciation": "イエナミ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "家並",
+    "pronunciation": "イエナミ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "親娘",
+    "pronunciation": "オヤムスメ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "緊った",
+    "pronunciation": "シマッタ",
+    "accent_type": "4",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "親しかッた",
+    "pronunciation": "シタシカッタ",
+    "accent_type": "6",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "親しかった",
+    "pronunciation": "シタシカッタ",
+    "accent_type": "6",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  }
 ]
