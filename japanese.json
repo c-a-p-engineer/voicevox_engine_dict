@@ -180,5 +180,19 @@
     "accent_type": "6",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "贜",
+    "pronunciation": "ゾウ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "贜す",
+    "pronunciation": "カクス",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   }
 ]
