@@ -194,5 +194,12 @@
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "五分苅",
+    "pronunciation": "ゴブガリ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   }
 ]
