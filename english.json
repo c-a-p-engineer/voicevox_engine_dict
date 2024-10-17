@@ -103,5 +103,42 @@
         "accent_type": "1",
         "word_type": "SUFFIX",
         "priority": 5
+    },
+
+    {
+        "surface": "Prof.",
+        "pronunciation": "プロフェッサー",
+        "accent_type": "0",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "Mohri",
+        "pronunciation": "モウリ",
+        "accent_type": "0",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "bows",
+        "pronunciation": "ボウズ",
+        "accent_type": "0",
+        "word_type": "VERB",
+        "priority": 5
+    },
+    {
+        "surface": "to",
+        "pronunciation": "トゥ",
+        "accent_type": "0",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "Dr.",
+        "pronunciation": "ドクター",
+        "accent_type": "0",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
     }
+]
 ]
