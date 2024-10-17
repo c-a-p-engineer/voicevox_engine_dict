@@ -201,5 +201,12 @@
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "あの方",
+    "pronunciation": "アノカタ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   }
 ]
