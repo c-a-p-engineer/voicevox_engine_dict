@@ -208,5 +208,12 @@
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "主馬",
+    "pronunciation": "シュメ",
+    "accent_type": "1",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   }
 ]
