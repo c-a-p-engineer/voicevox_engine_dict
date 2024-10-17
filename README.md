@@ -4,7 +4,7 @@ VOICEVOX ENGINE APIの辞書登録用
 
 ## VOICEVOX API
 
-[VOICEVOX API Add User Dict Word]([http://gogle.com](https://voicevox.github.io/voicevox_engine/api/#tag/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%BE%9E%E6%9B%B8/operation/add_user_dict_word_user_dict_word_post)
+[VOICEVOX API Add User Dict Word](https://voicevox.github.io/voicevox_engine/api/#tag/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%BE%9E%E6%9B%B8/operation/add_user_dict_word_user_dict_word_post)
 
 ## ディレクトリ構造
 
