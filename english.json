@@ -139,5 +139,12 @@
         "accent_type": "0",
         "word_type": "PROPER_NOUN",
         "priority": 5
+    },
+    {
+        "surface": "incendiarism",
+        "pronunciation": "インセンディアリズム",
+        "accent_type": "0",
+        "word_type": "COMMON_NOUN",
+        "priority": 5
     }
 ]
