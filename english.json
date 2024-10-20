@@ -1,150 +1,261 @@
 [
-    {
-        "surface": "I",
-        "pronunciation": "アイ",
-        "accent_type": "0",
-        "word_type": "PROPER_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "chatter",
-        "pronunciation": "チャッター",
-        "accent_type": "1",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "as",
-        "pronunciation": "アズ",
-        "accent_type": "0",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "flow",
-        "pronunciation": "フロー",
-        "accent_type": "1",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "join",
-        "pronunciation": "ジョイン",
-        "accent_type": "1",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "brimming",
-        "pronunciation": "ブリミング",
-        "accent_type": "1",
-        "word_type": "ADJECTIVE",
-        "priority": 5
-    },
-    {
-        "surface": "river",
-        "pronunciation": "リバー",
-        "accent_type": "1",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "men",
-        "pronunciation": "メン",
-        "accent_type": "0",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "may",
-        "pronunciation": "メイ",
-        "accent_type": "0",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "come",
-        "pronunciation": "カム",
-        "accent_type": "0",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "go",
-        "pronunciation": "ゴー",
-        "accent_type": "0",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "but",
-        "pronunciation": "バット",
-        "accent_type": "1",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "on",
-        "pronunciation": "オン",
-        "accent_type": "0",
-        "word_type": "SUFFIX",
-        "priority": 5
-    },
-    {
-        "surface": "for",
-        "pronunciation": "フォー",
-        "accent_type": "0",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "ever",
-        "pronunciation": "エバー",
-        "accent_type": "1",
-        "word_type": "SUFFIX",
-        "priority": 5
-    },
-
-    {
-        "surface": "Prof.",
-        "pronunciation": "プロフェッサー",
-        "accent_type": "0",
-        "word_type": "PROPER_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "Mohri",
-        "pronunciation": "モウリ",
-        "accent_type": "0",
-        "word_type": "PROPER_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "bows",
-        "pronunciation": "ボウズ",
-        "accent_type": "0",
-        "word_type": "VERB",
-        "priority": 5
-    },
-    {
-        "surface": "to",
-        "pronunciation": "トゥ",
-        "accent_type": "0",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "Dr.",
-        "pronunciation": "ドクター",
-        "accent_type": "0",
-        "word_type": "PROPER_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "incendiarism",
-        "pronunciation": "インセンディアリズム",
-        "accent_type": "0",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
-    }
+  {
+    "surface": "akin",
+    "pronunciation": "アキン",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "as",
+    "pronunciation": "アズ",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 5
+  },
+  {
+    "surface": "big",
+    "pronunciation": "ビッグ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "blood",
+    "pronunciation": "ブラッド",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "bows",
+    "pronunciation": "ボウズ",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "brimming",
+    "pronunciation": "ブリミング",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "but",
+    "pronunciation": "バット",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "chatter",
+    "pronunciation": "チャッター",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "come",
+    "pronunciation": "カム",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "do",
+    "pronunciation": "ドゥ",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "don't",
+    "pronunciation": "ドント",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "Dr.",
+    "pronunciation": "ドクター",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ever",
+    "pronunciation": "エバー",
+    "accent_type": 1,
+    "word_type": "SUFFIX",
+    "priority": 5
+  },
+  {
+    "surface": "flow",
+    "pronunciation": "フロー",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "for",
+    "pronunciation": "フォー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "go",
+    "pronunciation": "ゴー",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "Great",
+    "pronunciation": "グレイト",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "haae",
+    "pronunciation": "ハエ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "hae",
+    "pronunciation": "ヘイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "Hao",
+    "pronunciation": "ハオ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "I",
+    "pronunciation": "アイ",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "IF",
+    "pronunciation": "イフ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "incendiarism",
+    "pronunciation": "インセンディアリズム",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "join",
+    "pronunciation": "ジョイン",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "love",
+    "pronunciation": "ラブ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "may",
+    "pronunciation": "メイ",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "men",
+    "pronunciation": "メン",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "Mohri",
+    "pronunciation": "モウリ",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "No",
+    "pronunciation": "ノー",
+    "accent_type": 1,
+    "word_type": "SUFFIX",
+    "priority": 5
+  },
+  {
+    "surface": "Oh",
+    "pronunciation": "オー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "please",
+    "pronunciation": "プリーズ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "Pity",
+    "pronunciation": "ピティ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "Prof.",
+    "pronunciation": "プロフェッサー",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "river",
+    "pronunciation": "リバー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "sentimentalism",
+    "pronunciation": "センティメンタリズム",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "to",
+    "pronunciation": "トゥ",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 5
+  },
+  {
+    "surface": "you",
+    "pronunciation": "ユー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  }
 ]
