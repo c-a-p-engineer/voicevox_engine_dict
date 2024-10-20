@@ -222,5 +222,26 @@
     "accent_type": "1",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "窶れ",
+    "pronunciation": "ヤツレ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "窶す",
+    "pronunciation": "ヤツス",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "窶しい",
+    "pronunciation": "マズシイ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   }
 ]
