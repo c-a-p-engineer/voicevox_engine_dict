@@ -215,5 +215,12 @@
     "accent_type": "1",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "代々",
+    "pronunciation": "ダイダイ",
+    "accent_type": "1",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   }
 ]
