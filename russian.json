@@ -1,0 +1,23 @@
+[
+  {
+    "surface": "ЗАПИСКИ",
+    "pronunciation": "ザピスキ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7
+  },
+  {
+    "surface": "ИЗ",
+    "pronunciation": "イズ",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 5
+  },
+  {
+    "surface": "ПОДПОЛЬЯ",
+    "pronunciation": "ポドポーリャ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8
+  }
+]
