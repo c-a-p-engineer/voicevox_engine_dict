@@ -15,7 +15,8 @@ VOICEVOX ENGINE APIの辞書登録用
 ├── japanese.json        # 日本語関連の辞書
 ├── kyuji.json           # 旧字（旧漢字）の辞書。
 ├── kyukana.json         # 旧仮名遣いの辞書。
-└── personal.json        # 個人名の辞書。
+├── personal.json        # 個人名の辞書。
+└── russian.json         # ロシア語の辞書。
 ```
 
 ## 登録サンプルコード
@@ -71,3 +72,34 @@ for url in urls:
         print(f"Error fetching data from {url}: {e}")
         system.exit(1)
 ```
+## ChatGPTで作成
+
+ChatGPTで辞書JSONを作成させる。
+
+### プロンプト例
+
+以下のロシア語単語について、それぞれの読み、意味、アクセント型、品詞などを含むJSONオブジェクトを生成してください。出力は次の形式でお願いします。
+
+形式:
+```json
+{
+  "surface": "単語の表層形（言語の原形）",
+  "pronunciation": "読み（カタカナ）",
+  "accent_type": アクセント型（音が下がる場所を指す）（整数）,
+  "word_type": "品詞（PROPER_NOUN, COMMON_NOUN, VERB, ADJECTIVE, SUFFIXのいずれか）",
+  "priority": 優先度（0から10までの整数）
+}
+```
+
+例:
+{
+  "surface": "ЗАПИСКИ",
+  "pronunciation": "ザピスキ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7
+}
+
+対象の単語: ЗАПИСКИ, ИЗ, ПОДПОЛЬЯ
+
+各単語について上記の形式で情報を出力してください。
