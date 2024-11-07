@@ -1,4 +1,95 @@
 [
+  	{
+		"surface": "chatter",
+		"pronunciation": "チャッター",
+		"accent_type": "1",
+		"word_type": "VERB",
+		"priority": 5
+	},
+	{
+		"surface": "as",
+		"pronunciation": "アズ",
+		"accent_type": "0",
+		"word_type": "COMMON_NOUN",
+		"priority": 5
+	},
+	{
+		"surface": "flow",
+		"pronunciation": "フロー",
+		"accent_type": "1",
+		"word_type": "VERB",
+		"priority": 5
+	},
+	{
+		"surface": "join",
+		"pronunciation": "ジョイン",
+		"accent_type": "1",
+		"word_type": "VERB",
+		"priority": 5
+	},
+	{
+		"surface": "brimming",
+		"pronunciation": "ブリミング",
+		"accent_type": "1",
+		"word_type": "ADJECTIVE",
+		"priority": 5
+	},
+	{
+		"surface": "river",
+		"pronunciation": "リバー",
+		"accent_type": "1",
+		"word_type": "COMMON_NOUN",
+		"priority": 5
+	},
+	{
+		"surface": "men",
+		"pronunciation": "メン",
+		"accent_type": "0",
+		"word_type": "COMMON_NOUN",
+		"priority": 5
+	},
+	{
+		"surface": "come",
+		"pronunciation": "カム",
+		"accent_type": "0",
+		"word_type": "VERB",
+		"priority": 5
+	},
+	{
+		"surface": "go",
+		"pronunciation": "ゴー",
+		"accent_type": "0",
+		"word_type": "VERB",
+		"priority": 5
+	},
+	{
+		"surface": "but",
+		"pronunciation": "バット",
+		"accent_type": "1",
+		"word_type": "COMMON_NOUN",
+		"priority": 5
+	},
+	{
+		"surface": "on",
+		"pronunciation": "オン",
+		"accent_type": "0",
+		"word_type": "SUFFIX",
+		"priority": 5
+	},
+	{
+		"surface": "for",
+		"pronunciation": "フォー",
+		"accent_type": "0",
+		"word_type": "COMMON_NOUN",
+		"priority": 5
+	},
+	{
+		"surface": "ever",
+		"pronunciation": "エバー",
+		"accent_type": "1",
+		"word_type": "SUFFIX",
+		"priority": 5
+  },
   {
     "surface": "hasty",
     "pronunciation": "ヘイスティー",
@@ -273,13 +364,6 @@
     "priority": 5
   },
   {
-    "surface": "as",
-    "pronunciation": "アズ",
-    "accent_type": 0,
-    "word_type": "SUFFIX",
-    "priority": 5
-  },
-  {
     "surface": "big",
     "pronunciation": "ビッグ",
     "accent_type": 1,
@@ -296,34 +380,6 @@
   {
     "surface": "bows",
     "pronunciation": "ボウズ",
-    "accent_type": 0,
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "brimming",
-    "pronunciation": "ブリミング",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "but",
-    "pronunciation": "バット",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "chatter",
-    "pronunciation": "チャッター",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "come",
-    "pronunciation": "カム",
     "accent_type": 0,
     "word_type": "VERB",
     "priority": 5
@@ -347,34 +403,6 @@
     "pronunciation": "ドクター",
     "accent_type": 0,
     "word_type": "PROPER_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ever",
-    "pronunciation": "エバー",
-    "accent_type": 1,
-    "word_type": "SUFFIX",
-    "priority": 5
-  },
-  {
-    "surface": "flow",
-    "pronunciation": "フロー",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "for",
-    "pronunciation": "フォー",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "go",
-    "pronunciation": "ゴー",
-    "accent_type": 0,
-    "word_type": "VERB",
     "priority": 5
   },
   {
@@ -427,13 +455,6 @@
     "priority": 5
   },
   {
-    "surface": "join",
-    "pronunciation": "ジョイン",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
     "surface": "love",
     "pronunciation": "ラブ",
     "accent_type": 1,
@@ -445,13 +466,6 @@
     "pronunciation": "メイ",
     "accent_type": 0,
     "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "men",
-    "pronunciation": "メン",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
     "priority": 5
   },
   {
@@ -487,13 +501,6 @@
     "pronunciation": "プロフェッサー",
     "accent_type": 0,
     "word_type": "PROPER_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "river",
-    "pronunciation": "リバー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
     "priority": 5
   },
   {
