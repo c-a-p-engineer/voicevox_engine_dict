@@ -35,9 +35,16 @@
         "priority": 5
     },
     {
-        "surface": "Kario",
+        "surface": "kario",
         "pronunciation": "カリオ",
         "accent_type": "0",
+        "word_type": "PROPER_NOUN",
+        "priority": 5
+    },
+    {
+        "surface": "mohri",
+        "pronunciation": "モウリ",
+        "accent_type": 0,
         "word_type": "PROPER_NOUN",
         "priority": 5
     }
