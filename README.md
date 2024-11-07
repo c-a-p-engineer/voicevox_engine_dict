@@ -15,7 +15,7 @@ VOICEVOX ENGINE APIの辞書登録用
 {
   "surface": "単語の表層形（言語の原形）",
   "pronunciation": "読み（カタカナ）",
-  "accent_type": アクセント型（音が下がる場所を指す）（整数）,
+  "accent_type": "アクセント型（音が下がる場所を指す）（整数）",
   "word_type": "品詞（PROPER_NOUN, COMMON_NOUN, VERB, ADJECTIVE, SUFFIXのいずれか）",
   "priority": "優先度（0から10までの整数）",
   "meaning": "日本語の意味"
