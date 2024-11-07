@@ -1,23 +1,26 @@
 [
   {
-    "surface": "ЗАПИСКИ",
+    "surface": "записки",
     "pronunciation": "ザピスキ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 7
+    "priority": 7,
+    "meaning": "ロシア語で「メモ」や「覚え書き」を意味する"
   },
   {
-    "surface": "ИЗ",
+    "surface": "из",
     "pronunciation": "イズ",
     "accent_type": 0,
     "word_type": "SUFFIX",
-    "priority": 5
+    "priority": 5,
+    "meaning": "ロシア語で「～から」「～の中から」を意味する前置詞"
   },
   {
-    "surface": "ПОДПОЛЬЯ",
+    "surface": "подполья",
     "pronunciation": "ポドポーリャ",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
-    "priority": 8
+    "priority": 8,
+    "meaning": "ロシア語で「地下」や「隠れ場所」を意味する"
   }
 ]
