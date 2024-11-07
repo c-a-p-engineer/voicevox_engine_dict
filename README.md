@@ -6,6 +6,27 @@ VOICEVOX ENGINE APIの辞書登録用
 
 [VOICEVOX API Add User Dict Word](https://voicevox.github.io/voicevox_engine/api/#tag/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E8%BE%9E%E6%9B%B8/operation/add_user_dict_word_user_dict_word_post)
 
+## 辞書JSON
+
+
+辞書のJSONは以下のようになっている。
+
+```json
+{
+  "surface": "単語の表層形（言語の原形）",
+  "pronunciation": "読み（カタカナ）",
+  "accent_type": アクセント型（音が下がる場所を指す）（整数）,
+  "word_type": "品詞（PROPER_NOUN, COMMON_NOUN, VERB, ADJECTIVE, SUFFIXのいずれか）",
+  "priority": "優先度（0から10までの整数）",
+  "meaning": "日本語の意味"
+}
+```
+
+`meaning` は日本語の意味を記載しますがVOICEVOXのAPI上使用することはございません。
+不要なら省略可能です。
+
+ただ意味がわからいのも気持ち悪いため付与しています。
+
 ## ディレクトリ構造
 
 ```
@@ -73,6 +94,7 @@ for url in urls:
         print(f"Error fetching data from {url}: {e}")
         system.exit(1)
 ```
+
 ## ChatGPTで作成
 
 ChatGPTで辞書JSONを作成させる。
@@ -88,7 +110,8 @@ ChatGPTで辞書JSONを作成させる。
   "pronunciation": "読み（カタカナ）",
   "accent_type": アクセント型（音が下がる場所を指す）（整数）,
   "word_type": "品詞（PROPER_NOUN, COMMON_NOUN, VERB, ADJECTIVE, SUFFIXのいずれか）",
-  "priority": 優先度（0から10までの整数）
+  "priority": "優先度（0から10までの整数）",
+  "meaning": "日本語の意味"
 }
 ```
 
