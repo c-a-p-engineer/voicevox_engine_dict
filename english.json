@@ -1,527 +1,578 @@
 [
-  	{
-		"surface": "chatter",
-		"pronunciation": "チャッター",
-		"accent_type": "1",
-		"word_type": "VERB",
-		"priority": 5
-	},
-	{
-		"surface": "as",
-		"pronunciation": "アズ",
-		"accent_type": "0",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "flow",
-		"pronunciation": "フロー",
-		"accent_type": "1",
-		"word_type": "VERB",
-		"priority": 5
-	},
-	{
-		"surface": "join",
-		"pronunciation": "ジョイン",
-		"accent_type": "1",
-		"word_type": "VERB",
-		"priority": 5
-	},
-	{
-		"surface": "brimming",
-		"pronunciation": "ブリミング",
-		"accent_type": "1",
-		"word_type": "ADJECTIVE",
-		"priority": 5
-	},
-	{
-		"surface": "river",
-		"pronunciation": "リバー",
-		"accent_type": "1",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "men",
-		"pronunciation": "メン",
-		"accent_type": "0",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "come",
-		"pronunciation": "カム",
-		"accent_type": "0",
-		"word_type": "VERB",
-		"priority": 5
-	},
-	{
-		"surface": "go",
-		"pronunciation": "ゴー",
-		"accent_type": "0",
-		"word_type": "VERB",
-		"priority": 5
-	},
-	{
-		"surface": "but",
-		"pronunciation": "バット",
-		"accent_type": "1",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "on",
-		"pronunciation": "オン",
-		"accent_type": "0",
-		"word_type": "SUFFIX",
-		"priority": 5
-	},
-	{
-		"surface": "for",
-		"pronunciation": "フォー",
-		"accent_type": "0",
-		"word_type": "COMMON_NOUN",
-		"priority": 5
-	},
-	{
-		"surface": "ever",
-		"pronunciation": "エバー",
-		"accent_type": "1",
-		"word_type": "SUFFIX",
-		"priority": 5
-  },
-  {
-    "surface": "hasty",
-    "pronunciation": "ヘイスティー",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "pudding",
-    "pronunciation": "プディング",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "pop",
-    "pronunciation": "ポップ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "overs",
-    "pronunciation": "オーバーズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "flannel",
-    "pronunciation": "フランネル",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "cakes",
-    "pronunciation": "ケイクス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "potato",
-    "pronunciation": "ポテト",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 6
-  },
-  {
-    "surface": "griddle",
-    "pronunciation": "グリドル",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "rice",
-    "pronunciation": "ライス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6
-  },
-  {
-    "surface": "waffles",
-    "pronunciation": "ワッフルズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "two",
-    "pronunciation": "トゥー",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "cups",
-    "pronunciation": "カップス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "of",
-    "pronunciation": "オブ",
-    "accent_type": 0,
-    "word_type": "SUFFIX",
-    "priority": 1
-  },
-  {
-    "surface": "flour",
-    "pronunciation": "フラワー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "sweet",
-    "pronunciation": "スウィート",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 4
-  },
-  {
-    "surface": "milk",
-    "pronunciation": "ミルク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "eggs",
-    "pronunciation": "エッグス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "teaspoonful",
-    "pronunciation": "ティースプーンフル",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "and",
-    "pronunciation": "アンド",
-    "accent_type": 0,
-    "word_type": "SUFFIX",
-    "priority": 2
-  },
-  {
-    "surface": "salt",
-    "pronunciation": "ソルト",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "bake",
-    "pronunciation": "ベイク",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 4
-  },
-  {
-    "surface": "in",
-    "pronunciation": "イン",
-    "accent_type": 0,
-    "word_type": "SUFFIX",
-    "priority": 2
-  },
-  {
-    "surface": "quick",
-    "pronunciation": "クイック",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 3
-  },
-  {
-    "surface": "oven",
-    "pronunciation": "オーブン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "minutes",
-    "pronunciation": "ミニッツ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "serve",
-    "pronunciation": "サーブ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 4
-  },
-  {
-    "surface": "hot",
-    "pronunciation": "ホット",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 3
-  },
-  {
-    "surface": "sauce",
-    "pronunciation": "ソース",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "twelve",
-    "pronunciation": "トゥエルブ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 4
-  },
-  {
-    "surface": "large",
-    "pronunciation": "ラージ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 3
-  },
-  {
-    "surface": "potatoes",
-    "pronunciation": "ポテイトーズ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "beat",
-    "pronunciation": "ビート",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 4
-  },
-  {
-    "surface": "well",
-    "pronunciation": "ウェル",
-    "accent_type": 1,
-    "word_type": "ADVERB",
-    "priority": 3
-  },
-  {
-    "surface": "separately",
-    "pronunciation": "セパレートリー",
-    "accent_type": 3,
-    "word_type": "ADVERB",
-    "priority": 3
-  },
   {
     "surface": "add",
     "pronunciation": "アッド",
     "accent_type": 1,
     "word_type": "VERB",
-    "priority": 4
-  },
-  {
-    "surface": "stiff",
-    "pronunciation": "スティフ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 3
-  },
-  {
-    "surface": "whites",
-    "pronunciation": "ホワイツ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 3
-  },
-  {
-    "surface": "all",
-    "pronunciation": "オール",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 2
+    "priority": 4,
+    "meaning": "追加する"
   },
   {
     "surface": "akin",
     "pronunciation": "アキン",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "類似した、似ている"
+  },
+  {
+    "surface": "all",
+    "pronunciation": "オール",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 2,
+    "meaning": "すべて、全体"
+  },
+  {
+    "surface": "and",
+    "pronunciation": "アンド",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 2,
+    "meaning": "～と（並列の意味）"
+  },
+  {
+    "surface": "as",
+    "pronunciation": "アズ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "～として"
+  },
+  {
+    "surface": "bake",
+    "pronunciation": "ベイク",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 4,
+    "meaning": "焼く"
+  },
+  {
+    "surface": "beat",
+    "pronunciation": "ビート",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 4,
+    "meaning": "叩く、混ぜる"
   },
   {
     "surface": "big",
     "pronunciation": "ビッグ",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "大きい"
   },
   {
     "surface": "blood",
     "pronunciation": "ブラッド",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "血液"
   },
   {
     "surface": "bows",
     "pronunciation": "ボウズ",
     "accent_type": 0,
     "word_type": "VERB",
-    "priority": 5
+    "priority": 5,
+    "meaning": "お辞儀する"
+  },
+  {
+    "surface": "brimming",
+    "pronunciation": "ブリミング",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "あふれる、満ちている"
+  },
+  {
+    "surface": "but",
+    "pronunciation": "バット",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "しかし"
+  },
+  {
+    "surface": "cakes",
+    "pronunciation": "ケイクス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "ケーキ（複数形）"
+  },
+  {
+    "surface": "chatter",
+    "pronunciation": "チャッター",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "おしゃべりをする"
+  },
+  {
+    "surface": "come",
+    "pronunciation": "カム",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "来る"
+  },
+  {
+    "surface": "cups",
+    "pronunciation": "カップス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "カップ（複数形）"
   },
   {
     "surface": "do",
     "pronunciation": "ドゥ",
     "accent_type": 0,
     "word_type": "VERB",
-    "priority": 5
+    "priority": 5,
+    "meaning": "する"
   },
   {
     "surface": "don't",
     "pronunciation": "ドント",
     "accent_type": 1,
     "word_type": "VERB",
-    "priority": 5
+    "priority": 5,
+    "meaning": "～しないで"
   },
   {
     "surface": "dr.",
     "pronunciation": "ドクター",
     "accent_type": 0,
     "word_type": "PROPER_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "医者、博士"
+  },
+  {
+    "surface": "eggs",
+    "pronunciation": "エッグス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "卵（複数形）"
+  },
+  {
+    "surface": "ever",
+    "pronunciation": "エバー",
+    "accent_type": 1,
+    "word_type": "SUFFIX",
+    "priority": 5,
+    "meaning": "今までに"
+  },
+  {
+    "surface": "flannel",
+    "pronunciation": "フランネル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "フランネル（布地）"
+  },
+  {
+    "surface": "flour",
+    "pronunciation": "フラワー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "小麦粉"
+  },
+  {
+    "surface": "flow",
+    "pronunciation": "フロー",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "流れる"
+  },
+  {
+    "surface": "for",
+    "pronunciation": "フォー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "～のために"
+  },
+  {
+    "surface": "go",
+    "pronunciation": "ゴー",
+    "accent_type": 0,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "行く"
   },
   {
     "surface": "great",
     "pronunciation": "グレイト",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "素晴らしい"
+  },
+  {
+    "surface": "griddle",
+    "pronunciation": "グリドル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "鉄板、ホットケーキ用の平鍋"
   },
   {
     "surface": "haae",
     "pronunciation": "ハエ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "昆虫（ハエ）"
   },
   {
     "surface": "hae",
     "pronunciation": "ヘイ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "「ハエ」を表す異なる綴り"
   },
   {
     "surface": "hao",
     "pronunciation": "ハオ",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "「ハオ」という音（意味が曖昧）"
+  },
+  {
+    "surface": "hasty",
+    "pronunciation": "ヘイスティー",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "急いだ"
+  },
+  {
+    "surface": "hot",
+    "pronunciation": "ホット",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 3,
+    "meaning": "熱い"
   },
   {
     "surface": "i",
     "pronunciation": "アイ",
     "accent_type": 0,
     "word_type": "PROPER_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "一人称（私）"
   },
   {
     "surface": "if",
     "pronunciation": "イフ",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "もし"
   },
   {
     "surface": "incendiarism",
     "pronunciation": "インセンディアリズム",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "放火主義"
+  },
+  {
+    "surface": "in",
+    "pronunciation": "イン",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 2,
+    "meaning": "～の中に"
+  },
+  {
+    "surface": "join",
+    "pronunciation": "ジョイン",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "参加する"
+  },
+  {
+    "surface": "large",
+    "pronunciation": "ラージ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 3,
+    "meaning": "大きい"
   },
   {
     "surface": "love",
     "pronunciation": "ラブ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "愛"
   },
   {
     "surface": "may",
     "pronunciation": "メイ",
     "accent_type": 0,
     "word_type": "VERB",
-    "priority": 5
+    "priority": 5,
+    "meaning": "～かもしれない"
+  },
+  {
+    "surface": "men",
+    "pronunciation": "メン",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "男性（複数形）"
+  },
+  {
+    "surface": "milk",
+    "pronunciation": "ミルク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "牛乳"
+  },
+  {
+    "surface": "minutes",
+    "pronunciation": "ミニッツ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "分（時間）"
   },
   {
     "surface": "no",
     "pronunciation": "ノー",
     "accent_type": 1,
     "word_type": "SUFFIX",
-    "priority": 5
+    "priority": 5,
+    "meaning": "いいえ"
   },
   {
     "surface": "oh",
     "pronunciation": "オー",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "おお！"
+  },
+  {
+    "surface": "of",
+    "pronunciation": "オブ",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 1,
+    "meaning": "～の"
+  },
+  {
+    "surface": "on",
+    "pronunciation": "オン",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 5,
+    "meaning": "～の上に"
+  },
+  {
+    "surface": "oven",
+    "pronunciation": "オーブン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "オーブン（調理器具）"
+  },
+  {
+    "surface": "overs",
+    "pronunciation": "オーバーズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "溢れたもの"
   },
   {
     "surface": "please",
     "pronunciation": "プリーズ",
     "accent_type": 1,
     "word_type": "VERB",
-    "priority": 5
+    "priority": 5,
+    "meaning": "どうぞ"
   },
   {
-    "surface": "pity",
-    "pronunciation": "ピティ",
+    "surface": "pop",
+    "pronunciation": "ポップ",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "ポップ音"
   },
   {
-    "surface": "prof.",
-    "pronunciation": "プロフェッサー",
+    "surface": "potato",
+    "pronunciation": "ポテト",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "ジャガイモ"
+  },
+  {
+    "surface": "pudding",
+    "pronunciation": "プディング",
     "accent_type": 0,
-    "word_type": "PROPER_NOUN",
-    "priority": 5
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "プディング（デザート）"
+  },
+  {
+    "surface": "quick",
+    "pronunciation": "クイック",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 3,
+    "meaning": "素早い"
+  },
+  {
+    "surface": "rice",
+    "pronunciation": "ライス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "米、ご飯"
+  },
+  {
+    "surface": "river",
+    "pronunciation": "リバー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "川"
+  },
+  {
+    "surface": "salt",
+    "pronunciation": "ソルト",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "塩"
+  },
+  {
+    "surface": "sauce",
+    "pronunciation": "ソース",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "ソース、調味料"
   },
   {
     "surface": "sentimentalism",
     "pronunciation": "センティメンタリズム",
     "accent_type": 3,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "感傷主義"
+  },
+  {
+    "surface": "serve",
+    "pronunciation": "サーブ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 4,
+    "meaning": "提供する"
+  },
+  {
+    "surface": "separately",
+    "pronunciation": "セパレートリー",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 3,
+    "meaning": "別々に"
+  },
+  {
+    "surface": "stiff",
+    "pronunciation": "スティフ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 3,
+    "meaning": "硬い"
+  },
+  {
+    "surface": "sweet",
+    "pronunciation": "スウィート",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 4,
+    "meaning": "甘い"
+  },
+  {
+    "surface": "teaspoonful",
+    "pronunciation": "ティースプーンフル",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "ティースプーン1杯分"
   },
   {
     "surface": "to",
     "pronunciation": "トゥ",
     "accent_type": 0,
     "word_type": "SUFFIX",
-    "priority": 5
+    "priority": 5,
+    "meaning": "～へ"
+  },
+  {
+    "surface": "twelve",
+    "pronunciation": "トゥエルブ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "12（数字）"
+  },
+  {
+    "surface": "two",
+    "pronunciation": "トゥー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 4,
+    "meaning": "2（数字）"
+  },
+  {
+    "surface": "waffles",
+    "pronunciation": "ワッフルズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "ワッフル（複数形）"
+  },
+  {
+    "surface": "well",
+    "pronunciation": "ウェル",
+    "accent_type": 1,
+    "word_type": "ADVERB",
+    "priority": 3,
+    "meaning": "上手に"
+  },
+  {
+    "surface": "whites",
+    "pronunciation": "ホワイツ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 3,
+    "meaning": "卵白（複数形）"
   },
   {
     "surface": "you",
     "pronunciation": "ユー",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 5
+    "priority": 5,
+    "meaning": "あなた"
   }
 ]
