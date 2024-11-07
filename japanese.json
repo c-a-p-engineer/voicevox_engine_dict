@@ -1,247 +1,266 @@
 [
   {
-    "surface": "その様",
-    "pronunciation": "ソノサマ",
+    "surface": "あの方",
+    "pronunciation": "アノカタ",
     "accent_type": "0",
     "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "工場主",
-    "pronunciation": "コウジョウヌシ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "所謂",
-    "pronunciation": "イワユル",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "嗤う",
-    "pronunciation": "ワラウ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "嗤",
-    "pronunciation": "ワラウ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "重大事",
-    "pronunciation": "ジュウダイジ",
-    "accent_type": "4",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "寝床",
-    "pronunciation": "ネドコ",
-    "accent_type": "2",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "反影",
-    "pronunciation": "ハンエイ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "襁褓",
-    "pronunciation": "ムツキ",
-    "accent_type": "2",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "蚊帳",
-    "pronunciation": "カヤ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "慥へ",
-    "pronunciation": "タシカヘ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "番頭",
-    "pronunciation": "バントウ",
-    "accent_type": "1",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "露ほど",
-    "pronunciation": "ツユホド",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "強き",
-    "pronunciation": "ツヨキ",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "敗か",
-    "pronunciation": "マカ",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "味噌漬け",
-    "pronunciation": "ミソヅケ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "味噌漬",
-    "pronunciation": "ミソヅケ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "識らず",
-    "pronunciation": "シラズ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "童児",
-    "pronunciation": "ドウジ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "珍らし",
-    "pronunciation": "メズラシ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "家並み",
-    "pronunciation": "イエナミ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "家並",
-    "pronunciation": "イエナミ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "親娘",
-    "pronunciation": "オヤムスメ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "緊った",
-    "pronunciation": "シマッタ",
-    "accent_type": "4",
-    "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "あの人、尊敬の意味を含む表現"
   },
   {
     "surface": "親しかッた",
     "pronunciation": "シタシカッタ",
     "accent_type": "6",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "親しい関係であった"
   },
   {
     "surface": "親しかった",
     "pronunciation": "シタシカッタ",
     "accent_type": "6",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "親しい関係であった"
   },
   {
-    "surface": "贜",
-    "pronunciation": "ゾウ",
-    "accent_type": "2",
+    "surface": "親娘",
+    "pronunciation": "オヤムスメ",
+    "accent_type": "3",
     "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "贜す",
-    "pronunciation": "カクス",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "五分苅",
-    "pronunciation": "ゴブガリ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "あの方",
-    "pronunciation": "アノカタ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "親子関係の娘"
   },
   {
     "surface": "主馬",
     "pronunciation": "シュメ",
     "accent_type": "1",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "侍の位の一つ"
   },
   {
     "surface": "代々",
     "pronunciation": "ダイダイ",
     "accent_type": "1",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "世代を超えて続くこと"
   },
   {
-    "surface": "窶れ",
-    "pronunciation": "ヤツレ",
-    "accent_type": "3",
+    "surface": "五分苅",
+    "pronunciation": "ゴブガリ",
+    "accent_type": "0",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "髪を半分ほど刈る髪型"
   },
   {
-    "surface": "窶す",
-    "pronunciation": "ヤツス",
-    "accent_type": "3",
+    "surface": "工場主",
+    "pronunciation": "コウジョウヌシ",
+    "accent_type": "0",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "工場を所有する人"
+  },
+  {
+    "surface": "贜",
+    "pronunciation": "ゾウ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "盗み、隠し事"
+  },
+  {
+    "surface": "贜す",
+    "pronunciation": "カクス",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "隠す"
   },
   {
     "surface": "窶しい",
     "pronunciation": "マズシイ",
     "accent_type": "3",
     "word_type": "ADJECTIVE",
-    "priority": 5
+    "priority": 5,
+    "meaning": "貧しい、窶れた様子"
+  },
+  {
+    "surface": "窶す",
+    "pronunciation": "ヤツス",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "みすぼらしい様子にする"
+  },
+  {
+    "surface": "窶れ",
+    "pronunciation": "ヤツレ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "体が痩せ衰えた状態"
+  },
+  {
+    "surface": "寝床",
+    "pronunciation": "ネドコ",
+    "accent_type": "2",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "寝るための場所や寝具"
+  },
+  {
+    "surface": "識らず",
+    "pronunciation": "シラズ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "知らない"
+  },
+  {
+    "surface": "所謂",
+    "pronunciation": "イワユル",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "いわゆる、俗に言う"
+  },
+  {
+    "surface": "嗤う",
+    "pronunciation": "ワラウ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "嘲笑する"
+  },
+  {
+    "surface": "嗤",
+    "pronunciation": "ワラウ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "嘲笑する"
+  },
+  {
+    "surface": "重大事",
+    "pronunciation": "ジュウダイジ",
+    "accent_type": "4",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "非常に重要な事柄"
+  },
+  {
+    "surface": "反影",
+    "pronunciation": "ハンエイ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "反映、影響を与えること"
+  },
+  {
+    "surface": "家並",
+    "pronunciation": "イエナミ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "家が並んでいること"
+  },
+  {
+    "surface": "家並み",
+    "pronunciation": "イエナミ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "家が並んでいること"
+  },
+  {
+    "surface": "緊った",
+    "pronunciation": "シマッタ",
+    "accent_type": "4",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "締まった、堅固な状態"
+  },
+  {
+    "surface": "強き",
+    "pronunciation": "ツヨキ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "強い、力強い"
+  },
+  {
+    "surface": "慥へ",
+    "pronunciation": "タシカヘ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "確かに"
+  },
+  {
+    "surface": "その様",
+    "pronunciation": "ソノサマ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "そのような、そういう様子"
+  },
+  {
+    "surface": "蚊帳",
+    "pronunciation": "カヤ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "蚊を防ぐための網"
+  },
+  {
+    "surface": "襁褓",
+    "pronunciation": "ムツキ",
+    "accent_type": "2",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "赤ちゃんのおむつ"
+  },
+  {
+    "surface": "味噌漬",
+    "pronunciation": "ミソヅケ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "味噌で漬けたもの"
+  },
+  {
+    "surface": "味噌漬け",
+    "pronunciation": "ミソヅケ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "味噌で漬けたもの"
+  },
+  {
+    "surface": "珍らし",
+    "pronunciation": "メズラシ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "珍しい、稀なこと"
+  },
+  {
+    "surface": "露ほど",
+    "pronunciation": "ツユホド",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "ごくわずか"
+  },
+  {
+    "surface": "敗か",
+    "pronunciation": "マカ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "負ける、敗北する"
   }
 ]
