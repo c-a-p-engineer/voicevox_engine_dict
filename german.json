@@ -4,83 +4,87 @@
         "pronunciation": "ハイク",
         "accent_type": "1",
         "word_type": "PROPER_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "日本の伝統的な短詩形式"
     },
     {
         "surface": "über",
         "pronunciation": "ウーバー",
         "accent_type": "1",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「上に」「超えて」を意味する"
     },
     {
         "surface": "dem",
         "pronunciation": "デム",
         "accent_type": "1",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で男性または中性名詞の与格"
     },
     {
         "surface": "japanischen",
         "pronunciation": "ヤパーニシェン",
         "accent_type": "2",
         "word_type": "ADJECTIVE",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「日本の」を意味する形容詞"
     },
     {
         "surface": "gedichte",
         "pronunciation": "ゲディヒテ",
         "accent_type": "2",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「詩」を意味する"
     },
     {
         "surface": "von",
         "pronunciation": "フォン",
         "accent_type": "1",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「～の」「～から」を意味する前置詞"
     },
     {
         "surface": "der",
         "pronunciation": "デア",
         "accent_type": "1",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で女性名詞の定冠詞（主格・与格）"
     },
     {
         "surface": "kürzesten",
         "pronunciation": "キュルツェステン",
         "accent_type": "2",
         "word_type": "ADJECTIVE",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「最も短い」を意味する形容詞"
     },
     {
         "surface": "gedicht-form",
         "pronunciation": "ゲディヒトフォルム",
         "accent_type": "3",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「詩の形式」を意味する"
     },
     {
         "surface": "in",
         "pronunciation": "イン",
         "accent_type": "1",
         "word_type": "COMMON_NOUN",
-        "priority": 5
-    },
-    {
-        "surface": "der",
-        "pronunciation": "デア",
-        "accent_type": "1",
-        "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「～の中に」を意味する前置詞"
     },
     {
         "surface": "welt",
         "pronunciation": "ヴェルト",
         "accent_type": "1",
         "word_type": "COMMON_NOUN",
-        "priority": 5
+        "priority": 5,
+        "meaning": "ドイツ語で「世界」を意味する"
     }
 ]
