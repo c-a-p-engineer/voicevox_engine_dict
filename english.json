@@ -574,5 +574,70 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "あなた"
-  }
+  },
+  {
+  "surface": "Care",
+  "pronunciation": "ケア",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "注意、世話"
+},
+{
+  "surface": "Nichibei",
+  "pronunciation": "ニチベイ",
+  "accent_type": 2,
+  "word_type": "PROPER_NOUN",
+  "priority": 9,
+  "meaning": "日米"
+},
+{
+  "surface": "Kyokai",
+  "pronunciation": "キョーカイ",
+  "accent_type": 3,
+  "word_type": "PROPER_NOUN",
+  "priority": 9,
+  "meaning": "協会"
+},
+{
+  "surface": "NO.",
+  "pronunciation": "ナンバー",
+  "accent_type": 3,
+  "word_type": "PROPER_NOUN",
+  "priority": 9,
+  "meaning": "ナンバー"
+},
+{
+  "surface": "Avenue",
+  "pronunciation": "アベニュー",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "大通り"
+},
+{
+  "surface": "East",
+  "pronunciation": "イースト",
+  "accent_type": 1,
+  "word_type": "PROPER_NOUN",
+  "priority": 6,
+  "meaning": "東"
+},
+{
+  "surface": "End",
+  "pronunciation": "エンド",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "終わり、終端"
+},
+{
+  "surface": "York",
+  "pronunciation": "ヨーク",
+  "accent_type": 1,
+  "word_type": "PROPER_NOUN",
+  "priority": 10,
+  "meaning": "ニューヨークの一部（地名）"
+}
+
 ]
