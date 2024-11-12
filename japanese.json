@@ -262,5 +262,37 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "負ける、敗北する"
+  },
+  {
+    "surface": "十石",
+    "pronunciation": "ジッコク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、10石を表す"
+  },
+  {
+    "surface": "百石",
+    "pronunciation": "ヒャッコク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、100石を表す"
+  },
+  {
+    "surface": "千石",
+    "pronunciation": "センゴク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、1000石を表す"
+  },
+  {
+    "surface": "万石",
+    "pronunciation": "マンゴク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、1万石を表す"
   }
 ]
