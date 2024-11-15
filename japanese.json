@@ -294,5 +294,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 10,
     "meaning": "石高の単位で、1万石を表す"
-  }
+  },
+  {
+  "surface": "八木節",
+  "pronunciation": "ヤギブシ",
+  "accent_type": 3,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "群馬県を中心とした地域で伝統的に歌われる民謡の一種"
+}
 ]
