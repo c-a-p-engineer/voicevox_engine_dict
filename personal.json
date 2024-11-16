@@ -47,5 +47,12 @@
         "accent_type": 0,
         "word_type": "PROPER_NOUN",
         "priority": 5
+    },
+    {
+        "surface": "Franz Kafka",
+        "pronunciation": "フランツ カフカ",
+        "accent_type": 0,
+        "word_type": "PROPER_NOUN",
+        "priority": 5
     }
 ]
