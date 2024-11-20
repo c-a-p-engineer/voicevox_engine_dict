@@ -248,6 +248,14 @@
     "meaning": "珍しい、稀なこと"
   },
   {
+    "surface": "お珍らし",
+    "pronunciation": "オメズラシ",
+    "accent_type": "1",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "珍しい、稀なこと"
+  },
+  {
     "surface": "露ほど",
     "pronunciation": "ツユホド",
     "accent_type": "2",
