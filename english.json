@@ -646,5 +646,85 @@
   "word_type": "COMMON_NOUN",
   "priority": 7,
   "meaning": "愚か者、単純者（英語の単語）"
+},
+  {
+  "surface": "sun-clear",
+  "pronunciation": "サン・クリア",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 6,
+  "meaning": "非常に明白な、日光のように明らかな（英語の形容詞）"
+},
+  {
+  "surface": "clear",
+  "pronunciation": "クリア",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "明確な、透明な、障害物がない（英語の形容詞）"
+},
+  {
+  "surface": "tact",
+  "pronunciation": "タクト",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "機転、思いやり、場の空気を読む能力（英語の単語）"
+  },
+  {
+  "surface": "Devil",
+  "pronunciation": "デヴィル",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "悪魔（英語の単語）"
+},
+{
+  "surface": "take",
+  "pronunciation": "テイク",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "取る、持っていく（英語の動詞）"
+},
+  {
+  "surface": "it",
+  "pronunciation": "イット",
+  "accent_type": 1,
+  "word_type": "PRONOUN",
+  "priority": 8,
+  "meaning": "それ（英語の代名詞）"
+},
+  {
+  "surface": "tame",
+  "pronunciation": "テイム",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 7,
+  "meaning": "飼い慣らされた、大人しい（英語の形容詞）"
+},
+  {
+  "surface": "creature",
+  "pronunciation": "クリーチャー",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "生物、動物、存在（英語の単語）"
+},
+  {
+  "surface": "then",
+  "pronunciation": "ゼン",
+  "accent_type": 1,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "それでは、そのとき（英語の副詞）"
+},
+  {
+  "surface": "eh",
+  "pronunciation": "エイ",
+  "accent_type": 1,
+  "word_type": "INTERJECTION",
+  "priority": 6,
+  "meaning": "確認や疑問を示す間投詞（英語の間投詞）"
 }
 ]
