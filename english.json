@@ -726,5 +726,29 @@
   "word_type": "INTERJECTION",
   "priority": 6,
   "meaning": "確認や疑問を示す間投詞（英語の間投詞）"
+},
+  {
+  "surface": "mean",
+  "pronunciation": "ミーン",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "意味する、指す（英語の動詞）"
+},
+  {
+  "surface": "the",
+  "pronunciation": "ザ",
+  "accent_type": 1,
+  "word_type": "DETERMINER",
+  "priority": 8,
+  "meaning": "その（特定のものを指す英語の冠詞）"
+},
+  {
+  "surface": "roughrider",
+  "pronunciation": "ラフライダー",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "ラフライダー（Theodore Rooseveltが率いたアメリカ陸軍の騎兵部隊を指すことが多い）"
 }
 ]
