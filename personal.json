@@ -54,5 +54,14 @@
         "accent_type": 0,
         "word_type": "PROPER_NOUN",
         "priority": 5
-    }
+    },
+    {
+  "surface": "Teddy",
+  "pronunciation": "テディ",
+  "accent_type": 1,
+  "word_type": "PROPER_NOUN",
+  "priority": 8,
+  "meaning": "テディ（人名、Theodore Rooseveltの愛称としても使用される）"
+}
+
 ]
