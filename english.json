@@ -638,6 +638,13 @@
   "word_type": "PROPER_NOUN",
   "priority": 10,
   "meaning": "ニューヨークの一部（地名）"
+},
+  {
+  "surface": "simpleton",
+  "pronunciation": "シンプルトン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "愚か者、単純者（英語の単語）"
 }
-
 ]
