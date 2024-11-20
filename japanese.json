@@ -310,5 +310,13 @@
   "word_type": "PROPER_NOUN",
   "priority": 7,
   "meaning": "群馬県を中心とした地域で伝統的に歌われる民謡の一種"
+  },
+  {
+  "surface": "店ん中",
+  "pronunciation": "ミセンナカ",
+  "accent_type": 3,
+  "word_type": "ADJECTIVE",
+  "priority": 5,
+  "meaning": "店の中"
 }
 ]
