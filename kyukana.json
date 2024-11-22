@@ -1945,5 +1945,12 @@
   "word_type": "ADJECTIVE",
   "priority": 5,
   "meaning": "良いだろう、望ましいと推測される。現代仮名遣いでは『よいだろう』"
+},{
+  "surface": "参つた",
+  "pronunciation": "マイッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "降参した、または困った状況を表現する。現代仮名遣いでは『参った』"
 }
 ]
