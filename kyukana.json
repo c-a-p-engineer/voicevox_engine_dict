@@ -2090,7 +2090,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "関わらない、または関係しないことを意味する。現代仮名遣いでは『係わらず』"
-  },
+  },{
+  "surface": "笑つた",
+  "pronunciation": "ワラッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "喜びやおかしさを表情や声で示した行為。現代仮名遣いでは『笑った』"
+},
   {
     "surface": "笑つて",
     "pronunciation": "ワラッテ",
@@ -2114,5 +2121,26 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "何かをなくす、または失うこと。現代仮名遣いでは『失って』"
-  }
+  },{
+  "surface": "入つて",
+  "pronunciation": "ハイッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "中に入る動作を表す。現代仮名遣いでは『入って』"
+},{
+  "surface": "入つた",
+  "pronunciation": "ハイッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "中に入った状態を表す。現代仮名遣いでは『入った』"
+},{
+  "surface": "かつぱらひ",
+  "pronunciation": "カッパライ",
+  "accent_type": 4,
+  "word_type": "VERB",
+  "priority": 5,
+  "meaning": "すばやく盗む、奪い取る行為を指す。現代仮名遣いでは『かっぱらい』"
+}
 ]
