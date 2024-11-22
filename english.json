@@ -1054,5 +1054,12 @@
     "word_type": "INTERJECTION",
     "priority": 8,
     "meaning": "ありがとう（英語の感謝を表す単語）"
-  }
+  },{
+  "surface": "Foolish",
+  "pronunciation": "フーリッシュ",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 6,
+  "meaning": "愚かな、ばかげた、知恵や判断力に欠けることを表す形容詞。"
+}
 ]
