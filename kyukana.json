@@ -1978,34 +1978,37 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "言葉で伝えて、話して。現代仮名遣いでは『言って』"
-  },{
-  "surface": "用ひ",
-  "pronunciation": "モチイ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "使用する、利用する。現代仮名遣いでは『用い』"
-},{
-  "surface": "そわ／＼",
-  "pronunciation": "ソワソワ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "落ち着かない様子や気持ちを表す擬態語。"
-},{
-  "surface": "称ふ",
-  "pronunciation": "タタウ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "名付ける、呼ぶ、または称賛すること。現代仮名遣いでは『称える』"
-},{
-  "surface": "さぞ／＼",
-  "pronunciation": "サゾサゾ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
-}
-
+  },
+  {
+    "surface": "用ひ",
+    "pronunciation": "モチイ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "使用する、利用する。現代仮名遣いでは『用い』"
+  },
+  {
+    "surface": "そわ／＼",
+    "pronunciation": "ソワソワ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "落ち着かない様子や気持ちを表す擬態語。"
+  },
+  {
+    "surface": "称ふ",
+    "pronunciation": "タタウ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "名付ける、呼ぶ、または称賛すること。現代仮名遣いでは『称える』"
+  },
+  {
+    "surface": "さぞ／＼",
+    "pronunciation": "サゾサゾ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
+  }
 ]
