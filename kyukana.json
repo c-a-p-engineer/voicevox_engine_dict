@@ -1959,5 +1959,12 @@
   "word_type": "COMMON_NOUN",
   "priority": 6,
   "meaning": "人を呼び止める際の声や、嘆きや悲しみを表現する際の擬声語。"
+},{
+  "surface": "云つて",
+  "pronunciation": "イッテ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "言葉で伝えて、話して。現代仮名遣いでは『言って』"
 }
 ]
