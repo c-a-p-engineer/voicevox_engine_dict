@@ -1952,5 +1952,12 @@
   "word_type": "VERB",
   "priority": 6,
   "meaning": "降参した、または困った状況を表現する。現代仮名遣いでは『参った』"
+},{
+  "surface": "おい／＼",
+  "pronunciation": "オイオイ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "人を呼び止める際の声や、嘆きや悲しみを表現する際の擬声語。"
 }
 ]
