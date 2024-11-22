@@ -304,33 +304,35 @@
     "meaning": "石高の単位で、1万石を表す"
   },
   {
-  "surface": "八木節",
-  "pronunciation": "ヤギブシ",
-  "accent_type": 3,
-  "word_type": "PROPER_NOUN",
-  "priority": 7,
-  "meaning": "群馬県を中心とした地域で伝統的に歌われる民謡の一種"
+    "surface": "八木節",
+    "pronunciation": "ヤギブシ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "群馬県を中心とした地域で伝統的に歌われる民謡の一種"
   },
   {
-  "surface": "店ん中",
-  "pronunciation": "ミセンナカ",
-  "accent_type": 3,
-  "word_type": "ADJECTIVE",
-  "priority": 5,
-  "meaning": "店の中"
-},{
-  "surface": "誰某",
-  "pronunciation": "ダレソレ",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "特定の名前を挙げずに人を指す語。なにがし。"
-},{
-  "surface": "文童",
-  "pronunciation": "ブンドウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "文学や文章に優れた才能を持つ若者、またはそのように称される者"
+    "surface": "店ん中",
+    "pronunciation": "ミセンナカ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "店の中"
+  },
+  {
+    "surface": "誰某",
+    "pronunciation": "ダレソレ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "特定の名前を挙げずに人を指す語。なにがし。"
+  },
+  {
+    "surface": "文童",
+    "pronunciation": "ブンドウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "文学や文章に優れた才能を持つ若者、またはそのように称される者"
   }
 ]
