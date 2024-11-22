@@ -1874,5 +1874,76 @@
 		"accent_type": "0",
 		"word_type": "ADJECTIVE",
 		"priority": 5
-	}
+	},{
+  "surface": "行つた",
+  "pronunciation": "イツタ",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 5,
+  "meaning": "行った、移動した（現代仮名遣いで「行った」に対応）"
+},{
+  "surface": "馬鹿／＼",
+  "pronunciation": "バカバカ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "非常に愚かであること、または愚かな行為を指す表現"
+	},{
+  "surface": "毎晩／＼",
+  "pronunciation": "マイバンバン",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "夜ごと、毎晩繰り返し行われることを指す表現"
+},{
+  "surface": "習つた",
+  "pronunciation": "ナラッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "学んだ、教えを受けた。現代仮名遣いでは『習った』"
+}
+,{
+  "surface": "習ひ",
+  "pronunciation": "ナライ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "学びや習慣などの意。現代仮名遣いでは『習い』"
+},{
+  "surface": "纏つた",
+  "pronunciation": "マトッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "まとまった、または巻きつけた状態を指す。現代仮名遣いでは『纏った』"
+},{
+  "surface": "わざ／＼",
+  "pronunciation": "ワザワザ",
+  "accent_type": 0,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "特別に手間をかけて、または意図的に行うことを指す。現代仮名遣いでは『わざわざ』"
+},{
+  "surface": "ガタ／＼",
+  "pronunciation": "ガタガタ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "物が揺れたりぶつかったりして出る音を表す擬音語。"
+},{
+  "surface": "がた／＼",
+  "pronunciation": "ガタガタ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "物が揺れる様子や音を表す擬態語・擬音語。カタカナ表記と同じ意味だが、ひらがな表記は柔らかさを感じさせる場合がある。"
+},{
+  "surface": "好いだらう",
+  "pronunciation": "ヨイダロウ",
+  "accent_type": 3,
+  "word_type": "ADJECTIVE",
+  "priority": 5,
+  "meaning": "良いだろう、望ましいと推測される。現代仮名遣いでは『よいだろう』"
+}
 ]
