@@ -2106,12 +2106,13 @@
     "word_type": "VERB",
     "priority": 5,
     "meaning": "そうなった。現代仮名遣いでは『さえなった』"
-  },{
-  "surface": "失つて",
-  "pronunciation": "ウシナッテ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "何かをなくす、または失うこと。現代仮名遣いでは『失って』"
-}
+  },
+  {
+    "surface": "失つて",
+    "pronunciation": "ウシナッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かをなくす、または失うこと。現代仮名遣いでは『失って』"
+  }
 ]
