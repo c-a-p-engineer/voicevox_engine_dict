@@ -1,0 +1,58 @@
+name: Format JSON Files on Push
+
+on:
+  push:
+    branches:
+      - master # マスターブランチでのみトリガー
+
+  workflow_dispatch: # 手動トリガーも可能にする
+
+jobs:
+  format-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # JSONファイルを検索して整形
+      - name: Format JSON Files
+        run: |
+          echo "Searching for JSON files..."
+          JSON_FILES=$(find . -type f -name "*.json")
+          if [ -z "$JSON_FILES" ]; then
+            echo "No JSON files found."
+            exit 0
+          fi
+
+          echo "Found JSON files:"
+          echo "$JSON_FILES"
+
+          # 整形して差分を確認
+          for file in $JSON_FILES; do
+            echo "Checking: $file"
+            TEMP_FILE="${file}.tmp"
+            jq . "$file" > "$TEMP_FILE"
+            if ! diff -q "$file" "$TEMP_FILE" > /dev/null; then
+              echo "Formatting: $file"
+              mv "$TEMP_FILE" "$file"
+            else
+              echo "No changes in: $file"
+              rm "$TEMP_FILE"
+            fi
+          done
+
+      # git diffで変更があればコミット
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "Committing the following changes:"
+            git status --porcelain
+            git add .
+            git commit -m "Format JSON files"
+            git push
+          else
+            echo "No changes to commit."
