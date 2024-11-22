@@ -318,5 +318,12 @@
   "word_type": "ADJECTIVE",
   "priority": 5,
   "meaning": "店の中"
+},{
+  "surface": "誰某",
+  "pronunciation": "ダレソレ",
+  "accent_type": 0,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "特定の名前を挙げずに人を指す語。なにがし。"
 }
 ]
