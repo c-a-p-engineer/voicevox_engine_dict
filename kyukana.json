@@ -2010,5 +2010,51 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
-  }
+  },{
+  "surface": "追つて",
+  "pronunciation": "オッテ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "あとを追う、または後日に続くという意味。現代仮名遣いでは『追って』"
+},{
+  "surface": "載つて",
+  "pronunciation": "ノッテ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "何かの上に置かれる、または記録・記載されること。現代仮名遣いでは『載って』"
+},
+  {
+  "surface": "給へ",
+  "pronunciation": "タマエ",
+  "accent_type": 2,
+  "word_type": "SUFFIX",
+  "priority": 7,
+  "meaning": "尊敬や丁寧を表す助動詞の命令形で、『〜してください』の意。現代仮名遣いでは『たまえ』"
+},
+  {
+  "surface": "余外",
+  "pronunciation": "ヨガイ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "余ったものや予定外のこと。通常の範囲外の事柄を指す。"
+},
+  {
+  "surface": "送つて",
+  "pronunciation": "オクッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "物や人を目的地へ届ける、または送信すること。現代仮名遣いでは『送って』"
+},{
+  "surface": "例へ",
+  "pronunciation": "タトエ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "例として示す、またはたとえる。現代仮名遣いでは『例え』"
+}
+
 ]
