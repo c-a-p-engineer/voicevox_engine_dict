@@ -2058,48 +2058,53 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "例として示す、またはたとえる。現代仮名遣いでは『例え』"
-  },{
-  "surface": "決つた",
-  "pronunciation": "キマッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "物事が確定した、または定まった状態を指す。現代仮名遣いでは『決まった』"
-  },{
-  "surface": "考へ",
-  "pronunciation": "カンガエ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "物事を思索し、判断する行為。現代仮名遣いでは『考え』"
-},{
-  "surface": "嫌ひ",
-  "pronunciation": "キライ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "好まない、避けたいと思う感情を表す。現代仮名遣いでは『嫌い』"
-},{
-  "surface": "係はらず",
-  "pronunciation": "カカワラズ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "関わらない、または関係しないことを意味する。現代仮名遣いでは『係わらず』"
-},{
-  "surface": "笑つて",
-  "pronunciation": "ワラッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "喜びやおかしさなどの感情を表情や声で示す行為。現代仮名遣いでは『笑って』"
-},{
-  "surface": "さへなつた",
-  "pronunciation": "サエナッタ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "そうなった。現代仮名遣いでは『さえなった』"
-}
-
+  },
+  {
+    "surface": "決つた",
+    "pronunciation": "キマッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物事が確定した、または定まった状態を指す。現代仮名遣いでは『決まった』"
+  },
+  {
+    "surface": "考へ",
+    "pronunciation": "カンガエ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物事を思索し、判断する行為。現代仮名遣いでは『考え』"
+  },
+  {
+    "surface": "嫌ひ",
+    "pronunciation": "キライ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "好まない、避けたいと思う感情を表す。現代仮名遣いでは『嫌い』"
+  },
+  {
+    "surface": "係はらず",
+    "pronunciation": "カカワラズ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "関わらない、または関係しないことを意味する。現代仮名遣いでは『係わらず』"
+  },
+  {
+    "surface": "笑つて",
+    "pronunciation": "ワラッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "喜びやおかしさなどの感情を表情や声で示す行為。現代仮名遣いでは『笑って』"
+  },
+  {
+    "surface": "さへなつた",
+    "pronunciation": "サエナッタ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "そうなった。現代仮名遣いでは『さえなった』"
+  }
 ]
