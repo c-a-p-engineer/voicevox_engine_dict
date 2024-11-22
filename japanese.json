@@ -325,5 +325,12 @@
   "word_type": "COMMON_NOUN",
   "priority": 5,
   "meaning": "特定の名前を挙げずに人を指す語。なにがし。"
-}
+},{
+  "surface": "文童",
+  "pronunciation": "ブンドウ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "文学や文章に優れた才能を持つ若者、またはそのように称される者"
+  }
 ]
