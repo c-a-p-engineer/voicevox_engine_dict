@@ -342,13 +342,13 @@
     "word_type": "ADVERB",
     "priority": 7,
     "meaning": "まだ、いまだに、ある状態が続いていることを表す副詞。"
-  },{
-  "surface": "若し",
-  "pronunciation": "モシ",
-  "accent_type": 1,
-  "word_type": "ADVERB",
-  "priority": 7,
-  "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
-}
-
+  },
+  {
+    "surface": "若し",
+    "pronunciation": "モシ",
+    "accent_type": 1,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
+  }
 ]
