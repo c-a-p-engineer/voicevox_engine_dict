@@ -334,5 +334,12 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "文学や文章に優れた才能を持つ若者、またはそのように称される者"
-  }
+  },{
+  "surface": "未だ",
+  "pronunciation": "イマダ",
+  "accent_type": 2,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "まだ、いまだに、ある状態が続いていることを表す副詞。"
+}
 ]
