@@ -318,14 +318,15 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "規則や態度が厳しいこと、厳密であること。現代では『厳格』と書くことが一般的。"
-  },{
-  "surface": "虚僞",
-  "pronunciation": "キョギ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "事実ではないことを事実のように見せかけることや、その内容。現代では『虚偽』と書くことが一般的。"
-},
+  },
+  {
+    "surface": "虚僞",
+    "pronunciation": "キョギ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "事実ではないことを事実のように見せかけることや、その内容。現代では『虚偽』と書くことが一般的。"
+  },
   {
     "surface": "悧𢠺",
     "pronunciation": "リハツ",
