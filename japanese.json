@@ -350,5 +350,13 @@
     "word_type": "ADVERB",
     "priority": 7,
     "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
-  }
+  },{
+  "surface": "悧𢠺",
+  "pronunciation": "リハツ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "機敏で利発な性格や行動を指す。『悧』は利口や賢さを表し、『𢠺』は古い文字で知恵や機敏さを補う意。"
+}
+
 ]
