@@ -270,5 +270,53 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "高く平らな場所や物、または建物の基部を表す漢字。現代では『台』と書くことが一般的。"
-  }
+  },{
+  "surface": "繼",
+  "pronunciation": "ツグ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "何かを受け継ぐ、引き継ぐことを指す漢字。現代では『継』と書くことが一般的。"
+},
+  {
+    "surface": "繼ぐ",
+    "pronunciation": "ツグ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "続けて何かを行う、または引き継ぐこと。現代では『継ぐ』と書く。"
+  },
+  {
+    "surface": "繼ぎ",
+    "pronunciation": "ツギ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "続けること、または次に行うこと。現代では『継ぎ』と書く。"
+  },
+  {
+    "surface": "繼がる",
+    "pronunciation": "ツガル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物事や状態が続くこと。現代では『継がる』と書く。"
+  },
+  {
+    "surface": "繼げる",
+    "pronunciation": "ツゲル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かを引き継ぐことができる状態を指す。現代では『継げる』と書く。"
+  },{
+  "surface": "嚴格",
+  "pronunciation": "ゲンカク",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "規則や態度が厳しいこと、厳密であること。現代では『厳格』と書くことが一般的。"
+}
+
 ]
+
