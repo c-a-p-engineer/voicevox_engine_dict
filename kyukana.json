@@ -2146,13 +2146,13 @@
     "word_type": "VERB",
     "priority": 5,
     "meaning": "すばやく盗む、奪い取る行為を指す。現代仮名遣いでは『かっぱらい』"
-  },{
-  "surface": "それ／″＼",
-  "pronunciation": "ソレゾレ",
-  "accent_type": 4,
-  "word_type": "ADVERB",
-  "priority": 7,
-  "meaning": "それぞれ、各自を指す表現。"
-}
-
+  },
+  {
+    "surface": "それ／″＼",
+    "pronunciation": "ソレゾレ",
+    "accent_type": 4,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "それぞれ、各自を指す表現。"
+  }
 ]
