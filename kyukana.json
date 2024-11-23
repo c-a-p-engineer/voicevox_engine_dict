@@ -2210,5 +2210,20 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "物事が終わる、または完了することを表す。現代仮名遣いでは『了って』と書く。"
-  }
+  },{
+  "surface": "だん／＼",
+  "pronunciation": "ダンダン",
+  "accent_type": 3,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "物事が徐々に進行する様子を表す擬態語。"
+},{
+  "surface": "一つ／＼",
+  "pronunciation": "ヒトツヒトツ",
+  "accent_type": 4,
+  "word_type": "ADVERB",
+  "priority": 6,
+  "meaning": "一つずつ順に、または個別に物事を行う様子を表す。"
+}
+
 ]
