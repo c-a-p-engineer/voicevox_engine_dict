@@ -262,13 +262,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "大気中に存在する無色透明の気体。呼吸に必要なもの。現代では『空気』と書くことが一般的。"
-  },{
-  "surface": "臺",
-  "pronunciation": "ダイ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "高く平らな場所や物、または建物の基部を表す漢字。現代では『台』と書くことが一般的。"
-}
-
+  },
+  {
+    "surface": "臺",
+    "pronunciation": "ダイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "高く平らな場所や物、または建物の基部を表す漢字。現代では『台』と書くことが一般的。"
+  }
 ]
