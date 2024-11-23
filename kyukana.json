@@ -2162,5 +2162,28 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "そのようにする、またはそういう行動をとること。現代仮名遣いでは『そうする』"
-  }
+  },{
+  "surface": "渡つた",
+  "pronunciation": "ワタッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "何かを越えたり、移動して向こう側へ到達すること。現代仮名遣いでは『渡った』"
+}
+,{
+  "surface": "渡つて",
+  "pronunciation": "ワタッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "動作が進行している状態を表す形。現代仮名遣いでは『渡って』"
+},{
+  "surface": "づたひ",
+  "pronunciation": "ズタイ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "何かを伝えること、または知らせること。現代仮名遣いでは『伝い』"
+}
+
 ]
