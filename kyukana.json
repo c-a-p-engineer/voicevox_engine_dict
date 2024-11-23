@@ -2194,13 +2194,13 @@
     "word_type": "ADVERB",
     "priority": 6,
     "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
-  },{
-  "surface": "キラ／＼",
-  "pronunciation": "キラキラ",
-  "accent_type": 4,
-  "word_type": "ADVERB",
-  "priority": 7,
-  "meaning": "光が明るく輝く様子を表す擬態語。"
-}
-
+  },
+  {
+    "surface": "キラ／＼",
+    "pronunciation": "キラキラ",
+    "accent_type": 4,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "光が明るく輝く様子を表す擬態語。"
+  }
 ]
