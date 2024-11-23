@@ -1062,5 +1062,21 @@
     "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "愚かな、ばかげた、知恵や判断力に欠けることを表す形容詞。"
-  }
+  },{
+  "surface": "cha-cha-cha",
+  "pronunciation": "チャチャチャ",
+  "accent_type": 5,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "音"
+},
+{
+  "surface": "cha-cha",
+  "pronunciation": "チャチャ",
+  "accent_type": 5,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "音。"
+}
+
 ]
