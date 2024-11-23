@@ -363,6 +363,27 @@
   "word_type": "COMMON_NOUN",
   "priority": 7,
   "meaning": "現代では『権』と書くことが一般的。"
+},{
+  "surface": "眞實",
+  "pronunciation": "シンジツ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "真実であることの性質や特性。現代では『真実性』と書くことが一般的。"
+},{
+  "surface": "爲",
+  "pronunciation": "タメ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "行う、行動する、または理由や目的を示すために用いられる漢字。現代では『為』と書くことが一般的。"
+},{
+  "surface": "惡人",
+  "pronunciation": "アクニン",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "悪い行いをする人、道徳や倫理に反した行為をする者。現代では『悪人』と書くことが一般的。"
 }
 
 ]
