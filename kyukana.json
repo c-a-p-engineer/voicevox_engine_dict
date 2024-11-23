@@ -2226,13 +2226,13 @@
     "word_type": "ADVERB",
     "priority": 6,
     "meaning": "一つずつ順に、または個別に物事を行う様子を表す。"
-  },{
-  "surface": "凝つて",
-  "pronunciation": "コッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物事に集中する、またはこだわりや趣向を凝らすことを指す。現代では『凝って』と書くことが一般的。"
-}
-
+  },
+  {
+    "surface": "凝つて",
+    "pronunciation": "コッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物事に集中する、またはこだわりや趣向を凝らすことを指す。現代では『凝って』と書くことが一般的。"
+  }
 ]

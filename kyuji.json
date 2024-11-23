@@ -160,22 +160,21 @@
     "meaning": "聞く、耳で感じる"
   },
   {
-  "surface": "聽いて",
-  "pronunciation": "キイテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "耳を傾けて音や話を受け取る行為を指す。現代では『聞いて』または『聴いて』と書くことが一般的。"
-}
-,{
-  "surface": "聲帶",
-  "pronunciation": "セイタイ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "声を出すための器官である声帯を指す。現代では『声帯』と書くことが一般的。"
-}
-,
+    "surface": "聽いて",
+    "pronunciation": "キイテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "耳を傾けて音や話を受け取る行為を指す。現代では『聞いて』または『聴いて』と書くことが一般的。"
+  },
+  {
+    "surface": "聲帶",
+    "pronunciation": "セイタイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "声を出すための器官である声帯を指す。現代では『声帯』と書くことが一般的。"
+  },
   {
     "surface": "滯",
     "pronunciation": "タイ",
@@ -615,85 +614,93 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "人間の理解を超えた不思議で神秘的なことを指す。現代では『神秘』と書くことが一般的。"
-  },{
-  "surface": "假鳥",
-  "pronunciation": "カチョウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "偽りの鳥や模造品の鳥を指す表現。現代では『仮鳥』と書くことが一般的。"
-},{
-  "surface": "拂ひ",
-  "pronunciation": "ハライ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "何かを払う、または取り除く行為を指す。現代仮名遣いでは『払い』と書く。"
-},
-{
-  "surface": "拂う",
-  "pronunciation": "ハラウ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "払う。"
-},{
-  "surface": "相傳",
-  "pronunciation": "ソウデン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "代々受け継がれて伝えられることを指す。現代では『相伝』と書くことが一般的。"
-},{
-  "surface": "中繼",
-  "pronunciation": "チュウケイ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "中継。物事や情報を途中で受け渡し、次に繋ぐことを指す。現代では『中継』と書くことが一般的。"
-},{
-  "surface": "木靈",
-  "pronunciation": "コダマ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "山や森で響く音の反響や、それに宿るとされる霊的存在を指す。現代では『木霊』と書くことが一般的。"
-},{
-  "surface": "姙娠",
-  "pronunciation": "ニンシン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "女性が胎児を宿すこと、妊娠を指す。現代では『妊娠』と書くことが一般的。"
-},{
-  "surface": "觀察",
-  "pronunciation": "カンサツ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "物事を注意深く見たり、調べたりすることを指す。現代では『観察』と書くことが一般的。"
-},{
-  "surface": "醉つた",
-  "pronunciation": "ヨッタ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "酒に酔った、または乗り物酔いなどで気分が悪くなった状態を指す。現代では『酔った』と書くことが一般的。"
-}
-,{
-  "surface": "還つて",
-  "pronunciation": "カエッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "元の場所や状態に戻る、または反対の結果になることを指す。現代では『還って』と書くことが一般的。"
-},{
-  "surface": "謠",
-  "pronunciation": "ヨウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "口伝えで広まる歌や詩、または流れる噂を指す。現代では『謡』または『謡い』と書くことが一般的。"
-}
-
+  },
+  {
+    "surface": "假鳥",
+    "pronunciation": "カチョウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "偽りの鳥や模造品の鳥を指す表現。現代では『仮鳥』と書くことが一般的。"
+  },
+  {
+    "surface": "拂ひ",
+    "pronunciation": "ハライ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かを払う、または取り除く行為を指す。現代仮名遣いでは『払い』と書く。"
+  },
+  {
+    "surface": "拂う",
+    "pronunciation": "ハラウ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "払う。"
+  },
+  {
+    "surface": "相傳",
+    "pronunciation": "ソウデン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "代々受け継がれて伝えられることを指す。現代では『相伝』と書くことが一般的。"
+  },
+  {
+    "surface": "中繼",
+    "pronunciation": "チュウケイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "中継。物事や情報を途中で受け渡し、次に繋ぐことを指す。現代では『中継』と書くことが一般的。"
+  },
+  {
+    "surface": "木靈",
+    "pronunciation": "コダマ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "山や森で響く音の反響や、それに宿るとされる霊的存在を指す。現代では『木霊』と書くことが一般的。"
+  },
+  {
+    "surface": "姙娠",
+    "pronunciation": "ニンシン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "女性が胎児を宿すこと、妊娠を指す。現代では『妊娠』と書くことが一般的。"
+  },
+  {
+    "surface": "觀察",
+    "pronunciation": "カンサツ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "物事を注意深く見たり、調べたりすることを指す。現代では『観察』と書くことが一般的。"
+  },
+  {
+    "surface": "醉つた",
+    "pronunciation": "ヨッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "酒に酔った、または乗り物酔いなどで気分が悪くなった状態を指す。現代では『酔った』と書くことが一般的。"
+  },
+  {
+    "surface": "還つて",
+    "pronunciation": "カエッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "元の場所や状態に戻る、または反対の結果になることを指す。現代では『還って』と書くことが一般的。"
+  },
+  {
+    "surface": "謠",
+    "pronunciation": "ヨウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "口伝えで広まる歌や詩、または流れる噂を指す。現代では『謡』または『謡い』と書くことが一般的。"
+  }
 ]
