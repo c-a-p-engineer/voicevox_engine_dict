@@ -214,5 +214,50 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "水辺、川や池のほとり"
-  }
+  },{
+  "surface": "勞",
+  "pronunciation": "ロウ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "努力や苦労を表す漢字。現代では『労』と書くことが一般的。"
+},{
+  "surface": "醫學",
+  "pronunciation": "イガク",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "医学。病気の診断や治療、健康の維持を目的とした学問。現代では『医学』と書くことが一般的。"
+}
+,{
+  "surface": "囘覽",
+  "pronunciation": "カイラン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "回覧。文書や情報を順番に回して閲覧すること。現代では『回覧』と書くことが一般的。"
+},{
+  "surface": "雜誌",
+  "pronunciation": "ザッシ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "雑誌。特定のテーマやジャンルに基づき、記事や写真を掲載した定期刊行物。現代では『雑誌』と書くことが一般的。"
+},{
+  "surface": "聲援者",
+  "pronunciation": "セイエンシャ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "声を上げて応援する人。現代では『声援者』と書くことが一般的。"
+}
+,{
+  "surface": "空氣",
+  "pronunciation": "クウキ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "大気中に存在する無色透明の気体。呼吸に必要なもの。現代では『空気』と書くことが一般的。"
+}
+
 ]
