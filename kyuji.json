@@ -534,27 +534,29 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "現代では『胆』と書くことが一般的。"
-  },{
-  "surface": "讀書",
-  "pronunciation": "ドクショ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "書物を読むこと。現代では『読書』と書くことが一般的。"
-},{
-  "surface": "華嚴",
-  "pronunciation": "ケゴン",
-  "accent_type": 1,
-  "word_type": "PROPER_NOUN",
-  "priority": 8,
-  "meaning": "仏教の一派である華厳宗を指し、華厳経に基づく教えを中心とする。現代では『華厳』と書くことが一般的。"
-},{
-  "surface": "壯嚴",
-  "pronunciation": "ソウゴン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "荘厳。仏教用語で、仏や仏堂を美しく立派に整えること。または、その様子。現代では『荘厳』と書くことが一般的。"
-}
-
+  },
+  {
+    "surface": "讀書",
+    "pronunciation": "ドクショ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "書物を読むこと。現代では『読書』と書くことが一般的。"
+  },
+  {
+    "surface": "華嚴",
+    "pronunciation": "ケゴン",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "仏教の一派である華厳宗を指し、華厳経に基づく教えを中心とする。現代では『華厳』と書くことが一般的。"
+  },
+  {
+    "surface": "壯嚴",
+    "pronunciation": "ソウゴン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "荘厳。仏教用語で、仏や仏堂を美しく立派に整えること。または、その様子。現代では『荘厳』と書くことが一般的。"
+  }
 ]
