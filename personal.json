@@ -102,5 +102,13 @@
     "word_type": "PROPER_NOUN",
     "priority": 7,
     "meaning": "日本の女性の名前や歴史上の人物名として使用される。『繪』は現代では『絵』と書くことが一般的。"
-  }
+  },{
+  "surface": "家繼",
+  "pronunciation": "イエツグ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "家督や家名を受け継ぐことを指す。歴史上では人名としても使われることがある。現代では『家継』と書くことが一般的。"
+}
+
 ]
