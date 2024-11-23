@@ -2186,13 +2186,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "何かを伝えること、または知らせること。現代仮名遣いでは『伝い』"
-  },{
-  "surface": "とても／＼",
-  "pronunciation": "トテモトテモ",
-  "accent_type": 4,
-  "word_type": "ADVERB",
-  "priority": 6,
-  "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
-}
-
+  },
+  {
+    "surface": "とても／＼",
+    "pronunciation": "トテモトテモ",
+    "accent_type": 4,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
+  }
 ]

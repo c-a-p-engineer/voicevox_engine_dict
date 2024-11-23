@@ -350,13 +350,13 @@
     "word_type": "ADVERB",
     "priority": 7,
     "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
-  },{
-  "surface": "迷雲",
-  "pronunciation": "メイウン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "霧のように目の前が見えにくくなる心の迷いや混乱を象徴的に表す表現。"
-}
-
+  },
+  {
+    "surface": "迷雲",
+    "pronunciation": "メイウン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "霧のように目の前が見えにくくなる心の迷いや混乱を象徴的に表す表現。"
+  }
 ]
