@@ -558,35 +558,37 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "荘厳。仏教用語で、仏や仏堂を美しく立派に整えること。または、その様子。現代では『荘厳』と書くことが一般的。"
-  },{
-  "surface": "正體",
-  "pronunciation": "セイタイ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "本来の姿や真の姿を指す。現代では『正体』と書くことが一般的。"
-},{
-  "surface": "靈",
-  "pronunciation": "レイ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "魂や霊魂、または霊的な存在を指す。現代では『霊』と書くことが一般的。"
-},{
-  "surface": "清淨",
-  "pronunciation": "ショウジョウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "心や行いが清らかで穢れがないこと。仏教用語としては特に煩悩や汚れから解放された状態を指す。現代では『清浄』と書くことが一般的。"
-}
-,{
-  "surface": "神祕",
-  "pronunciation": "シンピ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "人間の理解を超えた不思議で神秘的なことを指す。現代では『神秘』と書くことが一般的。"
-}
-
+  },
+  {
+    "surface": "正體",
+    "pronunciation": "セイタイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "本来の姿や真の姿を指す。現代では『正体』と書くことが一般的。"
+  },
+  {
+    "surface": "靈",
+    "pronunciation": "レイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "魂や霊魂、または霊的な存在を指す。現代では『霊』と書くことが一般的。"
+  },
+  {
+    "surface": "清淨",
+    "pronunciation": "ショウジョウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "心や行いが清らかで穢れがないこと。仏教用語としては特に煩悩や汚れから解放された状態を指す。現代では『清浄』と書くことが一般的。"
+  },
+  {
+    "surface": "神祕",
+    "pronunciation": "シンピ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "人間の理解を超えた不思議で神秘的なことを指す。現代では『神秘』と書くことが一般的。"
+  }
 ]
