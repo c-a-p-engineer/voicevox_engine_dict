@@ -94,5 +94,13 @@
     "word_type": "PROPER_NOUN",
     "priority": 8,
     "meaning": "日本の女性名。『周』には周囲や和を意味し、『子』は子供や親しみを表す。"
-  }
+  },{
+  "surface": "繪島",
+  "pronunciation": "エシマ",
+  "accent_type": 2,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "日本の女性の名前や歴史上の人物名として使用される。『繪』は現代では『絵』と書くことが一般的。"
+}
+
 ]
