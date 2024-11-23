@@ -2154,13 +2154,13 @@
     "word_type": "ADVERB",
     "priority": 7,
     "meaning": "それぞれ、各自を指す表現。"
-  },{
-  "surface": "さうする",
-  "pronunciation": "ソウスル",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "そのようにする、またはそういう行動をとること。現代仮名遣いでは『そうする』"
-}
-
+  },
+  {
+    "surface": "さうする",
+    "pronunciation": "ソウスル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "そのようにする、またはそういう行動をとること。現代仮名遣いでは『そうする』"
+  }
 ]
