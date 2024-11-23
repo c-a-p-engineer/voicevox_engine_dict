@@ -526,5 +526,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "現代では『胆』と書くことが一般的。"
-  }
+  },{
+  "surface": "讀書",
+  "pronunciation": "ドクショ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "書物を読むこと。現代では『読書』と書くことが一般的。"
+}
+
 ]
