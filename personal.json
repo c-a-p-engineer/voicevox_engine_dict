@@ -86,5 +86,13 @@
     "word_type": "PROPER_NOUN",
     "priority": 6,
     "meaning": "中国文学『阿Q正伝』に登場する阿Qの名の一部。拼音表記の一環。"
-  }
+  },{
+  "surface": "周子",
+  "pronunciation": "チカコ",
+  "accent_type": 2,
+  "word_type": "PROPER_NOUN",
+  "priority": 8,
+  "meaning": "日本の女性名。『周』には周囲や和を意味し、『子』は子供や親しみを表す。"
+}
+
 ]
