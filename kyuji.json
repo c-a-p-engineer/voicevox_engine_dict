@@ -318,5 +318,28 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "規則や態度が厳しいこと、厳密であること。現代では『厳格』と書くことが一般的。"
+  },{
+  "surface": "虚僞",
+  "pronunciation": "キョギ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "事実ではないことを事実のように見せかけることや、その内容。現代では『虚偽』と書くことが一般的。"
+},
+  {
+    "surface": "悧𢠺",
+    "pronunciation": "リハツ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "機敏で利発な性格や行動を指す。『悧』は利口や賢さを表し、『𢠺』は古い文字で知恵や機敏さを補う意。"
+  },
+  {
+    "surface": "淺薄",
+    "pronunciation": "センパク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "考えや知識、内容が浅く薄っぺらいこと。現代では『浅薄』と書くことが一般的。"
   }
 ]
