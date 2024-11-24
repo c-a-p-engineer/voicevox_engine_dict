@@ -1,19 +1,20 @@
-[{
-  "surface": "變つた",
-  "pronunciation": "カワッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "形や状態が以前とは異なるようになったことを指す旧仮名遣い表記。現代では『変った』または『変わった』と表記されることが一般的。"
-},{
-  "surface": "變った",
-  "pronunciation": "カワッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "形や状態が以前とは異なるようになったことを指す旧字表記。現代では『変わった』と表記されることが一般的。"
-}
-,
+[
+  {
+    "surface": "變つた",
+    "pronunciation": "カワッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "形や状態が以前とは異なるようになったことを指す旧仮名遣い表記。現代では『変った』または『変わった』と表記されることが一般的。"
+  },
+  {
+    "surface": "變った",
+    "pronunciation": "カワッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "形や状態が以前とは異なるようになったことを指す旧字表記。現代では『変わった』と表記されることが一般的。"
+  },
   {
     "surface": "亂れ",
     "pronunciation": "ミダレ",
