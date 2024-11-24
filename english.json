@@ -723,7 +723,7 @@
     "surface": "eh",
     "pronunciation": "エイ",
     "accent_type": 1,
-    "word_type": "INTERJECTION",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "確認や疑問を示す間投詞（英語の間投詞）"
   },
@@ -739,7 +739,7 @@
     "surface": "the",
     "pronunciation": "ザ",
     "accent_type": 1,
-    "word_type": "DETERMINER",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "その（特定のものを指す英語の冠詞）"
   },
@@ -771,7 +771,7 @@
     "surface": "Mr.",
     "pronunciation": "ミスター",
     "accent_type": 1,
-    "word_type": "TITLE",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "〜氏、男性の敬称（英語の敬称）"
   },
@@ -851,7 +851,7 @@
     "surface": "¢",
     "pronunciation": "セント",
     "accent_type": 1,
-    "word_type": "NUMBER",
+    "word_type": "SUFFIX",
     "priority": 8,
     "meaning": "セント（貨幣単位）"
   },
@@ -891,7 +891,7 @@
     "surface": "One",
     "pronunciation": "ワン",
     "accent_type": 1,
-    "word_type": "NUMBER",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "1つ（英語の数詞）"
   },
@@ -907,7 +907,7 @@
     "surface": "that",
     "pronunciation": "ザット",
     "accent_type": 1,
-    "word_type": "PRONOUN",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "それ、あれ（英語の代名詞）"
   },
@@ -915,7 +915,7 @@
     "surface": "over",
     "pronunciation": "オーバー",
     "accent_type": 1,
-    "word_type": "PREPOSITION",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "〜の上に、越えて（英語の前置詞）"
   },
@@ -947,7 +947,7 @@
     "surface": "we",
     "pronunciation": "ウィー",
     "accent_type": 1,
-    "word_type": "PRONOUN",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "私たち（英語の代名詞）"
   },
@@ -1043,7 +1043,7 @@
     "surface": "wha",
     "pronunciation": "ワ",
     "accent_type": 1,
-    "word_type": "PRONOUN",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "what（何）の省略形（英語の単語）"
   },
@@ -1051,7 +1051,7 @@
     "surface": "Thanks",
     "pronunciation": "サンクス",
     "accent_type": 1,
-    "word_type": "INTERJECTION",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "ありがとう（英語の感謝を表す単語）"
   },
@@ -1066,7 +1066,7 @@
   {
     "surface": "cha-cha-cha",
     "pronunciation": "チャチャチャ",
-    "accent_type": 5,
+    "accent_type": 3,
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "音"
@@ -1074,7 +1074,7 @@
   {
     "surface": "cha-cha",
     "pronunciation": "チャチャ",
-    "accent_type": 5,
+    "accent_type": 2,
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "音。"
