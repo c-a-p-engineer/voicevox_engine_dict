@@ -1,11 +1,12 @@
-[{
-  "surface": "醉ひ",
-  "pronunciation": "ヨイ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "酒を飲んだり、強い感情や雰囲気に心が動かされたりして正確な判断ができない状態を指す。旧字表記では『醉ひ』と書かれるが、現代では『酔い』と表記される。"
-},
+[
+  {
+    "surface": "醉ひ",
+    "pronunciation": "ヨイ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "酒を飲んだり、強い感情や雰囲気に心が動かされたりして正確な判断ができない状態を指す。旧字表記では『醉ひ』と書かれるが、現代では『酔い』と表記される。"
+  },
   {
     "surface": "神樂阪",
     "pronunciation": "カグラザカ",
