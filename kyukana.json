@@ -2258,21 +2258,21 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "話した、何かを伝えるために言葉を使ったことを指す。現代仮名遣いでは『語った』と書く。"
-  },{
-  "surface": "怒つて",
-  "pronunciation": "オコッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "感情が高ぶり、怒りを表現することを指す。旧仮名遣いでは『怒つて』と表記されるが、現代仮名遣いでは『怒って』が一般的。"
-}
-,{
-  "surface": "怒つた",
-  "pronunciation": "オコッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "感情が高ぶり、怒りを表現した過去の状態を指す。旧仮名遣いでは『怒つた』と表記されるが、現代仮名遣いでは『怒った』が一般的。"
-}
-
+  },
+  {
+    "surface": "怒つて",
+    "pronunciation": "オコッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "感情が高ぶり、怒りを表現することを指す。旧仮名遣いでは『怒つて』と表記されるが、現代仮名遣いでは『怒って』が一般的。"
+  },
+  {
+    "surface": "怒つた",
+    "pronunciation": "オコッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "感情が高ぶり、怒りを表現した過去の状態を指す。旧仮名遣いでは『怒つた』と表記されるが、現代仮名遣いでは『怒った』が一般的。"
+  }
 ]
