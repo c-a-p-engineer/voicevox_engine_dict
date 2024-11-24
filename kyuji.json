@@ -1,11 +1,12 @@
-[{
-  "surface": "強氣",
-  "pronunciation": "ツヨキ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "自分の意志や考えを強く主張し、物事に対して積極的で屈しない態度を指す旧字表記。現代では『強気』と表記されることが一般的。"
-},
+[
+  {
+    "surface": "強氣",
+    "pronunciation": "ツヨキ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "自分の意志や考えを強く主張し、物事に対して積極的で屈しない態度を指す旧字表記。現代では『強気』と表記されることが一般的。"
+  },
   {
     "surface": "滿足",
     "pronunciation": "マンゾク",
