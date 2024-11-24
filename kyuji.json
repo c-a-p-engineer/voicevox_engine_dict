@@ -1,4 +1,57 @@
-[
+[{
+  "surface": "殘す",
+  "pronunciation": "ノコス",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "使い切らずに一部を残すことを指す旧字表記。現代では『残す』と表記されることが一般的。"
+},{
+  "surface": "殘った",
+  "pronunciation": "ノコッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "何かが使われずに残った状態を表す。旧字表記では『殘った』と書かれるが、現代では『残った』が一般的。"
+},{
+  "surface": "残した",
+  "pronunciation": "ノコシタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "意図的に何かを後に残した状態を指す。現代仮名遣いの表記。"
+}
+,{
+  "surface": "殘つた",
+  "pronunciation": "ノコッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "何かが使われずに残った状態を表す。旧仮名遣いと旧字表記を用いた形。現代では『残った』と書かれる。"
+},{
+  "surface": "殘",
+  "pronunciation": "ノコリ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "使われずに余った部分、または後に残るものを指す旧字表記。現代では『残』と書かれることが一般的。"
+}
+,{
+  "surface": "堅氣",
+  "pronunciation": "カタギ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "誠実で真面目、しっかりした性格や態度を持つ人、またはそうした性質を指す。旧字表記では『堅氣』と表記されるが、現代では『堅気』が一般的。特に、暴力団関係者ではない一般人を指す俗語としても使われる。"
+},
+{
+  "surface": "堅實",
+  "pronunciation": "ケンジツ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "堅固で信頼できることを指す旧字表記。現在では『堅実』と表記されることが一般的で、主に行動や態度が確実でしっかりしている様子を示す。"
+},
+
   {
     "surface": "描寫",
     "pronunciation": "ビョウシャ",
