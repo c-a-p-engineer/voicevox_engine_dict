@@ -358,5 +358,12 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "霧のように目の前が見えにくくなる心の迷いや混乱を象徴的に表す表現。"
-  }
+  },{
+  "surface": "青梧",
+  "pronunciation": "アオギリ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "アオギリ科の落葉高木。葉が大きく、庭木や街路樹として使われることがある。"
+}
 ]
