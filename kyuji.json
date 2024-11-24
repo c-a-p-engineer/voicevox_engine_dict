@@ -1,20 +1,20 @@
-[{
-  "surface": "樣",
-  "pronunciation": "サマ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "物事の状態や形、または敬称として人を指す際に用いられる旧字表記。現代では『様』と表記されることが一般的。例として『状態』や『山田様』のように使用される。"
-}
-,{
-  "surface": "思ふ樣",
-  "pronunciation": "オモウサマ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "心の中で抱く考えや感情の様子を指す旧字・旧仮名遣い表記。現代では『思う様』または『思う様子』と表記されることが一般的。文学的表現として用いられることが多い。"
-}
-,
+[
+  {
+    "surface": "樣",
+    "pronunciation": "サマ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "物事の状態や形、または敬称として人を指す際に用いられる旧字表記。現代では『様』と表記されることが一般的。例として『状態』や『山田様』のように使用される。"
+  },
+  {
+    "surface": "思ふ樣",
+    "pronunciation": "オモウサマ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "心の中で抱く考えや感情の様子を指す旧字・旧仮名遣い表記。現代では『思う様』または『思う様子』と表記されることが一般的。文学的表現として用いられることが多い。"
+  },
   {
     "surface": "變つた",
     "pronunciation": "カワッタ",
