@@ -1,12 +1,12 @@
-[{
-  "surface": "峽",
-  "pronunciation": "キョウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "山と山の間の狭い谷や渓谷を指す旧字表記。現代では『峡』と表記されることが一般的。例として『峡谷』などの言葉に使用される。"
-}
-,
+[
+  {
+    "surface": "峽",
+    "pronunciation": "キョウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "山と山の間の狭い谷や渓谷を指す旧字表記。現代では『峡』と表記されることが一般的。例として『峡谷』などの言葉に使用される。"
+  },
   {
     "surface": "直覺",
     "pronunciation": "チョッカク",
