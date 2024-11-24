@@ -2338,21 +2338,21 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "後ろから追いかける行為を指す旧仮名遣い表記。現代仮名遣いでは『追い』と表記される。特定の対象を追い求める行為や動作を意味する。"
-  },{
-  "surface": "作つて",
-  "pronunciation": "ツクッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かを製作したり、生み出したりする動作を指す。旧仮名遣いでは『作つて』と表記されるが、現代では『作って』が一般的。"
-}
-,{
-  "surface": "作つた",
-  "pronunciation": "ツクッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かを製作したり、生み出したりした過去の行為を指す。旧仮名遣いでは『作つた』と表記されるが、現代では『作った』が一般的。"
-}
-
+  },
+  {
+    "surface": "作つて",
+    "pronunciation": "ツクッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを製作したり、生み出したりする動作を指す。旧仮名遣いでは『作つて』と表記されるが、現代では『作って』が一般的。"
+  },
+  {
+    "surface": "作つた",
+    "pronunciation": "ツクッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを製作したり、生み出したりした過去の行為を指す。旧仮名遣いでは『作つた』と表記されるが、現代では『作った』が一般的。"
+  }
 ]
