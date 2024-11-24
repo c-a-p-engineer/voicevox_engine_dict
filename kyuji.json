@@ -1,12 +1,12 @@
-[{
-  "surface": "描寫",
-  "pronunciation": "ビョウシャ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "物事の特徴や情景などを言葉や絵で具体的に表現することを指す旧字表記。現代では『描写』と表記されることが一般的。文学や芸術において重要な技法の一つ。"
-}
-,
+[
+  {
+    "surface": "描寫",
+    "pronunciation": "ビョウシャ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "物事の特徴や情景などを言葉や絵で具体的に表現することを指す旧字表記。現代では『描写』と表記されることが一般的。文学や芸術において重要な技法の一つ。"
+  },
   {
     "surface": "嚴密",
     "pronunciation": "ゲンミツ",
