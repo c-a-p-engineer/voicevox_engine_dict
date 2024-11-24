@@ -710,5 +710,12 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "書籍や雑誌などを印刷して世に出すこと。または、通貨や証券を発行することを指す。現代では『発行』と書くことが一般的。"
-  }
+  },{
+  "surface": "實に",
+  "pronunciation": "ジツニ",
+  "accent_type": 2,
+  "word_type": "ADVERB",
+  "priority": 8,
+  "meaning": "本当に、非常に、心からそう思うさまを表す。現代では『実に』と書くことが一般的。"
+}
 ]
