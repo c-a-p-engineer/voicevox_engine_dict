@@ -2298,5 +2298,34 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "何かを話したり伝えたりした過去の行為を指す。旧仮名遣いでは『言つた』と表記されるが、現代仮名遣いでは『言った』が一般的。"
-  }
+  },{
+  "surface": "向つて",
+  "pronunciation": "ムカッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "ある方向や対象に顔や体、心を向けることを指す。旧仮名遣いでは『向つて』と表記されるが、現代仮名遣いでは『向かって』が一般的。"
+},{
+  "surface": "向つた",
+  "pronunciation": "ムカッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "特定の方向や対象に動いたり心を向けたりした過去の行為を指す。旧仮名遣いでは『向つた』と表記されるが、現代仮名遣いでは『向かった』が一般的。"
+},{
+  "surface": "向ふ",
+  "pronunciation": "ムカウ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "ある方向や対象に向かうことを指す。旧仮名遣いでは『向ふ』と表記されるが、現代仮名遣いでは『向う』または『向かう』が一般的。"
+},{
+  "surface": "向ふた",
+  "pronunciation": "ムカウタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "特定の方向や対象に向かった過去の行為を指す。旧仮名遣いで用いられる形。"
+}
+
 ]
