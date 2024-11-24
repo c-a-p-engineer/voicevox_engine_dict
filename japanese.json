@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "いざ不知",
+  "pronunciation": "イザシラズ",
+  "accent_type": 4,
+  "word_type": "PHRASE",
+  "priority": 7,
+  "meaning": "未来のことや結果について確信が持てない、または未知であることを示す表現。『いざ知らず』として現代でも使われるが、古風な語感を伴う表現。"
+},
   {
     "surface": "額の汗",
     "pronunciation": "ヒタイノアセ",
