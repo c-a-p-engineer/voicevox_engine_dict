@@ -487,14 +487,14 @@
     "priority": 4,
     "meaning": "提供する"
   },
-{
-  "surface": "separately",
-  "pronunciation": "セパラトリー",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "『個別に』または『別々に』を意味する英単語。状況や物事が分けられている状態を指す。主に副詞的に使われるが、名詞的にも解釈される場合がある。"
-},
+  {
+    "surface": "separately",
+    "pronunciation": "セパラトリー",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "『個別に』または『別々に』を意味する英単語。状況や物事が分けられている状態を指す。主に副詞的に使われるが、名詞的にも解釈される場合がある。"
+  },
   {
     "surface": "stiff",
     "pronunciation": "スティフ",
