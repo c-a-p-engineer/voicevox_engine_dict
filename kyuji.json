@@ -1,11 +1,12 @@
-[{
-  "surface": "神樂阪",
-  "pronunciation": "カグラザカ",
-  "accent_type": 4,
-  "word_type": "PROPER_NOUN",
-  "priority": 8,
-  "meaning": "東京都新宿区にある地名。歴史的に神楽の演じられる場所があったことに由来し、坂の地形を特徴とする。旧字表記では『神樂阪』と書かれるが、現代では『神楽坂』が一般的な表記。"
-},
+[
+  {
+    "surface": "神樂阪",
+    "pronunciation": "カグラザカ",
+    "accent_type": 4,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "東京都新宿区にある地名。歴史的に神楽の演じられる場所があったことに由来し、坂の地形を特徴とする。旧字表記では『神樂阪』と書かれるが、現代では『神楽坂』が一般的な表記。"
+  },
   {
     "surface": "強氣",
     "pronunciation": "ツヨキ",
