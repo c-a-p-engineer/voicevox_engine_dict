@@ -2370,5 +2370,13 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "人や物が垂直の姿勢になった過去の行為を指す。旧仮名遣いでは『立つた』と表記されるが、現代では『立った』が一般的。"
-  }
+  },{
+  "surface": "匂ひ",
+  "pronunciation": "ニオイ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "香りや臭いを指す旧仮名遣い表記。良い香りや悪い臭いのいずれにも用いられる。現代では『匂い』と表記されることが一般的。"
+}
+
 ]
