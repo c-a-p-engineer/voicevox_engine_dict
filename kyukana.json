@@ -1149,7 +1149,7 @@
   },
   {
     "surface": "べゞ",
-    "pronunciation": "べべ",
+    "pronunciation": "ベベ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -1887,7 +1887,7 @@
     "surface": "馬鹿／＼",
     "pronunciation": "バカバカ",
     "accent_type": 2,
-    "word_type": "COMMON_NOUN",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "非常に愚かであること、または愚かな行為を指す表現"
   },
@@ -1895,7 +1895,7 @@
     "surface": "毎晩／＼",
     "pronunciation": "マイバンバン",
     "accent_type": 3,
-    "word_type": "COMMON_NOUN",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "夜ごと、毎晩繰り返し行われることを指す表現"
   },
@@ -1927,7 +1927,7 @@
     "surface": "わざ／＼",
     "pronunciation": "ワザワザ",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "特別に手間をかけて、または意図的に行うことを指す。現代仮名遣いでは『わざわざ』"
   },
@@ -1935,7 +1935,7 @@
     "surface": "ガタ／＼",
     "pronunciation": "ガタガタ",
     "accent_type": 4,
-    "word_type": "COMMON_NOUN",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "物が揺れたりぶつかったりして出る音を表す擬音語。"
   },
@@ -1943,7 +1943,7 @@
     "surface": "がた／＼",
     "pronunciation": "ガタガタ",
     "accent_type": 4,
-    "word_type": "COMMON_NOUN",
+    "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "物が揺れる様子や音を表す擬態語・擬音語。カタカナ表記と同じ意味だが、ひらがな表記は柔らかさを感じさせる場合がある。"
   },
@@ -1967,7 +1967,7 @@
     "surface": "おい／＼",
     "pronunciation": "オイオイ",
     "accent_type": 3,
-    "word_type": "COMMON_NOUN",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "人を呼び止める際の声や、嘆きや悲しみを表現する際の擬声語。"
   },
@@ -2007,7 +2007,7 @@
     "surface": "さぞ／＼",
     "pronunciation": "サゾサゾ",
     "accent_type": 3,
-    "word_type": "COMMON_NOUN",
+    "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
   },
@@ -2191,7 +2191,7 @@
     "surface": "とても／＼",
     "pronunciation": "トテモトテモ",
     "accent_type": 4,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
   },
@@ -2199,7 +2199,7 @@
     "surface": "キラ／＼",
     "pronunciation": "キラキラ",
     "accent_type": 4,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "光が明るく輝く様子を表す擬態語。"
   },
@@ -2215,7 +2215,7 @@
     "surface": "だん／＼",
     "pronunciation": "ダンダン",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "物事が徐々に進行する様子を表す擬態語。"
   },
@@ -2223,7 +2223,7 @@
     "surface": "一つ／＼",
     "pronunciation": "ヒトツヒトツ",
     "accent_type": 4,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "一つずつ順に、または個別に物事を行う様子を表す。"
   },
