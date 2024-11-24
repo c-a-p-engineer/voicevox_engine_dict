@@ -2330,5 +2330,13 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "特定の方向や対象に向かった過去の行為を指す。旧仮名遣いで用いられる形。"
-  }
+  },{
+  "surface": "追ひ",
+  "pronunciation": "オイ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "後ろから追いかける行為を指す旧仮名遣い表記。現代仮名遣いでは『追い』と表記される。特定の対象を追い求める行為や動作を意味する。"
+}
+
 ]
