@@ -1,5 +1,14 @@
 [
   {
+  "surface": "高遠",
+  "pronunciation": "タカトオ",
+  "accent_type": 3,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "長野県伊那市の地名として知られる。山々に囲まれた地域で、高遠城址公園は桜の名所として有名。また、『高く遠い』という意味で抽象的に使われることもある。"
+}
+,
+  {
     "surface": "別れ心",
     "pronunciation": "ワカレゴコロ",
     "accent_type": 4,
