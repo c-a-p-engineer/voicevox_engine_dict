@@ -46,22 +46,26 @@ VOICEVOX ENGINE APIの辞書登録用
 
 サンプル
 ```python
+# @title ユーザー辞書登録
+import requests
+import sys
+
 def add_words_to_user_dict(words):
     """
     ユーザー辞書に複数の単語を追加する関数
 
     Parameters:
     words (list): 単語情報の辞書リスト。各辞書には'surface', 'pronunciation', 'accent_type', 'word_type'のキーが含まれる。
-
+    word_type: PROPER_NOUN（固有名詞）、COMMON_NOUN（普通名詞）、VERB（動詞）、ADJECTIVE（形容詞）、SUFFIX（語尾）のいずれか
     Returns:
-    responses: 各リクエストのレスポンスを含むリスト
+    list: 各リクエストのパラメータとレスポンスを含む辞書リスト
     """
     url = "http://127.0.0.1:50021/user_dict_word"
-    responses = []
+    results = []
 
     for word in words:
         params = {
-            'surface': word['surface'],
+            'surface': word['surface'].lower(),
             'pronunciation': word['pronunciation'],
             'accent_type': word['accent_type'],
             'word_type': word['word_type'],
@@ -69,14 +73,17 @@ def add_words_to_user_dict(words):
         }
 
         response = requests.post(url, params=params)
-        responses.append(response)
+        results.append({'params': params, 'response': response})
 
-    return responses
+    return results
 
 # 取得したいURLのリスト
 urls = [
     "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/english.json", # 英語
+    "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/french.json", # フランス語
     "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/german.json", # ドイツ語
+    "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/italian.json", # イタリア語
+    "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/russian.json", # ロシア語
     "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/japanese.json", # 日本語
     "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/kyuji.json", # 旧字
     "https://raw.githubusercontent.com/c-a-p-engineer/voicevox_engine_dict/refs/heads/master/kyukana.json", # 旧仮名
@@ -84,16 +91,31 @@ urls = [
 ]
 
 # 各URLからJSONを取得して配列に追加する
+words_to_add = []
+
 for url in urls:
     try:
         print(f"Get dict json: {url}")
         response = requests.get(url)
         response.raise_for_status()  # エラーがあれば例外を発生
         json_data = response.json()  # JSONデータをパース
-        add_words_to_user_dict(json_data)
+        words_to_add.append(add_words_to_user_dict(json_data))
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data from {url}: {e}")
-        system.exit(1)
+        sys.exit(1)
+
+# デバッグ用（ステータスコード200以外の場合のみ出力）
+for word_list in words_to_add:
+    for result in word_list:
+        response = result['response']
+        if response.status_code != 200:
+            print("---------------------------------------------------------------------------")
+            print(f"Request Params: {result['params']}")
+            try:
+                print(f"Response Status: {response.status_code}")
+                print(f"Response Content: {response.json()}")  # JSON形式のレスポンス内容を表示
+            except ValueError:
+                print(f"Response Text: {response.text}")  # JSONパースに失敗した場合はテキストを表示
 ```
 
 ## ChatGPTで作成
