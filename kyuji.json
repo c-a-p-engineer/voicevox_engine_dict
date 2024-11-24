@@ -254,7 +254,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "現代では『医』と書くことが一般的。"
-  },
+  },{
+  "surface": "女醫",
+  "pronunciation": "ジョイ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "女性の医者を指す旧字表記。現代では『女医』と表記されることが一般的。医療分野における女性の専門家を示す言葉。"
+},
   {
     "surface": "囘覽",
     "pronunciation": "カイラン",
