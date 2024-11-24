@@ -1,5 +1,13 @@
 [
   {
+  "surface": "女學校",
+  "pronunciation": "ジョガッコウ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "女性の教育を目的とした学校を指す旧字表記。特に近代日本において、女子教育の普及に寄与した機関。現代では『女学校』と表記される。"
+},
+  {
     "surface": "同舊友",
     "pronunciation": "ドウキュウユウ",
     "accent_type": 4,
@@ -926,29 +934,29 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "走る、または速く動くことを指す。現代では『駆』と書くことが一般的。"
-  },
-  {
-    "surface": "乘つた",
-    "pronunciation": "ノッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "乗り物やある対象の上に身を置いたり、その状態になった過去の行為を指す。旧字・旧仮名遣いでは『乘つた』と表記されるが、現代では『乗った』が一般的。"
-  },
-  {
-    "surface": "乘つて",
-    "pronunciation": "ノッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "乗り物やある対象の上に身を置く動作を指す。旧字・旧仮名遣いでは『乘つて』と表記されるが、現代では『乗って』が一般的。"
-  },
-  {
-    "surface": "乘る",
-    "pronunciation": "ノル",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "乗り物やある対象の上に身を置く行為を表す。旧字表記では『乘る』と書かれるが、現代では『乗る』が一般的。"
-  }
+  },{
+  "surface": "乘つた",
+  "pronunciation": "ノッタ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "乗り物やある対象の上に身を置いたり、その状態になった過去の行為を指す。旧字・旧仮名遣いでは『乘つた』と表記されるが、現代では『乗った』が一般的。"
+}
+,{
+  "surface": "乘つて",
+  "pronunciation": "ノッテ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "乗り物やある対象の上に身を置く動作を指す。旧字・旧仮名遣いでは『乘つて』と表記されるが、現代では『乗って』が一般的。"
+}
+,{
+  "surface": "乘る",
+  "pronunciation": "ノル",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "乗り物やある対象の上に身を置く行為を表す。旧字表記では『乘る』と書かれるが、現代では『乗る』が一般的。"
+}
+
 ]
