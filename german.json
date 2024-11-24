@@ -97,7 +97,7 @@
   },
   {
     "surface": "EINE KAISERLICHE BOTSCHAFT",
-    "pronunciation": "アイネ カイザーリヒェ ボートシャフト",
+    "pronunciation": "アイネカイザーリヒェボートシャフト",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -113,7 +113,7 @@
   },
   {
     "surface": "IN DER STRAFKOLONIE",
-    "pronunciation": "イン デア シュトラーフコロニーエ",
+    "pronunciation": "インデアシュトラーフコロニーエ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -121,7 +121,7 @@
   },
   {
     "surface": "DAS SCHLOSS",
-    "pronunciation": "ダス シュロス",
+    "pronunciation": "ダスシュロス",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -129,7 +129,7 @@
   },
   {
     "surface": "DER PROZESS",
-    "pronunciation": "デア プロツェス",
+    "pronunciation": "デアプロツェス",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -137,7 +137,7 @@
   },
   {
     "surface": "EIN HUNGERKÜNSTLER",
-    "pronunciation": "アイン フンガークンストラー",
+    "pronunciation": "アインフンガークンストラー",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -145,7 +145,7 @@
   },
   {
     "surface": "VOR DEM GESETZ",
-    "pronunciation": "フォア デム ゲゼッツ",
+    "pronunciation": "フォアデムゲゼッツ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -153,7 +153,7 @@
   },
   {
     "surface": "DAS URTEIL",
-    "pronunciation": "ダス ウアタイル",
+    "pronunciation": "ダスウアタイル",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
@@ -161,7 +161,7 @@
   },
   {
     "surface": "DIE VERWANDLUNG",
-    "pronunciation": "ディー フェアヴァンドルング",
+    "pronunciation": "ディーフェアヴァンドルング",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
