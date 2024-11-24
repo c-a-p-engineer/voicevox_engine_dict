@@ -1,4 +1,28 @@
-[
+[{
+  "surface": "直覺",
+  "pronunciation": "チョッカク",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "物事を瞬間的に感じ取る力や判断を指す旧字表記。現代では『直覚』と表記されることが一般的。哲学や心理学において重要な概念の一つ。"
+},{
+  "surface": "來た",
+  "pronunciation": "キタ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "話し手のいる場所や特定の地点に到達したことを指す旧字表記。現代では『来た』と表記されることが一般的。"
+}
+
+,{
+  "surface": "哲學",
+  "pronunciation": "テツガク",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "人間や世界の本質についての根本的な問いを扱う学問を指す旧字表記。現代では『哲学』と表記されることが一般的。西洋哲学、東洋哲学などさまざまな流派がある。"
+}
+,
   {
     "surface": "醉ひ",
     "pronunciation": "ヨイ",
@@ -7,6 +31,15 @@
     "priority": 6,
     "meaning": "酒を飲んだり、強い感情や雰囲気に心が動かされたりして正確な判断ができない状態を指す。旧字表記では『醉ひ』と書かれるが、現代では『酔い』と表記される。"
   },
+  {
+  "surface": "醉つた",
+  "pronunciation": "ヨッタ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "酒や感情などによって正確な判断ができない状態になったことを指す。旧字表記では『醉つた』と書かれるが、現代では『酔った』と表記される。"
+}
+,
   {
     "surface": "神樂阪",
     "pronunciation": "カグラザカ",
