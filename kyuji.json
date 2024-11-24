@@ -726,21 +726,21 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "正式名称ではなく、一般的に使われる名前や呼び名を指す。現代では『通称』と書くことが一般的。"
-  },{
-  "surface": "前驅",
-  "pronunciation": "ゼンク",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "先導する者や物事の先駆けとなる存在を指す。現代では『前駆』と書くことが一般的。"
-},{
-  "surface": "驅",
-  "pronunciation": "ク",
-  "accent_type": 1,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "走る、または速く動くことを指す。現代では『駆』と書くことが一般的。"
-}
-
-
+  },
+  {
+    "surface": "前驅",
+    "pronunciation": "ゼンク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "先導する者や物事の先駆けとなる存在を指す。現代では『前駆』と書くことが一般的。"
+  },
+  {
+    "surface": "驅",
+    "pronunciation": "ク",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "走る、または速く動くことを指す。現代では『駆』と書くことが一般的。"
+  }
 ]
