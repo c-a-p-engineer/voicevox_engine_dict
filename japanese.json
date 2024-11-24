@@ -366,13 +366,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "アオギリ科の落葉高木。葉が大きく、庭木や街路樹として使われることがある。"
-  },{
-  "surface": "立還って",
-  "pronunciation": "タチカエッテ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "その場から直ちに戻る、あるいは回帰することを指す。旧仮名遣いでは『立還って』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
-}
-
+  },
+  {
+    "surface": "立還って",
+    "pronunciation": "タチカエッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "その場から直ちに戻る、あるいは回帰することを指す。旧仮名遣いでは『立還って』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
+  }
 ]
