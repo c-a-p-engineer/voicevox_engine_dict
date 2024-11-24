@@ -1,11 +1,12 @@
-[{
-  "surface": "嚴密",
-  "pronunciation": "ゲンミツ",
-  "accent_type": 3,
-  "word_type": "ADJECTIVE",
-  "priority": 7,
-  "meaning": "厳格で細部に至るまで注意が行き届いていることを指す旧字表記。現代では『厳密』と表記されることが一般的。論理や事実の正確さを重視する際に用いられる。"
-},
+[
+  {
+    "surface": "嚴密",
+    "pronunciation": "ゲンミツ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "厳格で細部に至るまで注意が行き届いていることを指す旧字表記。現代では『厳密』と表記されることが一般的。論理や事実の正確さを重視する際に用いられる。"
+  },
   {
     "surface": "出來",
     "pronunciation": "デキ",
