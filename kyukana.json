@@ -2282,19 +2282,21 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "その場から直ちに戻る、または回帰することを指す。旧仮名遣いでは『立還つて』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
-  },{
-  "surface": "言つて",
-  "pronunciation": "イッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かを話したり伝えたりすることを指す動詞の連用形。旧仮名遣いでは『言つて』と表記されるが、現代仮名遣いでは『言って』が一般的。"
-},{
-  "surface": "言つた",
-  "pronunciation": "イッタ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かを話したり伝えたりした過去の行為を指す。旧仮名遣いでは『言つた』と表記されるが、現代仮名遣いでは『言った』が一般的。"
-}
+  },
+  {
+    "surface": "言つて",
+    "pronunciation": "イッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを話したり伝えたりすることを指す動詞の連用形。旧仮名遣いでは『言つて』と表記されるが、現代仮名遣いでは『言って』が一般的。"
+  },
+  {
+    "surface": "言つた",
+    "pronunciation": "イッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを話したり伝えたりした過去の行為を指す。旧仮名遣いでは『言つた』と表記されるが、現代仮名遣いでは『言った』が一般的。"
+  }
 ]
