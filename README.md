@@ -34,6 +34,7 @@ VOICEVOX ENGINE APIの辞書登録用
 ├── english.json         # 英語の辞書。
 ├── french.json          # フランス語の辞書。
 ├── german.json          # ドイツ語の辞書。
+├── italian.json         # イタリア語の辞書
 ├── japanese.json        # 日本語関連の辞書
 ├── kyuji.json           # 旧字（旧漢字）の辞書。
 ├── kyukana.json         # 旧仮名遣いの辞書。
@@ -118,7 +119,7 @@ ChatGPTで辞書JSONを作成させる。
   "surface": "単語や漢字の表記",
   "pronunciation": "単語の読み（カタカナ）",
   "accent_type": "アクセント型（整数値）",
-  "word_type": "品詞（COMMON_NOUN, PROPER_NOUN, VERB, ADJECTIVE, SUFFIX, ADVERBなど）",
+  "word_type": "品詞（PROPER_NOUN（固有名詞）、COMMON_NOUN（普通名詞）、VERB（動詞）、ADJECTIVE（形容詞）、SUFFIX（語尾）のいずれか）",
   "priority": "優先度（1～10の整数値）",
   "meaning": "単語や漢字の意味や背景"
 }
