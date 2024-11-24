@@ -718,13 +718,13 @@
     "word_type": "ADVERB",
     "priority": 8,
     "meaning": "本当に、非常に、心からそう思うさまを表す。現代では『実に』と書くことが一般的。"
-  },{
-  "surface": "通稱",
-  "pronunciation": "ツウショウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "正式名称ではなく、一般的に使われる名前や呼び名を指す。現代では『通称』と書くことが一般的。"
-}
-
+  },
+  {
+    "surface": "通稱",
+    "pronunciation": "ツウショウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "正式名称ではなく、一般的に使われる名前や呼び名を指す。現代では『通称』と書くことが一般的。"
+  }
 ]
