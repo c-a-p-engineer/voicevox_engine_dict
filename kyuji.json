@@ -1,19 +1,20 @@
-[{
-  "surface": "亂れ",
-  "pronunciation": "ミダレ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "秩序や整った状態が崩れることを指す旧字表記。現代では『乱れ』と表記されることが一般的。感情、状況、風景など、広い文脈で用いられる。"
-},{
-  "surface": "亂",
-  "pronunciation": "ラン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "秩序が崩れること、または混乱の状態を指す旧字表記。現代では『乱』と表記されることが一般的。戦乱や心の乱れなど、状況や感情を表現する際に用いられる。"
-}
-,
+[
+  {
+    "surface": "亂れ",
+    "pronunciation": "ミダレ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "秩序や整った状態が崩れることを指す旧字表記。現代では『乱れ』と表記されることが一般的。感情、状況、風景など、広い文脈で用いられる。"
+  },
+  {
+    "surface": "亂",
+    "pronunciation": "ラン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "秩序が崩れること、または混乱の状態を指す旧字表記。現代では『乱』と表記されることが一般的。戦乱や心の乱れなど、状況や感情を表現する際に用いられる。"
+  },
   {
     "surface": "女學校",
     "pronunciation": "ジョガッコウ",
