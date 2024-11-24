@@ -3,7 +3,7 @@
     "surface": "いざ不知",
     "pronunciation": "イザシラズ",
     "accent_type": 4,
-    "word_type": "PHRASE",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "未来のことや結果について確信が持てない、または未知であることを示す表現。『いざ知らず』として現代でも使われるが、古風な語感を伴う表現。"
   },
@@ -371,7 +371,7 @@
     "surface": "未だ",
     "pronunciation": "イマダ",
     "accent_type": 2,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "まだ、いまだに、ある状態が続いていることを表す副詞。"
   },
@@ -379,7 +379,7 @@
     "surface": "若し",
     "pronunciation": "モシ",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
   },
