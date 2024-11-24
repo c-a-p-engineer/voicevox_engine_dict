@@ -1,12 +1,12 @@
-[{
-  "surface": "田舍",
-  "pronunciation": "イナカ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "都市に対して、農村や山村など自然豊かな地域を指す旧字表記。現代では『田舎』と表記されることが一般的。素朴でのどかな風景や生活を連想させる言葉。"
-}
-,
+[
+  {
+    "surface": "田舍",
+    "pronunciation": "イナカ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "都市に対して、農村や山村など自然豊かな地域を指す旧字表記。現代では『田舎』と表記されることが一般的。素朴でのどかな風景や生活を連想させる言葉。"
+  },
   {
     "surface": "殘す",
     "pronunciation": "ノコス",
