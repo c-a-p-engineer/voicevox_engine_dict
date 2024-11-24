@@ -714,7 +714,7 @@
   {
     "surface": "變れ",
     "pronunciation": "カワレ",
-    "accent_type": 4,
+    "accent_type": 3,
     "word_type": "VERB",
     "priority": 6,
     "meaning": "現代では『変われ』と書く。"
@@ -746,7 +746,7 @@
   {
     "surface": "參れ",
     "pronunciation": "マイレ",
-    "accent_type": 4,
+    "accent_type": 3,
     "word_type": "VERB",
     "priority": 7,
     "meaning": "現代では『参れ』と書く。"
@@ -955,7 +955,7 @@
     "surface": "實",
     "pronunciation": "ジツ",
     "accent_type": 2,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "本当に、非常に、心からそう思うさまを表す。現代では『実』と書くことが一般的。"
   },
