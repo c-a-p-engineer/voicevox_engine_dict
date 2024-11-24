@@ -1,0 +1,18 @@
+[
+{
+  "surface": "Largo",
+  "pronunciation": "ラーゴ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "音楽用語で、『非常にゆっくりとしたテンポ』を指す。荘重で感情的な演奏が求められる。イタリア語由来。"
+},{
+  "surface": "pianissimo",
+  "pronunciation": "ピアニッシモ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "音楽用語で、『非常に弱く』演奏することを指す。略記号は『pp』。静かで繊細な雰囲気を表現する際に用いられる。イタリア語由来。"
+}
+
+]
