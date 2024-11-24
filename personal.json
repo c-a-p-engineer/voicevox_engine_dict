@@ -110,5 +110,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "家督や家名を受け継ぐことを指す。歴史上では人名としても使われることがある。現代では『家継』と書くことが一般的。"
-  }
+  },{
+  "surface": "臺灣",
+  "pronunciation": "タイワン",
+  "accent_type": 2,
+  "word_type": "PROPER_NOUN",
+  "priority": 8,
+  "meaning": "現在の『台湾』を指す旧字表記。東アジアの島で、中国の南東沿岸に位置する。歴史的に日本や中国との深い関わりを持つ地域。"
+}
+
 ]
