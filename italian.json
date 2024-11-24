@@ -14,20 +14,21 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "音楽用語で、『非常に弱く』演奏することを指す。略記号は『pp』。静かで繊細な雰囲気を表現する際に用いられる。イタリア語由来。"
-  },{
-  "surface": "Allegro",
-  "pronunciation": "アレグロ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "音楽用語で、『快活に』または『速いテンポで』を指す。主に楽しい雰囲気や活気のある演奏を要求する際に使われる。イタリア語由来。"
-},{
-  "surface": "Molto",
-  "pronunciation": "モルト",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "音楽用語で、『非常に』または『多く』を意味する。速度や強弱を強調する際に使用される。イタリア語由来で、副詞的に使われるが、名詞的にも解釈可能。"
-}
-
+  },
+  {
+    "surface": "Allegro",
+    "pronunciation": "アレグロ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "音楽用語で、『快活に』または『速いテンポで』を指す。主に楽しい雰囲気や活気のある演奏を要求する際に使われる。イタリア語由来。"
+  },
+  {
+    "surface": "Molto",
+    "pronunciation": "モルト",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "音楽用語で、『非常に』または『多く』を意味する。速度や強弱を強調する際に使用される。イタリア語由来で、副詞的に使われるが、名詞的にも解釈可能。"
+  }
 ]
