@@ -2242,5 +2242,13 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "何かを追加する、または足し合わせることを指す。現代では『加え』と書くことが一般的。"
-  }
+  },{
+  "surface": "行き度い",
+  "pronunciation": "イキタイ",
+  "accent_type": 4,
+  "word_type": "ADJECTIVE",
+  "priority": 7,
+  "meaning": "どこかへ行きたい、あるいは向かいたいという願望を表す。現代仮名遣いでは『行きたい』と書く。"
+}
+
 ]
