@@ -1,11 +1,12 @@
-[{
-  "surface": "別れ心",
-  "pronunciation": "ワカレゴコロ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "離別や別離を意識した心の動きを指す。人や物事に対して別れを決意したり、別れを予感した心情を表現する言葉。"
-},
+[
+  {
+    "surface": "別れ心",
+    "pronunciation": "ワカレゴコロ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "離別や別離を意識した心の動きを指す。人や物事に対して別れを決意したり、別れを予感した心情を表現する言葉。"
+  },
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
