@@ -487,14 +487,14 @@
     "priority": 4,
     "meaning": "提供する"
   },
-  {
-    "surface": "separately",
-    "pronunciation": "セパレートリー",
-    "accent_type": 3,
-    "word_type": "ADVERB",
-    "priority": 3,
-    "meaning": "別々に"
-  },
+{
+  "surface": "separately",
+  "pronunciation": "セパラトリー",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "『個別に』または『別々に』を意味する英単語。状況や物事が分けられている状態を指す。主に副詞的に使われるが、名詞的にも解釈される場合がある。"
+},
   {
     "surface": "stiff",
     "pronunciation": "スティフ",
@@ -555,7 +555,7 @@
     "surface": "well",
     "pronunciation": "ウェル",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 3,
     "meaning": "上手に"
   },
@@ -649,7 +649,7 @@
   },
   {
     "surface": "sun-clear",
-    "pronunciation": "サン・クリア",
+    "pronunciation": "サンクリア",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
     "priority": 6,
@@ -691,7 +691,7 @@
     "surface": "it",
     "pronunciation": "イット",
     "accent_type": 1,
-    "word_type": "PRONOUN",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "それ（英語の代名詞）"
   },
@@ -715,7 +715,7 @@
     "surface": "then",
     "pronunciation": "ゼン",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "それでは、そのとき（英語の副詞）"
   },
@@ -899,7 +899,7 @@
     "surface": "more",
     "pronunciation": "モア",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "もっと（英語の副詞）"
   },
@@ -923,7 +923,7 @@
     "surface": "there",
     "pronunciation": "ゼア",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "そこに、あそこに（英語の副詞）"
   },
@@ -939,7 +939,7 @@
     "surface": "Here",
     "pronunciation": "ヒア",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "ここに、ここで（英語の副詞）"
   },
