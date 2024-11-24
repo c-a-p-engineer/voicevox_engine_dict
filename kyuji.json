@@ -702,5 +702,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "口伝えで広まる歌や詩、または流れる噂を指す。現代では『謡』または『謡い』と書くことが一般的。"
-  }
+  },{
+  "surface": "發行",
+  "pronunciation": "ハッコウ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "書籍や雑誌などを印刷して世に出すこと。または、通貨や証券を発行することを指す。現代では『発行』と書くことが一般的。"
+}
+
 ]
