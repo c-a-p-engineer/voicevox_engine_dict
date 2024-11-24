@@ -1,5 +1,13 @@
 [
   {
+  "surface": "額の汗",
+  "pronunciation": "ヒタイノアセ",
+  "accent_type": 5,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "額に浮かぶ汗を指し、特に努力や緊張、暑さによってかいた汗を表現する。労働や真剣な取り組みの象徴として用いられることもある。"
+},
+  {
     "surface": "高遠",
     "pronunciation": "タカトオ",
     "accent_type": 3,
