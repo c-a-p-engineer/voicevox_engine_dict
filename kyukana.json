@@ -2250,5 +2250,13 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "どこかへ行きたい、あるいは向かいたいという願望を表す。現代仮名遣いでは『行きたい』と書く。"
-  }
+  },{
+  "surface": "語つた",
+  "pronunciation": "カタッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "話した、何かを伝えるために言葉を使ったことを指す。現代仮名遣いでは『語った』と書く。"
+}
+
 ]
