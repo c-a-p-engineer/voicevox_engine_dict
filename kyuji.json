@@ -1,12 +1,12 @@
-[{
-  "surface": "滿足",
-  "pronunciation": "マンゾク",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "望みや必要が十分に満たされ、心が満ち足りた状態を指す旧字表記。現代では『満足』と表記されることが一般的。"
-}
-,
+[
+  {
+    "surface": "滿足",
+    "pronunciation": "マンゾク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "望みや必要が十分に満たされ、心が満ち足りた状態を指す旧字表記。現代では『満足』と表記されることが一般的。"
+  },
   {
     "surface": "田舍",
     "pronunciation": "イナカ",
