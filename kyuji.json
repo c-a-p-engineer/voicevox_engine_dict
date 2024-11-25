@@ -6,7 +6,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "人や物事と偶然に出会うことを指す旧字・旧仮名遣い表記。現代では『出会う』と表記されることが一般的。"
-  },
+  },{
+  "surface": "畫題",
+  "pronunciation": "ガダイ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "絵画の主題やテーマを指す旧字表記。現代では『画題』と表記されることが一般的。特に芸術作品における内容やテーマを表現する際に用いられる。"
+},
   {
     "surface": "畫伯",
     "pronunciation": "ガハク",
