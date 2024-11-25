@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "處",
+  "pronunciation": "トコロ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "場所、または事柄が存在する特定の位置や状況を指す旧字表記。現代では『処』と表記されることが一般的。例として『処理』『処遇』などの言葉に用いられる。"
+}
+,
   {
     "surface": "卷き",
     "pronunciation": "マキ",
