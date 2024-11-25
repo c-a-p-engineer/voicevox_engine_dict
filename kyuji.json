@@ -1,4 +1,19 @@
-[
+[{
+  "surface": "卷き",
+  "pronunciation": "マキ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "物を巻く、または巻き付ける動作を指す旧字表記。現代では『巻き』と表記されることが一般的。"
+},{
+  "surface": "逆卷き",
+  "pronunciation": "サカマキ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "風や波、流れが通常とは逆方向に巻き上がる、または巻き返す状態を指す旧字表記。現代では『逆巻き』と表記されることが一般的。"
+}
+,
   {
     "surface": "藏して",
     "pronunciation": "ゾウシテ",
