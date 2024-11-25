@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "苦勞人",
+  "pronunciation": "クロウニン",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "多くの苦労や困難を経験してきた人を指す旧字表記。現代では『苦労人』と表記されることが一般的。特に人生経験が豊富で忍耐力のある人物を指す。"
+}
+,
   {
     "surface": "發刊",
     "pronunciation": "ハッカン",
