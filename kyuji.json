@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "發刊",
+  "pronunciation": "ハッカン",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "新しく刊行物を発行することを指す旧字表記。現代では『発刊』と表記されることが一般的。書籍や雑誌などの初回発行を指す場合に用いられる。"
+},
   {
     "surface": "樣",
     "pronunciation": "サマ",
