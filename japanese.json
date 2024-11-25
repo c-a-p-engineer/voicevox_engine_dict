@@ -1,11 +1,11 @@
 [
   {
-  "surface": "於て",
-  "pronunciation": "オイテ",
-  "accent_type": 2,
-  "word_type": "SUFFIX",
-  "priority": 7,
-  "meaning": "場所や時間を示す格助詞。現代では『において』と表記されることが一般的。文章語や古文で用いられることが多い。"
+    "surface": "於て",
+    "pronunciation": "オイテ",
+    "accent_type": 2,
+    "word_type": "SUFFIX",
+    "priority": 7,
+    "meaning": "場所や時間を示す格助詞。現代では『において』と表記されることが一般的。文章語や古文で用いられることが多い。"
   },
   {
     "surface": "年若き",
