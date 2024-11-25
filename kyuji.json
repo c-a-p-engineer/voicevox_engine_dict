@@ -1,28 +1,28 @@
 [
-{
-  "surface": "畫伯",
-  "pronunciation": "ガハク",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "画家に対する敬称、または高名な画家を指す旧字表記。現代では『画伯』と表記されることが一般的。特に絵画の世界で尊敬を込めて用いられる表現。"
-},
   {
-  "surface": "畫く",
-  "pronunciation": "カク",
-  "accent_type": 1,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "絵や図を描く行為を指す旧字表記。現代では『描く』と表記されることが一般的。"
-},{
-  "surface": "畫き",
-  "pronunciation": "カキ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "絵や図を描く行為の連用形を指す旧字表記。現代では『描き』と表記されることが一般的。"
-}
-,
+    "surface": "畫伯",
+    "pronunciation": "ガハク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "画家に対する敬称、または高名な画家を指す旧字表記。現代では『画伯』と表記されることが一般的。特に絵画の世界で尊敬を込めて用いられる表現。"
+  },
+  {
+    "surface": "畫く",
+    "pronunciation": "カク",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "絵や図を描く行為を指す旧字表記。現代では『描く』と表記されることが一般的。"
+  },
+  {
+    "surface": "畫き",
+    "pronunciation": "カキ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "絵や図を描く行為の連用形を指す旧字表記。現代では『描き』と表記されることが一般的。"
+  },
   {
     "surface": "處",
     "pronunciation": "トコロ",
