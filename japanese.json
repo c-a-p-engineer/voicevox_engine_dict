@@ -1,4 +1,19 @@
-[
+[{
+  "surface": "選まれ",
+  "pronunciation": "エラマレ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "選択される、または選ばれることを指す旧仮名遣い表記。現代では『選ばれ』と表記されることが一般的。"
+},{
+  "surface": "選む",
+  "pronunciation": "エラム",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "多くの中から適したものを選び取る行為を指す古風な表現。現代では『選ぶ』と表記されることが一般的。"
+}
+,
   {
     "surface": "於て",
     "pronunciation": "オイテ",
