@@ -1,4 +1,19 @@
-[
+[{
+  "surface": "藏して",
+  "pronunciation": "ゾウシテ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "物や事実を隠す、または保存する行為を指す旧字表記。現代では『蔵して』と表記されることが一般的。主に貴重品や情報などを守る文脈で使われる。"
+},{
+  "surface": "來る",
+  "pronunciation": "クル",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "話し手のいる場所や特定の地点に到達する動作を指す旧字表記。現代では『来る』と表記されることが一般的。"
+}
+,
   {
     "surface": "苦勞人",
     "pronunciation": "クロウニン",
