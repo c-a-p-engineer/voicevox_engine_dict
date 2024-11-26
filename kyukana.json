@@ -1,5 +1,14 @@
 [
   {
+  "surface": "漂ふ",
+  "pronunciation": "タダヨウ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "空中や水面などを揺れながらゆっくりと動くことを指す旧仮名遣い表記。現代では『漂う』と表記されることが一般的。"
+}
+,
+  {
     "surface": "腐つて",
     "pronunciation": "クサッテ",
     "accent_type": 3,
