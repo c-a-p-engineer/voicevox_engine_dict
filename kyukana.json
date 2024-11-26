@@ -1,5 +1,40 @@
 [
   {
+  "surface": "われわれ",
+  "pronunciation": "ワレワレ",
+  "accent_type": 0,
+  "word_type": "ADVERB",
+  "priority": 8,
+  "meaning": "話し手を含む集団を指す一人称複数形の代名詞。主にフォーマルな場面や文章で使用される。『私たち』とほぼ同義だが、堅い表現として用いられることが多い。"
+}
+,
+  {
+  "surface": "めちゃ／＼",
+  "pronunciation": "メチャメチャ",
+  "accent_type": 0,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "非常に乱れている、または極端であることを表す。混乱やひどい状況、あるいは強調として使われる俗語的な表現。"
+}
+,
+  {
+  "surface": "いち／＼",
+  "pronunciation": "イチイチ",
+  "accent_type": 0,
+  "word_type": "ADVERB",
+  "priority": 8,
+  "meaning": "物事を一つずつ順を追って行うさま、または細かいことまで一つ一つ取り上げるさまを表す。時に、煩わしさを含むニュアンスでも使用される。"
+}
+,
+  {
+  "surface": "いろ／＼",
+  "pronunciation": "イロイロ",
+  "accent_type": 0,
+  "word_type": "ADVERB",
+  "priority": 8,
+  "meaning": "多様なもの、またはさまざまな種類や状態を指す。日常会話や文章で頻繁に使われる柔軟な表現。"
+},
+  {
     "surface": "拾つた",
     "pronunciation": "ヒロッタ",
     "accent_type": 2,
