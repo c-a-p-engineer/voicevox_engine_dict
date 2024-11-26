@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "續け",
+  "pronunciation": "ツヅケ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "動作や状態を途切れることなく継続させることを指す。旧字体では『續け』と表記され、現代では『続け』と書かれることが一般的。"
+}
+,
   {
     "surface": "中挫",
     "pronunciation": "チュウザ",
