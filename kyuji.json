@@ -1,11 +1,12 @@
-[{
-  "surface": "瀉ぎ",
-  "pronunciation": "ソギ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "液体を注ぎ出す、または流し出す行為を指す旧字表記。現代では『注ぎ』や『流し』と表記されることが一般的。"
-},
+[
+  {
+    "surface": "瀉ぎ",
+    "pronunciation": "ソギ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "液体を注ぎ出す、または流し出す行為を指す旧字表記。現代では『注ぎ』や『流し』と表記されることが一般的。"
+  },
   {
     "surface": "見當ら",
     "pronunciation": "ミアタラ",
