@@ -1,11 +1,12 @@
-[{
-  "surface": "蔽はれ",
-  "pronunciation": "オオワレ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "覆い隠される、遮られるという意味を持つ。旧仮名遣いでは『蔽はれて』と表記され、現代仮名遣いでは『覆われて』が一般的。"
-},
+[
+  {
+    "surface": "蔽はれ",
+    "pronunciation": "オオワレ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "覆い隠される、遮られるという意味を持つ。旧仮名遣いでは『蔽はれて』と表記され、現代仮名遣いでは『覆われて』が一般的。"
+  },
   {
     "surface": "屬",
     "pronunciation": "ゾク",
