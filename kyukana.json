@@ -1,12 +1,12 @@
 [
   {
-  "surface": "どうか／＼",
-  "pronunciation": "ドウカ",
-  "accent_type": 0,
-  "word_type": "ADVERB",
-  "priority": 8,
-  "meaning": "お願いや懇願、または何らかの方法でという意味を表す副詞。文脈に応じて、願望や依頼、手段を示唆する表現として使用される。"
-},
+    "surface": "どうか／＼",
+    "pronunciation": "ドウカ",
+    "accent_type": 0,
+    "word_type": "ADVERB",
+    "priority": 8,
+    "meaning": "お願いや懇願、または何らかの方法でという意味を表す副詞。文脈に応じて、願望や依頼、手段を示唆する表現として使用される。"
+  },
   {
     "surface": "漂ふ",
     "pronunciation": "タダヨウ",
