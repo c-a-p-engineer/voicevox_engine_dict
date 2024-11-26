@@ -1,12 +1,12 @@
-[{
-  "surface": "兒",
-  "pronunciation": "コ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "子ども、または幼い人を指す旧字表記。現代では『子』と表記されることが一般的。古典的な文脈や詩的表現で使われる場合がある。"
-}
-,
+[
+  {
+    "surface": "兒",
+    "pronunciation": "コ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "子ども、または幼い人を指す旧字表記。現代では『子』と表記されることが一般的。古典的な文脈や詩的表現で使われる場合がある。"
+  },
   {
     "surface": "尨大",
     "pronunciation": "ボウダイ",
