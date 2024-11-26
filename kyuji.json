@@ -1,5 +1,22 @@
 [
   {
+  "surface": "壞れた",
+  "pronunciation": "コワレタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "物が損傷して元の機能や形を失った状態を指す旧字表記。現代では『壊れた』と表記されることが一般的。"
+}
+,
+ {
+    "surface": "その邊",
+    "pronunciation": "ソノヘン",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "特定の場所や範囲、または状況について指す表現。旧字表記では『その邊は』と書かれるが、現代では『その辺は』と表記されることが一般的。"
+  },
+  {
     "surface": "會話",
     "pronunciation": "カイワ",
     "accent_type": 2,
