@@ -1,5 +1,13 @@
 [
   {
+    "surface": "會話",
+    "pronunciation": "カイワ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "人と人が話し合い、言葉を通じて意思や情報を交換する行為を指す旧字表記。現代では『会話』と表記されることが一般的。"
+  },
+  {
     "surface": "眞向",
     "pronunciation": "マッコウ",
     "accent_type": 3,
