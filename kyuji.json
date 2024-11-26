@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "中挫",
+  "pronunciation": "チュウザ",
+  "accent_type": 0,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "計画や進行中の物事が途中で挫折することを指す表現。旧字体では『中挫』と書かれるが、現代では『中座』や『中断』の方が一般的に使われる。"
+}
+,
   {
     "surface": "蔽はれ",
     "pronunciation": "オオワレ",
