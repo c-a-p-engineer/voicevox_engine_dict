@@ -1,5 +1,13 @@
 [
   {
+  "surface": "いつまでもいつまでも",
+  "pronunciation": "イツマデモイツマデモ",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "非常に長い間、永遠に続くことを強調する表現。繰り返しによって永続性や感情の深さが強調される。詩的な表現や会話で使用されることがある。"
+  },
+  {
     "surface": "行はれ",
     "pronunciation": "オコナワレ",
     "accent_type": 4,
