@@ -2618,13 +2618,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "小さな物が断続的に見え隠れしたり、揺れ動いたりする様子を表す擬態語。現代でも『チラチラ』として使われる表現で、雪が降る様子や視界に映る微かな動きを表現する際に用いられる。"
-  },{
-  "surface": "違ひ",
-  "pronunciation": "チガイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "二つ以上のものが一致しないこと、または異なる点を指す旧仮名遣い表記。現代では『違い』と表記されることが一般的。"
-}
-
+  },
+  {
+    "surface": "違ひ",
+    "pronunciation": "チガイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "二つ以上のものが一致しないこと、または異なる点を指す旧仮名遣い表記。現代では『違い』と表記されることが一般的。"
+  }
 ]
