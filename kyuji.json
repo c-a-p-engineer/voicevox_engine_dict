@@ -1,13 +1,12 @@
 [
   {
-  "surface": "見當ら",
-  "pronunciation": "ミアタラ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "目で確認することができる、または見つかることを否定的に表現する際に用いる古風な言い回し。現代では『見当たら』と表記されることが一般的。"
-}
-,
+    "surface": "見當ら",
+    "pronunciation": "ミアタラ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "目で確認することができる、または見つかることを否定的に表現する際に用いる古風な言い回し。現代では『見当たら』と表記されることが一般的。"
+  },
   {
     "surface": "この邊",
     "pronunciation": "コノヘン",
