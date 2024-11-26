@@ -43,7 +43,7 @@
     "surface": "どうか／＼",
     "pronunciation": "ドウカ",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "お願いや懇願、または何らかの方法でという意味を表す副詞。文脈に応じて、願望や依頼、手段を示唆する表現として使用される。"
   },
@@ -2607,7 +2607,7 @@
     "surface": "ます／＼",
     "pronunciation": "マスマス",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "程度が一層高まるさま、またはさらに進む様子を表す古風な表現。現代でも『ますます』として用いられ、『ます／＼』は古文や文語で見られる表記。"
   },
@@ -2615,7 +2615,7 @@
     "surface": "ぐん／＼",
     "pronunciation": "グングン",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "物事が勢いよく進んでいく様子を表す擬態語。現代でも『ぐんぐん』として広く使われている表現。"
   },
@@ -2663,7 +2663,7 @@
     "surface": "返つて",
     "pronunciation": "カエッテ",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "予想外の結果や状況を示す際に使われる表現で、『むしろ』や『逆に』という意味を持つ。旧仮名遣いでは『返つて』と表記されるが、現代では『かえって』と表記される。"
   },
@@ -2703,7 +2703,7 @@
     "surface": "でも／＼",
     "pronunciation": "デモデモ",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "どれもこれもという意味を表し、さまざまな可能性や選択肢を示す表現。古風な文体で使用されることがあり、現代では『でもでも』として軽い繰り返しの表現で使われる場合もある。"
   },
@@ -2751,7 +2751,7 @@
     "surface": "しみ／″＼",
     "pronunciation": "シミジミ",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "深く心にしみ入るような感情や、しんみりとした気持ちを表す擬態語。現代でも『しみじみ』として用いられ、物事を深く味わう様子を指す。"
   }
