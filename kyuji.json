@@ -1,14 +1,13 @@
 [
   {
-  "surface": "壞れた",
-  "pronunciation": "コワレタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物が損傷して元の機能や形を失った状態を指す旧字表記。現代では『壊れた』と表記されることが一般的。"
-}
-,
- {
+    "surface": "壞れた",
+    "pronunciation": "コワレタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物が損傷して元の機能や形を失った状態を指す旧字表記。現代では『壊れた』と表記されることが一般的。"
+  },
+  {
     "surface": "その邊",
     "pronunciation": "ソノヘン",
     "accent_type": 4,
