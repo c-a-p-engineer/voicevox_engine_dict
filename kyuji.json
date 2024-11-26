@@ -1,5 +1,21 @@
 [
   {
+  "surface": "擔いで",
+  "pronunciation": "カツイデ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "物を肩に乗せて運ぶこと、または責任や負担を引き受けることを指す。旧字体では『擔いで』と表記され、現代では『担いで』と書かれることが一般的。"
+},{
+  "surface": "擔ぐ",
+  "pronunciation": "カツグ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "物を肩に乗せて運ぶ行為を指す。また、比喩的に他人をだましたり、祭りの神輿を担ぐなどの意味でも使われる。旧字体では『擔ぐ』と表記され、現代では『担ぐ』と書かれることが一般的。"
+}
+,
+  {
     "surface": "學",
     "pronunciation": "ガク",
     "accent_type": 1,
@@ -1078,6 +1094,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "現代では『帰せ』と書く。"
+  },
+  {
+    "surface": "歸つた",
+    "pronunciation": "カエッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "現代では『帰った』と書く。"
   },
   {
     "surface": "誦經",
