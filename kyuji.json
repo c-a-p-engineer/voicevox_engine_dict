@@ -1,12 +1,12 @@
-[{
-  "surface": "眞向",
-  "pronunciation": "マッコウ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "正面や真正面を指す旧字表記。現代では『真向』と表記されることが一般的。比喩的に、正面から向き合う態度や対立する状況を指す場合にも使われる。"
-}
-,
+[
+  {
+    "surface": "眞向",
+    "pronunciation": "マッコウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "正面や真正面を指す旧字表記。現代では『真向』と表記されることが一般的。比喩的に、正面から向き合う態度や対立する状況を指す場合にも使われる。"
+  },
   {
     "surface": "兒",
     "pronunciation": "コ",
