@@ -1,20 +1,20 @@
 [
   {
-  "surface": "痛い／＼",
-  "pronunciation": "イタイイタイ",
-  "accent_type": 1,
-  "word_type": "ADJECTIVE",
-  "priority": 8,
-  "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
-},
+    "surface": "痛い／＼",
+    "pronunciation": "イタイイタイ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
+  },
   {
-  "surface": "痛い／＼／＼",
-  "pronunciation": "イタイイタイイタイ",
-  "accent_type": 1,
-  "word_type": "ADJECTIVE",
-  "priority": 8,
-  "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
-},
+    "surface": "痛い／＼／＼",
+    "pronunciation": "イタイイタイイタイ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
+  },
   {
     "surface": "どうか／＼",
     "pronunciation": "ドウカ",
