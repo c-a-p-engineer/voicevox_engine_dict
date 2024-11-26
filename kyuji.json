@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "醒覺",
+  "pronunciation": "セイカク",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "目覚めることや、意識がはっきりすることを指す旧字表記。現代では『覚醒』や『目覚め』と表記されることが一般的。特に精神的な覚醒を示す場合に用いられることがある。"
+}
+,
   {
     "surface": "出會ふ",
     "pronunciation": "デアウ",
