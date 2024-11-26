@@ -1,5 +1,14 @@
 [
   {
+  "surface": "奪ひ",
+  "pronunciation": "ウバイ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "力や勢いで他人の物を取る行為を指す旧仮名遣い表記。現代では『奪い』と表記されることが一般的。"
+}
+,
+  {
     "surface": "あゝ",
     "pronunciation": "アア",
     "accent_type": "0",
