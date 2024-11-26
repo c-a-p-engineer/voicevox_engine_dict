@@ -1,5 +1,14 @@
 [
   {
+  "surface": "腐つて",
+  "pronunciation": "クサッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "食物や物が傷んで変質した状態、または気持ちや状況が荒んだ状態を指す旧仮名遣い表記。現代では『腐って』と表記されることが一般的。"
+}
+,
+  {
     "surface": "疑は",
     "pronunciation": "ウタガワ",
     "accent_type": 3,
