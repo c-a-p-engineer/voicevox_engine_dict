@@ -1,4 +1,13 @@
 [
+{
+  "surface": "學",
+  "pronunciation": "ガク",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "知識や技能を学ぶこと、または学問そのものを指す。旧字体では『學』と表記され、現代では『学』と書かれることが一般的。"
+}
+,
   {
     "surface": "變へて",
     "pronunciation": "カエテ",
