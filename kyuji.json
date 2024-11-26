@@ -1,5 +1,13 @@
 [
   {
+  "surface": "尨大",
+  "pronunciation": "ボウダイ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "非常に大きく、膨らみすぎた状態を指す旧字表記。現代では『膨大』と表記されることが一般的。規模や数量が並外れて大きいことを示す。"
+},
+  {
     "surface": "悒鬱",
     "pronunciation": "ユウウツ",
     "accent_type": 3,
