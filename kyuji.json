@@ -1,5 +1,22 @@
 [
   {
+  "surface": "屡",
+  "pronunciation": "シバシバ",
+  "accent_type": 2,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "頻繁に、何度も繰り返されることを指す表現。古典的な漢字表記で、現代日本語では平仮名の『しばしば』が一般的に用いられる。"
+},
+  {
+  "surface": "屡變",
+  "pronunciation": "ルヘン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "物事が何度も変化することを指す表現。『屡』は「しばしば」や「たびたび」を意味し、『變』は旧字体で現代では『変』と書かれる。文語的で古風な表現。"
+}
+,
+  {
     "surface": "續け",
     "pronunciation": "ツヅケ",
     "accent_type": 2,
@@ -43,7 +60,7 @@
     "surface": "遲く",
     "pronunciation": "オソク",
     "accent_type": 2,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "時間が遅い状態や動作が遅れることを表す。旧字体では『遲く』と表記され、現代では『遅く』と書かれることが一般的。"
   },
