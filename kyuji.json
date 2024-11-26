@@ -1,12 +1,12 @@
 [
   {
-  "surface": "孤獨",
-  "pronunciation": "コドク",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "一人でいること、または他者とのつながりを持たない状態を指す旧字表記。現代では『孤独』と表記されることが一般的。"
-},
+    "surface": "孤獨",
+    "pronunciation": "コドク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "一人でいること、または他者とのつながりを持たない状態を指す旧字表記。現代では『孤独』と表記されることが一般的。"
+  },
   {
     "surface": "瀉ぎ",
     "pronunciation": "ソギ",
