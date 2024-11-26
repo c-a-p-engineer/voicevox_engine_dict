@@ -1,5 +1,14 @@
 [
   {
+  "surface": "疑は",
+  "pronunciation": "ウタガワ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "物事の真偽や妥当性に対して疑念を抱くことを指す旧仮名遣い表記。現代では『疑わ』と表記されることが一般的。"
+}
+,
+  {
     "surface": "植ゑ",
     "pronunciation": "ウエ",
     "accent_type": 2,
