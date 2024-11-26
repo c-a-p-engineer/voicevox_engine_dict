@@ -1,38 +1,36 @@
 [
   {
-  "surface": "植ゑ",
-  "pronunciation": "ウエ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "植物を土や地面に植える行為を指す旧仮名遣い表記。現代では『植え』と表記されることが一般的。"
-}
-,
+    "surface": "植ゑ",
+    "pronunciation": "ウエ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "植物を土や地面に植える行為を指す旧仮名遣い表記。現代では『植え』と表記されることが一般的。"
+  },
   {
-  "surface": "小ざつぱり",
-  "pronunciation": "コザッパリ",
-  "accent_type": 4,
-  "word_type": "ADJECTIVE",
-  "priority": 6,
-  "meaning": "小さく整っていて、さっぱりとした印象を与える様子を指す表現。主に服装や部屋の状態について、簡素ながら清潔感があることを示す。"
-},
+    "surface": "小ざつぱり",
+    "pronunciation": "コザッパリ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "小さく整っていて、さっぱりとした印象を与える様子を指す表現。主に服装や部屋の状態について、簡素ながら清潔感があることを示す。"
+  },
   {
-  "surface": "かん／＼",
-  "pronunciation": "カンカン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "怒りが非常に激しい様子や、強い日差しが照りつける様子を表す擬態語。現代でも『カンカン』として使われる。"
-},{
-  "surface": "しめ／＼",
-  "pronunciation": "シメシメ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "密かに喜んだり、何かがうまくいったことに満足する様子を表す擬態語。現代でも『しめしめ』として使われる。"
-}
-
-,
+    "surface": "かん／＼",
+    "pronunciation": "カンカン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "怒りが非常に激しい様子や、強い日差しが照りつける様子を表す擬態語。現代でも『カンカン』として使われる。"
+  },
+  {
+    "surface": "しめ／＼",
+    "pronunciation": "シメシメ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "密かに喜んだり、何かがうまくいったことに満足する様子を表す擬態語。現代でも『しめしめ』として使われる。"
+  },
   {
     "surface": "遇つて",
     "pronunciation": "アッテ",
