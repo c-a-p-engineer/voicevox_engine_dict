@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "現はし",
+  "pronunciation": "アラワシ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "隠されていたものが表に現れる、または明らかにすることを指す。古典的な表現であり、現代仮名遣いでは『現わし』と表記されることが一般的。"
+},
   {
     "surface": "痛い／＼",
     "pronunciation": "イタイイタイ",
