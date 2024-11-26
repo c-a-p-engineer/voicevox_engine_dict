@@ -1,115 +1,116 @@
-[{
-  "surface": "屬",
-  "pronunciation": "ゾク",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "特定のグループやカテゴリーに属することを意味する。または生物学で分類上の『属（ゾク）』を指す。旧字体では『屬』と表記され、現代では『属』と書かれることが一般的。"
-}
-,{
-  "surface": "附屬",
-  "pronunciation": "フゾク",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "主となるものに付属していること、またはその状態や物を指す。旧字体では『附屬』と表記され、現代では『付属』と書かれることが一般的。"
-}
-,{
-  "surface": "遲く",
-  "pronunciation": "オソク",
-  "accent_type": 2,
-  "word_type": "ADVERB",
-  "priority": 6,
-  "meaning": "時間が遅い状態や動作が遅れることを表す。旧字体では『遲く』と表記され、現代では『遅く』と書かれることが一般的。"
-}
-,{
-  "surface": "中學",
-  "pronunciation": "チュウガク",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "中等教育を行う学校、またはその期間を指す。主に日本では中学校を意味する。旧字体では『中學』と表記され、現代では『中学』と書かれることが一般的。"
-}
-,{
-  "surface": "巖石",
-  "pronunciation": "ガンセキ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "地殻を構成する堅い物質である岩と石の総称。旧字体では『巖石』と表記され、現代では『岩石』と書かれることが一般的。"
-}
-,{
-  "surface": "滿洲",
-  "pronunciation": "マンシュウ",
-  "accent_type": 0,
-  "word_type": "PROPER_NOUN",
-  "priority": 8,
-  "meaning": "東北アジアの地域名で、現在の中国東北部とロシアの一部を含む広域を指す。旧字体では『滿洲』と表記され、現代では『満州』と書かれることが一般的。かつて満洲国として知られる国がこの地域に存在した。"
-}
-,{
-  "surface": "石徑",
-  "pronunciation": "セッケイ",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "石で作られた道や小道を指す表現。旧字体では『石徑』と表記され、現代では『石径』と書かれることが一般的。"
-}
-,{
-  "surface": "靈驗",
-  "pronunciation": "レイゲン",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "神仏や霊的な存在の加護や祈りの効き目が現れること。旧字体では『靈驗』と表記され、現代では『霊験』と書かれることが一般的。"
-}
-,{
-  "surface": "異國",
-  "pronunciation": "イコク",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "自国ではない他の国を指す表現。異郷や外国とも言う。旧字体では『異國』と表記され、現代では『異国』と書かれることが一般的。"
-},{
-  "surface": "發掘",
-  "pronunciation": "ハックツ",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "埋もれたものを掘り出すこと。または、隠れた才能や資源を見つけ出すことを比喩的に表現する場合にも使われる。旧字体では『發掘』と表記され、現代では『発掘』と書かれることが一般的。"
-}
-,{
-  "surface": "樓閣",
-  "pronunciation": "ロウカク",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "高く建てられた壮麗な建築物や塔のことを指す。旧字体では『樓閣』と表記され、現代では『楼閣』と書かれることが一般的。"
-}
-,{
-  "surface": "邊",
-  "pronunciation": "アタリ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "近辺や付近、周辺の場所を指す表現。旧字体では『邊』と表記され、現代では『辺』と書くことが一般的。"
-}
-,{
-  "surface": "學者",
-  "pronunciation": "ガクシャ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "学問に励む人、または専門分野で学問を究めた人物を指す。現在は『学者』と表記することが一般的。"
-}
-,{
-  "surface": "以來",
-  "pronunciation": "イライ",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "ある時点を起点として、その後に続く時間や状況を指す。現在は『以来』と表記することが一般的。"
-}
-,
+[
+  {
+    "surface": "屬",
+    "pronunciation": "ゾク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "特定のグループやカテゴリーに属することを意味する。または生物学で分類上の『属（ゾク）』を指す。旧字体では『屬』と表記され、現代では『属』と書かれることが一般的。"
+  },
+  {
+    "surface": "附屬",
+    "pronunciation": "フゾク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "主となるものに付属していること、またはその状態や物を指す。旧字体では『附屬』と表記され、現代では『付属』と書かれることが一般的。"
+  },
+  {
+    "surface": "遲く",
+    "pronunciation": "オソク",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "時間が遅い状態や動作が遅れることを表す。旧字体では『遲く』と表記され、現代では『遅く』と書かれることが一般的。"
+  },
+  {
+    "surface": "中學",
+    "pronunciation": "チュウガク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "中等教育を行う学校、またはその期間を指す。主に日本では中学校を意味する。旧字体では『中學』と表記され、現代では『中学』と書かれることが一般的。"
+  },
+  {
+    "surface": "巖石",
+    "pronunciation": "ガンセキ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "地殻を構成する堅い物質である岩と石の総称。旧字体では『巖石』と表記され、現代では『岩石』と書かれることが一般的。"
+  },
+  {
+    "surface": "滿洲",
+    "pronunciation": "マンシュウ",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "東北アジアの地域名で、現在の中国東北部とロシアの一部を含む広域を指す。旧字体では『滿洲』と表記され、現代では『満州』と書かれることが一般的。かつて満洲国として知られる国がこの地域に存在した。"
+  },
+  {
+    "surface": "石徑",
+    "pronunciation": "セッケイ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "石で作られた道や小道を指す表現。旧字体では『石徑』と表記され、現代では『石径』と書かれることが一般的。"
+  },
+  {
+    "surface": "靈驗",
+    "pronunciation": "レイゲン",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "神仏や霊的な存在の加護や祈りの効き目が現れること。旧字体では『靈驗』と表記され、現代では『霊験』と書かれることが一般的。"
+  },
+  {
+    "surface": "異國",
+    "pronunciation": "イコク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "自国ではない他の国を指す表現。異郷や外国とも言う。旧字体では『異國』と表記され、現代では『異国』と書かれることが一般的。"
+  },
+  {
+    "surface": "發掘",
+    "pronunciation": "ハックツ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "埋もれたものを掘り出すこと。または、隠れた才能や資源を見つけ出すことを比喩的に表現する場合にも使われる。旧字体では『發掘』と表記され、現代では『発掘』と書かれることが一般的。"
+  },
+  {
+    "surface": "樓閣",
+    "pronunciation": "ロウカク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "高く建てられた壮麗な建築物や塔のことを指す。旧字体では『樓閣』と表記され、現代では『楼閣』と書かれることが一般的。"
+  },
+  {
+    "surface": "邊",
+    "pronunciation": "アタリ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "近辺や付近、周辺の場所を指す表現。旧字体では『邊』と表記され、現代では『辺』と書くことが一般的。"
+  },
+  {
+    "surface": "學者",
+    "pronunciation": "ガクシャ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "学問に励む人、または専門分野で学問を究めた人物を指す。現在は『学者』と表記することが一般的。"
+  },
+  {
+    "surface": "以來",
+    "pronunciation": "イライ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "ある時点を起点として、その後に続く時間や状況を指す。現在は『以来』と表記することが一般的。"
+  },
   {
     "surface": "孤獨",
     "pronunciation": "コドク",
