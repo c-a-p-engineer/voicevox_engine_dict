@@ -1,12 +1,12 @@
-[{
-  "surface": "行はれ",
-  "pronunciation": "オコナワレ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "物事が実際に実施されることを指す。旧仮名遣いでは『行はれ』と表記され、現代仮名遣いでは『行われ』が一般的。"
-}
-,
+[
+  {
+    "surface": "行はれ",
+    "pronunciation": "オコナワレ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "物事が実際に実施されることを指す。旧仮名遣いでは『行はれ』と表記され、現代仮名遣いでは『行われ』が一般的。"
+  },
   {
     "surface": "現はし",
     "pronunciation": "アラワシ",
