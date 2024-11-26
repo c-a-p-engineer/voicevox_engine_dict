@@ -1,5 +1,13 @@
 [
   {
+  "surface": "Sadistic",
+  "pronunciation": "サディスティック",
+  "accent_type": 3,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "他者に苦痛を与えることに快感を覚える性質や行為を指す。心理学的にはサディズム（加虐性）の形容詞形として用いられる。日常会話では、他人に厳しく接する態度や意地悪な性格を軽い意味で表現する場合にも使われる。"
+},
+  {
     "surface": "add",
     "pronunciation": "アッド",
     "accent_type": 1,
