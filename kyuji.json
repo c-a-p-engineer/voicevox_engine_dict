@@ -1,5 +1,14 @@
 [
   {
+  "surface": "この邊",
+  "pronunciation": "コノヘン",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "話し手の近くの場所や範囲を指す表現。旧字表記では『この邊』と書かれるが、現代では『この辺』と表記されることが一般的。"
+}
+,
+  {
     "surface": "壞れ",
     "pronunciation": "コワレ",
     "accent_type": 3,
