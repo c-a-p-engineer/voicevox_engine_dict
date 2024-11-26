@@ -1,13 +1,12 @@
 [
   {
-  "surface": "拾つた",
-  "pronunciation": "ヒロッタ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "地面や周囲に落ちているものを手に取る、拾い上げる行為を指す。旧仮名遣いでは『拾つた』と表記され、現代仮名遣いでは『拾った』が一般的。"
-}
-,
+    "surface": "拾つた",
+    "pronunciation": "ヒロッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "地面や周囲に落ちているものを手に取る、拾い上げる行為を指す。旧仮名遣いでは『拾つた』と表記され、現代仮名遣いでは『拾った』が一般的。"
+  },
   {
     "surface": "いつまでも／＼",
     "pronunciation": "イツマデモイツマデモ",
