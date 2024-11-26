@@ -2434,147 +2434,165 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "食べることを他人に強いられる、または食べるよう仕向けられることを指す旧仮名遣い表記。現代では『食べさせられて』と表記されることが一般的。"
-  }, {
-  "surface": "とう／＼",
-  "pronunciation": "トウトウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "主に古文で使用され、『ようやく』『いよいよ』の意味を持つ表現。強調や結果として到達するニュアンスを含む古風な言い回し。"
-}, {
-  "surface": "いら／＼",
-  "pronunciation": "イライラ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "感情が高ぶり、不快や苛立ちを感じる様子を表す擬態語。現代でも『イライラ』として広く使われている表現。"
-},{
-  "surface": "云ひ",
-  "pronunciation": "イイ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "言葉を使って何かを伝えることを指す旧仮名遣い表記。現代では『言い』と表記されることが一般的。主に話す行為や言葉の内容を示す。"
-}, {
-  "surface": "云ふ",
-  "pronunciation": "イウ",
-  "accent_type": 1,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "言葉を使って何かを伝える行為を指す旧字・旧仮名遣い表記。現代では『言う』と表記されることが一般的。主に話すことや言葉を発する行為を表現する。"
-}
-,{
-  "surface": "叱つて",
-  "pronunciation": "シカッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "他人の過ちや間違いを厳しく注意することを指す旧仮名遣い表記。現代では『叱って』と表記されることが一般的。"
-}, {
-  "surface": "はら／＼",
-  "pronunciation": "ハラハラ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "心配や緊張、不安などで気持ちが落ち着かない様子を表す擬態語。現代でも『ハラハラ』として広く使われている表現。"
-}, {
-  "surface": "ます／＼",
-  "pronunciation": "マスマス",
-  "accent_type": 1,
-  "word_type": "ADVERB",
-  "priority": 6,
-  "meaning": "程度が一層高まるさま、またはさらに進む様子を表す古風な表現。現代でも『ますます』として用いられ、『ます／＼』は古文や文語で見られる表記。"
-},{
-  "surface": "ぐん／＼",
-  "pronunciation": "グングン",
-  "accent_type": 1,
-  "word_type": "ADVERB",
-  "priority": 6,
-  "meaning": "物事が勢いよく進んでいく様子を表す擬態語。現代でも『ぐんぐん』として広く使われている表現。"
-},{
-  "surface": "パヽ",
-  "pronunciation": "パパ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "幼児語や親しみを込めた表現で父親を指す。現代では『パパ』と表記されることが一般的。"
-},{
-  "surface": "マヽ",
-  "pronunciation": "ママ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "幼児語や親しみを込めた表現で母親を指す。現代では『ママ』と表記されることが一般的。"
-},{
-  "surface": "去つて",
-  "pronunciation": "サッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "その場や状況から離れる、または過ぎ去る動作を指す旧仮名遣い表記。現代では『去って』と表記されることが一般的。"
-},{
-  "surface": "加はつて",
-  "pronunciation": "クワワッテ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "集団や活動に新たに参加する、または数や量が増えることを指す旧仮名遣い表記。現代では『加わって』と表記されることが一般的。"
-},{
-  "surface": "振返つて",
-  "pronunciation": "フリカエッテ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "過去の出来事や背後にあるものを思い出したり、振り向いて確認する動作を指す旧仮名遣い表記。現代では『振り返って』と表記されることが一般的。"
-},{
-  "surface": "返つて",
-  "pronunciation": "カエッテ",
-  "accent_type": 3,
-  "word_type": "ADVERB",
-  "priority": 7,
-  "meaning": "予想外の結果や状況を示す際に使われる表現で、『むしろ』や『逆に』という意味を持つ。旧仮名遣いでは『返つて』と表記されるが、現代では『かえって』と表記される。"
-},{
-  "surface": "ばら／＼",
-  "pronunciation": "バラバラ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "物や人が統一感を失い、散らばったり分裂したりしている様子を表す擬態語。現代でも『バラバラ』として広く使われる表現。"
-},{
-  "surface": "陰欝",
-  "pronunciation": "インウツ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "陰気で鬱屈した雰囲気や状態を指す旧字表記。現代では『陰鬱』と表記されることが一般的。心や天候などの暗い様子を表現する際に使われる。"
-},{
-  "surface": "被つた",
-  "pronunciation": "コウムッタ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "恩恵や損害を受けたことを指す旧仮名遣い表記。主に文語体や古風な表現で使用される。現代では『被った』と表記される。"
-},{
-  "surface": "被つた",
-  "pronunciation": "カブッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物を頭や体に覆うように身につけたり、何かが重なる状態になることを指す旧仮名遣い表記。現代では『被った』と表記される。"
-},{
-  "surface": "でも／＼",
-  "pronunciation": "デモデモ",
-  "accent_type": 1,
-  "word_type": "ADVERB",
-  "priority": 6,
-  "meaning": "どれもこれもという意味を表し、さまざまな可能性や選択肢を示す表現。古風な文体で使用されることがあり、現代では『でもでも』として軽い繰り返しの表現で使われる場合もある。"
-},{
-  "surface": "思はせ",
-  "pronunciation": "オモワセ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "他人に何かを思わせる、考えさせる行為を指す旧仮名遣い表記。現代では『思わせ』と表記されることが一般的。"
-}
-
+  },
+  {
+    "surface": "とう／＼",
+    "pronunciation": "トウトウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "主に古文で使用され、『ようやく』『いよいよ』の意味を持つ表現。強調や結果として到達するニュアンスを含む古風な言い回し。"
+  },
+  {
+    "surface": "いら／＼",
+    "pronunciation": "イライラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "感情が高ぶり、不快や苛立ちを感じる様子を表す擬態語。現代でも『イライラ』として広く使われている表現。"
+  },
+  {
+    "surface": "云ひ",
+    "pronunciation": "イイ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "言葉を使って何かを伝えることを指す旧仮名遣い表記。現代では『言い』と表記されることが一般的。主に話す行為や言葉の内容を示す。"
+  },
+  {
+    "surface": "云ふ",
+    "pronunciation": "イウ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "言葉を使って何かを伝える行為を指す旧字・旧仮名遣い表記。現代では『言う』と表記されることが一般的。主に話すことや言葉を発する行為を表現する。"
+  },
+  {
+    "surface": "叱つて",
+    "pronunciation": "シカッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "他人の過ちや間違いを厳しく注意することを指す旧仮名遣い表記。現代では『叱って』と表記されることが一般的。"
+  },
+  {
+    "surface": "はら／＼",
+    "pronunciation": "ハラハラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "心配や緊張、不安などで気持ちが落ち着かない様子を表す擬態語。現代でも『ハラハラ』として広く使われている表現。"
+  },
+  {
+    "surface": "ます／＼",
+    "pronunciation": "マスマス",
+    "accent_type": 1,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "程度が一層高まるさま、またはさらに進む様子を表す古風な表現。現代でも『ますます』として用いられ、『ます／＼』は古文や文語で見られる表記。"
+  },
+  {
+    "surface": "ぐん／＼",
+    "pronunciation": "グングン",
+    "accent_type": 1,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "物事が勢いよく進んでいく様子を表す擬態語。現代でも『ぐんぐん』として広く使われている表現。"
+  },
+  {
+    "surface": "パヽ",
+    "pronunciation": "パパ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "幼児語や親しみを込めた表現で父親を指す。現代では『パパ』と表記されることが一般的。"
+  },
+  {
+    "surface": "マヽ",
+    "pronunciation": "ママ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "幼児語や親しみを込めた表現で母親を指す。現代では『ママ』と表記されることが一般的。"
+  },
+  {
+    "surface": "去つて",
+    "pronunciation": "サッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "その場や状況から離れる、または過ぎ去る動作を指す旧仮名遣い表記。現代では『去って』と表記されることが一般的。"
+  },
+  {
+    "surface": "加はつて",
+    "pronunciation": "クワワッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "集団や活動に新たに参加する、または数や量が増えることを指す旧仮名遣い表記。現代では『加わって』と表記されることが一般的。"
+  },
+  {
+    "surface": "振返つて",
+    "pronunciation": "フリカエッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "過去の出来事や背後にあるものを思い出したり、振り向いて確認する動作を指す旧仮名遣い表記。現代では『振り返って』と表記されることが一般的。"
+  },
+  {
+    "surface": "返つて",
+    "pronunciation": "カエッテ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "予想外の結果や状況を示す際に使われる表現で、『むしろ』や『逆に』という意味を持つ。旧仮名遣いでは『返つて』と表記されるが、現代では『かえって』と表記される。"
+  },
+  {
+    "surface": "ばら／＼",
+    "pronunciation": "バラバラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "物や人が統一感を失い、散らばったり分裂したりしている様子を表す擬態語。現代でも『バラバラ』として広く使われる表現。"
+  },
+  {
+    "surface": "陰欝",
+    "pronunciation": "インウツ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "陰気で鬱屈した雰囲気や状態を指す旧字表記。現代では『陰鬱』と表記されることが一般的。心や天候などの暗い様子を表現する際に使われる。"
+  },
+  {
+    "surface": "被つた",
+    "pronunciation": "コウムッタ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "恩恵や損害を受けたことを指す旧仮名遣い表記。主に文語体や古風な表現で使用される。現代では『被った』と表記される。"
+  },
+  {
+    "surface": "被つた",
+    "pronunciation": "カブッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物を頭や体に覆うように身につけたり、何かが重なる状態になることを指す旧仮名遣い表記。現代では『被った』と表記される。"
+  },
+  {
+    "surface": "でも／＼",
+    "pronunciation": "デモデモ",
+    "accent_type": 1,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "どれもこれもという意味を表し、さまざまな可能性や選択肢を示す表現。古風な文体で使用されることがあり、現代では『でもでも』として軽い繰り返しの表現で使われる場合もある。"
+  },
+  {
+    "surface": "思はせ",
+    "pronunciation": "オモワセ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "他人に何かを思わせる、考えさせる行為を指す旧仮名遣い表記。現代では『思わせ』と表記されることが一般的。"
+  }
 ]
