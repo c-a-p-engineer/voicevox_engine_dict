@@ -1,13 +1,12 @@
 [
   {
-  "surface": "遇つて",
-  "pronunciation": "アッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "人や出来事に出会う、または遭遇することを指す旧仮名遣い表記。現代では『遇って』または『会って』と表記されることが一般的。"
-}
-,
+    "surface": "遇つて",
+    "pronunciation": "アッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "人や出来事に出会う、または遭遇することを指す旧仮名遣い表記。現代では『遇って』または『会って』と表記されることが一般的。"
+  },
   {
     "surface": "奪ひ",
     "pronunciation": "ウバイ",
