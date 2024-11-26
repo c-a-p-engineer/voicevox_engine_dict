@@ -2626,5 +2626,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "二つ以上のものが一致しないこと、または異なる点を指す旧仮名遣い表記。現代では『違い』と表記されることが一般的。"
+  },
+  {
+    "surface": "しみ／″＼",
+    "pronunciation": "シミジミ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "深く心にしみ入るような感情や、しんみりとした気持ちを表す擬態語。現代でも『しみじみ』として用いられ、物事を深く味わう様子を指す。"
   }
 ]
