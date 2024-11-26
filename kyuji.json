@@ -1,44 +1,45 @@
-[{
-  "surface": "悒鬱",
-  "pronunciation": "ユウウツ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "心がふさぎ、晴れない状態を指す旧字表記。現代では『憂鬱』と表記されることが一般的。深い悩みや悲しみを伴う暗い感情を表現する際に用いられる。"
-}
-,{
-  "surface": "壓倒",
-  "pronunciation": "アットウ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "力や勢いで相手を圧倒することを指す旧字表記。現代では『圧倒』と表記されることが一般的。特に比べ物にならないほど優れている場合に用いられる。"
-},{
-  "surface": "囘復",
-  "pronunciation": "カイフク",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "元の状態に戻ることや、健康や状況が正常な状態に戻ることを指す旧字表記。現代では『回復』と表記されることが一般的。"
-}
-,{
-  "surface": "眞額",
-  "pronunciation": "マツカフ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "物事の真実や本質を直接的に受け止めることを表す古語表現。『真額』と書かれることもあり、特に正面から事に当たる態度を意味する。現代では使用されることが少ない表現。"
-}
-,
-{
-  "surface": "充實",
-  "pronunciation": "ジュウジツ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "内容が豊かで満たされていることを指す旧字表記。現代では『充実』と表記されることが一般的。時間や生活、内容などが有意義である様子を表現する際に用いられる。"
-}
-,  {
+[
+  {
+    "surface": "悒鬱",
+    "pronunciation": "ユウウツ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "心がふさぎ、晴れない状態を指す旧字表記。現代では『憂鬱』と表記されることが一般的。深い悩みや悲しみを伴う暗い感情を表現する際に用いられる。"
+  },
+  {
+    "surface": "壓倒",
+    "pronunciation": "アットウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "力や勢いで相手を圧倒することを指す旧字表記。現代では『圧倒』と表記されることが一般的。特に比べ物にならないほど優れている場合に用いられる。"
+  },
+  {
+    "surface": "囘復",
+    "pronunciation": "カイフク",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "元の状態に戻ることや、健康や状況が正常な状態に戻ることを指す旧字表記。現代では『回復』と表記されることが一般的。"
+  },
+  {
+    "surface": "眞額",
+    "pronunciation": "マツカフ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "物事の真実や本質を直接的に受け止めることを表す古語表現。『真額』と書かれることもあり、特に正面から事に当たる態度を意味する。現代では使用されることが少ない表現。"
+  },
+  {
+    "surface": "充實",
+    "pronunciation": "ジュウジツ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "内容が豊かで満たされていることを指す旧字表記。現代では『充実』と表記されることが一般的。時間や生活、内容などが有意義である様子を表現する際に用いられる。"
+  },
+  {
     "surface": "醒覺",
     "pronunciation": "セイカク",
     "accent_type": 3,
