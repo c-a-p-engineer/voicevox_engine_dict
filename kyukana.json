@@ -1,9 +1,9 @@
 [
   {
-    "surface": "われわれ",
+    "surface": "われ／＼",
     "pronunciation": "ワレワレ",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "話し手を含む集団を指す一人称複数形の代名詞。主にフォーマルな場面や文章で使用される。『私たち』とほぼ同義だが、堅い表現として用いられることが多い。"
   },
@@ -19,7 +19,7 @@
     "surface": "いち／＼",
     "pronunciation": "イチイチ",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "物事を一つずつ順を追って行うさま、または細かいことまで一つ一つ取り上げるさまを表す。時に、煩わしさを含むニュアンスでも使用される。"
   },
@@ -27,7 +27,7 @@
     "surface": "いろ／＼",
     "pronunciation": "イロイロ",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "多様なもの、またはさまざまな種類や状態を指す。日常会話や文章で頻繁に使われる柔軟な表現。"
   },
