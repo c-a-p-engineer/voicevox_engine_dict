@@ -1,28 +1,12 @@
-[{
-  "surface": "くしや／＼",
-  "pronunciation": "クシャクシャ",
-  "accent_type": 0,
-  "word_type": "ADJECTIVE",
-  "priority": 7,
-  "meaning": "しわが多く寄ったり、物が乱れたりした状態を指す形容詞。たとえば、『紙をくしやくしやにする』は『紙をしわくちゃにする』という意味。感情的には落ち込んだり、元気がない様子を表す場合もある。"
-}
-,
+[
   {
-  "surface": "あを／＼",
-  "pronunciation": "アオアオ",
-  "accent_type": 0,
-  "word_type": "ADJECTIVE",
-  "priority": 7,
-  "meaning": "古典的な表現で、深い青色や青々とした状態を指す形容詞。自然や植物の新鮮さ、生命力を強調する際に使われる。現代仮名遣いでは『青々』と書かれることが多い。"
-},{
-  "surface": "オヽ",
-  "pronunciation": "オオ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "感嘆や驚き、喜びを表現する古典的な表現。詩や古文で感情を強調する際に用いられる。現代では『おお』と書かれることが一般的。"
-}
-,
+    "surface": "あを／＼",
+    "pronunciation": "アオアオ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "古典的な表現で、深い青色や青々とした状態を指す形容詞。自然や植物の新鮮さ、生命力を強調する際に使われる。現代仮名遣いでは『青々』と書かれることが多い。"
+  },
   {
     "surface": "あゝ",
     "pronunciation": "アア",
@@ -177,6 +161,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "くしや／＼",
+    "pronunciation": "クシャクシャ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "しわが多く寄ったり、物が乱れたりした状態を指す形容詞。たとえば、『紙をくしやくしやにする』は『紙をしわくちゃにする』という意味。感情的には落ち込んだり、元気がない様子を表す場合もある。"
   },
   {
     "surface": "くゝ",
@@ -1080,6 +1072,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "オヽ",
+    "pronunciation": "オオ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "感嘆や驚き、喜びを表現する古典的な表現。詩や古文で感情を強調する際に用いられる。現代では『おお』と書かれることが一般的。"
   },
   {
     "surface": "カゝ",
