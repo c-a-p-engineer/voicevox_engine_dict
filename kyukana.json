@@ -1,5 +1,22 @@
 [
   {
+  "surface": "難有い",
+  "pronunciation": "アリガタイ",
+  "accent_type": 3,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "感謝すべき状況や価値のあることに対して使われる形容詞。旧字体では『難有い』と表記され、現代では『有り難い』と書かれることが多い。たとえば、『ご親切が難有い』は『ご親切がありがたい』という意味。"
+},
+  {
+  "surface": "難有い／＼",
+  "pronunciation": "アリガタイアリガタイ",
+  "accent_type": 3,
+  "word_type": "ADJECTIVE",
+  "priority": 7,
+  "meaning": "感謝や喜びを強調する際の繰り返し表現。たとえば、『こんな幸運は難有い難有い』は『こんな幸運は本当にありがたい』という意味。"
+}
+,
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -172,7 +189,7 @@
   },
   {
     "surface": "くわつくわう／＼",
-    "pronunciation": "クワックワウックワックワウ",
+    "pronunciation": "クワックワウクワックワウ",
     "accent_type": 0,
     "word_type": "COMMON_NOUN",
     "priority": 5,
