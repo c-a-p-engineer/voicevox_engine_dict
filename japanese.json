@@ -1,18 +1,4 @@
-[{
-  "surface": "燁子",
-  "pronunciation": "ヨウコ",
-  "accent_type": 2,
-  "word_type": "PROPER_NOUN",
-  "priority": 9,
-  "meaning": "日本人の女性名として使用されることがある名前。『燁』は『輝く』や『明るい』という意味を持つ漢字で、ポジティブな意味合いが込められている。"
-},{
-  "surface": "燁",
-  "pronunciation": "ヨウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "光り輝く様子や鮮やかな輝きを表す漢字。名前や詩的な表現で使用されることがある。"
-},
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -268,6 +254,22 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "液体がしずくとなって垂れることを表す。旧仮名遣いでは『滴たり』と表記され、現代仮名遣いでは『滴ったり』と書かれることが一般的。"
+  },
+  {
+    "surface": "燁",
+    "pronunciation": "ヨウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "光り輝く様子や鮮やかな輝きを表す漢字。名前や詩的な表現で使用されることがある。"
+  },
+  {
+    "surface": "燁子",
+    "pronunciation": "ヨウコ",
+    "accent_type": 2,
+    "word_type": "PROPER_NOUN",
+    "priority": 9,
+    "meaning": "日本人の女性名として使用されることがある名前。『燁』は『輝く』や『明るい』という意味を持つ漢字で、ポジティブな意味合いが込められている。"
   },
   {
     "surface": "珍らし",
