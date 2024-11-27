@@ -1,4 +1,4 @@
-name: Format JSON Files on Push
+name: Format and Sort JSON Files on Push
 
 on:
   push:
@@ -18,8 +18,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # JSONファイルを検索して整形
-      - name: Format JSON Files
+      # jqをインストール
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      # JSONファイルを検索して整形・ソート
+      - name: Format and Sort JSON Files
         run: |
           echo "Searching for JSON files..."
           JSON_FILES=$(find . -type f -name "*.json")
@@ -31,13 +35,13 @@ jobs:
           echo "Found JSON files:"
           echo "$JSON_FILES"
 
-          # 整形して差分を確認
+          # 整形とソートを実施
           for file in $JSON_FILES; do
-            echo "Checking: $file"
+            echo "Processing: $file"
             TEMP_FILE="${file}.tmp"
-            jq . "$file" > "$TEMP_FILE"
+            jq 'sort_by(.surface)' "$file" > "$TEMP_FILE" 2>/dev/null || { echo "Skipping invalid JSON: $file"; continue; }
             if ! diff -q "$file" "$TEMP_FILE" > /dev/null; then
-              echo "Formatting: $file"
+              echo "Formatting and sorting: $file"
               mv "$TEMP_FILE" "$file"
             else
               echo "No changes in: $file"
@@ -56,7 +60,7 @@ jobs:
             echo "Committing the following changes:"
             git status --porcelain
             git add .
-            git commit -m "Format JSON files"
+            git commit -m "Format and sort JSON files"
             git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:master
           else
             echo "No changes to commit."
