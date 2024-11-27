@@ -1,14 +1,5 @@
 [
   {
-  "surface": "くわつくわう／＼",
-  "pronunciation": "クワックワウックワックワウ",
-  "accent_type": 0,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "古典的な表現で、何かを噛むような音や動作を指す擬音的表現。特定の状況や動作に応じた文脈で使用されるが、現代ではほとんど見られない表現。"
-}
-,
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -178,6 +169,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "しわが多く寄ったり、物が乱れたりした状態を指す形容詞。たとえば、『紙をくしやくしやにする』は『紙をしわくちゃにする』という意味。感情的には落ち込んだり、元気がない様子を表す場合もある。"
+  },
+  {
+    "surface": "くわつくわう／＼",
+    "pronunciation": "クワックワウックワックワウ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "古典的な表現で、何かを噛むような音や動作を指す擬音的表現。特定の状況や動作に応じた文脈で使用されるが、現代ではほとんど見られない表現。"
   },
   {
     "surface": "くゝ",
