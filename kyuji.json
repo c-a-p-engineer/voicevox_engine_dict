@@ -1,219 +1,11 @@
 [
   {
-    "surface": "附添",
-    "pronunciation": "ツキソイ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "他のものに添えられること、または補助的な役割として付き添うことを指す。旧字体では『附添』と表記され、現代では『付添』と書かれることが一般的。"
-  },
-  {
-    "surface": "擔いで",
-    "pronunciation": "カツイデ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物を肩に乗せて運ぶこと、または責任や負担を引き受けることを指す。旧字体では『擔いで』と表記され、現代では『担いで』と書かれることが一般的。"
-  },
-  {
-    "surface": "擔ぐ",
-    "pronunciation": "カツグ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "物を肩に乗せて運ぶ行為を指す。また、比喩的に他人をだましたり、祭りの神輿を担ぐなどの意味でも使われる。旧字体では『擔ぐ』と表記され、現代では『担ぐ』と書かれることが一般的。"
-  },
-  {
-    "surface": "學",
-    "pronunciation": "ガク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "知識や技能を学ぶこと、または学問そのものを指す。旧字体では『學』と表記され、現代では『学』と書かれることが一般的。"
-  },
-  {
-    "surface": "變へて",
-    "pronunciation": "カエテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物事の状態や形が変化することを指す。旧字体では『變へて』と表記され、現代仮名遣いでは『変えて』が一般的。"
-  },
-  {
-    "surface": "轉々",
-    "pronunciation": "テンテン",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物が転がるように移動する様子や、状況や場所が次々に変わる様子を表す。旧字体では『轉々』と表記され、現代では『転々』と書かれることが一般的。"
-  },
-  {
-    "surface": "屡",
-    "pronunciation": "シバシバ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "頻繁に、何度も繰り返されることを指す表現。古典的な漢字表記で、現代日本語では平仮名の『しばしば』が一般的に用いられる。"
-  },
-  {
-    "surface": "續け",
-    "pronunciation": "ツヅケ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "動作や状態を途切れることなく継続させることを指す。旧字体では『續け』と表記され、現代では『続け』と書かれることが一般的。"
-  },
-  {
-    "surface": "中挫",
-    "pronunciation": "チュウザ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "計画や進行中の物事が途中で挫折することを指す表現。旧字体では『中挫』と書かれるが、現代では『中座』や『中断』の方が一般的に使われる。"
-  },
-  {
-    "surface": "蔽はれ",
-    "pronunciation": "オオワレ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "覆い隠される、遮られるという意味を持つ。旧仮名遣いでは『蔽はれて』と表記され、現代仮名遣いでは『覆われて』が一般的。"
-  },
-  {
-    "surface": "屬",
-    "pronunciation": "ゾク",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "特定のグループやカテゴリーに属することを意味する。または生物学で分類上の『属（ゾク）』を指す。旧字体では『屬』と表記され、現代では『属』と書かれることが一般的。"
-  },
-  {
-    "surface": "附屬",
-    "pronunciation": "フゾク",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "主となるものに付属していること、またはその状態や物を指す。旧字体では『附屬』と表記され、現代では『付属』と書かれることが一般的。"
-  },
-  {
-    "surface": "遲く",
-    "pronunciation": "オソク",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "時間が遅い状態や動作が遅れることを表す。旧字体では『遲く』と表記され、現代では『遅く』と書かれることが一般的。"
-  },
-  {
-    "surface": "中學",
-    "pronunciation": "チュウガク",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "中等教育を行う学校、またはその期間を指す。主に日本では中学校を意味する。旧字体では『中學』と表記され、現代では『中学』と書かれることが一般的。"
-  },
-  {
-    "surface": "巖石",
-    "pronunciation": "ガンセキ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "地殻を構成する堅い物質である岩と石の総称。旧字体では『巖石』と表記され、現代では『岩石』と書かれることが一般的。"
-  },
-  {
-    "surface": "滿洲",
-    "pronunciation": "マンシュウ",
-    "accent_type": 0,
-    "word_type": "PROPER_NOUN",
-    "priority": 8,
-    "meaning": "東北アジアの地域名で、現在の中国東北部とロシアの一部を含む広域を指す。旧字体では『滿洲』と表記され、現代では『満州』と書かれることが一般的。かつて満洲国として知られる国がこの地域に存在した。"
-  },
-  {
-    "surface": "石徑",
-    "pronunciation": "セッケイ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "石で作られた道や小道を指す表現。旧字体では『石徑』と表記され、現代では『石径』と書かれることが一般的。"
-  },
-  {
-    "surface": "靈驗",
-    "pronunciation": "レイゲン",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "神仏や霊的な存在の加護や祈りの効き目が現れること。旧字体では『靈驗』と表記され、現代では『霊験』と書かれることが一般的。"
-  },
-  {
-    "surface": "異國",
-    "pronunciation": "イコク",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "自国ではない他の国を指す表現。異郷や外国とも言う。旧字体では『異國』と表記され、現代では『異国』と書かれることが一般的。"
-  },
-  {
-    "surface": "發掘",
-    "pronunciation": "ハックツ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "埋もれたものを掘り出すこと。または、隠れた才能や資源を見つけ出すことを比喩的に表現する場合にも使われる。旧字体では『發掘』と表記され、現代では『発掘』と書かれることが一般的。"
-  },
-  {
-    "surface": "樓閣",
-    "pronunciation": "ロウカク",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "高く建てられた壮麗な建築物や塔のことを指す。旧字体では『樓閣』と表記され、現代では『楼閣』と書かれることが一般的。"
-  },
-  {
-    "surface": "邊",
-    "pronunciation": "アタリ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "近辺や付近、周辺の場所を指す表現。旧字体では『邊』と表記され、現代では『辺』と書くことが一般的。"
-  },
-  {
-    "surface": "學者",
-    "pronunciation": "ガクシャ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "学問に励む人、または専門分野で学問を究めた人物を指す。現在は『学者』と表記することが一般的。"
-  },
-  {
-    "surface": "以來",
-    "pronunciation": "イライ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "ある時点を起点として、その後に続く時間や状況を指す。現在は『以来』と表記することが一般的。"
-  },
-  {
-    "surface": "孤獨",
-    "pronunciation": "コドク",
+    "surface": "お經",
+    "pronunciation": "オキョウ",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "一人でいること、または他者とのつながりを持たない状態を指す旧字表記。現代では『孤独』と表記されることが一般的。"
-  },
-  {
-    "surface": "瀉ぎ",
-    "pronunciation": "ソギ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "液体を注ぎ出す、または流し出す行為を指す旧字表記。現代では『注ぎ』や『流し』と表記されることが一般的。"
-  },
-  {
-    "surface": "見當ら",
-    "pronunciation": "ミアタラ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "目で確認することができる、または見つかることを否定的に表現する際に用いる古風な言い回し。現代では『見当たら』と表記されることが一般的。"
+    "meaning": "仏教において、経典を指す敬称。現代では『お経』と書くことが一般的。"
   },
   {
     "surface": "この邊",
@@ -224,14 +16,6 @@
     "meaning": "話し手の近くの場所や範囲を指す表現。旧字表記では『この邊』と書かれるが、現代では『この辺』と表記されることが一般的。"
   },
   {
-    "surface": "壞れ",
-    "pronunciation": "コワレ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "物が損傷して元の機能や形を失った状態を指す旧字表記。現代では『壊れ』と表記されることが一般的。"
-  },
-  {
     "surface": "その邊",
     "pronunciation": "ソノヘン",
     "accent_type": 4,
@@ -240,220 +24,52 @@
     "meaning": "特定の場所や範囲、または状況について指す表現。旧字表記では『その邊は』と書かれるが、現代では『その辺は』と表記されることが一般的。"
   },
   {
-    "surface": "會話",
-    "pronunciation": "カイワ",
-    "accent_type": 2,
+    "surface": "中學",
+    "pronunciation": "チュウガク",
+    "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "人と人が話し合い、言葉を通じて意思や情報を交換する行為を指す旧字表記。現代では『会話』と表記されることが一般的。"
+    "priority": 8,
+    "meaning": "中等教育を行う学校、またはその期間を指す。主に日本では中学校を意味する。旧字体では『中學』と表記され、現代では『中学』と書かれることが一般的。"
   },
   {
-    "surface": "眞向",
-    "pronunciation": "マッコウ",
-    "accent_type": 3,
+    "surface": "中挫",
+    "pronunciation": "チュウザ",
+    "accent_type": 0,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "正面や真正面を指す旧字表記。現代では『真向』と表記されることが一般的。比喩的に、正面から向き合う態度や対立する状況を指す場合にも使われる。"
+    "priority": 6,
+    "meaning": "計画や進行中の物事が途中で挫折することを指す表現。旧字体では『中挫』と書かれるが、現代では『中座』や『中断』の方が一般的に使われる。"
   },
   {
-    "surface": "兒",
-    "pronunciation": "コ",
+    "surface": "中繼",
+    "pronunciation": "チュウケイ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "子ども、または幼い人を指す旧字表記。現代では『子』と表記されることが一般的。古典的な文脈や詩的表現で使われる場合がある。"
-  },
-  {
-    "surface": "尨大",
-    "pronunciation": "ボウダイ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "非常に大きく、膨らみすぎた状態を指す旧字表記。現代では『膨大』と表記されることが一般的。規模や数量が並外れて大きいことを示す。"
+    "meaning": "中継。物事や情報を途中で受け渡し、次に繋ぐことを指す。現代では『中継』と書くことが一般的。"
   },
   {
-    "surface": "悒鬱",
-    "pronunciation": "ユウウツ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "心がふさぎ、晴れない状態を指す旧字表記。現代では『憂鬱』と表記されることが一般的。深い悩みや悲しみを伴う暗い感情を表現する際に用いられる。"
-  },
-  {
-    "surface": "壓倒",
-    "pronunciation": "アットウ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "力や勢いで相手を圧倒することを指す旧字表記。現代では『圧倒』と表記されることが一般的。特に比べ物にならないほど優れている場合に用いられる。"
-  },
-  {
-    "surface": "囘復",
-    "pronunciation": "カイフク",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "元の状態に戻ることや、健康や状況が正常な状態に戻ることを指す旧字表記。現代では『回復』と表記されることが一般的。"
-  },
-  {
-    "surface": "眞額",
-    "pronunciation": "マツカフ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "物事の真実や本質を直接的に受け止めることを表す古語表現。『真額』と書かれることもあり、特に正面から事に当たる態度を意味する。現代では使用されることが少ない表現。"
-  },
-  {
-    "surface": "充實",
-    "pronunciation": "ジュウジツ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "内容が豊かで満たされていることを指す旧字表記。現代では『充実』と表記されることが一般的。時間や生活、内容などが有意義である様子を表現する際に用いられる。"
-  },
-  {
-    "surface": "醒覺",
-    "pronunciation": "セイカク",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "目覚めることや、意識がはっきりすることを指す旧字表記。現代では『覚醒』や『目覚め』と表記されることが一般的。特に精神的な覚醒を示す場合に用いられることがある。"
-  },
-  {
-    "surface": "出會ふ",
-    "pronunciation": "デアウ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "人や物事と偶然に出会うことを指す旧字・旧仮名遣い表記。現代では『出会う』と表記されることが一般的。"
-  },
-  {
-    "surface": "畫題",
-    "pronunciation": "ガダイ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "絵画の主題やテーマを指す旧字表記。現代では『画題』と表記されることが一般的。特に芸術作品における内容やテーマを表現する際に用いられる。"
-  },
-  {
-    "surface": "畫伯",
-    "pronunciation": "ガハク",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "画家に対する敬称、または高名な画家を指す旧字表記。現代では『画伯』と表記されることが一般的。特に絵画の世界で尊敬を込めて用いられる表現。"
-  },
-  {
-    "surface": "畫く",
-    "pronunciation": "カク",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "絵や図を描く行為を指す旧字表記。現代では『描く』と表記されることが一般的。"
-  },
-  {
-    "surface": "畫き",
-    "pronunciation": "カキ",
+    "surface": "乘つた",
+    "pronunciation": "ノッタ",
     "accent_type": 2,
     "word_type": "VERB",
     "priority": 7,
-    "meaning": "絵や図を描く行為の連用形を指す旧字表記。現代では『描き』と表記されることが一般的。"
+    "meaning": "乗り物やある対象の上に身を置いたり、その状態になった過去の行為を指す。旧字・旧仮名遣いでは『乘つた』と表記されるが、現代では『乗った』が一般的。"
   },
   {
-    "surface": "處",
-    "pronunciation": "トコロ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "場所、または事柄が存在する特定の位置や状況を指す旧字表記。現代では『処』と表記されることが一般的。例として『処理』『処遇』などの言葉に用いられる。"
-  },
-  {
-    "surface": "卷き",
-    "pronunciation": "マキ",
+    "surface": "乘つて",
+    "pronunciation": "ノッテ",
     "accent_type": 2,
     "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物を巻く、または巻き付ける動作を指す旧字表記。現代では『巻き』と表記されることが一般的。"
+    "priority": 7,
+    "meaning": "乗り物やある対象の上に身を置く動作を指す。旧字・旧仮名遣いでは『乘つて』と表記されるが、現代では『乗って』が一般的。"
   },
   {
-    "surface": "逆卷き",
-    "pronunciation": "サカマキ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "風や波、流れが通常とは逆方向に巻き上がる、または巻き返す状態を指す旧字表記。現代では『逆巻き』と表記されることが一般的。"
-  },
-  {
-    "surface": "藏して",
-    "pronunciation": "ゾウシテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物や事実を隠す、または保存する行為を指す旧字表記。現代では『蔵して』と表記されることが一般的。主に貴重品や情報などを守る文脈で使われる。"
-  },
-  {
-    "surface": "來る",
-    "pronunciation": "クル",
+    "surface": "乘る",
+    "pronunciation": "ノル",
     "accent_type": 1,
     "word_type": "VERB",
     "priority": 8,
-    "meaning": "話し手のいる場所や特定の地点に到達する動作を指す旧字表記。現代では『来る』と表記されることが一般的。"
-  },
-  {
-    "surface": "苦勞人",
-    "pronunciation": "クロウニン",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "多くの苦労や困難を経験してきた人を指す旧字表記。現代では『苦労人』と表記されることが一般的。特に人生経験が豊富で忍耐力のある人物を指す。"
-  },
-  {
-    "surface": "發刊",
-    "pronunciation": "ハッカン",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "新しく刊行物を発行することを指す旧字表記。現代では『発刊』と表記されることが一般的。書籍や雑誌などの初回発行を指す場合に用いられる。"
-  },
-  {
-    "surface": "樣",
-    "pronunciation": "サマ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "物事の状態や形、または敬称として人を指す際に用いられる旧字表記。現代では『様』と表記されることが一般的。例として『状態』や『山田様』のように使用される。"
-  },
-  {
-    "surface": "思ふ樣",
-    "pronunciation": "オモウサマ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "心の中で抱く考えや感情の様子を指す旧字・旧仮名遣い表記。現代では『思う様』または『思う様子』と表記されることが一般的。文学的表現として用いられることが多い。"
-  },
-  {
-    "surface": "變つた",
-    "pronunciation": "カワッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "形や状態が以前とは異なるようになったことを指す旧仮名遣い表記。現代では『変った』または『変わった』と表記されることが一般的。"
-  },
-  {
-    "surface": "變った",
-    "pronunciation": "カワッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "形や状態が以前とは異なるようになったことを指す旧字表記。現代では『変わった』と表記されることが一般的。"
-  },
-  {
-    "surface": "亂れ",
-    "pronunciation": "ミダレ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "秩序や整った状態が崩れることを指す旧字表記。現代では『乱れ』と表記されることが一般的。感情、状況、風景など、広い文脈で用いられる。"
+    "meaning": "乗り物やある対象の上に身を置く行為を表す。旧字表記では『乘る』と書かれるが、現代では『乗る』が一般的。"
   },
   {
     "surface": "亂",
@@ -464,44 +80,20 @@
     "meaning": "秩序が崩れること、または混乱の状態を指す旧字表記。現代では『乱』と表記されることが一般的。戦乱や心の乱れなど、状況や感情を表現する際に用いられる。"
   },
   {
-    "surface": "女學校",
-    "pronunciation": "ジョガッコウ",
+    "surface": "亂れ",
+    "pronunciation": "ミダレ",
     "accent_type": 3,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "女性の教育を目的とした学校を指す旧字表記。特に近代日本において、女子教育の普及に寄与した機関。現代では『女学校』と表記される。"
+    "meaning": "秩序や整った状態が崩れることを指す旧字表記。現代では『乱れ』と表記されることが一般的。感情、状況、風景など、広い文脈で用いられる。"
   },
   {
-    "surface": "同舊友",
-    "pronunciation": "ドウキュウユウ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "昔からの友人、旧友を指す言葉。特に旧友と一緒にいることや行動することを表す場合に用いられる。旧字表記では『同舊友』と書かれるが、現代では『同旧友』と書かれることが一般的。"
-  },
-  {
-    "surface": "舊友",
-    "pronunciation": "キュウユウ",
-    "accent_type": 3,
+    "surface": "以來",
+    "pronunciation": "イライ",
+    "accent_type": 0,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "昔からの友人、長い付き合いのある仲間を指す旧字表記。現代では『旧友』と表記されることが一般的。"
-  },
-  {
-    "surface": "峽",
-    "pronunciation": "キョウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "山と山の間の狭い谷や渓谷を指す旧字表記。現代では『峡』と表記されることが一般的。例として『峡谷』などの言葉に使用される。"
-  },
-  {
-    "surface": "直覺",
-    "pronunciation": "チョッカク",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "物事を瞬間的に感じ取る力や判断を指す旧字表記。現代では『直覚』と表記されることが一般的。哲学や心理学において重要な概念の一つ。"
+    "meaning": "ある時点を起点として、その後に続く時間や状況を指す。現在は『以来』と表記することが一般的。"
   },
   {
     "surface": "來た",
@@ -520,132 +112,44 @@
     "meaning": "話し手のいる場所や特定の地点に到達する動作を指す旧字表記。現代では『来て』と表記されることが一般的。"
   },
   {
-    "surface": "哲學",
-    "pronunciation": "テツガク",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "人間や世界の本質についての根本的な問いを扱う学問を指す旧字表記。現代では『哲学』と表記されることが一般的。西洋哲学、東洋哲学などさまざまな流派がある。"
-  },
-  {
-    "surface": "醉ひ",
-    "pronunciation": "ヨイ",
-    "accent_type": 2,
+    "surface": "來る",
+    "pronunciation": "クル",
+    "accent_type": 1,
     "word_type": "VERB",
-    "priority": 6,
-    "meaning": "酒を飲んだり、強い感情や雰囲気に心が動かされたりして正確な判断ができない状態を指す。旧字表記では『醉ひ』と書かれるが、現代では『酔い』と表記される。"
-  },
-  {
-    "surface": "醉つた",
-    "pronunciation": "ヨッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "酒や感情などによって正確な判断ができない状態になったことを指す。旧字表記では『醉つた』と書かれるが、現代では『酔った』と表記される。"
-  },
-  {
-    "surface": "神樂阪",
-    "pronunciation": "カグラザカ",
-    "accent_type": 4,
-    "word_type": "PROPER_NOUN",
     "priority": 8,
-    "meaning": "東京都新宿区にある地名。歴史的に神楽の演じられる場所があったことに由来し、坂の地形を特徴とする。旧字表記では『神樂阪』と書かれるが、現代では『神楽坂』が一般的な表記。"
+    "meaning": "話し手のいる場所や特定の地点に到達する動作を指す旧字表記。現代では『来る』と表記されることが一般的。"
   },
   {
-    "surface": "強氣",
-    "pronunciation": "ツヨキ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "自分の意志や考えを強く主張し、物事に対して積極的で屈しない態度を指す旧字表記。現代では『強気』と表記されることが一般的。"
-  },
-  {
-    "surface": "滿足",
-    "pronunciation": "マンゾク",
+    "surface": "假鳥",
+    "pronunciation": "カチョウ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "望みや必要が十分に満たされ、心が満ち足りた状態を指す旧字表記。現代では『満足』と表記されることが一般的。"
+    "priority": 5,
+    "meaning": "偽りの鳥や模造品の鳥を指す表現。現代では『仮鳥』と書くことが一般的。"
   },
   {
-    "surface": "田舍",
-    "pronunciation": "イナカ",
-    "accent_type": 2,
+    "surface": "充實",
+    "pronunciation": "ジュウジツ",
+    "accent_type": 3,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "都市に対して、農村や山村など自然豊かな地域を指す旧字表記。現代では『田舎』と表記されることが一般的。素朴でのどかな風景や生活を連想させる言葉。"
+    "meaning": "内容が豊かで満たされていることを指す旧字表記。現代では『充実』と表記されることが一般的。時間や生活、内容などが有意義である様子を表現する際に用いられる。"
   },
   {
-    "surface": "殘す",
-    "pronunciation": "ノコス",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "使い切らずに一部を残すことを指す旧字表記。現代では『残す』と表記されることが一般的。"
-  },
-  {
-    "surface": "殘った",
-    "pronunciation": "ノコッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "何かが使われずに残った状態を表す。旧字表記では『殘った』と書かれるが、現代では『残った』が一般的。"
-  },
-  {
-    "surface": "残した",
-    "pronunciation": "ノコシタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "意図的に何かを後に残した状態を指す。現代仮名遣いの表記。"
-  },
-  {
-    "surface": "殘つた",
-    "pronunciation": "ノコッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "何かが使われずに残った状態を表す。旧仮名遣いと旧字表記を用いた形。現代では『残った』と書かれる。"
-  },
-  {
-    "surface": "殘",
-    "pronunciation": "ノコリ",
-    "accent_type": 2,
+    "surface": "兒",
+    "pronunciation": "コ",
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 6,
-    "meaning": "使われずに余った部分、または後に残るものを指す旧字表記。現代では『残』と書かれることが一般的。"
+    "meaning": "子ども、または幼い人を指す旧字表記。現代では『子』と表記されることが一般的。古典的な文脈や詩的表現で使われる場合がある。"
   },
   {
-    "surface": "堅氣",
-    "pronunciation": "カタギ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "誠実で真面目、しっかりした性格や態度を持つ人、またはそうした性質を指す。旧字表記では『堅氣』と表記されるが、現代では『堅気』が一般的。特に、暴力団関係者ではない一般人を指す俗語としても使われる。"
-  },
-  {
-    "surface": "堅實",
-    "pronunciation": "ケンジツ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "堅固で信頼できることを指す旧字表記。現在では『堅実』と表記されることが一般的で、主に行動や態度が確実でしっかりしている様子を示す。"
-  },
-  {
-    "surface": "描寫",
-    "pronunciation": "ビョウシャ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "物事の特徴や情景などを言葉や絵で具体的に表現することを指す旧字表記。現代では『描写』と表記されることが一般的。文学や芸術において重要な技法の一つ。"
-  },
-  {
-    "surface": "嚴密",
-    "pronunciation": "ゲンミツ",
-    "accent_type": 3,
+    "surface": "兩",
+    "pronunciation": "リョウ",
+    "accent_type": "0",
     "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "厳格で細部に至るまで注意が行き届いていることを指す旧字表記。現代では『厳密』と表記されることが一般的。論理や事実の正確さを重視する際に用いられる。"
+    "priority": 5,
+    "meaning": "両方、両者"
   },
   {
     "surface": "出來",
@@ -654,6 +158,38 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "できること、完成すること"
+  },
+  {
+    "surface": "出會ふ",
+    "pronunciation": "デアウ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "人や物事と偶然に出会うことを指す旧字・旧仮名遣い表記。現代では『出会う』と表記されることが一般的。"
+  },
+  {
+    "surface": "前驅",
+    "pronunciation": "ゼンク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "先導する者や物事の先駆けとなる存在を指す。現代では『前駆』と書くことが一般的。"
+  },
+  {
+    "surface": "勇氣",
+    "pronunciation": "ユウキ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "勇気"
+  },
+  {
+    "surface": "勞",
+    "pronunciation": "ロウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "努力や苦労を表す漢字。現代では『労』と書くことが一般的。"
   },
   {
     "surface": "勵",
@@ -672,12 +208,180 @@
     "meaning": "励まし、元気づけること"
   },
   {
-    "surface": "學ぶ",
-    "pronunciation": "マナブ",
-    "accent_type": "3",
+    "surface": "卷き",
+    "pronunciation": "マキ",
+    "accent_type": 2,
     "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物を巻く、または巻き付ける動作を指す旧字表記。現代では『巻き』と表記されることが一般的。"
+  },
+  {
+    "surface": "參って",
+    "pronunciation": "マイッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "参る行為が進行中であることを表す形。現代では『参って』と書く。"
+  },
+  {
+    "surface": "參り",
+    "pronunciation": "マイリ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "行く、来る、または参詣する謙譲表現。現代では『参り』と書くことが一般的。"
+  },
+  {
+    "surface": "參る",
+    "pronunciation": "マイル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "謙譲の意を含み、行く、来る、または参詣する動作を表す。現代では『参る』と書く。"
+  },
+  {
+    "surface": "參れ",
+    "pronunciation": "マイレ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "現代では『参れ』と書く。"
+  },
+  {
+    "surface": "同舊友",
+    "pronunciation": "ドウキュウユウ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "昔からの友人、旧友を指す言葉。特に旧友と一緒にいることや行動することを表す場合に用いられる。旧字表記では『同舊友』と書かれるが、現代では『同旧友』と書かれることが一般的。"
+  },
+  {
+    "surface": "哲學",
+    "pronunciation": "テツガク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "人間や世界の本質についての根本的な問いを扱う学問を指す旧字表記。現代では『哲学』と表記されることが一般的。西洋哲学、東洋哲学などさまざまな流派がある。"
+  },
+  {
+    "surface": "嚴密",
+    "pronunciation": "ゲンミツ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "厳格で細部に至るまで注意が行き届いていることを指す旧字表記。現代では『厳密』と表記されることが一般的。論理や事実の正確さを重視する際に用いられる。"
+  },
+  {
+    "surface": "嚴格",
+    "pronunciation": "ゲンカク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "規則や態度が厳しいこと、厳密であること。現代では『厳格』と書くことが一般的。"
+  },
+  {
+    "surface": "囘復",
+    "pronunciation": "カイフク",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "元の状態に戻ることや、健康や状況が正常な状態に戻ることを指す旧字表記。現代では『回復』と表記されることが一般的。"
+  },
+  {
+    "surface": "囘覽",
+    "pronunciation": "カイラン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "回覧。文書や情報を順番に回して閲覧すること。現代では『回覧』と書くことが一般的。"
+  },
+  {
+    "surface": "堅實",
+    "pronunciation": "ケンジツ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "堅固で信頼できることを指す旧字表記。現在では『堅実』と表記されることが一般的で、主に行動や態度が確実でしっかりしている様子を示す。"
+  },
+  {
+    "surface": "堅氣",
+    "pronunciation": "カタギ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "誠実で真面目、しっかりした性格や態度を持つ人、またはそうした性質を指す。旧字表記では『堅氣』と表記されるが、現代では『堅気』が一般的。特に、暴力団関係者ではない一般人を指す俗語としても使われる。"
+  },
+  {
+    "surface": "壓倒",
+    "pronunciation": "アットウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "力や勢いで相手を圧倒することを指す旧字表記。現代では『圧倒』と表記されることが一般的。特に比べ物にならないほど優れている場合に用いられる。"
+  },
+  {
+    "surface": "壞れ",
+    "pronunciation": "コワレ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物が損傷して元の機能や形を失った状態を指す旧字表記。現代では『壊れ』と表記されることが一般的。"
+  },
+  {
+    "surface": "壯嚴",
+    "pronunciation": "ソウゴン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "荘厳。仏教用語で、仏や仏堂を美しく立派に整えること。または、その様子。現代では『荘厳』と書くことが一般的。"
+  },
+  {
+    "surface": "奔",
+    "pronunciation": "カケ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "学ぶ、学習する"
+    "meaning": "駆ける、走る"
+  },
+  {
+    "surface": "女學校",
+    "pronunciation": "ジョガッコウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "女性の教育を目的とした学校を指す旧字表記。特に近代日本において、女子教育の普及に寄与した機関。現代では『女学校』と表記される。"
+  },
+  {
+    "surface": "女醫",
+    "pronunciation": "ジョイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "女性の医者を指す旧字表記。現代では『女医』と表記されることが一般的。医療分野における女性の専門家を示す言葉。"
+  },
+  {
+    "surface": "姙娠",
+    "pronunciation": "ニンシン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "女性が胎児を宿すこと、妊娠を指す。現代では『妊娠』と書くことが一般的。"
+  },
+  {
+    "surface": "孤獨",
+    "pronunciation": "コドク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "一人でいること、または他者とのつながりを持たない状態を指す旧字表記。現代では『孤独』と表記されることが一般的。"
+  },
+  {
+    "surface": "學",
+    "pronunciation": "ガク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "知識や技能を学ぶこと、または学問そのものを指す。旧字体では『學』と表記され、現代では『学』と書かれることが一般的。"
   },
   {
     "surface": "學び",
@@ -688,12 +392,156 @@
     "meaning": "学び、学習"
   },
   {
-    "surface": "兩",
-    "pronunciation": "リョウ",
-    "accent_type": "0",
+    "surface": "學ぶ",
+    "pronunciation": "マナブ",
+    "accent_type": "3",
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "学ぶ、学習する"
+  },
+  {
+    "surface": "學者",
+    "pronunciation": "ガクシャ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "学問に励む人、または専門分野で学問を究めた人物を指す。現在は『学者』と表記することが一般的。"
+  },
+  {
+    "surface": "寢床",
+    "pronunciation": "ネドコ",
+    "accent_type": "2",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "寝床、寝る場所"
+  },
+  {
+    "surface": "實",
+    "pronunciation": "ジツ",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "本当に、非常に、心からそう思うさまを表す。現代では『実』と書くことが一般的。"
+  },
+  {
+    "surface": "尨大",
+    "pronunciation": "ボウダイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "非常に大きく、膨らみすぎた状態を指す旧字表記。現代では『膨大』と表記されることが一般的。規模や数量が並外れて大きいことを示す。"
+  },
+  {
+    "surface": "屡",
+    "pronunciation": "シバシバ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "頻繁に、何度も繰り返されることを指す表現。古典的な漢字表記で、現代日本語では平仮名の『しばしば』が一般的に用いられる。"
+  },
+  {
+    "surface": "屬",
+    "pronunciation": "ゾク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "特定のグループやカテゴリーに属することを意味する。または生物学で分類上の『属（ゾク）』を指す。旧字体では『屬』と表記され、現代では『属』と書かれることが一般的。"
+  },
+  {
+    "surface": "峽",
+    "pronunciation": "キョウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "山と山の間の狭い谷や渓谷を指す旧字表記。現代では『峡』と表記されることが一般的。例として『峡谷』などの言葉に使用される。"
+  },
+  {
+    "surface": "巖石",
+    "pronunciation": "ガンセキ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "地殻を構成する堅い物質である岩と石の総称。旧字体では『巖石』と表記され、現代では『岩石』と書かれることが一般的。"
+  },
+  {
+    "surface": "強氣",
+    "pronunciation": "ツヨキ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "自分の意志や考えを強く主張し、物事に対して積極的で屈しない態度を指す旧字表記。現代では『強気』と表記されることが一般的。"
+  },
+  {
+    "surface": "怒號",
+    "pronunciation": "ドゴウ",
+    "accent_type": "2",
     "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "両方、両者"
+    "meaning": "怒号、大声で怒鳴ること"
+  },
+  {
+    "surface": "思ふ樣",
+    "pronunciation": "オモウサマ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "心の中で抱く考えや感情の様子を指す旧字・旧仮名遣い表記。現代では『思う様』または『思う様子』と表記されることが一般的。文学的表現として用いられることが多い。"
+  },
+  {
+    "surface": "悒鬱",
+    "pronunciation": "ユウウツ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "心がふさぎ、晴れない状態を指す旧字表記。現代では『憂鬱』と表記されることが一般的。深い悩みや悲しみを伴う暗い感情を表現する際に用いられる。"
+  },
+  {
+    "surface": "悧𢠺",
+    "pronunciation": "リハツ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "機敏で利発な性格や行動を指す。『悧』は利口や賢さを表し、『𢠺』は古い文字で知恵や機敏さを補う意。"
+  },
+  {
+    "surface": "惡人",
+    "pronunciation": "アクニン",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "悪い行いをする人、道徳や倫理に反した行為をする者。現代では『悪人』と書くことが一般的。"
+  },
+  {
+    "surface": "戀",
+    "pronunciation": "コイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "特定の人に対する愛情や思慕の感情。現代では『恋』と書くことが一般的。"
+  },
+  {
+    "surface": "拂う",
+    "pronunciation": "ハラウ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "払う。"
+  },
+  {
+    "surface": "拂ひ",
+    "pronunciation": "ハライ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かを払う、または取り除く行為を指す。現代仮名遣いでは『払い』と書く。"
+  },
+  {
+    "surface": "描寫",
+    "pronunciation": "ビョウシャ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "物事の特徴や情景などを言葉や絵で具体的に表現することを指す旧字表記。現代では『描写』と表記されることが一般的。文学や芸術において重要な技法の一つ。"
   },
   {
     "surface": "搜",
@@ -720,316 +568,52 @@
     "meaning": "探す、見つける"
   },
   {
-    "surface": "寢床",
-    "pronunciation": "ネドコ",
-    "accent_type": "2",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "寝床、寝る場所"
-  },
-  {
-    "surface": "默まる",
-    "pronunciation": "ダマル",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "黙る、静かにする"
-  },
-  {
-    "surface": "默々",
-    "pronunciation": "モクモク",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "黙々と、静かに集中して行う様子"
-  },
-  {
-    "surface": "勇氣",
-    "pronunciation": "ユウキ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "勇気"
-  },
-  {
-    "surface": "決斷",
-    "pronunciation": "ケツダン",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "決断、決心"
-  },
-  {
-    "surface": "齒",
-    "pronunciation": "ハ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "歯"
-  },
-  {
-    "surface": "怒號",
-    "pronunciation": "ドゴウ",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "怒号、大声で怒鳴ること"
-  },
-  {
-    "surface": "聲",
-    "pronunciation": "コエ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "声"
-  },
-  {
-    "surface": "聽えた",
-    "pronunciation": "キコエタ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "聞こえた"
-  },
-  {
-    "surface": "聽こえた",
-    "pronunciation": "キコエタ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "聞こえた"
-  },
-  {
-    "surface": "聽く",
-    "pronunciation": "キク",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "聞く、耳で感じる"
-  },
-  {
-    "surface": "聽いて",
-    "pronunciation": "キイテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "耳を傾けて音や話を受け取る行為を指す。現代では『聞いて』または『聴いて』と書くことが一般的。"
-  },
-  {
-    "surface": "聲帶",
-    "pronunciation": "セイタイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "声を出すための器官である声帯を指す。現代では『声帯』と書くことが一般的。"
-  },
-  {
-    "surface": "滯",
-    "pronunciation": "タイ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "滞る、停滞する"
-  },
-  {
-    "surface": "奔",
-    "pronunciation": "カケ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "駆ける、走る"
-  },
-  {
-    "surface": "顏",
-    "pronunciation": "カオ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "顔"
-  },
-  {
-    "surface": "盡",
-    "pronunciation": "ツ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "尽くす、やりきる"
-  },
-  {
-    "surface": "無邪氣",
-    "pronunciation": "ムジャキ",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "無邪気、純真で素直な性質"
-  },
-  {
-    "surface": "體",
-    "pronunciation": "カラダ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "体"
-  },
-  {
-    "surface": "水邊",
-    "pronunciation": "ミズベ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "水辺、川や池のほとり"
-  },
-  {
-    "surface": "勞",
-    "pronunciation": "ロウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "努力や苦労を表す漢字。現代では『労』と書くことが一般的。"
-  },
-  {
-    "surface": "醫學",
-    "pronunciation": "イガク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "医学。病気の診断や治療、健康の維持を目的とした学問。現代では『医学』と書くことが一般的。"
-  },
-  {
-    "surface": "醫",
-    "pronunciation": "イ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "現代では『医』と書くことが一般的。"
-  },
-  {
-    "surface": "女醫",
-    "pronunciation": "ジョイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "女性の医者を指す旧字表記。現代では『女医』と表記されることが一般的。医療分野における女性の専門家を示す言葉。"
-  },
-  {
-    "surface": "囘覽",
-    "pronunciation": "カイラン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "回覧。文書や情報を順番に回して閲覧すること。現代では『回覧』と書くことが一般的。"
-  },
-  {
-    "surface": "雜誌",
-    "pronunciation": "ザッシ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "雑誌。特定のテーマやジャンルに基づき、記事や写真を掲載した定期刊行物。現代では『雑誌』と書くことが一般的。"
-  },
-  {
-    "surface": "聲援者",
-    "pronunciation": "セイエンシャ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "声を上げて応援する人。現代では『声援者』と書くことが一般的。"
-  },
-  {
-    "surface": "空氣",
-    "pronunciation": "クウキ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "大気中に存在する無色透明の気体。呼吸に必要なもの。現代では『空気』と書くことが一般的。"
-  },
-  {
-    "surface": "臺",
-    "pronunciation": "ダイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "高く平らな場所や物、または建物の基部を表す漢字。現代では『台』と書くことが一般的。"
-  },
-  {
-    "surface": "繼",
-    "pronunciation": "ツグ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "何かを受け継ぐ、引き継ぐことを指す漢字。現代では『継』と書くことが一般的。"
-  },
-  {
-    "surface": "繼ぐ",
-    "pronunciation": "ツグ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "続けて何かを行う、または引き継ぐこと。現代では『継ぐ』と書く。"
-  },
-  {
-    "surface": "繼ぎ",
-    "pronunciation": "ツギ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "続けること、または次に行うこと。現代では『継ぎ』と書く。"
-  },
-  {
-    "surface": "繼がる",
-    "pronunciation": "ツガル",
+    "surface": "擔いで",
+    "pronunciation": "カツイデ",
     "accent_type": 3,
     "word_type": "VERB",
     "priority": 6,
-    "meaning": "物事や状態が続くこと。現代では『継がる』と書く。"
+    "meaning": "物を肩に乗せて運ぶこと、または責任や負担を引き受けることを指す。旧字体では『擔いで』と表記され、現代では『担いで』と書かれることが一般的。"
   },
   {
-    "surface": "繼げる",
-    "pronunciation": "ツゲル",
-    "accent_type": 3,
+    "surface": "擔ぐ",
+    "pronunciation": "カツグ",
+    "accent_type": 2,
     "word_type": "VERB",
-    "priority": 6,
-    "meaning": "何かを引き継ぐことができる状態を指す。現代では『継げる』と書く。"
-  },
-  {
-    "surface": "嚴格",
-    "pronunciation": "ゲンカク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "規則や態度が厳しいこと、厳密であること。現代では『厳格』と書くことが一般的。"
+    "meaning": "物を肩に乗せて運ぶ行為を指す。また、比喩的に他人をだましたり、祭りの神輿を担ぐなどの意味でも使われる。旧字体では『擔ぐ』と表記され、現代では『担ぐ』と書かれることが一般的。"
   },
   {
-    "surface": "虚僞",
-    "pronunciation": "キョギ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "事実ではないことを事実のように見せかけることや、その内容。現代では『虚偽』と書くことが一般的。"
-  },
-  {
-    "surface": "悧𢠺",
-    "pronunciation": "リハツ",
+    "surface": "會話",
+    "pronunciation": "カイワ",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "機敏で利発な性格や行動を指す。『悧』は利口や賢さを表し、『𢠺』は古い文字で知恵や機敏さを補う意。"
+    "priority": 7,
+    "meaning": "人と人が話し合い、言葉を通じて意思や情報を交換する行為を指す旧字表記。現代では『会話』と表記されることが一般的。"
   },
   {
-    "surface": "淺薄",
-    "pronunciation": "センパク",
-    "accent_type": 1,
+    "surface": "木靈",
+    "pronunciation": "コダマ",
+    "accent_type": 2,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "考えや知識、内容が浅く薄っぺらいこと。現代では『浅薄』と書くことが一般的。"
+    "priority": 8,
+    "meaning": "山や森で響く音の反響や、それに宿るとされる霊的存在を指す。現代では『木霊』と書くことが一般的。"
   },
   {
-    "surface": "權勢",
-    "pronunciation": "ケンセイ",
-    "accent_type": 1,
+    "surface": "樓閣",
+    "pronunciation": "ロウカク",
+    "accent_type": 0,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "権力と勢力を併せ持つ状態や、それを持つ人物を指す。現代では『権勢』と書くことが一般的。"
+    "meaning": "高く建てられた壮麗な建築物や塔のことを指す。旧字体では『樓閣』と表記され、現代では『楼閣』と書かれることが一般的。"
+  },
+  {
+    "surface": "樣",
+    "pronunciation": "サマ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "物事の状態や形、または敬称として人を指す際に用いられる旧字表記。現代では『様』と表記されることが一般的。例として『状態』や『山田様』のように使用される。"
   },
   {
     "surface": "權",
@@ -1040,44 +624,20 @@
     "meaning": "現代では『権』と書くことが一般的。"
   },
   {
-    "surface": "眞實",
-    "pronunciation": "シンジツ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "真実であることの性質や特性。現代では『真実性』と書くことが一般的。"
-  },
-  {
-    "surface": "爲",
-    "pronunciation": "タメ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "行う、行動する、または理由や目的を示すために用いられる漢字。現代では『為』と書くことが一般的。"
-  },
-  {
-    "surface": "惡人",
-    "pronunciation": "アクニン",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "悪い行いをする人、道徳や倫理に反した行為をする者。現代では『悪人』と書くことが一般的。"
-  },
-  {
-    "surface": "歸依",
-    "pronunciation": "キエ",
+    "surface": "權勢",
+    "pronunciation": "ケンセイ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "特定の宗教や思想に帰り、信じ従うこと。仏教では仏や法、僧に帰依することを指す。現代では『帰依』と書くことが一般的。"
+    "meaning": "権力と勢力を併せ持つ状態や、それを持つ人物を指す。現代では『権勢』と書くことが一般的。"
   },
   {
-    "surface": "餘",
-    "pronunciation": "ヨ",
+    "surface": "正體",
+    "pronunciation": "セイタイ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 7,
-    "meaning": "余り、残り、または十分な量を超えた分を指す。現代では『余』と書くことが一般的。"
+    "meaning": "本来の姿や真の姿を指す。現代では『正体』と書くことが一般的。"
   },
   {
     "surface": "歸し",
@@ -1112,12 +672,532 @@
     "meaning": "現代では『帰った』と書く。"
   },
   {
+    "surface": "歸依",
+    "pronunciation": "キエ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "特定の宗教や思想に帰り、信じ従うこと。仏教では仏や法、僧に帰依することを指す。現代では『帰依』と書くことが一般的。"
+  },
+  {
+    "surface": "残した",
+    "pronunciation": "ノコシタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "意図的に何かを後に残した状態を指す。現代仮名遣いの表記。"
+  },
+  {
+    "surface": "殘",
+    "pronunciation": "ノコリ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "使われずに余った部分、または後に残るものを指す旧字表記。現代では『残』と書かれることが一般的。"
+  },
+  {
+    "surface": "殘す",
+    "pronunciation": "ノコス",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "使い切らずに一部を残すことを指す旧字表記。現代では『残す』と表記されることが一般的。"
+  },
+  {
+    "surface": "殘った",
+    "pronunciation": "ノコッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かが使われずに残った状態を表す。旧字表記では『殘った』と書かれるが、現代では『残った』が一般的。"
+  },
+  {
+    "surface": "殘つた",
+    "pronunciation": "ノコッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かが使われずに残った状態を表す。旧仮名遣いと旧字表記を用いた形。現代では『残った』と書かれる。"
+  },
+  {
+    "surface": "水邊",
+    "pronunciation": "ミズベ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "水辺、川や池のほとり"
+  },
+  {
+    "surface": "決斷",
+    "pronunciation": "ケツダン",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "決断、決心"
+  },
+  {
+    "surface": "淺薄",
+    "pronunciation": "センパク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "考えや知識、内容が浅く薄っぺらいこと。現代では『浅薄』と書くことが一般的。"
+  },
+  {
+    "surface": "清淨",
+    "pronunciation": "ショウジョウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "心や行いが清らかで穢れがないこと。仏教用語としては特に煩悩や汚れから解放された状態を指す。現代では『清浄』と書くことが一般的。"
+  },
+  {
+    "surface": "滯",
+    "pronunciation": "タイ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "滞る、停滞する"
+  },
+  {
+    "surface": "滿洲",
+    "pronunciation": "マンシュウ",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "東北アジアの地域名で、現在の中国東北部とロシアの一部を含む広域を指す。旧字体では『滿洲』と表記され、現代では『満州』と書かれることが一般的。かつて満洲国として知られる国がこの地域に存在した。"
+  },
+  {
+    "surface": "滿足",
+    "pronunciation": "マンゾク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "望みや必要が十分に満たされ、心が満ち足りた状態を指す旧字表記。現代では『満足』と表記されることが一般的。"
+  },
+  {
+    "surface": "瀉ぎ",
+    "pronunciation": "ソギ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "液体を注ぎ出す、または流し出す行為を指す旧字表記。現代では『注ぎ』や『流し』と表記されることが一般的。"
+  },
+  {
+    "surface": "無邪氣",
+    "pronunciation": "ムジャキ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "無邪気、純真で素直な性質"
+  },
+  {
+    "surface": "爲",
+    "pronunciation": "タメ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "行う、行動する、または理由や目的を示すために用いられる漢字。現代では『為』と書くことが一般的。"
+  },
+  {
+    "surface": "田舍",
+    "pronunciation": "イナカ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "都市に対して、農村や山村など自然豊かな地域を指す旧字表記。現代では『田舎』と表記されることが一般的。素朴でのどかな風景や生活を連想させる言葉。"
+  },
+  {
+    "surface": "畫き",
+    "pronunciation": "カキ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "絵や図を描く行為の連用形を指す旧字表記。現代では『描き』と表記されることが一般的。"
+  },
+  {
+    "surface": "畫く",
+    "pronunciation": "カク",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "絵や図を描く行為を指す旧字表記。現代では『描く』と表記されることが一般的。"
+  },
+  {
+    "surface": "畫伯",
+    "pronunciation": "ガハク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "画家に対する敬称、または高名な画家を指す旧字表記。現代では『画伯』と表記されることが一般的。特に絵画の世界で尊敬を込めて用いられる表現。"
+  },
+  {
+    "surface": "畫題",
+    "pronunciation": "ガダイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "絵画の主題やテーマを指す旧字表記。現代では『画題』と表記されることが一般的。特に芸術作品における内容やテーマを表現する際に用いられる。"
+  },
+  {
+    "surface": "異國",
+    "pronunciation": "イコク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "自国ではない他の国を指す表現。異郷や外国とも言う。旧字体では『異國』と表記され、現代では『異国』と書かれることが一般的。"
+  },
+  {
+    "surface": "發刊",
+    "pronunciation": "ハッカン",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "新しく刊行物を発行することを指す旧字表記。現代では『発刊』と表記されることが一般的。書籍や雑誌などの初回発行を指す場合に用いられる。"
+  },
+  {
+    "surface": "發掘",
+    "pronunciation": "ハックツ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "埋もれたものを掘り出すこと。または、隠れた才能や資源を見つけ出すことを比喩的に表現する場合にも使われる。旧字体では『發掘』と表記され、現代では『発掘』と書かれることが一般的。"
+  },
+  {
+    "surface": "發行",
+    "pronunciation": "ハッコウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "書籍や雑誌などを印刷して世に出すこと。または、通貨や証券を発行することを指す。現代では『発行』と書くことが一般的。"
+  },
+  {
+    "surface": "盡",
+    "pronunciation": "ツ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "尽くす、やりきる"
+  },
+  {
+    "surface": "直覺",
+    "pronunciation": "チョッカク",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "物事を瞬間的に感じ取る力や判断を指す旧字表記。現代では『直覚』と表記されることが一般的。哲学や心理学において重要な概念の一つ。"
+  },
+  {
+    "surface": "相傳",
+    "pronunciation": "ソウデン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "代々受け継がれて伝えられることを指す。現代では『相伝』と書くことが一般的。"
+  },
+  {
+    "surface": "眞向",
+    "pronunciation": "マッコウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "正面や真正面を指す旧字表記。現代では『真向』と表記されることが一般的。比喩的に、正面から向き合う態度や対立する状況を指す場合にも使われる。"
+  },
+  {
+    "surface": "眞實",
+    "pronunciation": "シンジツ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "真実であることの性質や特性。現代では『真実性』と書くことが一般的。"
+  },
+  {
+    "surface": "眞額",
+    "pronunciation": "マツカフ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "物事の真実や本質を直接的に受け止めることを表す古語表現。『真額』と書かれることもあり、特に正面から事に当たる態度を意味する。現代では使用されることが少ない表現。"
+  },
+  {
+    "surface": "石徑",
+    "pronunciation": "セッケイ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "石で作られた道や小道を指す表現。旧字体では『石徑』と表記され、現代では『石径』と書かれることが一般的。"
+  },
+  {
+    "surface": "神樂阪",
+    "pronunciation": "カグラザカ",
+    "accent_type": 4,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "東京都新宿区にある地名。歴史的に神楽の演じられる場所があったことに由来し、坂の地形を特徴とする。旧字表記では『神樂阪』と書かれるが、現代では『神楽坂』が一般的な表記。"
+  },
+  {
+    "surface": "神祕",
+    "pronunciation": "シンピ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "人間の理解を超えた不思議で神秘的なことを指す。現代では『神秘』と書くことが一般的。"
+  },
+  {
+    "surface": "空氣",
+    "pronunciation": "クウキ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "大気中に存在する無色透明の気体。呼吸に必要なもの。現代では『空気』と書くことが一般的。"
+  },
+  {
+    "surface": "經",
+    "pronunciation": "キョウ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "仏教において、経典を指す敬称。現代では『お経』と書くことが一般的。"
+  },
+  {
+    "surface": "繼",
+    "pronunciation": "ツグ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "何かを受け継ぐ、引き継ぐことを指す漢字。現代では『継』と書くことが一般的。"
+  },
+  {
+    "surface": "繼がる",
+    "pronunciation": "ツガル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物事や状態が続くこと。現代では『継がる』と書く。"
+  },
+  {
+    "surface": "繼ぎ",
+    "pronunciation": "ツギ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "続けること、または次に行うこと。現代では『継ぎ』と書く。"
+  },
+  {
+    "surface": "繼ぐ",
+    "pronunciation": "ツグ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "続けて何かを行う、または引き継ぐこと。現代では『継ぐ』と書く。"
+  },
+  {
+    "surface": "繼げる",
+    "pronunciation": "ツゲル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かを引き継ぐことができる状態を指す。現代では『継げる』と書く。"
+  },
+  {
+    "surface": "續け",
+    "pronunciation": "ツヅケ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "動作や状態を途切れることなく継続させることを指す。旧字体では『續け』と表記され、現代では『続け』と書かれることが一般的。"
+  },
+  {
+    "surface": "聲",
+    "pronunciation": "コエ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "声"
+  },
+  {
+    "surface": "聲帶",
+    "pronunciation": "セイタイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "声を出すための器官である声帯を指す。現代では『声帯』と書くことが一般的。"
+  },
+  {
+    "surface": "聲援者",
+    "pronunciation": "セイエンシャ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "声を上げて応援する人。現代では『声援者』と書くことが一般的。"
+  },
+  {
+    "surface": "聽いて",
+    "pronunciation": "キイテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "耳を傾けて音や話を受け取る行為を指す。現代では『聞いて』または『聴いて』と書くことが一般的。"
+  },
+  {
+    "surface": "聽えた",
+    "pronunciation": "キコエタ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "聞こえた"
+  },
+  {
+    "surface": "聽く",
+    "pronunciation": "キク",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "聞く、耳で感じる"
+  },
+  {
+    "surface": "聽こえた",
+    "pronunciation": "キコエタ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "聞こえた"
+  },
+  {
+    "surface": "膽",
+    "pronunciation": "タン",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "現代では『胆』と書くことが一般的。"
+  },
+  {
+    "surface": "臺",
+    "pronunciation": "ダイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "高く平らな場所や物、または建物の基部を表す漢字。現代では『台』と書くことが一般的。"
+  },
+  {
+    "surface": "舊友",
+    "pronunciation": "キュウユウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "昔からの友人、長い付き合いのある仲間を指す旧字表記。現代では『旧友』と表記されることが一般的。"
+  },
+  {
+    "surface": "苦勞人",
+    "pronunciation": "クロウニン",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "多くの苦労や困難を経験してきた人を指す旧字表記。現代では『苦労人』と表記されることが一般的。特に人生経験が豊富で忍耐力のある人物を指す。"
+  },
+  {
+    "surface": "華嚴",
+    "pronunciation": "ケゴン",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "仏教の一派である華厳宗を指し、華厳経に基づく教えを中心とする。現代では『華厳』と書くことが一般的。"
+  },
+  {
+    "surface": "蔽はれ",
+    "pronunciation": "オオワレ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "覆い隠される、遮られるという意味を持つ。旧仮名遣いでは『蔽はれて』と表記され、現代仮名遣いでは『覆われて』が一般的。"
+  },
+  {
+    "surface": "藏して",
+    "pronunciation": "ゾウシテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物や事実を隠す、または保存する行為を指す旧字表記。現代では『蔵して』と表記されることが一般的。主に貴重品や情報などを守る文脈で使われる。"
+  },
+  {
+    "surface": "處",
+    "pronunciation": "トコロ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "場所、または事柄が存在する特定の位置や状況を指す旧字表記。現代では『処』と表記されることが一般的。例として『処理』『処遇』などの言葉に用いられる。"
+  },
+  {
+    "surface": "虚僞",
+    "pronunciation": "キョギ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "事実ではないことを事実のように見せかけることや、その内容。現代では『虚偽』と書くことが一般的。"
+  },
+  {
+    "surface": "見當ら",
+    "pronunciation": "ミアタラ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "目で確認することができる、または見つかることを否定的に表現する際に用いる古風な言い回し。現代では『見当たら』と表記されることが一般的。"
+  },
+  {
+    "surface": "觀察",
+    "pronunciation": "カンサツ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "物事を注意深く見たり、調べたりすることを指す。現代では『観察』と書くことが一般的。"
+  },
+  {
     "surface": "誦經",
     "pronunciation": "ドキョウ",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "経文を声に出して唱えること、特に仏教の儀式で用いられる行為。現代では『誦経』と書くことが一般的。"
+  },
+  {
+    "surface": "謠",
+    "pronunciation": "ヨウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "口伝えで広まる歌や詩、または流れる噂を指す。現代では『謡』または『謡い』と書くことが一般的。"
+  },
+  {
+    "surface": "讀書",
+    "pronunciation": "ドクショ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "書物を読むこと。現代では『読書』と書くことが一般的。"
+  },
+  {
+    "surface": "變った",
+    "pronunciation": "カワッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "形や状態が以前とは異なるようになったことを指す旧字表記。現代では『変わった』と表記されることが一般的。"
+  },
+  {
+    "surface": "變つた",
+    "pronunciation": "カワッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "形や状態が以前とは異なるようになったことを指す旧仮名遣い表記。現代では『変った』または『変わった』と表記されることが一般的。"
+  },
+  {
+    "surface": "變へて",
+    "pronunciation": "カエテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物事の状態や形が変化することを指す。旧字体では『變へて』と表記され、現代仮名遣いでは『変えて』が一般的。"
   },
   {
     "surface": "變り",
@@ -1144,62 +1224,6 @@
     "meaning": "現代では『変われ』と書く。"
   },
   {
-    "surface": "參り",
-    "pronunciation": "マイリ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "行く、来る、または参詣する謙譲表現。現代では『参り』と書くことが一般的。"
-  },
-  {
-    "surface": "參る",
-    "pronunciation": "マイル",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "謙譲の意を含み、行く、来る、または参詣する動作を表す。現代では『参る』と書く。"
-  },
-  {
-    "surface": "參って",
-    "pronunciation": "マイッテ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "参る行為が進行中であることを表す形。現代では『参って』と書く。"
-  },
-  {
-    "surface": "參れ",
-    "pronunciation": "マイレ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "現代では『参れ』と書く。"
-  },
-  {
-    "surface": "お經",
-    "pronunciation": "オキョウ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "仏教において、経典を指す敬称。現代では『お経』と書くことが一般的。"
-  },
-  {
-    "surface": "經",
-    "pronunciation": "キョウ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "仏教において、経典を指す敬称。現代では『お経』と書くことが一般的。"
-  },
-  {
-    "surface": "戀",
-    "pronunciation": "コイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "特定の人に対する愛情や思慕の感情。現代では『恋』と書くことが一般的。"
-  },
-  {
     "surface": "輕卒",
     "pronunciation": "ケイソツ",
     "accent_type": 1,
@@ -1208,180 +1232,20 @@
     "meaning": "軽はずみで慎重さに欠ける行動や態度を指す。現代では『軽卒』と書くことが一般的。"
   },
   {
-    "surface": "遲れ",
-    "pronunciation": "オクレ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "時間や進行が他より遅くなることを指す。現代では『遅れ』と書くことが一般的。"
-  },
-  {
-    "surface": "膽",
-    "pronunciation": "タン",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "現代では『胆』と書くことが一般的。"
-  },
-  {
-    "surface": "讀書",
-    "pronunciation": "ドクショ",
+    "surface": "轉々",
+    "pronunciation": "テンテン",
     "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "書物を読むこと。現代では『読書』と書くことが一般的。"
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物が転がるように移動する様子や、状況や場所が次々に変わる様子を表す。旧字体では『轉々』と表記され、現代では『転々』と書かれることが一般的。"
   },
   {
-    "surface": "華嚴",
-    "pronunciation": "ケゴン",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 8,
-    "meaning": "仏教の一派である華厳宗を指し、華厳経に基づく教えを中心とする。現代では『華厳』と書くことが一般的。"
-  },
-  {
-    "surface": "壯嚴",
-    "pronunciation": "ソウゴン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "荘厳。仏教用語で、仏や仏堂を美しく立派に整えること。または、その様子。現代では『荘厳』と書くことが一般的。"
-  },
-  {
-    "surface": "正體",
-    "pronunciation": "セイタイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "本来の姿や真の姿を指す。現代では『正体』と書くことが一般的。"
-  },
-  {
-    "surface": "靈",
-    "pronunciation": "レイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "魂や霊魂、または霊的な存在を指す。現代では『霊』と書くことが一般的。"
-  },
-  {
-    "surface": "清淨",
-    "pronunciation": "ショウジョウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "心や行いが清らかで穢れがないこと。仏教用語としては特に煩悩や汚れから解放された状態を指す。現代では『清浄』と書くことが一般的。"
-  },
-  {
-    "surface": "神祕",
-    "pronunciation": "シンピ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "人間の理解を超えた不思議で神秘的なことを指す。現代では『神秘』と書くことが一般的。"
-  },
-  {
-    "surface": "假鳥",
-    "pronunciation": "カチョウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "偽りの鳥や模造品の鳥を指す表現。現代では『仮鳥』と書くことが一般的。"
-  },
-  {
-    "surface": "拂ひ",
-    "pronunciation": "ハライ",
+    "surface": "逆卷き",
+    "pronunciation": "サカマキ",
     "accent_type": 3,
     "word_type": "VERB",
     "priority": 6,
-    "meaning": "何かを払う、または取り除く行為を指す。現代仮名遣いでは『払い』と書く。"
-  },
-  {
-    "surface": "拂う",
-    "pronunciation": "ハラウ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "払う。"
-  },
-  {
-    "surface": "相傳",
-    "pronunciation": "ソウデン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "代々受け継がれて伝えられることを指す。現代では『相伝』と書くことが一般的。"
-  },
-  {
-    "surface": "中繼",
-    "pronunciation": "チュウケイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "中継。物事や情報を途中で受け渡し、次に繋ぐことを指す。現代では『中継』と書くことが一般的。"
-  },
-  {
-    "surface": "木靈",
-    "pronunciation": "コダマ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "山や森で響く音の反響や、それに宿るとされる霊的存在を指す。現代では『木霊』と書くことが一般的。"
-  },
-  {
-    "surface": "姙娠",
-    "pronunciation": "ニンシン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "女性が胎児を宿すこと、妊娠を指す。現代では『妊娠』と書くことが一般的。"
-  },
-  {
-    "surface": "觀察",
-    "pronunciation": "カンサツ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "物事を注意深く見たり、調べたりすることを指す。現代では『観察』と書くことが一般的。"
-  },
-  {
-    "surface": "醉つた",
-    "pronunciation": "ヨッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "酒に酔った、または乗り物酔いなどで気分が悪くなった状態を指す。現代では『酔った』と書くことが一般的。"
-  },
-  {
-    "surface": "還つて",
-    "pronunciation": "カエッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "元の場所や状態に戻る、または反対の結果になることを指す。現代では『還って』と書くことが一般的。"
-  },
-  {
-    "surface": "謠",
-    "pronunciation": "ヨウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "口伝えで広まる歌や詩、または流れる噂を指す。現代では『謡』または『謡い』と書くことが一般的。"
-  },
-  {
-    "surface": "發行",
-    "pronunciation": "ハッコウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "書籍や雑誌などを印刷して世に出すこと。または、通貨や証券を発行することを指す。現代では『発行』と書くことが一般的。"
-  },
-  {
-    "surface": "實",
-    "pronunciation": "ジツ",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "本当に、非常に、心からそう思うさまを表す。現代では『実』と書くことが一般的。"
+    "meaning": "風や波、流れが通常とは逆方向に巻き上がる、または巻き返す状態を指す旧字表記。現代では『逆巻き』と表記されることが一般的。"
   },
   {
     "surface": "通稱",
@@ -1392,12 +1256,140 @@
     "meaning": "正式名称ではなく、一般的に使われる名前や呼び名を指す。現代では『通称』と書くことが一般的。"
   },
   {
-    "surface": "前驅",
-    "pronunciation": "ゼンク",
-    "accent_type": 1,
+    "surface": "遲く",
+    "pronunciation": "オソク",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "時間が遅い状態や動作が遅れることを表す。旧字体では『遲く』と表記され、現代では『遅く』と書かれることが一般的。"
+  },
+  {
+    "surface": "遲れ",
+    "pronunciation": "オクレ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "時間や進行が他より遅くなることを指す。現代では『遅れ』と書くことが一般的。"
+  },
+  {
+    "surface": "還つて",
+    "pronunciation": "カエッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "元の場所や状態に戻る、または反対の結果になることを指す。現代では『還って』と書くことが一般的。"
+  },
+  {
+    "surface": "邊",
+    "pronunciation": "アタリ",
+    "accent_type": 2,
     "word_type": "COMMON_NOUN",
     "priority": 6,
-    "meaning": "先導する者や物事の先駆けとなる存在を指す。現代では『前駆』と書くことが一般的。"
+    "meaning": "近辺や付近、周辺の場所を指す表現。旧字体では『邊』と表記され、現代では『辺』と書くことが一般的。"
+  },
+  {
+    "surface": "醉つた",
+    "pronunciation": "ヨッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "酒や感情などによって正確な判断ができない状態になったことを指す。旧字表記では『醉つた』と書かれるが、現代では『酔った』と表記される。"
+  },
+  {
+    "surface": "醉つた",
+    "pronunciation": "ヨッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "酒に酔った、または乗り物酔いなどで気分が悪くなった状態を指す。現代では『酔った』と書くことが一般的。"
+  },
+  {
+    "surface": "醉ひ",
+    "pronunciation": "ヨイ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "酒を飲んだり、強い感情や雰囲気に心が動かされたりして正確な判断ができない状態を指す。旧字表記では『醉ひ』と書かれるが、現代では『酔い』と表記される。"
+  },
+  {
+    "surface": "醒覺",
+    "pronunciation": "セイカク",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "目覚めることや、意識がはっきりすることを指す旧字表記。現代では『覚醒』や『目覚め』と表記されることが一般的。特に精神的な覚醒を示す場合に用いられることがある。"
+  },
+  {
+    "surface": "醫",
+    "pronunciation": "イ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "現代では『医』と書くことが一般的。"
+  },
+  {
+    "surface": "醫學",
+    "pronunciation": "イガク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "医学。病気の診断や治療、健康の維持を目的とした学問。現代では『医学』と書くことが一般的。"
+  },
+  {
+    "surface": "附屬",
+    "pronunciation": "フゾク",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "主となるものに付属していること、またはその状態や物を指す。旧字体では『附屬』と表記され、現代では『付属』と書かれることが一般的。"
+  },
+  {
+    "surface": "附添",
+    "pronunciation": "ツキソイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "他のものに添えられること、または補助的な役割として付き添うことを指す。旧字体では『附添』と表記され、現代では『付添』と書かれることが一般的。"
+  },
+  {
+    "surface": "雜誌",
+    "pronunciation": "ザッシ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "雑誌。特定のテーマやジャンルに基づき、記事や写真を掲載した定期刊行物。現代では『雑誌』と書くことが一般的。"
+  },
+  {
+    "surface": "靈",
+    "pronunciation": "レイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "魂や霊魂、または霊的な存在を指す。現代では『霊』と書くことが一般的。"
+  },
+  {
+    "surface": "靈驗",
+    "pronunciation": "レイゲン",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "神仏や霊的な存在の加護や祈りの効き目が現れること。旧字体では『靈驗』と表記され、現代では『霊験』と書かれることが一般的。"
+  },
+  {
+    "surface": "顏",
+    "pronunciation": "カオ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "顔"
+  },
+  {
+    "surface": "餘",
+    "pronunciation": "ヨ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "余り、残り、または十分な量を超えた分を指す。現代では『余』と書くことが一般的。"
   },
   {
     "surface": "驅",
@@ -1408,27 +1400,35 @@
     "meaning": "走る、または速く動くことを指す。現代では『駆』と書くことが一般的。"
   },
   {
-    "surface": "乘つた",
-    "pronunciation": "ノッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "乗り物やある対象の上に身を置いたり、その状態になった過去の行為を指す。旧字・旧仮名遣いでは『乘つた』と表記されるが、現代では『乗った』が一般的。"
+    "surface": "體",
+    "pronunciation": "カラダ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "体"
   },
   {
-    "surface": "乘つて",
-    "pronunciation": "ノッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "乗り物やある対象の上に身を置く動作を指す。旧字・旧仮名遣いでは『乘つて』と表記されるが、現代では『乗って』が一般的。"
+    "surface": "默々",
+    "pronunciation": "モクモク",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "黙々と、静かに集中して行う様子"
   },
   {
-    "surface": "乘る",
-    "pronunciation": "ノル",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "乗り物やある対象の上に身を置く行為を表す。旧字表記では『乘る』と書かれるが、現代では『乗る』が一般的。"
+    "surface": "默まる",
+    "pronunciation": "ダマル",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "黙る、静かにする"
+  },
+  {
+    "surface": "齒",
+    "pronunciation": "ハ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "歯"
   }
 ]

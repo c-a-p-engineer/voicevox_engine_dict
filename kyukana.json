@@ -1,19 +1,10 @@
 [
   {
-    "surface": "われ／＼",
-    "pronunciation": "ワレワレ",
-    "accent_type": 0,
+    "surface": "あゝ",
+    "pronunciation": "アア",
+    "accent_type": "0",
     "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "話し手を含む集団を指す一人称複数形の代名詞。主にフォーマルな場面や文章で使用される。『私たち』とほぼ同義だが、堅い表現として用いられることが多い。"
-  },
-  {
-    "surface": "めちゃ／＼",
-    "pronunciation": "メチャメチャ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "非常に乱れている、または極端であることを表す。混乱やひどい状況、あるいは強調として使われる俗語的な表現。"
+    "priority": 5
   },
   {
     "surface": "いち／＼",
@@ -24,22 +15,6 @@
     "meaning": "物事を一つずつ順を追って行うさま、または細かいことまで一つ一つ取り上げるさまを表す。時に、煩わしさを含むニュアンスでも使用される。"
   },
   {
-    "surface": "いろ／＼",
-    "pronunciation": "イロイロ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "多様なもの、またはさまざまな種類や状態を指す。日常会話や文章で頻繁に使われる柔軟な表現。"
-  },
-  {
-    "surface": "拾つた",
-    "pronunciation": "ヒロッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "地面や周囲に落ちているものを手に取る、拾い上げる行為を指す。旧仮名遣いでは『拾つた』と表記され、現代仮名遣いでは『拾った』が一般的。"
-  },
-  {
     "surface": "いつまでも／＼",
     "pronunciation": "イツマデモイツマデモ",
     "accent_type": 1,
@@ -48,123 +23,20 @@
     "meaning": "非常に長い間、永遠に続くことを強調する表現。繰り返しによって永続性や感情の深さが強調される。詩的な表現や会話で使用されることがある。"
   },
   {
-    "surface": "行はれ",
-    "pronunciation": "オコナワレ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "物事が実際に実施されることを指す。旧仮名遣いでは『行はれ』と表記され、現代仮名遣いでは『行われ』が一般的。"
-  },
-  {
-    "surface": "現はし",
-    "pronunciation": "アラワシ",
-    "accent_type": 3,
-    "word_type": "VERB",
+    "surface": "いら／＼",
+    "pronunciation": "イライラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
     "priority": 6,
-    "meaning": "隠されていたものが表に現れる、または明らかにすることを指す。古典的な表現であり、現代仮名遣いでは『現わし』と表記されることが一般的。"
+    "meaning": "感情が高ぶり、不快や苛立ちを感じる様子を表す擬態語。現代でも『イライラ』として広く使われている表現。"
   },
   {
-    "surface": "痛い／＼",
-    "pronunciation": "イタイイタイ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
-  },
-  {
-    "surface": "痛い／＼／＼",
-    "pronunciation": "イタイイタイイタイ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
-  },
-  {
-    "surface": "どうか／＼",
-    "pronunciation": "ドウカ",
+    "surface": "いろ／＼",
+    "pronunciation": "イロイロ",
     "accent_type": 0,
-    "word_type": "ADJECTIVE",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
-    "meaning": "お願いや懇願、または何らかの方法でという意味を表す副詞。文脈に応じて、願望や依頼、手段を示唆する表現として使用される。"
-  },
-  {
-    "surface": "漂ふ",
-    "pronunciation": "タダヨウ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "空中や水面などを揺れながらゆっくりと動くことを指す旧仮名遣い表記。現代では『漂う』と表記されることが一般的。"
-  },
-  {
-    "surface": "腐つて",
-    "pronunciation": "クサッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "食物や物が傷んで変質した状態、または気持ちや状況が荒んだ状態を指す旧仮名遣い表記。現代では『腐って』と表記されることが一般的。"
-  },
-  {
-    "surface": "疑は",
-    "pronunciation": "ウタガワ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "物事の真偽や妥当性に対して疑念を抱くことを指す旧仮名遣い表記。現代では『疑わ』と表記されることが一般的。"
-  },
-  {
-    "surface": "植ゑ",
-    "pronunciation": "ウエ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "植物を土や地面に植える行為を指す旧仮名遣い表記。現代では『植え』と表記されることが一般的。"
-  },
-  {
-    "surface": "小ざつぱり",
-    "pronunciation": "コザッパリ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "小さく整っていて、さっぱりとした印象を与える様子を指す表現。主に服装や部屋の状態について、簡素ながら清潔感があることを示す。"
-  },
-  {
-    "surface": "かん／＼",
-    "pronunciation": "カンカン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "怒りが非常に激しい様子や、強い日差しが照りつける様子を表す擬態語。現代でも『カンカン』として使われる。"
-  },
-  {
-    "surface": "しめ／＼",
-    "pronunciation": "シメシメ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "密かに喜んだり、何かがうまくいったことに満足する様子を表す擬態語。現代でも『しめしめ』として使われる。"
-  },
-  {
-    "surface": "遇つて",
-    "pronunciation": "アッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "人や出来事に出会う、または遭遇することを指す旧仮名遣い表記。現代では『遇って』または『会って』と表記されることが一般的。"
-  },
-  {
-    "surface": "奪ひ",
-    "pronunciation": "ウバイ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "力や勢いで他人の物を取る行為を指す旧仮名遣い表記。現代では『奪い』と表記されることが一般的。"
-  },
-  {
-    "surface": "あゝ",
-    "pronunciation": "アア",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
+    "meaning": "多様なもの、またはさまざまな種類や状態を指す。日常会話や文章で頻繁に使われる柔軟な表現。"
   },
   {
     "surface": "いゝ",
@@ -188,6 +60,14 @@
     "priority": 5
   },
   {
+    "surface": "おい／＼",
+    "pronunciation": "オイオイ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "人を呼び止める際の声や、嘆きや悲しみを表現する際の擬声語。"
+  },
+  {
     "surface": "おゝ",
     "pronunciation": "オオ",
     "accent_type": "0",
@@ -195,8 +75,53 @@
     "priority": 5
   },
   {
+    "surface": "かつぱらひ",
+    "pronunciation": "カッパライ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "すばやく盗む、奪い取る行為を指す。現代仮名遣いでは『かっぱらい』"
+  },
+  {
+    "surface": "かん／＼",
+    "pronunciation": "カンカン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "怒りが非常に激しい様子や、強い日差しが照りつける様子を表す擬態語。現代でも『カンカン』として使われる。"
+  },
+  {
     "surface": "かゝ",
     "pronunciation": "カカ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "かゞ",
+    "pronunciation": "カガ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "がた／＼",
+    "pronunciation": "ガタガタ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "物が揺れる様子や音を表す擬態語・擬音語。カタカナ表記と同じ意味だが、ひらがな表記は柔らかさを感じさせる場合がある。"
+  },
+  {
+    "surface": "がゝ",
+    "pronunciation": "ガガ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "がゞ",
+    "pronunciation": "ガガ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -209,8 +134,58 @@
     "priority": 5
   },
   {
+    "surface": "きゞ",
+    "pronunciation": "キギ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぎゝ",
+    "pronunciation": "ギギ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぎゞ",
+    "pronunciation": "ギギ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "くゝ",
     "pronunciation": "クク",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "くゞ",
+    "pronunciation": "クグ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぐん／＼",
+    "pronunciation": "グングン",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "物事が勢いよく進んでいく様子を表す擬態語。現代でも『ぐんぐん』として広く使われている表現。"
+  },
+  {
+    "surface": "ぐゝ",
+    "pronunciation": "ググ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぐゞ",
+    "pronunciation": "ググ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -223,11 +198,77 @@
     "priority": 5
   },
   {
+    "surface": "けゞ",
+    "pronunciation": "ケゲ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "げゝ",
+    "pronunciation": "ゲゲ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "げゞ",
+    "pronunciation": "ゲゲ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "こゝ",
     "pronunciation": "ココ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "こゞ",
+    "pronunciation": "コゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ごゝ",
+    "pronunciation": "ゴゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ごゞ",
+    "pronunciation": "ゴゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "さうする",
+    "pronunciation": "ソウスル",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "そのようにする、またはそういう行動をとること。現代仮名遣いでは『そうする』"
+  },
+  {
+    "surface": "さぞ／＼",
+    "pronunciation": "サゾサゾ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
+  },
+  {
+    "surface": "さへなつた",
+    "pronunciation": "サエナッタ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "そうなった。現代仮名遣いでは『さえなった』"
   },
   {
     "surface": "さゝ",
@@ -237,8 +278,66 @@
     "priority": 5
   },
   {
+    "surface": "さゞ",
+    "pronunciation": "サザ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ざゝ",
+    "pronunciation": "ザザ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ざゞ",
+    "pronunciation": "ザザ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "しみ／″＼",
+    "pronunciation": "シミジミ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "深く心にしみ入るような感情や、しんみりとした気持ちを表す擬態語。現代でも『しみじみ』として用いられ、物事を深く味わう様子を指す。"
+  },
+  {
+    "surface": "しめ／＼",
+    "pronunciation": "シメシメ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "密かに喜んだり、何かがうまくいったことに満足する様子を表す擬態語。現代でも『しめしめ』として使われる。"
+  },
+  {
     "surface": "しゝ",
     "pronunciation": "シシ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "しゞ",
+    "pronunciation": "シジ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "じゝ",
+    "pronunciation": "ジジ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "じゞ",
+    "pronunciation": "ジジ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -251,6 +350,27 @@
     "priority": 5
   },
   {
+    "surface": "すゞ",
+    "pronunciation": "スズ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ずゝ",
+    "pronunciation": "ズズ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ずゞ",
+    "pronunciation": "ズズ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "せゝ",
     "pronunciation": "セセ",
     "accent_type": "0",
@@ -258,8 +378,66 @@
     "priority": 5
   },
   {
+    "surface": "せゞ",
+    "pronunciation": "セゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぜゝ",
+    "pronunciation": "ゼゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぜゞ",
+    "pronunciation": "ゼゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "それ／″＼",
+    "pronunciation": "ソレゾレ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "それぞれ、各自を指す表現。"
+  },
+  {
+    "surface": "そわ／＼",
+    "pronunciation": "ソワソワ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "落ち着かない様子や気持ちを表す擬態語。"
+  },
+  {
     "surface": "そゝ",
     "pronunciation": "ソソ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "そゞ",
+    "pronunciation": "ソゾ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぞゝ",
+    "pronunciation": "ゾゾ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぞゞ",
+    "pronunciation": "ゾゾ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -272,8 +450,66 @@
     "priority": 5
   },
   {
+    "surface": "たゞ",
+    "pronunciation": "タダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "だん／＼",
+    "pronunciation": "ダンダン",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "物事が徐々に進行する様子を表す擬態語。"
+  },
+  {
+    "surface": "だゝ",
+    "pronunciation": "ダダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "だゞ",
+    "pronunciation": "ダダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ちら／＼",
+    "pronunciation": "チラチラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "小さな物が断続的に見え隠れしたり、揺れ動いたりする様子を表す擬態語。現代でも『チラチラ』として使われる表現で、雪が降る様子や視界に映る微かな動きを表現する際に用いられる。"
+  },
+  {
     "surface": "ちゝ",
     "pronunciation": "チチ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ちゞ",
+    "pronunciation": "チヂ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぢゝ",
+    "pronunciation": "ヂヂ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぢゞ",
+    "pronunciation": "ヂヂ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -286,6 +522,35 @@
     "priority": 5
   },
   {
+    "surface": "つゞ",
+    "pronunciation": "ツヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "づたひ",
+    "pronunciation": "ズタイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "何かを伝えること、または知らせること。現代仮名遣いでは『伝い』"
+  },
+  {
+    "surface": "づゝ",
+    "pronunciation": "ヅヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "づゞ",
+    "pronunciation": "ヅヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "てゝ",
     "pronunciation": "テテ",
     "accent_type": "0",
@@ -293,8 +558,82 @@
     "priority": 5
   },
   {
+    "surface": "てゞ",
+    "pronunciation": "テデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "でも／＼",
+    "pronunciation": "デモデモ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "どれもこれもという意味を表し、さまざまな可能性や選択肢を示す表現。古風な文体で使用されることがあり、現代では『でもでも』として軽い繰り返しの表現で使われる場合もある。"
+  },
+  {
+    "surface": "でゝ",
+    "pronunciation": "デデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "でゞ",
+    "pronunciation": "デデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "とう／＼",
+    "pronunciation": "トウトウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "主に古文で使用され、『ようやく』『いよいよ』の意味を持つ表現。強調や結果として到達するニュアンスを含む古風な言い回し。"
+  },
+  {
+    "surface": "とても／＼",
+    "pronunciation": "トテモトテモ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
+  },
+  {
     "surface": "とゝ",
     "pronunciation": "トト",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "とゞ",
+    "pronunciation": "トド",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "どうか／＼",
+    "pronunciation": "ドウカ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "お願いや懇願、または何らかの方法でという意味を表す副詞。文脈に応じて、願望や依頼、手段を示唆する表現として使用される。"
+  },
+  {
+    "surface": "どゝ",
+    "pronunciation": "ドド",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "どゞ",
+    "pronunciation": "ドド",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -335,8 +674,52 @@
     "priority": 5
   },
   {
+    "surface": "はら／＼",
+    "pronunciation": "ハラハラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "心配や緊張、不安などで気持ちが落ち着かない様子を表す擬態語。現代でも『ハラハラ』として広く使われている表現。"
+  },
+  {
     "surface": "はゝ",
     "pronunciation": "ハハ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "はゞ",
+    "pronunciation": "ハバ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ばら／＼",
+    "pronunciation": "バラバラ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "物や人が統一感を失い、散らばったり分裂したりしている様子を表す擬態語。現代でも『バラバラ』として広く使われる表現。"
+  },
+  {
+    "surface": "ばゝ",
+    "pronunciation": "ババ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ばゞ",
+    "pronunciation": "ババ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぱゝ",
+    "pronunciation": "パパ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -349,8 +732,64 @@
     "priority": 5
   },
   {
+    "surface": "ひゞ",
+    "pronunciation": "ヒビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "びゝ",
+    "pronunciation": "ビビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "びゞ",
+    "pronunciation": "ビビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぴゝ",
+    "pronunciation": "ピピ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "ふゝ",
     "pronunciation": "フフ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ふゞ",
+    "pronunciation": "フブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぶゝ",
+    "pronunciation": "ブブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぶゞ",
+    "pronunciation": "ブブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぷゝ",
+    "pronunciation": "ププ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -363,11 +802,75 @@
     "priority": 5
   },
   {
+    "surface": "へゞ",
+    "pronunciation": "ヘベ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "べゝ",
+    "pronunciation": "ベベ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "べゞ",
+    "pronunciation": "ベベ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぺゝ",
+    "pronunciation": "ペペ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "ほゝ",
     "pronunciation": "ホホ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ほゞ",
+    "pronunciation": "ホボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぼゝ",
+    "pronunciation": "ボボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぼゞ",
+    "pronunciation": "ボボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ぽゝ",
+    "pronunciation": "ポポ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ます／＼",
+    "pronunciation": "マスマス",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "程度が一層高まるさま、またはさらに進む様子を表す古風な表現。現代でも『ますます』として用いられ、『ます／＼』は古文や文語で見られる表記。"
   },
   {
     "surface": "まゝ",
@@ -389,6 +892,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "めちゃ／＼",
+    "pronunciation": "メチャメチャ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "非常に乱れている、または極端であることを表す。混乱やひどい状況、あるいは強調として使われる俗語的な表現。"
   },
   {
     "surface": "めゝ",
@@ -461,6 +972,22 @@
     "priority": 5
   },
   {
+    "surface": "わざ／＼",
+    "pronunciation": "ワザワザ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "特別に手間をかけて、または意図的に行うことを指す。現代仮名遣いでは『わざわざ』"
+  },
+  {
+    "surface": "われ／＼",
+    "pronunciation": "ワレワレ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "話し手を含む集団を指す一人称複数形の代名詞。主にフォーマルな場面や文章で使用される。『私たち』とほぼ同義だが、堅い表現として用いられることが多い。"
+  },
+  {
     "surface": "わゝ",
     "pronunciation": "ワワ",
     "accent_type": "0",
@@ -491,181 +1018,6 @@
   {
     "surface": "んゝ",
     "pronunciation": "ンン",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "がゝ",
-    "pronunciation": "ガガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぎゝ",
-    "pronunciation": "ギギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぐゝ",
-    "pronunciation": "ググ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "げゝ",
-    "pronunciation": "ゲゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ごゝ",
-    "pronunciation": "ゴゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ざゝ",
-    "pronunciation": "ザザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "じゝ",
-    "pronunciation": "ジジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ずゝ",
-    "pronunciation": "ズズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぜゝ",
-    "pronunciation": "ゼゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぞゝ",
-    "pronunciation": "ゾゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "だゝ",
-    "pronunciation": "ダダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぢゝ",
-    "pronunciation": "ヂヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "づゝ",
-    "pronunciation": "ヅヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "でゝ",
-    "pronunciation": "デデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "どゝ",
-    "pronunciation": "ドド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ばゝ",
-    "pronunciation": "ババ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "びゝ",
-    "pronunciation": "ビビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぶゝ",
-    "pronunciation": "ブブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "べゝ",
-    "pronunciation": "ベベ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぼゝ",
-    "pronunciation": "ボボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぱゝ",
-    "pronunciation": "パパ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぴゝ",
-    "pronunciation": "ピピ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぷゝ",
-    "pronunciation": "ププ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぺゝ",
-    "pronunciation": "ペペ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぽゝ",
-    "pronunciation": "ポポ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -713,8 +1065,80 @@
     "priority": 5
   },
   {
+    "surface": "カゞ",
+    "pronunciation": "カガ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "カゞ",
+    "pronunciation": "カガ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ガゝ",
+    "pronunciation": "ガガ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ガゞ",
+    "pronunciation": "ガガ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ガタ／＼",
+    "pronunciation": "ガタガタ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "物が揺れたりぶつかったりして出る音を表す擬音語。"
+  },
+  {
     "surface": "キゝ",
     "pronunciation": "キキ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "キゞ",
+    "pronunciation": "キギ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "キゞ",
+    "pronunciation": "キギ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "キラ／＼",
+    "pronunciation": "キラキラ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "光が明るく輝く様子を表す擬態語。"
+  },
+  {
+    "surface": "ギゝ",
+    "pronunciation": "ギギ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ギゞ",
+    "pronunciation": "ギギ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -727,8 +1151,64 @@
     "priority": 5
   },
   {
+    "surface": "クゞ",
+    "pronunciation": "クグ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "クゞ",
+    "pronunciation": "クグ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "グゝ",
+    "pronunciation": "ググ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "グゞ",
+    "pronunciation": "ググ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "ケゝ",
     "pronunciation": "ケケ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ケゞ",
+    "pronunciation": "ケゲ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ケゞ",
+    "pronunciation": "ケゲ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゲゝ",
+    "pronunciation": "ゲゲ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゲゞ",
+    "pronunciation": "ゲゲ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -741,8 +1221,64 @@
     "priority": 5
   },
   {
+    "surface": "コゞ",
+    "pronunciation": "コゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "コゞ",
+    "pronunciation": "コゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゴゝ",
+    "pronunciation": "ゴゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゴゞ",
+    "pronunciation": "ゴゴ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "サゝ",
     "pronunciation": "ササ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "サゞ",
+    "pronunciation": "サザ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "サゞ",
+    "pronunciation": "サザ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ザゝ",
+    "pronunciation": "ザザ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ザゞ",
+    "pronunciation": "ザザ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -755,8 +1291,64 @@
     "priority": 5
   },
   {
+    "surface": "シゞ",
+    "pronunciation": "シジ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "シゞ",
+    "pronunciation": "シジ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ジゝ",
+    "pronunciation": "ジジ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ジゞ",
+    "pronunciation": "ジジ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "スゝ",
     "pronunciation": "スス",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "スゞ",
+    "pronunciation": "スズ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "スゞ",
+    "pronunciation": "スズ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ズゝ",
+    "pronunciation": "ズズ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ズゞ",
+    "pronunciation": "ズズ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -769,8 +1361,64 @@
     "priority": 5
   },
   {
+    "surface": "セゞ",
+    "pronunciation": "セゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "セゞ",
+    "pronunciation": "セゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゼゝ",
+    "pronunciation": "ゼゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゼゞ",
+    "pronunciation": "ゼゼ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "ソゝ",
     "pronunciation": "ソソ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ソゞ",
+    "pronunciation": "ソゾ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ソゞ",
+    "pronunciation": "ソゾ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゾゝ",
+    "pronunciation": "ゾゾ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ゾゞ",
+    "pronunciation": "ゾゾ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -783,8 +1431,64 @@
     "priority": 5
   },
   {
+    "surface": "タゞ",
+    "pronunciation": "タダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "タゞ",
+    "pronunciation": "タダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ダゝ",
+    "pronunciation": "ダダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ダゞ",
+    "pronunciation": "ダダ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "チゝ",
     "pronunciation": "チチ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "チゞ",
+    "pronunciation": "チヂ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "チゞ",
+    "pronunciation": "チヂ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヂゝ",
+    "pronunciation": "ヂヂ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヂゞ",
+    "pronunciation": "ヂヂ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -797,6 +1501,34 @@
     "priority": 5
   },
   {
+    "surface": "ツゞ",
+    "pronunciation": "ツヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ツゞ",
+    "pronunciation": "ツヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヅゝ",
+    "pronunciation": "ヅヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヅゞ",
+    "pronunciation": "ヅヅ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "テゝ",
     "pronunciation": "テテ",
     "accent_type": "0",
@@ -804,8 +1536,64 @@
     "priority": 5
   },
   {
+    "surface": "テゞ",
+    "pronunciation": "テデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "テゞ",
+    "pronunciation": "テデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "デゝ",
+    "pronunciation": "デデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "デゞ",
+    "pronunciation": "デデ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "トゝ",
     "pronunciation": "トト",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "トゞ",
+    "pronunciation": "トド",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "トゞ",
+    "pronunciation": "トド",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ドゝ",
+    "pronunciation": "ドド",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ドゞ",
+    "pronunciation": "ドド",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -853,8 +1641,100 @@
     "priority": 5
   },
   {
+    "surface": "ハゞ",
+    "pronunciation": "ハバ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ハゞ",
+    "pronunciation": "ハバ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "バゝ",
+    "pronunciation": "ババ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "バゞ",
+    "pronunciation": "ババ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "パゝ",
+    "pronunciation": "パパ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "パゞ",
+    "pronunciation": "パパ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "パヽ",
+    "pronunciation": "パパ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "幼児語や親しみを込めた表現で父親を指す。現代では『パパ』と表記されることが一般的。"
+  },
+  {
     "surface": "ヒゝ",
     "pronunciation": "ヒヒ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヒゞ",
+    "pronunciation": "ヒビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヒゞ",
+    "pronunciation": "ヒビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ビゝ",
+    "pronunciation": "ビビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ビゞ",
+    "pronunciation": "ビビ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ピゝ",
+    "pronunciation": "ピピ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ピゞ",
+    "pronunciation": "ピピ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -867,8 +1747,85 @@
     "priority": 5
   },
   {
+    "surface": "フゞ",
+    "pronunciation": "フブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "フゞ",
+    "pronunciation": "フブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ブゝ",
+    "pronunciation": "ブブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ブゞ",
+    "pronunciation": "ブブ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "プゝ",
+    "pronunciation": "ププ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "プゞ",
+    "pronunciation": "ププ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "ヘゝ",
     "pronunciation": "ヘヘ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ヘゞ",
+    "pronunciation": "ヘベ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ベゝ",
+    "pronunciation": "ベベ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ベゞ",
+    "pronunciation": "ベベ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ペゝ",
+    "pronunciation": "ペペ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ペゞ",
+    "pronunciation": "ペペ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
@@ -881,11 +1838,61 @@
     "priority": 5
   },
   {
+    "surface": "ホゞ",
+    "pronunciation": "ホボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ホゞ",
+    "pronunciation": "ホボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ボゝ",
+    "pronunciation": "ボボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ボゞ",
+    "pronunciation": "ボボ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ポゝ",
+    "pronunciation": "ポポ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
+    "surface": "ポゞ",
+    "pronunciation": "ポポ",
+    "accent_type": "0",
+    "word_type": "COMMON_NOUN",
+    "priority": 5
+  },
+  {
     "surface": "マゝ",
     "pronunciation": "ママ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "マヽ",
+    "pronunciation": "ママ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "幼児語や親しみを込めた表現で母親を指す。現代では『ママ』と表記されることが一般的。"
   },
   {
     "surface": "ミゝ",
@@ -1007,970 +2014,12 @@
     "priority": 5
   },
   {
-    "surface": "ガゝ",
-    "pronunciation": "ガガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ギゝ",
-    "pronunciation": "ギギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "グゝ",
-    "pronunciation": "ググ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゲゝ",
-    "pronunciation": "ゲゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゴゝ",
-    "pronunciation": "ゴゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ザゝ",
-    "pronunciation": "ザザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ジゝ",
-    "pronunciation": "ジジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ズゝ",
-    "pronunciation": "ズズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゼゝ",
-    "pronunciation": "ゼゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゾゝ",
-    "pronunciation": "ゾゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ダゝ",
-    "pronunciation": "ダダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヂゝ",
-    "pronunciation": "ヂヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヅゝ",
-    "pronunciation": "ヅヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "デゝ",
-    "pronunciation": "デデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ドゝ",
-    "pronunciation": "ドド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "バゝ",
-    "pronunciation": "ババ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ビゝ",
-    "pronunciation": "ビビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ブゝ",
-    "pronunciation": "ブブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ベゝ",
-    "pronunciation": "ベベ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ボゝ",
-    "pronunciation": "ボボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "パゝ",
-    "pronunciation": "パパ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ピゝ",
-    "pronunciation": "ピピ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "プゝ",
-    "pronunciation": "ププ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ペゝ",
-    "pronunciation": "ペペ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ポゝ",
-    "pronunciation": "ポポ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "がゞ",
-    "pronunciation": "ガガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぎゞ",
-    "pronunciation": "ギギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぐゞ",
-    "pronunciation": "ググ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "げゞ",
-    "pronunciation": "ゲゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ごゞ",
-    "pronunciation": "ゴゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ざゞ",
-    "pronunciation": "ザザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "じゞ",
-    "pronunciation": "ジジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ずゞ",
-    "pronunciation": "ズズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぜゞ",
-    "pronunciation": "ゼゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぞゞ",
-    "pronunciation": "ゾゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "だゞ",
-    "pronunciation": "ダダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぢゞ",
-    "pronunciation": "ヂヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "づゞ",
-    "pronunciation": "ヅヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "でゞ",
-    "pronunciation": "デデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "どゞ",
-    "pronunciation": "ドド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ばゞ",
-    "pronunciation": "ババ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "びゞ",
-    "pronunciation": "ビビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぶゞ",
-    "pronunciation": "ブブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "べゞ",
-    "pronunciation": "ベベ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ぼゞ",
-    "pronunciation": "ボボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ガゞ",
-    "pronunciation": "ガガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ギゞ",
-    "pronunciation": "ギギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "グゞ",
-    "pronunciation": "ググ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゲゞ",
-    "pronunciation": "ゲゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゴゞ",
-    "pronunciation": "ゴゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ザゞ",
-    "pronunciation": "ザザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ジゞ",
-    "pronunciation": "ジジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ズゞ",
-    "pronunciation": "ズズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゼゞ",
-    "pronunciation": "ゼゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ゾゞ",
-    "pronunciation": "ゾゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ダゞ",
-    "pronunciation": "ダダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヂゞ",
-    "pronunciation": "ヂヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヅゞ",
-    "pronunciation": "ヅヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "デゞ",
-    "pronunciation": "デデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ドゞ",
-    "pronunciation": "ドド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "バゞ",
-    "pronunciation": "ババ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ビゞ",
-    "pronunciation": "ビビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ブゞ",
-    "pronunciation": "ブブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ベゞ",
-    "pronunciation": "ベベ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ボゞ",
-    "pronunciation": "ボボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "パゞ",
-    "pronunciation": "パパ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ピゞ",
-    "pronunciation": "ピピ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "プゞ",
-    "pronunciation": "ププ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ペゞ",
-    "pronunciation": "ペペ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ポゞ",
-    "pronunciation": "ポポ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "かゞ",
-    "pronunciation": "カガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "きゞ",
-    "pronunciation": "キギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "くゞ",
-    "pronunciation": "クグ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "けゞ",
-    "pronunciation": "ケゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "こゞ",
-    "pronunciation": "コゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "さゞ",
-    "pronunciation": "サザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "しゞ",
-    "pronunciation": "シジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "すゞ",
-    "pronunciation": "スズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "せゞ",
-    "pronunciation": "セゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "そゞ",
-    "pronunciation": "ソゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "たゞ",
-    "pronunciation": "タダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ちゞ",
-    "pronunciation": "チヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "つゞ",
-    "pronunciation": "ツヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "てゞ",
-    "pronunciation": "テデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "とゞ",
-    "pronunciation": "トド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "はゞ",
-    "pronunciation": "ハバ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ひゞ",
-    "pronunciation": "ヒビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ふゞ",
-    "pronunciation": "フブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "へゞ",
-    "pronunciation": "ヘベ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ほゞ",
-    "pronunciation": "ホボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "カゞ",
-    "pronunciation": "カガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "キゞ",
-    "pronunciation": "キギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "クゞ",
-    "pronunciation": "クグ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ケゞ",
-    "pronunciation": "ケゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "コゞ",
-    "pronunciation": "コゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "サゞ",
-    "pronunciation": "サザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "シゞ",
-    "pronunciation": "シジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "スゞ",
-    "pronunciation": "スズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "セゞ",
-    "pronunciation": "セゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ソゞ",
-    "pronunciation": "ソゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "タゞ",
-    "pronunciation": "タダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "チゞ",
-    "pronunciation": "チヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ツゞ",
-    "pronunciation": "ツヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "テゞ",
-    "pronunciation": "テデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "トゞ",
-    "pronunciation": "トド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ハゞ",
-    "pronunciation": "ハバ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヒゞ",
-    "pronunciation": "ヒビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "フゞ",
-    "pronunciation": "フブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヘゞ",
-    "pronunciation": "ヘベ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ホゞ",
-    "pronunciation": "ホボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "カゞ",
-    "pronunciation": "カガ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "キゞ",
-    "pronunciation": "キギ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "クゞ",
-    "pronunciation": "クグ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ケゞ",
-    "pronunciation": "ケゲ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "コゞ",
-    "pronunciation": "コゴ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "サゞ",
-    "pronunciation": "サザ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "シゞ",
-    "pronunciation": "シジ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "スゞ",
-    "pronunciation": "スズ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "セゞ",
-    "pronunciation": "セゼ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ソゞ",
-    "pronunciation": "ソゾ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "タゞ",
-    "pronunciation": "タダ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "チゞ",
-    "pronunciation": "チヂ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ツゞ",
-    "pronunciation": "ツヅ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "テゞ",
-    "pronunciation": "テデ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "トゞ",
-    "pronunciation": "トド",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ハゞ",
-    "pronunciation": "ハバ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ヒゞ",
-    "pronunciation": "ヒビ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "フゞ",
-    "pronunciation": "フブ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "ホゞ",
-    "pronunciation": "ホボ",
-    "accent_type": "0",
-    "word_type": "COMMON_NOUN",
-    "priority": 5
-  },
-  {
-    "surface": "希つて",
-    "pronunciation": "ネガッテ",
-    "accent_type": "2",
+    "surface": "一つ／＼",
+    "pronunciation": "ヒトツヒトツ",
+    "accent_type": 4,
     "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "知合ひ",
-    "pronunciation": "シリアイ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "変つた",
-    "pronunciation": "カワッタ",
-    "accent_type": "4",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "言つた",
-    "pronunciation": "イッタ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "言ひ",
-    "pronunciation": "イイ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "出会つた",
-    "pronunciation": "デアッタ",
-    "accent_type": "4",
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "買つて",
-    "pronunciation": "カッテ",
-    "accent_type": "0",
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "通つて",
-    "pronunciation": "トオッテ",
-    "accent_type": "1",
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "寄つて",
-    "pronunciation": "ヨッテ",
-    "accent_type": "1",
-    "word_type": "VERB",
-    "priority": 5
+    "priority": 6,
+    "meaning": "一つずつ順に、または個別に物事を行う様子を表す。"
   },
   {
     "surface": "上つた",
@@ -1978,390 +2027,6 @@
     "accent_type": "3",
     "word_type": "VERB",
     "priority": 5
-  },
-  {
-    "surface": "立上つた",
-    "pronunciation": "タチアガッタ",
-    "accent_type": "4",
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "失つて",
-    "pronunciation": "ウシナッテ",
-    "accent_type": "3",
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "知つて",
-    "pronunciation": "シッテ",
-    "accent_type": "1",
-    "word_type": "VERB",
-    "priority": 5
-  },
-  {
-    "surface": "狂つ",
-    "pronunciation": "クルツ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "切つた",
-    "pronunciation": "キッタ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "合はせ",
-    "pronunciation": "アワセ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "思ふ",
-    "pronunciation": "オモフ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "想ふ",
-    "pronunciation": "オモフ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5
-  },
-  {
-    "surface": "行つた",
-    "pronunciation": "イツタ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "行った、移動した（現代仮名遣いで「行った」に対応）"
-  },
-  {
-    "surface": "馬鹿／＼",
-    "pronunciation": "バカバカ",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "非常に愚かであること、または愚かな行為を指す表現"
-  },
-  {
-    "surface": "毎晩／＼",
-    "pronunciation": "マイバンバン",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "夜ごと、毎晩繰り返し行われることを指す表現"
-  },
-  {
-    "surface": "習つた",
-    "pronunciation": "ナラッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "学んだ、教えを受けた。現代仮名遣いでは『習った』"
-  },
-  {
-    "surface": "習ひ",
-    "pronunciation": "ナライ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "学びや習慣などの意。現代仮名遣いでは『習い』"
-  },
-  {
-    "surface": "纏つた",
-    "pronunciation": "マトッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "まとまった、または巻きつけた状態を指す。現代仮名遣いでは『纏った』"
-  },
-  {
-    "surface": "わざ／＼",
-    "pronunciation": "ワザワザ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "特別に手間をかけて、または意図的に行うことを指す。現代仮名遣いでは『わざわざ』"
-  },
-  {
-    "surface": "ガタ／＼",
-    "pronunciation": "ガタガタ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "物が揺れたりぶつかったりして出る音を表す擬音語。"
-  },
-  {
-    "surface": "がた／＼",
-    "pronunciation": "ガタガタ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "物が揺れる様子や音を表す擬態語・擬音語。カタカナ表記と同じ意味だが、ひらがな表記は柔らかさを感じさせる場合がある。"
-  },
-  {
-    "surface": "好いだらう",
-    "pronunciation": "ヨイダロウ",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "良いだろう、望ましいと推測される。現代仮名遣いでは『よいだろう』"
-  },
-  {
-    "surface": "参つた",
-    "pronunciation": "マイッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "降参した、または困った状況を表現する。現代仮名遣いでは『参った』"
-  },
-  {
-    "surface": "おい／＼",
-    "pronunciation": "オイオイ",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "人を呼び止める際の声や、嘆きや悲しみを表現する際の擬声語。"
-  },
-  {
-    "surface": "云つて",
-    "pronunciation": "イッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "言葉で伝えて、話して。現代仮名遣いでは『言って』"
-  },
-  {
-    "surface": "用ひ",
-    "pronunciation": "モチイ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "使用する、利用する。現代仮名遣いでは『用い』"
-  },
-  {
-    "surface": "そわ／＼",
-    "pronunciation": "ソワソワ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "落ち着かない様子や気持ちを表す擬態語。"
-  },
-  {
-    "surface": "称ふ",
-    "pronunciation": "タタウ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "名付ける、呼ぶ、または称賛すること。現代仮名遣いでは『称える』"
-  },
-  {
-    "surface": "さぞ／＼",
-    "pronunciation": "サゾサゾ",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
-  },
-  {
-    "surface": "追つて",
-    "pronunciation": "オッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "あとを追う、または後日に続くという意味。現代仮名遣いでは『追って』"
-  },
-  {
-    "surface": "載つて",
-    "pronunciation": "ノッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "何かの上に置かれる、または記録・記載されること。現代仮名遣いでは『載って』"
-  },
-  {
-    "surface": "給へ",
-    "pronunciation": "タマエ",
-    "accent_type": 2,
-    "word_type": "SUFFIX",
-    "priority": 7,
-    "meaning": "尊敬や丁寧を表す助動詞の命令形で、『〜してください』の意。現代仮名遣いでは『たまえ』"
-  },
-  {
-    "surface": "余外",
-    "pronunciation": "ヨガイ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "余ったものや予定外のこと。通常の範囲外の事柄を指す。"
-  },
-  {
-    "surface": "送つて",
-    "pronunciation": "オクッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物や人を目的地へ届ける、または送信すること。現代仮名遣いでは『送って』"
-  },
-  {
-    "surface": "例へ",
-    "pronunciation": "タトエ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "例として示す、またはたとえる。現代仮名遣いでは『例え』"
-  },
-  {
-    "surface": "決つた",
-    "pronunciation": "キマッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物事が確定した、または定まった状態を指す。現代仮名遣いでは『決まった』"
-  },
-  {
-    "surface": "考へ",
-    "pronunciation": "カンガエ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "物事を思索し、判断する行為。現代仮名遣いでは『考え』"
-  },
-  {
-    "surface": "嫌ひ",
-    "pronunciation": "キライ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "好まない、避けたいと思う感情を表す。現代仮名遣いでは『嫌い』"
-  },
-  {
-    "surface": "係はらず",
-    "pronunciation": "カカワラズ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "関わらない、または関係しないことを意味する。現代仮名遣いでは『係わらず』"
-  },
-  {
-    "surface": "笑つた",
-    "pronunciation": "ワラッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "喜びやおかしさを表情や声で示した行為。現代仮名遣いでは『笑った』"
-  },
-  {
-    "surface": "笑つて",
-    "pronunciation": "ワラッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "喜びやおかしさなどの感情を表情や声で示す行為。現代仮名遣いでは『笑って』"
-  },
-  {
-    "surface": "さへなつた",
-    "pronunciation": "サエナッタ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "そうなった。現代仮名遣いでは『さえなった』"
-  },
-  {
-    "surface": "失つて",
-    "pronunciation": "ウシナッテ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "何かをなくす、または失うこと。現代仮名遣いでは『失って』"
-  },
-  {
-    "surface": "入つて",
-    "pronunciation": "ハイッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "中に入る動作を表す。現代仮名遣いでは『入って』"
-  },
-  {
-    "surface": "入つた",
-    "pronunciation": "ハイッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "中に入った状態を表す。現代仮名遣いでは『入った』"
-  },
-  {
-    "surface": "かつぱらひ",
-    "pronunciation": "カッパライ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "すばやく盗む、奪い取る行為を指す。現代仮名遣いでは『かっぱらい』"
-  },
-  {
-    "surface": "それ／″＼",
-    "pronunciation": "ソレゾレ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "それぞれ、各自を指す表現。"
-  },
-  {
-    "surface": "さうする",
-    "pronunciation": "ソウスル",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "そのようにする、またはそういう行動をとること。現代仮名遣いでは『そうする』"
-  },
-  {
-    "surface": "渡つた",
-    "pronunciation": "ワタッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "何かを越えたり、移動して向こう側へ到達すること。現代仮名遣いでは『渡った』"
-  },
-  {
-    "surface": "渡つて",
-    "pronunciation": "ワタッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "動作が進行している状態を表す形。現代仮名遣いでは『渡って』"
-  },
-  {
-    "surface": "づたひ",
-    "pronunciation": "ズタイ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "何かを伝えること、または知らせること。現代仮名遣いでは『伝い』"
-  },
-  {
-    "surface": "とても／＼",
-    "pronunciation": "トテモトテモ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
-  },
-  {
-    "surface": "キラ／＼",
-    "pronunciation": "キラキラ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "光が明るく輝く様子を表す擬態語。"
   },
   {
     "surface": "了つて",
@@ -2372,244 +2037,12 @@
     "meaning": "物事が終わる、または完了することを表す。現代仮名遣いでは『了って』と書く。"
   },
   {
-    "surface": "だん／＼",
-    "pronunciation": "ダンダン",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "物事が徐々に進行する様子を表す擬態語。"
-  },
-  {
-    "surface": "一つ／＼",
-    "pronunciation": "ヒトツヒトツ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "一つずつ順に、または個別に物事を行う様子を表す。"
-  },
-  {
-    "surface": "凝つて",
-    "pronunciation": "コッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "物事に集中する、またはこだわりや趣向を凝らすことを指す。現代では『凝って』と書くことが一般的。"
-  },
-  {
-    "surface": "加へ",
-    "pronunciation": "クワエ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "何かを追加する、または足し合わせることを指す。現代では『加え』と書くことが一般的。"
-  },
-  {
-    "surface": "行き度い",
-    "pronunciation": "イキタイ",
-    "accent_type": 4,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "どこかへ行きたい、あるいは向かいたいという願望を表す。現代仮名遣いでは『行きたい』と書く。"
-  },
-  {
-    "surface": "語つた",
-    "pronunciation": "カタッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "話した、何かを伝えるために言葉を使ったことを指す。現代仮名遣いでは『語った』と書く。"
-  },
-  {
-    "surface": "怒つて",
-    "pronunciation": "オコッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "感情が高ぶり、怒りを表現することを指す。旧仮名遣いでは『怒つて』と表記されるが、現代仮名遣いでは『怒って』が一般的。"
-  },
-  {
-    "surface": "怒つた",
-    "pronunciation": "オコッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "感情が高ぶり、怒りを表現した過去の状態を指す。旧仮名遣いでは『怒つた』と表記されるが、現代仮名遣いでは『怒った』が一般的。"
-  },
-  {
-    "surface": "立還つて",
-    "pronunciation": "タチカエッテ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "その場から直ちに戻る、または回帰することを指す。旧仮名遣いでは『立還つて』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
-  },
-  {
-    "surface": "言つて",
+    "surface": "云つて",
     "pronunciation": "イッテ",
     "accent_type": 2,
     "word_type": "VERB",
-    "priority": 7,
-    "meaning": "何かを話したり伝えたりすることを指す動詞の連用形。旧仮名遣いでは『言つて』と表記されるが、現代仮名遣いでは『言って』が一般的。"
-  },
-  {
-    "surface": "言つた",
-    "pronunciation": "イッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "何かを話したり伝えたりした過去の行為を指す。旧仮名遣いでは『言つた』と表記されるが、現代仮名遣いでは『言った』が一般的。"
-  },
-  {
-    "surface": "向つて",
-    "pronunciation": "ムカッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "ある方向や対象に顔や体、心を向けることを指す。旧仮名遣いでは『向つて』と表記されるが、現代仮名遣いでは『向かって』が一般的。"
-  },
-  {
-    "surface": "向つた",
-    "pronunciation": "ムカッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "特定の方向や対象に動いたり心を向けたりした過去の行為を指す。旧仮名遣いでは『向つた』と表記されるが、現代仮名遣いでは『向かった』が一般的。"
-  },
-  {
-    "surface": "向ふ",
-    "pronunciation": "ムカウ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "ある方向や対象に向かうことを指す。旧仮名遣いでは『向ふ』と表記されるが、現代仮名遣いでは『向う』または『向かう』が一般的。"
-  },
-  {
-    "surface": "向ふた",
-    "pronunciation": "ムカウタ",
-    "accent_type": 3,
-    "word_type": "VERB",
     "priority": 6,
-    "meaning": "特定の方向や対象に向かった過去の行為を指す。旧仮名遣いで用いられる形。"
-  },
-  {
-    "surface": "追ひ",
-    "pronunciation": "オイ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "後ろから追いかける行為を指す旧仮名遣い表記。現代仮名遣いでは『追い』と表記される。特定の対象を追い求める行為や動作を意味する。"
-  },
-  {
-    "surface": "作つて",
-    "pronunciation": "ツクッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "何かを製作したり、生み出したりする動作を指す。旧仮名遣いでは『作つて』と表記されるが、現代では『作って』が一般的。"
-  },
-  {
-    "surface": "作つた",
-    "pronunciation": "ツクッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "何かを製作したり、生み出したりした過去の行為を指す。旧仮名遣いでは『作つた』と表記されるが、現代では『作った』が一般的。"
-  },
-  {
-    "surface": "立つて",
-    "pronunciation": "タッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "人や物が垂直の姿勢になる動作を指す。旧仮名遣いでは『立つて』と表記されるが、現代では『立って』が一般的。"
-  },
-  {
-    "surface": "立つた",
-    "pronunciation": "タッタ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "人や物が垂直の姿勢になった過去の行為を指す。旧仮名遣いでは『立つた』と表記されるが、現代では『立った』が一般的。"
-  },
-  {
-    "surface": "匂ひ",
-    "pronunciation": "ニオイ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "香りや臭いを指す旧仮名遣い表記。良い香りや悪い臭いのいずれにも用いられる。現代では『匂い』と表記されることが一般的。"
-  },
-  {
-    "surface": "飽ない",
-    "pronunciation": "アキナイ",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "何かに対して飽きることがない、常に興味や関心を持ち続けることを指す。旧仮名遣いでは『飽ない』と表記されるが、現代では『飽きない』が一般的。"
-  },
-  {
-    "surface": "濁つた",
-    "pronunciation": "ニゴッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "液体や空気、音などが透明さや清らかさを失い、不純になった状態を指す旧仮名遣い表記。現代では『濁った』と表記されることが一般的。"
-  },
-  {
-    "surface": "迫つて",
-    "pronunciation": "セマッテ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "物事や状況が近づいてくることを指す旧仮名遣い表記。現代では『迫って』と表記されることが一般的。特に時間や危険、解決すべき問題などが切迫する様子を示す。"
-  },
-  {
-    "surface": "言はず",
-    "pronunciation": "イワズ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "何も言わない、または言葉にしないことを指す旧仮名遣い表記。現代では『言わず』と表記されることが一般的。主に否定的な文脈で使用される。"
-  },
-  {
-    "surface": "言はれ",
-    "pronunciation": "イワレ",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "他人から言葉として伝えられる、または言及されることを指す旧仮名遣い表記。現代では『言われ』と表記されることが一般的。"
-  },
-  {
-    "surface": "思つて",
-    "pronunciation": "オモッテ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "心の中で考えたり感じたりすることを指す旧仮名遣い表記。現代では『思って』と表記されることが一般的。"
-  },
-  {
-    "surface": "食はされて",
-    "pronunciation": "ショクワサレテ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "食べることを他人に強いられる、または食べるよう仕向けられることを指す旧仮名遣い表記。現代では『食べさせられて』と表記されることが一般的。"
-  },
-  {
-    "surface": "とう／＼",
-    "pronunciation": "トウトウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "主に古文で使用され、『ようやく』『いよいよ』の意味を持つ表現。強調や結果として到達するニュアンスを含む古風な言い回し。"
-  },
-  {
-    "surface": "いら／＼",
-    "pronunciation": "イライラ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "感情が高ぶり、不快や苛立ちを感じる様子を表す擬態語。現代でも『イライラ』として広く使われている表現。"
+    "meaning": "言葉で伝えて、話して。現代仮名遣いでは『言って』"
   },
   {
     "surface": "云ひ",
@@ -2628,60 +2061,82 @@
     "meaning": "言葉を使って何かを伝える行為を指す旧字・旧仮名遣い表記。現代では『言う』と表記されることが一般的。主に話すことや言葉を発する行為を表現する。"
   },
   {
-    "surface": "叱つて",
-    "pronunciation": "シカッテ",
+    "surface": "余外",
+    "pronunciation": "ヨガイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "余ったものや予定外のこと。通常の範囲外の事柄を指す。"
+  },
+  {
+    "surface": "作つた",
+    "pronunciation": "ツクッタ",
     "accent_type": 3,
     "word_type": "VERB",
     "priority": 7,
-    "meaning": "他人の過ちや間違いを厳しく注意することを指す旧仮名遣い表記。現代では『叱って』と表記されることが一般的。"
+    "meaning": "何かを製作したり、生み出したりした過去の行為を指す。旧仮名遣いでは『作つた』と表記されるが、現代では『作った』が一般的。"
   },
   {
-    "surface": "はら／＼",
-    "pronunciation": "ハラハラ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
+    "surface": "作つて",
+    "pronunciation": "ツクッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを製作したり、生み出したりする動作を指す。旧仮名遣いでは『作つて』と表記されるが、現代では『作って』が一般的。"
+  },
+  {
+    "surface": "例へ",
+    "pronunciation": "タトエ",
+    "accent_type": 2,
+    "word_type": "VERB",
     "priority": 6,
-    "meaning": "心配や緊張、不安などで気持ちが落ち着かない様子を表す擬態語。現代でも『ハラハラ』として広く使われている表現。"
+    "meaning": "例として示す、またはたとえる。現代仮名遣いでは『例え』"
   },
   {
-    "surface": "ます／＼",
-    "pronunciation": "マスマス",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
+    "surface": "係はらず",
+    "pronunciation": "カカワラズ",
+    "accent_type": 3,
+    "word_type": "VERB",
     "priority": 6,
-    "meaning": "程度が一層高まるさま、またはさらに進む様子を表す古風な表現。現代でも『ますます』として用いられ、『ます／＼』は古文や文語で見られる表記。"
+    "meaning": "関わらない、または関係しないことを意味する。現代仮名遣いでは『係わらず』"
   },
   {
-    "surface": "ぐん／＼",
-    "pronunciation": "グングン",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
+    "surface": "入つた",
+    "pronunciation": "ハイッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
     "priority": 6,
-    "meaning": "物事が勢いよく進んでいく様子を表す擬態語。現代でも『ぐんぐん』として広く使われている表現。"
+    "meaning": "中に入った状態を表す。現代仮名遣いでは『入った』"
   },
   {
-    "surface": "パヽ",
-    "pronunciation": "パパ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
+    "surface": "入つて",
+    "pronunciation": "ハイッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
     "priority": 6,
-    "meaning": "幼児語や親しみを込めた表現で父親を指す。現代では『パパ』と表記されることが一般的。"
+    "meaning": "中に入る動作を表す。現代仮名遣いでは『入って』"
   },
   {
-    "surface": "マヽ",
-    "pronunciation": "ママ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "幼児語や親しみを込めた表現で母親を指す。現代では『ママ』と表記されることが一般的。"
-  },
-  {
-    "surface": "去つて",
-    "pronunciation": "サッテ",
+    "surface": "凝つて",
+    "pronunciation": "コッテ",
     "accent_type": 2,
     "word_type": "VERB",
     "priority": 7,
-    "meaning": "その場や状況から離れる、または過ぎ去る動作を指す旧仮名遣い表記。現代では『去って』と表記されることが一般的。"
+    "meaning": "物事に集中する、またはこだわりや趣向を凝らすことを指す。現代では『凝って』と書くことが一般的。"
+  },
+  {
+    "surface": "出会つた",
+    "pronunciation": "デアッタ",
+    "accent_type": "4",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "切つた",
+    "pronunciation": "キッタ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5
   },
   {
     "surface": "加はつて",
@@ -2692,6 +2147,207 @@
     "meaning": "集団や活動に新たに参加する、または数や量が増えることを指す旧仮名遣い表記。現代では『加わって』と表記されることが一般的。"
   },
   {
+    "surface": "加へ",
+    "pronunciation": "クワエ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを追加する、または足し合わせることを指す。現代では『加え』と書くことが一般的。"
+  },
+  {
+    "surface": "匂ひ",
+    "pronunciation": "ニオイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "香りや臭いを指す旧仮名遣い表記。良い香りや悪い臭いのいずれにも用いられる。現代では『匂い』と表記されることが一般的。"
+  },
+  {
+    "surface": "去つて",
+    "pronunciation": "サッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "その場や状況から離れる、または過ぎ去る動作を指す旧仮名遣い表記。現代では『去って』と表記されることが一般的。"
+  },
+  {
+    "surface": "参つた",
+    "pronunciation": "マイッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "降参した、または困った状況を表現する。現代仮名遣いでは『参った』"
+  },
+  {
+    "surface": "叱つて",
+    "pronunciation": "シカッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "他人の過ちや間違いを厳しく注意することを指す旧仮名遣い表記。現代では『叱って』と表記されることが一般的。"
+  },
+  {
+    "surface": "合はせ",
+    "pronunciation": "アワセ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "向つた",
+    "pronunciation": "ムカッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "特定の方向や対象に動いたり心を向けたりした過去の行為を指す。旧仮名遣いでは『向つた』と表記されるが、現代仮名遣いでは『向かった』が一般的。"
+  },
+  {
+    "surface": "向つて",
+    "pronunciation": "ムカッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "ある方向や対象に顔や体、心を向けることを指す。旧仮名遣いでは『向つて』と表記されるが、現代仮名遣いでは『向かって』が一般的。"
+  },
+  {
+    "surface": "向ふ",
+    "pronunciation": "ムカウ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "ある方向や対象に向かうことを指す。旧仮名遣いでは『向ふ』と表記されるが、現代仮名遣いでは『向う』または『向かう』が一般的。"
+  },
+  {
+    "surface": "向ふた",
+    "pronunciation": "ムカウタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "特定の方向や対象に向かった過去の行為を指す。旧仮名遣いで用いられる形。"
+  },
+  {
+    "surface": "変つた",
+    "pronunciation": "カワッタ",
+    "accent_type": "4",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "失つて",
+    "pronunciation": "ウシナッテ",
+    "accent_type": "3",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "失つて",
+    "pronunciation": "ウシナッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かをなくす、または失うこと。現代仮名遣いでは『失って』"
+  },
+  {
+    "surface": "奪ひ",
+    "pronunciation": "ウバイ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "力や勢いで他人の物を取る行為を指す旧仮名遣い表記。現代では『奪い』と表記されることが一般的。"
+  },
+  {
+    "surface": "好いだらう",
+    "pronunciation": "ヨイダロウ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "良いだろう、望ましいと推測される。現代仮名遣いでは『よいだろう』"
+  },
+  {
+    "surface": "嫌ひ",
+    "pronunciation": "キライ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "好まない、避けたいと思う感情を表す。現代仮名遣いでは『嫌い』"
+  },
+  {
+    "surface": "寄つて",
+    "pronunciation": "ヨッテ",
+    "accent_type": "1",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "小ざつぱり",
+    "pronunciation": "コザッパリ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "小さく整っていて、さっぱりとした印象を与える様子を指す表現。主に服装や部屋の状態について、簡素ながら清潔感があることを示す。"
+  },
+  {
+    "surface": "希つて",
+    "pronunciation": "ネガッテ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "怒つた",
+    "pronunciation": "オコッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "感情が高ぶり、怒りを表現した過去の状態を指す。旧仮名遣いでは『怒つた』と表記されるが、現代仮名遣いでは『怒った』が一般的。"
+  },
+  {
+    "surface": "怒つて",
+    "pronunciation": "オコッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "感情が高ぶり、怒りを表現することを指す。旧仮名遣いでは『怒つて』と表記されるが、現代仮名遣いでは『怒って』が一般的。"
+  },
+  {
+    "surface": "思つて",
+    "pronunciation": "オモッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "心の中で考えたり感じたりすることを指す旧仮名遣い表記。現代では『思って』と表記されることが一般的。"
+  },
+  {
+    "surface": "思はせ",
+    "pronunciation": "オモワセ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "他人に何かを思わせる、考えさせる行為を指す旧仮名遣い表記。現代では『思わせ』と表記されることが一般的。"
+  },
+  {
+    "surface": "思ふ",
+    "pronunciation": "オモフ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "想ふ",
+    "pronunciation": "オモフ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "拾つた",
+    "pronunciation": "ヒロッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "地面や周囲に落ちているものを手に取る、拾い上げる行為を指す。旧仮名遣いでは『拾つた』と表記され、現代仮名遣いでは『拾った』が一般的。"
+  },
+  {
     "surface": "振返つて",
     "pronunciation": "フリカエッテ",
     "accent_type": 4,
@@ -2700,28 +2356,264 @@
     "meaning": "過去の出来事や背後にあるものを思い出したり、振り向いて確認する動作を指す旧仮名遣い表記。現代では『振り返って』と表記されることが一般的。"
   },
   {
-    "surface": "返つて",
-    "pronunciation": "カエッテ",
+    "surface": "曇つた",
+    "pronunciation": "クモッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "天候が晴れから曇りに変わり、空が覆われた状態、または気分や状況が暗く沈んだ状態を指す旧仮名遣い表記。現代では『曇った』と表記されることが一般的。"
+  },
+  {
+    "surface": "植ゑ",
+    "pronunciation": "ウエ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "植物を土や地面に植える行為を指す旧仮名遣い表記。現代では『植え』と表記されることが一般的。"
+  },
+  {
+    "surface": "毎晩／＼",
+    "pronunciation": "マイバンバン",
     "accent_type": 3,
     "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "予想外の結果や状況を示す際に使われる表現で、『むしろ』や『逆に』という意味を持つ。旧仮名遣いでは『返つて』と表記されるが、現代では『かえって』と表記される。"
-  },
-  {
-    "surface": "ばら／＼",
-    "pronunciation": "バラバラ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
     "priority": 6,
-    "meaning": "物や人が統一感を失い、散らばったり分裂したりしている様子を表す擬態語。現代でも『バラバラ』として広く使われる表現。"
+    "meaning": "夜ごと、毎晩繰り返し行われることを指す表現"
   },
   {
-    "surface": "陰欝",
-    "pronunciation": "インウツ",
+    "surface": "決つた",
+    "pronunciation": "キマッタ",
     "accent_type": 3,
-    "word_type": "COMMON_NOUN",
+    "word_type": "VERB",
     "priority": 6,
-    "meaning": "陰気で鬱屈した雰囲気や状態を指す旧字表記。現代では『陰鬱』と表記されることが一般的。心や天候などの暗い様子を表現する際に使われる。"
+    "meaning": "物事が確定した、または定まった状態を指す。現代仮名遣いでは『決まった』"
+  },
+  {
+    "surface": "渡つた",
+    "pronunciation": "ワタッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かを越えたり、移動して向こう側へ到達すること。現代仮名遣いでは『渡った』"
+  },
+  {
+    "surface": "渡つて",
+    "pronunciation": "ワタッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "動作が進行している状態を表す形。現代仮名遣いでは『渡って』"
+  },
+  {
+    "surface": "漂ふ",
+    "pronunciation": "タダヨウ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "空中や水面などを揺れながらゆっくりと動くことを指す旧仮名遣い表記。現代では『漂う』と表記されることが一般的。"
+  },
+  {
+    "surface": "濁つた",
+    "pronunciation": "ニゴッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "液体や空気、音などが透明さや清らかさを失い、不純になった状態を指す旧仮名遣い表記。現代では『濁った』と表記されることが一般的。"
+  },
+  {
+    "surface": "狂つ",
+    "pronunciation": "クルツ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "現はし",
+    "pronunciation": "アラワシ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "隠されていたものが表に現れる、または明らかにすることを指す。古典的な表現であり、現代仮名遣いでは『現わし』と表記されることが一般的。"
+  },
+  {
+    "surface": "用ひ",
+    "pronunciation": "モチイ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "使用する、利用する。現代仮名遣いでは『用い』"
+  },
+  {
+    "surface": "疑は",
+    "pronunciation": "ウタガワ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物事の真偽や妥当性に対して疑念を抱くことを指す旧仮名遣い表記。現代では『疑わ』と表記されることが一般的。"
+  },
+  {
+    "surface": "痛い／＼",
+    "pronunciation": "イタイイタイ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
+  },
+  {
+    "surface": "痛い／＼／＼",
+    "pronunciation": "イタイイタイイタイ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "痛みを訴えるときに繰り返して用いる表現。子供や軽い痛みを表現する場面でよく使われる。"
+  },
+  {
+    "surface": "知つて",
+    "pronunciation": "シッテ",
+    "accent_type": "1",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "知合ひ",
+    "pronunciation": "シリアイ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "称ふ",
+    "pronunciation": "タタウ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "名付ける、呼ぶ、または称賛すること。現代仮名遣いでは『称える』"
+  },
+  {
+    "surface": "立つた",
+    "pronunciation": "タッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "人や物が垂直の姿勢になった過去の行為を指す。旧仮名遣いでは『立つた』と表記されるが、現代では『立った』が一般的。"
+  },
+  {
+    "surface": "立つて",
+    "pronunciation": "タッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "人や物が垂直の姿勢になる動作を指す。旧仮名遣いでは『立つて』と表記されるが、現代では『立って』が一般的。"
+  },
+  {
+    "surface": "立上つた",
+    "pronunciation": "タチアガッタ",
+    "accent_type": "4",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "立還つて",
+    "pronunciation": "タチカエッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "その場から直ちに戻る、または回帰することを指す。旧仮名遣いでは『立還つて』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
+  },
+  {
+    "surface": "笑つた",
+    "pronunciation": "ワラッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "喜びやおかしさを表情や声で示した行為。現代仮名遣いでは『笑った』"
+  },
+  {
+    "surface": "笑つて",
+    "pronunciation": "ワラッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "喜びやおかしさなどの感情を表情や声で示す行為。現代仮名遣いでは『笑って』"
+  },
+  {
+    "surface": "給へ",
+    "pronunciation": "タマエ",
+    "accent_type": 2,
+    "word_type": "SUFFIX",
+    "priority": 7,
+    "meaning": "尊敬や丁寧を表す助動詞の命令形で、『〜してください』の意。現代仮名遣いでは『たまえ』"
+  },
+  {
+    "surface": "纏つた",
+    "pronunciation": "マトッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "まとまった、または巻きつけた状態を指す。現代仮名遣いでは『纏った』"
+  },
+  {
+    "surface": "習つた",
+    "pronunciation": "ナラッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "学んだ、教えを受けた。現代仮名遣いでは『習った』"
+  },
+  {
+    "surface": "習ひ",
+    "pronunciation": "ナライ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "学びや習慣などの意。現代仮名遣いでは『習い』"
+  },
+  {
+    "surface": "考へ",
+    "pronunciation": "カンガエ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物事を思索し、判断する行為。現代仮名遣いでは『考え』"
+  },
+  {
+    "surface": "肥つた",
+    "pronunciation": "フトッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "体や物が太り、肉付きや体積が増えた状態を指す旧仮名遣い表記。現代では『肥った』または『太った』と表記されることが一般的。"
+  },
+  {
+    "surface": "腐つて",
+    "pronunciation": "クサッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "食物や物が傷んで変質した状態、または気持ちや状況が荒んだ状態を指す旧仮名遣い表記。現代では『腐って』と表記されることが一般的。"
+  },
+  {
+    "surface": "行き度い",
+    "pronunciation": "イキタイ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "どこかへ行きたい、あるいは向かいたいという願望を表す。現代仮名遣いでは『行きたい』と書く。"
+  },
+  {
+    "surface": "行つた",
+    "pronunciation": "イツタ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "行った、移動した（現代仮名遣いで「行った」に対応）"
+  },
+  {
+    "surface": "行はれ",
+    "pronunciation": "オコナワレ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "物事が実際に実施されることを指す。旧仮名遣いでは『行はれ』と表記され、現代仮名遣いでは『行われ』が一般的。"
   },
   {
     "surface": "被つた",
@@ -2740,44 +2632,128 @@
     "meaning": "物を頭や体に覆うように身につけたり、何かが重なる状態になることを指す旧仮名遣い表記。現代では『被った』と表記される。"
   },
   {
-    "surface": "でも／＼",
-    "pronunciation": "デモデモ",
-    "accent_type": 1,
+    "surface": "言つた",
+    "pronunciation": "イッタ",
+    "accent_type": "3",
     "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "言つた",
+    "pronunciation": "イッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを話したり伝えたりした過去の行為を指す。旧仮名遣いでは『言つた』と表記されるが、現代仮名遣いでは『言った』が一般的。"
+  },
+  {
+    "surface": "言つて",
+    "pronunciation": "イッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを話したり伝えたりすることを指す動詞の連用形。旧仮名遣いでは『言つて』と表記されるが、現代仮名遣いでは『言って』が一般的。"
+  },
+  {
+    "surface": "言はず",
+    "pronunciation": "イワズ",
+    "accent_type": 2,
+    "word_type": "VERB",
     "priority": 6,
-    "meaning": "どれもこれもという意味を表し、さまざまな可能性や選択肢を示す表現。古風な文体で使用されることがあり、現代では『でもでも』として軽い繰り返しの表現で使われる場合もある。"
+    "meaning": "何も言わない、または言葉にしないことを指す旧仮名遣い表記。現代では『言わず』と表記されることが一般的。主に否定的な文脈で使用される。"
   },
   {
-    "surface": "思はせ",
-    "pronunciation": "オモワセ",
-    "accent_type": 3,
+    "surface": "言はれ",
+    "pronunciation": "イワレ",
+    "accent_type": 2,
     "word_type": "VERB",
-    "priority": 7,
-    "meaning": "他人に何かを思わせる、考えさせる行為を指す旧仮名遣い表記。現代では『思わせ』と表記されることが一般的。"
-  },
-  {
-    "surface": "曇つた",
-    "pronunciation": "クモッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "天候が晴れから曇りに変わり、空が覆われた状態、または気分や状況が暗く沈んだ状態を指す旧仮名遣い表記。現代では『曇った』と表記されることが一般的。"
-  },
-  {
-    "surface": "肥つた",
-    "pronunciation": "フトッタ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 7,
-    "meaning": "体や物が太り、肉付きや体積が増えた状態を指す旧仮名遣い表記。現代では『肥った』または『太った』と表記されることが一般的。"
-  },
-  {
-    "surface": "ちら／＼",
-    "pronunciation": "チラチラ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
     "priority": 6,
-    "meaning": "小さな物が断続的に見え隠れしたり、揺れ動いたりする様子を表す擬態語。現代でも『チラチラ』として使われる表現で、雪が降る様子や視界に映る微かな動きを表現する際に用いられる。"
+    "meaning": "他人から言葉として伝えられる、または言及されることを指す旧仮名遣い表記。現代では『言われ』と表記されることが一般的。"
+  },
+  {
+    "surface": "言ひ",
+    "pronunciation": "イイ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5
+  },
+  {
+    "surface": "語つた",
+    "pronunciation": "カタッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "話した、何かを伝えるために言葉を使ったことを指す。現代仮名遣いでは『語った』と書く。"
+  },
+  {
+    "surface": "買つて",
+    "pronunciation": "カッテ",
+    "accent_type": "0",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "載つて",
+    "pronunciation": "ノッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かの上に置かれる、または記録・記載されること。現代仮名遣いでは『載って』"
+  },
+  {
+    "surface": "返つて",
+    "pronunciation": "カエッテ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "予想外の結果や状況を示す際に使われる表現で、『むしろ』や『逆に』という意味を持つ。旧仮名遣いでは『返つて』と表記されるが、現代では『かえって』と表記される。"
+  },
+  {
+    "surface": "迫つて",
+    "pronunciation": "セマッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物事や状況が近づいてくることを指す旧仮名遣い表記。現代では『迫って』と表記されることが一般的。特に時間や危険、解決すべき問題などが切迫する様子を示す。"
+  },
+  {
+    "surface": "追つて",
+    "pronunciation": "オッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "あとを追う、または後日に続くという意味。現代仮名遣いでは『追って』"
+  },
+  {
+    "surface": "追ひ",
+    "pronunciation": "オイ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "後ろから追いかける行為を指す旧仮名遣い表記。現代仮名遣いでは『追い』と表記される。特定の対象を追い求める行為や動作を意味する。"
+  },
+  {
+    "surface": "送つて",
+    "pronunciation": "オクッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "物や人を目的地へ届ける、または送信すること。現代仮名遣いでは『送って』"
+  },
+  {
+    "surface": "通つて",
+    "pronunciation": "トオッテ",
+    "accent_type": "1",
+    "word_type": "VERB",
+    "priority": 5
+  },
+  {
+    "surface": "遇つて",
+    "pronunciation": "アッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "人や出来事に出会う、または遭遇することを指す旧仮名遣い表記。現代では『遇って』または『会って』と表記されることが一般的。"
   },
   {
     "surface": "違ひ",
@@ -2788,11 +2764,35 @@
     "meaning": "二つ以上のものが一致しないこと、または異なる点を指す旧仮名遣い表記。現代では『違い』と表記されることが一般的。"
   },
   {
-    "surface": "しみ／″＼",
-    "pronunciation": "シミジミ",
+    "surface": "陰欝",
+    "pronunciation": "インウツ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "陰気で鬱屈した雰囲気や状態を指す旧字表記。現代では『陰鬱』と表記されることが一般的。心や天候などの暗い様子を表現する際に使われる。"
+  },
+  {
+    "surface": "食はされて",
+    "pronunciation": "ショクワサレテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "食べることを他人に強いられる、または食べるよう仕向けられることを指す旧仮名遣い表記。現代では『食べさせられて』と表記されることが一般的。"
+  },
+  {
+    "surface": "飽ない",
+    "pronunciation": "アキナイ",
     "accent_type": 3,
     "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "深く心にしみ入るような感情や、しんみりとした気持ちを表す擬態語。現代でも『しみじみ』として用いられ、物事を深く味わう様子を指す。"
+    "priority": 6,
+    "meaning": "何かに対して飽きることがない、常に興味や関心を持ち続けることを指す。旧仮名遣いでは『飽ない』と表記されるが、現代では『飽きない』が一般的。"
+  },
+  {
+    "surface": "馬鹿／＼",
+    "pronunciation": "バカバカ",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "非常に愚かであること、または愚かな行為を指す表現"
   }
 ]

@@ -1,43 +1,27 @@
 [
   {
-    "surface": "青々軒",
-    "pronunciation": "セイセイケン",
+    "surface": "Franz Kafka",
+    "pronunciation": "フランツカフカ",
     "accent_type": 0,
     "word_type": "PROPER_NOUN",
     "priority": 5,
-    "meaning": "架空の名前として使用されることが多い名前、特定の意味はない"
+    "meaning": "チェコ出身の作家。『変身』『審判』などの作品で知られる"
   },
   {
-    "surface": "庄吉",
-    "pronunciation": "ショウキチ",
-    "accent_type": 4,
-    "word_type": "PROPER_NOUN",
-    "priority": 5,
-    "meaning": "日本の人名。特に男性に多い名前"
-  },
-  {
-    "surface": "猿飛",
-    "pronunciation": "サルトビ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "猿のように飛ぶことを連想させる動きや人名（例: 猿飛佐助）"
-  },
-  {
-    "surface": "鷄介",
-    "pronunciation": "ケイスケ",
+    "surface": "Seatle",
+    "pronunciation": "シアトル",
     "accent_type": 1,
     "word_type": "PROPER_NOUN",
-    "priority": 5,
-    "meaning": "日本の人名。特に男性に多い名前"
+    "priority": 8,
+    "meaning": "シアトル（アメリカ合衆国ワシントン州の都市）"
   },
   {
-    "surface": "雪緒",
-    "pronunciation": "ユキオ",
-    "accent_type": 3,
+    "surface": "Teddy",
+    "pronunciation": "テディ",
+    "accent_type": 1,
     "word_type": "PROPER_NOUN",
-    "priority": 5,
-    "meaning": "日本の人名。男性女性どちらにも使用される"
+    "priority": 8,
+    "meaning": "テディ（人名、Theodore Rooseveltの愛称としても使用される）"
   },
   {
     "surface": "kario",
@@ -56,30 +40,6 @@
     "meaning": "日本の苗字。特に毛利元就など歴史的な人物に関連"
   },
   {
-    "surface": "Franz Kafka",
-    "pronunciation": "フランツカフカ",
-    "accent_type": 0,
-    "word_type": "PROPER_NOUN",
-    "priority": 5,
-    "meaning": "チェコ出身の作家。『変身』『審判』などの作品で知られる"
-  },
-  {
-    "surface": "Teddy",
-    "pronunciation": "テディ",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 8,
-    "meaning": "テディ（人名、Theodore Rooseveltの愛称としても使用される）"
-  },
-  {
-    "surface": "Seatle",
-    "pronunciation": "シアトル",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 8,
-    "meaning": "シアトル（アメリカ合衆国ワシントン州の都市）"
-  },
-  {
     "surface": "quei",
     "pronunciation": "クイ",
     "accent_type": 1,
@@ -96,20 +56,44 @@
     "meaning": "日本の女性名。『周』には周囲や和を意味し、『子』は子供や親しみを表す。"
   },
   {
-    "surface": "繪島",
-    "pronunciation": "エシマ",
-    "accent_type": 2,
-    "word_type": "PROPER_NOUN",
-    "priority": 7,
-    "meaning": "日本の女性の名前や歴史上の人物名として使用される。『繪』は現代では『絵』と書くことが一般的。"
-  },
-  {
     "surface": "家繼",
     "pronunciation": "イエツグ",
     "accent_type": 3,
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "家督や家名を受け継ぐことを指す。歴史上では人名としても使われることがある。現代では『家継』と書くことが一般的。"
+  },
+  {
+    "surface": "庄吉",
+    "pronunciation": "ショウキチ",
+    "accent_type": 4,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "日本の人名。特に男性に多い名前"
+  },
+  {
+    "surface": "猿飛",
+    "pronunciation": "サルトビ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "猿のように飛ぶことを連想させる動きや人名（例: 猿飛佐助）"
+  },
+  {
+    "surface": "秥蝉",
+    "pronunciation": "ネンテイ",
+    "accent_type": 0,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "古代中国の楽浪郡に属する県の名前。現在の朝鮮民主主義人民共和国平安南道付近に位置するとされる。1913年に発見された『秥蝉県神祠碑』によってその位置が確認され、後漢時代の元和2年（85年）に関連する記録が残されている。"
+  },
+  {
+    "surface": "繪島",
+    "pronunciation": "エシマ",
+    "accent_type": 2,
+    "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "日本の女性の名前や歴史上の人物名として使用される。『繪』は現代では『絵』と書くことが一般的。"
   },
   {
     "surface": "臺灣",
@@ -120,11 +104,27 @@
     "meaning": "現在の『台湾』を指す旧字表記。東アジアの島で、中国の南東沿岸に位置する。歴史的に日本や中国との深い関わりを持つ地域。"
   },
   {
-    "surface": "秥蝉",
-    "pronunciation": "ネンテイ",
+    "surface": "雪緒",
+    "pronunciation": "ユキオ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "日本の人名。男性女性どちらにも使用される"
+  },
+  {
+    "surface": "青々軒",
+    "pronunciation": "セイセイケン",
     "accent_type": 0,
     "word_type": "PROPER_NOUN",
-    "priority": 8,
-    "meaning": "古代中国の楽浪郡に属する県の名前。現在の朝鮮民主主義人民共和国平安南道付近に位置するとされる。1913年に発見された『秥蝉県神祠碑』によってその位置が確認され、後漢時代の元和2年（85年）に関連する記録が残されている。"
+    "priority": 5,
+    "meaning": "架空の名前として使用されることが多い名前、特定の意味はない"
+  },
+  {
+    "surface": "鷄介",
+    "pronunciation": "ケイスケ",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "日本の人名。特に男性に多い名前"
   }
 ]

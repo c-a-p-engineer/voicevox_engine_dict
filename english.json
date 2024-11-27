@@ -1,443 +1,163 @@
 [
   {
-    "surface": "written",
-    "pronunciation": "リトゥン",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "動詞『write』の過去分詞形で、『書かれた』を意味する。たとえば、『The letter was written yesterday』は『その手紙は昨日書かれた』という意味。"
-  },
-  {
-    "surface": "years",
-    "pronunciation": "イヤーズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "『年』を意味する『year』の複数形。たとえば、『It has been five years』は『5年が経ちました』という意味。"
-  },
-  {
-    "surface": "yet",
-    "pronunciation": "イェット",
+    "surface": "Attraction",
+    "pronunciation": "アトラクション",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
-    "meaning": "『まだ』『しかし』などの意味を持つ副詞または接続詞。たとえば、『He hasn’t arrived yet』は『彼はまだ到着していない』という意味。"
+    "meaning": "魅力、引きつける力（英語の名詞）"
   },
   {
-    "surface": "world",
-    "pronunciation": "ワールド",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "地球全体、または人間社会、特定の分野や領域を指す名詞。たとえば、『The world is beautiful』は『世界は美しい』という意味。"
-  },
-  {
-    "surface": "with",
-    "pronunciation": "ウィズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "英語の前置詞で、『～と一緒に』『～を持って』『～に対して』などの意味を持つ。たとえば、『I went to the park with my friend』は『私は友人と一緒に公園に行きました』という意味。"
-  },
-  {
-    "surface": "Whitman",
-    "pronunciation": "ウィットマン",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 9,
-    "meaning": "英語圏の姓または固有名詞。特にアメリカの詩人ウォルト・ホイットマン（Walt Whitman）で知られる。"
-  },
-  {
-    "surface": "whether",
-    "pronunciation": "ウェザー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "何らかの選択肢や条件を表す際に使われる接続詞。『～かどうか』を意味する。たとえば、『I don’t know whether he will come』は『彼が来るかどうかわからない』という意味。"
-  },
-  {
-    "surface": "way",
-    "pronunciation": "ウェイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "道、方法、手段、または方向を指す名詞。たとえば、『This is the best way to do it』は『これがそれをする最善の方法です』という意味。"
-  },
-  {
-    "surface": "was",
-    "pronunciation": "ワズ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "英語の動詞『be』の過去形で、一人称単数（I）および三人称単数（he, she, it）に使用される。たとえば、『She was happy』は『彼女は幸せだった』という意味。"
-  },
-  {
-    "surface": "Walt",
-    "pronunciation": "ウォルト",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 9,
-    "meaning": "英語圏の男性の名前。『Walter』の短縮形として使われることが多い。たとえば、『Walt Disney』は著名なアニメーターおよび映画プロデューサーを指す。"
-  },
-  {
-    "surface": "wait",
-    "pronunciation": "ウェイト",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "何かが起こるのを待つ、または行動を一時的に停止することを指す動詞。たとえば、『Please wait for me』は『私を待ってください』という意味。"
-  },
-  {
-    "surface": "unreturn",
-    "pronunciation": "アンリターン",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "返却しない、または元に戻さないことを意味する動詞。主に比喩的な文脈で使用されることがあるが、標準的な英語では一般的ではない。"
-  },
-  {
-    "surface": "thousand",
-    "pronunciation": "サウザンド",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "数字の『千（1,000）』を指す名詞。たとえば、『One thousand people attended the event』は『1,000人がそのイベントに参加した』という意味。"
-  },
-  {
-    "surface": "think",
-    "pronunciation": "シンク",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "考える、思う、または意見を持つことを指す動詞。たとえば、『I think it’s a good idea』は『それは良いアイデアだと思います』という意味。"
-  },
-  {
-    "surface": "these",
-    "pronunciation": "ズィーズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 9,
-    "meaning": "『これらの』または『これら』を意味する名詞や形容詞。複数のものを指す際に使われる。たとえば、『These books are mine』は『これらの本は私のものです』という意味。"
-  },
-  {
-    "surface": "ten",
-    "pronunciation": "テン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "数字の『10』を指す名詞。たとえば、『There are ten apples』は『10個のリンゴがあります』という意味。"
-  },
-  {
-    "surface": "songs",
-    "pronunciation": "ソングズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "『歌』や『曲』を指す名詞の複数形。たとえば、『I like these songs』は『私はこれらの歌が好きです』という意味。"
-  },
-  {
-    "surface": "sometimes",
-    "pronunciation": "サムタイムズ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "『時々』や『たまに』を意味する副詞。何かが不定期に起こることを指す。たとえば、『I sometimes go to the park』は『私は時々公園に行きます』という意味。"
-  },
-  {
-    "surface": "sit",
-    "pronunciation": "シット",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "座る、または座った状態になることを指す動詞。たとえば、『Please sit down』は『どうぞお座りください』という意味。"
-  },
-  {
-    "surface": "return",
-    "pronunciation": "リターン",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "戻る、返す、または元の状態に戻ることを指す動詞。たとえば、『I will return the book』は『私はその本を返します』という意味。"
-  },
-  {
-    "surface": "rage",
-    "pronunciation": "レイジ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 9,
-    "meaning": "激しい怒りや憤怒を指す名詞。感情が制御不能になるほど高ぶる状態を表す。たとえば、『He was filled with rage』は『彼は激しい怒りに満ちていた』という意味。"
-  },
-  {
-    "surface": "person",
-    "pronunciation": "パーソン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "個々の人間、一人の人を指す名詞。たとえば、『She is a kind person』は『彼女は親切な人です』という意味。"
-  },
-  {
-    "surface": "pay",
-    "pronunciation": "ペイ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "お金を支払う、または報いる行為を指す動詞。たとえば、『I will pay the bill』は『私がその勘定を支払います』という意味。また、『注意を払う』という比喩的な意味でも使用される（例：pay attention）。"
-  },
-  {
-    "surface": "own",
-    "pronunciation": "オウン",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 9,
-    "meaning": "『自分自身の』や『所有する』を意味する形容詞。たとえば、『I have my own car』は『私は自分自身の車を持っている』という意味。また、動詞として『所有する』の意味でも使用される。"
-  },
-  {
-    "surface": "out",
-    "pronunciation": "アウト",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "外側や外部を指す言葉。副詞や前置詞としても使われ、『外に』や『外へ』の意味を持つ。たとえば、『He is out』は『彼は外にいる』を意味する。"
-  },
-  {
-    "surface": "other",
-    "pronunciation": "アザー",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 9,
-    "meaning": "『他の』や『別の』を意味する形容詞。たとえば、『I have other plans』は『私は他の予定がある』という意味。"
-  },
-  {
-    "surface": "or",
-    "pronunciation": "オア",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "選択肢や代替案を提示する接続詞。『または』や『あるいは』を意味する。たとえば、『Do you want tea or coffee?』は『紅茶かコーヒーが欲しいですか？』という意味。"
-  },
-  {
-    "surface": "now",
-    "pronunciation": "ナウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "現在の時点や今この瞬間を指す言葉。主に副詞として『今』という意味で使われるが、文脈によって名詞として『現在』を指すこともある。たとえば、『Now is the time』は『今がその時だ』という意味。"
-  },
-  {
-    "surface": "myself",
-    "pronunciation": "マイセルフ",
+    "surface": "Avenue",
+    "pronunciation": "アベニュー",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "英語の再帰代名詞で、『私自身』を意味する。主語が『I』の場合に使用され、自分自身を強調する場合や目的語として使われる。たとえば、『I did it myself』は『私はそれを自分でやった』という意味。"
-  },
-  {
-    "surface": "my",
-    "pronunciation": "マイ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 10,
-    "meaning": "英語の一人称代名詞『I』の所有格で、『私の』を意味する形容詞。たとえば、『This is my book』は『これは私の本です』という意味。"
-  },
-  {
-    "surface": "million",
-    "pronunciation": "ミリオン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 9,
-    "meaning": "数字の単位で『百万』を指す名詞。たとえば、『one million dollars』は『100万ドル』という意味。比喩的に非常に多いことを表現する場合もある。"
-  },
-  {
-    "surface": "me",
-    "pronunciation": "ミー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "英語の一人称代名詞『I』の目的格で、自分自身を指す。たとえば、『He gave me a book』は『彼は私に本をくれた』という意味。"
-  },
-  {
-    "surface": "loved",
-    "pronunciation": "ラヴド",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "動詞『love』の過去形または過去分詞形で、『愛された』や『愛した』を意味する。たとえば、『She was loved by everyone』は『彼女はみんなに愛されていた』という意味。"
-  },
-  {
-    "surface": "largest",
-    "pronunciation": "ラージェスト",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "形容詞『large』の最上級で、『最大の』『最も大きい』を意味する。たとえば、『This is the largest city in the country』は『これはその国で最大の都市です』という意味。"
-  },
-  {
-    "surface": "have",
-    "pronunciation": "ハヴ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "持つ、所有する、または何かの状態を経験することを指す動詞。たとえば、『I have a car』は『私は車を持っている』という意味。また、助動詞として完了形を構成する場合にも使われる（例：I have seen it - それを見たことがある）。"
-  },
-  {
-    "surface": "fill",
-    "pronunciation": "フィル",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "何かを満たす、埋める、または容器や空間に詰めることを指す動詞。たとえば、『Fill the glass with water』は『グラスに水を満たしてください』という意味。"
-  },
-  {
-    "surface": "fear",
-    "pronunciation": "フィア",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 9,
-    "meaning": "恐れや不安、または危険や悪い結果に対する恐怖心を指す名詞。たとえば、『She has a fear of heights』は『彼女は高所恐怖症だ』という意味。"
-  },
-  {
-    "surface": "far",
-    "pronunciation": "ファー",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "距離や程度が遠いことを指す形容詞。また、副詞として『はるかに』や『遠くに』という意味で使われる場合もある。たとえば、『How far is it?』は『どれくらい遠いですか？』という意味。"
-  },
-  {
-    "surface": "exist",
-    "pronunciation": "エグジスト",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "存在する、生存する、または何かが現実にあることを指す動詞。たとえば、『Does life exist on Mars?』は『火星に生命は存在するのか？』という意味。"
-  },
-  {
-    "surface": "equal",
-    "pronunciation": "イコール",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "量や価値、状態が等しい、または同じであることを指す形容詞。たとえば、『All men are created equal』は『すべての人は平等に作られている』という意味。"
-  },
-  {
-    "surface": "enough",
-    "pronunciation": "イナフ",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "十分な、または必要とされるだけの量や程度を指す形容詞。たとえば、『We have enough food』は『私たちには十分な食べ物がある』という意味。"
-  },
-  {
-    "surface": "effuse",
-    "pronunciation": "エフューズ",
-    "accent_type": 2,
-    "word_type": "VERB",
     "priority": 7,
-    "meaning": "感情や光、液体などがあふれ出る、または流れ出すことを指す動詞。たとえば、『She effused her gratitude』は『彼女は感謝の意をあふれさせた』という意味。"
+    "meaning": "大通り"
   },
   {
-    "surface": "each",
-    "pronunciation": "イーチ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "個々のものや人を指し、それぞれを強調する際に使われる形容詞。たとえば、『Each person has a role』は『それぞれの人が役割を持つ』という意味。"
-  },
-  {
-    "surface": "day",
-    "pronunciation": "デイ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "一日の時間、特に太陽が昇っている明るい時間を指す。また、暦の単位としての『日』も含む（例：Monday - 月曜日、a day - 一日）。"
-  },
-  {
-    "surface": "content",
-    "pronunciation": "コンテント",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "中身、内容、または含まれているものを指す名詞。たとえば、文書やウェブページの情報内容、容器の中にある物などを表す。"
-  },
-  {
-    "surface": "cheerfulness",
-    "pronunciation": "チアフルネス",
+    "surface": "Captain",
+    "pronunciation": "キャプテン",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 8,
-    "meaning": "明るく元気な性質や状態を指す名詞。喜びや楽しい気分を周囲に伝えるポジティブな態度や雰囲気を表す。"
+    "meaning": "船長、隊長（英語の名詞）"
   },
   {
-    "surface": "cheerfully",
-    "pronunciation": "チアフリー",
+    "surface": "Care",
+    "pronunciation": "ケア",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "注意、世話"
+  },
+  {
+    "surface": "Charmin",
+    "pronunciation": "チャーミン",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "魅力的な（英語の形容詞、口語的な短縮形）"
+  },
+  {
+    "surface": "Devil",
+    "pronunciation": "デヴィル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "悪魔（英語の単語）"
+  },
+  {
+    "surface": "East",
+    "pronunciation": "イースト",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 6,
+    "meaning": "東"
+  },
+  {
+    "surface": "End",
+    "pronunciation": "エンド",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "終わり、終端"
+  },
+  {
+    "surface": "Fare",
+    "pronunciation": "フェア",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "運賃、料金（英語の名詞）"
+  },
+  {
+    "surface": "Foolish",
+    "pronunciation": "フーリッシュ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "愚かな、ばかげた、知恵や判断力に欠けることを表す形容詞。"
+  },
+  {
+    "surface": "Friend",
+    "pronunciation": "フレンド",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "友達、友人（英語の名詞）"
+  },
+  {
+    "surface": "Good",
+    "pronunciation": "グッド",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
     "priority": 8,
-    "meaning": "快活に、元気よく、または明るい気持ちでという意味を持つ。行動や態度が明るく、楽しげであることを表す。"
+    "meaning": "良い（英語の形容詞）"
   },
   {
-    "surface": "by",
-    "pronunciation": "バイ",
+    "surface": "Here",
+    "pronunciation": "ヒア",
     "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "英語の前置詞"
-  },
-  {
-    "surface": "be",
-    "pronunciation": "ビー",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "英語で存在や状態を表す基本動詞。主語の存在や性質を示すときに使われる。例えば『I am happy』では『私は幸せです』の状態を表す。時制によって形が変化し（am, is, are, was, were, beenなど）、幅広く使用される。"
-  },
-  {
-    "surface": "aware",
-    "pronunciation": "アウェア",
-    "accent_type": 2,
     "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "ここに、ここで（英語の副詞）"
+  },
+  {
+    "surface": "Kyokai",
+    "pronunciation": "キョーカイ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
     "priority": 9,
-    "meaning": "何かに気づいている、または認識していることを表す形容詞。例えば『I am aware of the problem』は『その問題に気づいている』を意味する。"
+    "meaning": "協会"
   },
   {
-    "surface": "ardently",
-    "pronunciation": "アーデントリー",
+    "surface": "Lady",
+    "pronunciation": "レディ",
     "accent_type": 1,
-    "word_type": "VERB",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
-    "meaning": "熱心に、情熱的にという意味を持つ副詞。感情や意欲を込めて行動する様子を表現する。例えば『She spoke ardently』は『彼女は情熱的に話した』を意味する。"
+    "meaning": "女性、貴婦人（英語の名詞）"
   },
   {
-    "surface": "another",
-    "pronunciation": "アナザー",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
+    "surface": "Mr.",
+    "pronunciation": "ミスター",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "〜氏、男性の敬称（英語の敬称）"
+  },
+  {
+    "surface": "NO.",
+    "pronunciation": "ナンバー",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
     "priority": 9,
-    "meaning": "もう一つの、別の、あるいは追加のものを指す形容詞。例えば『another day』は『別の日』や『もう一つの日』を意味する。代名詞として『もう一人』や『もう一つ』の意味で使われることもある。"
+    "meaning": "ナンバー"
   },
   {
-    "surface": "a certain",
-    "pronunciation": "エイ、サートン",
+    "surface": "Nichibei",
+    "pronunciation": "ニチベイ",
     "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "特定の、あるいは具体的に名指しされないが特別なものを指す形容詞。例えば『a certain person』は『ある特定の人』を意味する。"
+    "word_type": "PROPER_NOUN",
+    "priority": 9,
+    "meaning": "日米"
   },
   {
-    "surface": "certain",
-    "pronunciation": "サートン",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "特定の、あるいは具体的に名指しされないが特別なものを指す形容詞。例えば『a certain person』は『ある特定の人』を意味する。"
-  },
-  {
-    "surface": "am",
-    "pronunciation": "アム",
+    "surface": "One",
+    "pronunciation": "ワン",
     "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 10,
-    "meaning": "英語のbe動詞の一つで、一人称単数（I）に使用される現在形。『私は〜です』や『私は〜である』を意味する。存在や状態を示す基本的な動詞。"
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "1つ（英語の数詞）"
+  },
+  {
+    "surface": "Pathos",
+    "pronunciation": "パソス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "哀愁、感動（英語の名詞、ギリシャ語由来）"
   },
   {
     "surface": "Sadistic",
@@ -448,12 +168,84 @@
     "meaning": "他者に苦痛を与えることに快感を覚える性質や行為を指す。心理学的にはサディズム（加虐性）の形容詞形として用いられる。日常会話では、他人に厳しく接する態度や意地悪な性格を軽い意味で表現する場合にも使われる。"
   },
   {
+    "surface": "Thanks",
+    "pronunciation": "サンクス",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "ありがとう（英語の感謝を表す単語）"
+  },
+  {
+    "surface": "Town",
+    "pronunciation": "タウン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "町、市（英語の名詞）"
+  },
+  {
+    "surface": "Walt",
+    "pronunciation": "ウォルト",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 9,
+    "meaning": "英語圏の男性の名前。『Walter』の短縮形として使われることが多い。たとえば、『Walt Disney』は著名なアニメーターおよび映画プロデューサーを指す。"
+  },
+  {
+    "surface": "Whitman",
+    "pronunciation": "ウィットマン",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 9,
+    "meaning": "英語圏の姓または固有名詞。特にアメリカの詩人ウォルト・ホイットマン（Walt Whitman）で知られる。"
+  },
+  {
+    "surface": "York",
+    "pronunciation": "ヨーク",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 10,
+    "meaning": "ニューヨークの一部（地名）"
+  },
+  {
+    "surface": "a certain",
+    "pronunciation": "エイ、サートン",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "特定の、あるいは具体的に名指しされないが特別なものを指す形容詞。例えば『a certain person』は『ある特定の人』を意味する。"
+  },
+  {
     "surface": "add",
     "pronunciation": "アッド",
     "accent_type": 1,
     "word_type": "VERB",
     "priority": 4,
     "meaning": "追加する"
+  },
+  {
+    "surface": "adventure",
+    "pronunciation": "アドベンチャー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "冒険、思いがけない出来事（英語の名詞）"
+  },
+  {
+    "surface": "adventuress",
+    "pronunciation": "アドベンチャレス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "冒険を好む女性、冒険家（特に機会を狙う女性や詐欺師の意味を持つこともある）"
+  },
+  {
+    "surface": "akimbo",
+    "pronunciation": "アキンボ",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "腕を腰に当てて肘を張った姿勢（英語の形容詞）"
   },
   {
     "surface": "akin",
@@ -472,12 +264,44 @@
     "meaning": "すべて、全体"
   },
   {
+    "surface": "am",
+    "pronunciation": "アム",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 10,
+    "meaning": "英語のbe動詞の一つで、一人称単数（I）に使用される現在形。『私は〜です』や『私は〜である』を意味する。存在や状態を示す基本的な動詞。"
+  },
+  {
     "surface": "and",
     "pronunciation": "アンド",
     "accent_type": 0,
     "word_type": "SUFFIX",
     "priority": 2,
     "meaning": "～と（並列の意味）"
+  },
+  {
+    "surface": "another",
+    "pronunciation": "アナザー",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 9,
+    "meaning": "もう一つの、別の、あるいは追加のものを指す形容詞。例えば『another day』は『別の日』や『もう一つの日』を意味する。代名詞として『もう一人』や『もう一つ』の意味で使われることもある。"
+  },
+  {
+    "surface": "ardently",
+    "pronunciation": "アーデントリー",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "熱心に、情熱的にという意味を持つ副詞。感情や意欲を込めて行動する様子を表現する。例えば『She spoke ardently』は『彼女は情熱的に話した』を意味する。"
+  },
+  {
+    "surface": "are",
+    "pronunciation": "アー",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "〜である（英語の動詞）"
   },
   {
     "surface": "as",
@@ -488,6 +312,22 @@
     "meaning": "～として"
   },
   {
+    "surface": "assault",
+    "pronunciation": "アソルト",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "攻撃、暴行（英語の名詞）"
+  },
+  {
+    "surface": "aware",
+    "pronunciation": "アウェア",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 9,
+    "meaning": "何かに気づいている、または認識していることを表す形容詞。例えば『I am aware of the problem』は『その問題に気づいている』を意味する。"
+  },
+  {
     "surface": "bake",
     "pronunciation": "ベイク",
     "accent_type": 1,
@@ -496,12 +336,28 @@
     "meaning": "焼く"
   },
   {
+    "surface": "be",
+    "pronunciation": "ビー",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 10,
+    "meaning": "英語で存在や状態を表す基本動詞。主語の存在や性質を示すときに使われる。例えば『I am happy』では『私は幸せです』の状態を表す。時制によって形が変化し（am, is, are, was, were, beenなど）、幅広く使用される。"
+  },
+  {
     "surface": "beat",
     "pronunciation": "ビート",
     "accent_type": 1,
     "word_type": "VERB",
     "priority": 4,
     "meaning": "叩く、混ぜる"
+  },
+  {
+    "surface": "better",
+    "pronunciation": "ベター",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "より良い（英語の形容詞）"
   },
   {
     "surface": "big",
@@ -518,6 +374,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "血液"
+  },
+  {
+    "surface": "boudoir",
+    "pronunciation": "ブドワール",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "婦人の私室（フランス語由来の英語名詞）"
   },
   {
     "surface": "bows",
@@ -544,12 +408,52 @@
     "meaning": "しかし"
   },
   {
+    "surface": "by",
+    "pronunciation": "バイ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 10,
+    "meaning": "英語の前置詞"
+  },
+  {
     "surface": "cakes",
     "pronunciation": "ケイクス",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "ケーキ（複数形）"
+  },
+  {
+    "surface": "caress",
+    "pronunciation": "カレス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "愛撫、優しく触れること（英語の名詞）"
+  },
+  {
+    "surface": "certain",
+    "pronunciation": "サートン",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "特定の、あるいは具体的に名指しされないが特別なものを指す形容詞。例えば『a certain person』は『ある特定の人』を意味する。"
+  },
+  {
+    "surface": "cha-cha",
+    "pronunciation": "チャチャ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "音。"
+  },
+  {
+    "surface": "cha-cha-cha",
+    "pronunciation": "チャチャチャ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "音"
   },
   {
     "surface": "chatter",
@@ -560,6 +464,30 @@
     "meaning": "おしゃべりをする"
   },
   {
+    "surface": "cheerfully",
+    "pronunciation": "チアフリー",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "快活に、元気よく、または明るい気持ちでという意味を持つ。行動や態度が明るく、楽しげであることを表す。"
+  },
+  {
+    "surface": "cheerfulness",
+    "pronunciation": "チアフルネス",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "明るく元気な性質や状態を指す名詞。喜びや楽しい気分を周囲に伝えるポジティブな態度や雰囲気を表す。"
+  },
+  {
+    "surface": "clear",
+    "pronunciation": "クリア",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "明確な、透明な、障害物がない（英語の形容詞）"
+  },
+  {
     "surface": "come",
     "pronunciation": "カム",
     "accent_type": 0,
@@ -568,12 +496,44 @@
     "meaning": "来る"
   },
   {
+    "surface": "content",
+    "pronunciation": "コンテント",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "中身、内容、または含まれているものを指す名詞。たとえば、文書やウェブページの情報内容、容器の中にある物などを表す。"
+  },
+  {
+    "surface": "creature",
+    "pronunciation": "クリーチャー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "生物、動物、存在（英語の単語）"
+  },
+  {
     "surface": "cups",
     "pronunciation": "カップス",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 4,
     "meaning": "カップ（複数形）"
+  },
+  {
+    "surface": "day",
+    "pronunciation": "デイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "一日の時間、特に太陽が昇っている明るい時間を指す。また、暦の単位としての『日』も含む（例：Monday - 月曜日、a day - 一日）。"
+  },
+  {
+    "surface": "diabolic",
+    "pronunciation": "ダイアボリック",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "悪魔のような、極悪非道な（英語の形容詞）"
   },
   {
     "surface": "do",
@@ -600,6 +560,30 @@
     "meaning": "医者、博士"
   },
   {
+    "surface": "each",
+    "pronunciation": "イーチ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "個々のものや人を指し、それぞれを強調する際に使われる形容詞。たとえば、『Each person has a role』は『それぞれの人が役割を持つ』という意味。"
+  },
+  {
+    "surface": "ecstasy",
+    "pronunciation": "エクスタシー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "恍惚、至福（英語の名詞）"
+  },
+  {
+    "surface": "effuse",
+    "pronunciation": "エフューズ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "感情や光、液体などがあふれ出る、または流れ出すことを指す動詞。たとえば、『She effused her gratitude』は『彼女は感謝の意をあふれさせた』という意味。"
+  },
+  {
     "surface": "eggs",
     "pronunciation": "エッグス",
     "accent_type": 1,
@@ -608,12 +592,68 @@
     "meaning": "卵（複数形）"
   },
   {
+    "surface": "eh",
+    "pronunciation": "エイ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "確認や疑問を示す間投詞（英語の間投詞）"
+  },
+  {
+    "surface": "enough",
+    "pronunciation": "イナフ",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "十分な、または必要とされるだけの量や程度を指す形容詞。たとえば、『We have enough food』は『私たちには十分な食べ物がある』という意味。"
+  },
+  {
+    "surface": "equal",
+    "pronunciation": "イコール",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "量や価値、状態が等しい、または同じであることを指す形容詞。たとえば、『All men are created equal』は『すべての人は平等に作られている』という意味。"
+  },
+  {
     "surface": "ever",
     "pronunciation": "エバー",
     "accent_type": 1,
     "word_type": "SUFFIX",
     "priority": 5,
     "meaning": "今までに"
+  },
+  {
+    "surface": "exist",
+    "pronunciation": "エグジスト",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "存在する、生存する、または何かが現実にあることを指す動詞。たとえば、『Does life exist on Mars?』は『火星に生命は存在するのか？』という意味。"
+  },
+  {
+    "surface": "far",
+    "pronunciation": "ファー",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "距離や程度が遠いことを指す形容詞。また、副詞として『はるかに』や『遠くに』という意味で使われる場合もある。たとえば、『How far is it?』は『どれくらい遠いですか？』という意味。"
+  },
+  {
+    "surface": "fear",
+    "pronunciation": "フィア",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 9,
+    "meaning": "恐れや不安、または危険や悪い結果に対する恐怖心を指す名詞。たとえば、『She has a fear of heights』は『彼女は高所恐怖症だ』という意味。"
+  },
+  {
+    "surface": "fill",
+    "pronunciation": "フィル",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "何かを満たす、埋める、または容器や空間に詰めることを指す動詞。たとえば、『Fill the glass with water』は『グラスに水を満たしてください』という意味。"
   },
   {
     "surface": "flannel",
@@ -688,6 +728,14 @@
     "meaning": "「ハエ」を表す異なる綴り"
   },
   {
+    "surface": "half",
+    "pronunciation": "ハーフ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "半分、配偶者（英語の名詞）"
+  },
+  {
     "surface": "hao",
     "pronunciation": "ハオ",
     "accent_type": 0,
@@ -702,6 +750,22 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "急いだ"
+  },
+  {
+    "surface": "have",
+    "pronunciation": "ハヴ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 10,
+    "meaning": "持つ、所有する、または何かの状態を経験することを指す動詞。たとえば、『I have a car』は『私は車を持っている』という意味。また、助動詞として完了形を構成する場合にも使われる（例：I have seen it - それを見たことがある）。"
+  },
+  {
+    "surface": "hit",
+    "pronunciation": "ヒット",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "当たり、命中（英語の名詞）"
   },
   {
     "surface": "hot",
@@ -728,6 +792,14 @@
     "meaning": "もし"
   },
   {
+    "surface": "in",
+    "pronunciation": "イン",
+    "accent_type": 0,
+    "word_type": "SUFFIX",
+    "priority": 2,
+    "meaning": "～の中に"
+  },
+  {
     "surface": "incendiarism",
     "pronunciation": "インセンディアリズム",
     "accent_type": 0,
@@ -736,12 +808,20 @@
     "meaning": "放火主義"
   },
   {
-    "surface": "in",
-    "pronunciation": "イン",
-    "accent_type": 0,
-    "word_type": "SUFFIX",
-    "priority": 2,
-    "meaning": "～の中に"
+    "surface": "is",
+    "pronunciation": "イズ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "〜である（英語の動詞）"
+  },
+  {
+    "surface": "it",
+    "pronunciation": "イット",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "それ（英語の代名詞）"
   },
   {
     "surface": "join",
@@ -760,6 +840,38 @@
     "meaning": "大きい"
   },
   {
+    "surface": "largest",
+    "pronunciation": "ラージェスト",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "形容詞『large』の最上級で、『最大の』『最も大きい』を意味する。たとえば、『This is the largest city in the country』は『これはその国で最大の都市です』という意味。"
+  },
+  {
+    "surface": "lassie",
+    "pronunciation": "ラッシー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "少女（スコットランド英語）"
+  },
+  {
+    "surface": "little",
+    "pronunciation": "リトル",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "小さい（英語の形容詞）"
+  },
+  {
+    "surface": "look",
+    "pronunciation": "ルック",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "見る（英語の動詞）"
+  },
+  {
     "surface": "love",
     "pronunciation": "ラブ",
     "accent_type": 1,
@@ -768,12 +880,36 @@
     "meaning": "愛"
   },
   {
+    "surface": "loved",
+    "pronunciation": "ラヴド",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "動詞『love』の過去形または過去分詞形で、『愛された』や『愛した』を意味する。たとえば、『She was loved by everyone』は『彼女はみんなに愛されていた』という意味。"
+  },
+  {
     "surface": "may",
     "pronunciation": "メイ",
     "accent_type": 0,
     "word_type": "VERB",
     "priority": 5,
     "meaning": "～かもしれない"
+  },
+  {
+    "surface": "me",
+    "pronunciation": "ミー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "英語の一人称代名詞『I』の目的格で、自分自身を指す。たとえば、『He gave me a book』は『彼は私に本をくれた』という意味。"
+  },
+  {
+    "surface": "mean",
+    "pronunciation": "ミーン",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "意味する、指す（英語の動詞）"
   },
   {
     "surface": "men",
@@ -792,12 +928,44 @@
     "meaning": "牛乳"
   },
   {
+    "surface": "million",
+    "pronunciation": "ミリオン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 9,
+    "meaning": "数字の単位で『百万』を指す名詞。たとえば、『one million dollars』は『100万ドル』という意味。比喩的に非常に多いことを表現する場合もある。"
+  },
+  {
     "surface": "minutes",
     "pronunciation": "ミニッツ",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
     "priority": 4,
     "meaning": "分（時間）"
+  },
+  {
+    "surface": "more",
+    "pronunciation": "モア",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "もっと（英語の副詞）"
+  },
+  {
+    "surface": "my",
+    "pronunciation": "マイ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 10,
+    "meaning": "英語の一人称代名詞『I』の所有格で、『私の』を意味する形容詞。たとえば、『This is my book』は『これは私の本です』という意味。"
+  },
+  {
+    "surface": "myself",
+    "pronunciation": "マイセルフ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "英語の再帰代名詞で、『私自身』を意味する。主語が『I』の場合に使用され、自分自身を強調する場合や目的語として使われる。たとえば、『I did it myself』は『私はそれを自分でやった』という意味。"
   },
   {
     "surface": "no",
@@ -808,12 +976,20 @@
     "meaning": "いいえ"
   },
   {
-    "surface": "oh",
-    "pronunciation": "オー",
-    "accent_type": 0,
+    "surface": "nonchalant",
+    "pronunciation": "ナンシャラント",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "無関心な、冷静な（英語の形容詞）"
+  },
+  {
+    "surface": "now",
+    "pronunciation": "ナウ",
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "おお！"
+    "priority": 10,
+    "meaning": "現在の時点や今この瞬間を指す言葉。主に副詞として『今』という意味で使われるが、文脈によって名詞として『現在』を指すこともある。たとえば、『Now is the time』は『今がその時だ』という意味。"
   },
   {
     "surface": "of",
@@ -824,12 +1000,44 @@
     "meaning": "～の"
   },
   {
+    "surface": "oh",
+    "pronunciation": "オー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "おお！"
+  },
+  {
     "surface": "on",
     "pronunciation": "オン",
     "accent_type": 0,
     "word_type": "SUFFIX",
     "priority": 5,
     "meaning": "～の上に"
+  },
+  {
+    "surface": "or",
+    "pronunciation": "オア",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "選択肢や代替案を提示する接続詞。『または』や『あるいは』を意味する。たとえば、『Do you want tea or coffee?』は『紅茶かコーヒーが欲しいですか？』という意味。"
+  },
+  {
+    "surface": "other",
+    "pronunciation": "アザー",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 9,
+    "meaning": "『他の』や『別の』を意味する形容詞。たとえば、『I have other plans』は『私は他の予定がある』という意味。"
+  },
+  {
+    "surface": "out",
+    "pronunciation": "アウト",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "外側や外部を指す言葉。副詞や前置詞としても使われ、『外に』や『外へ』の意味を持つ。たとえば、『He is out』は『彼は外にいる』を意味する。"
   },
   {
     "surface": "oven",
@@ -840,12 +1048,44 @@
     "meaning": "オーブン（調理器具）"
   },
   {
+    "surface": "over",
+    "pronunciation": "オーバー",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "〜の上に、越えて（英語の前置詞）"
+  },
+  {
     "surface": "overs",
     "pronunciation": "オーバーズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 4,
     "meaning": "溢れたもの"
+  },
+  {
+    "surface": "own",
+    "pronunciation": "オウン",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 9,
+    "meaning": "『自分自身の』や『所有する』を意味する形容詞。たとえば、『I have my own car』は『私は自分自身の車を持っている』という意味。また、動詞として『所有する』の意味でも使用される。"
+  },
+  {
+    "surface": "pay",
+    "pronunciation": "ペイ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "お金を支払う、または報いる行為を指す動詞。たとえば、『I will pay the bill』は『私がその勘定を支払います』という意味。また、『注意を払う』という比喩的な意味でも使用される（例：pay attention）。"
+  },
+  {
+    "surface": "person",
+    "pronunciation": "パーソン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "個々の人間、一人の人を指す名詞。たとえば、『She is a kind person』は『彼女は親切な人です』という意味。"
   },
   {
     "surface": "please",
@@ -888,6 +1128,30 @@
     "meaning": "素早い"
   },
   {
+    "surface": "rage",
+    "pronunciation": "レイジ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 9,
+    "meaning": "激しい怒りや憤怒を指す名詞。感情が制御不能になるほど高ぶる状態を表す。たとえば、『He was filled with rage』は『彼は激しい怒りに満ちていた』という意味。"
+  },
+  {
+    "surface": "reached",
+    "pronunciation": "リーチト",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "到達した（英語の過去形動詞）"
+  },
+  {
+    "surface": "return",
+    "pronunciation": "リターン",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "戻る、返す、または元の状態に戻ることを指す動詞。たとえば、『I will return the book』は『私はその本を返します』という意味。"
+  },
+  {
     "surface": "rice",
     "pronunciation": "ライス",
     "accent_type": 1,
@@ -902,6 +1166,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "川"
+  },
+  {
+    "surface": "roughrider",
+    "pronunciation": "ラフライダー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "ラフライダー（Theodore Rooseveltが率いたアメリカ陸軍の騎兵部隊を指すことが多い）"
   },
   {
     "surface": "salt",
@@ -928,6 +1200,14 @@
     "meaning": "感傷主義"
   },
   {
+    "surface": "separately",
+    "pronunciation": "セパラトリー",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "『個別に』または『別々に』を意味する英単語。状況や物事が分けられている状態を指す。主に副詞的に使われるが、名詞的にも解釈される場合がある。"
+  },
+  {
     "surface": "serve",
     "pronunciation": "サーブ",
     "accent_type": 1,
@@ -936,12 +1216,36 @@
     "meaning": "提供する"
   },
   {
-    "surface": "separately",
-    "pronunciation": "セパラトリー",
-    "accent_type": 3,
+    "surface": "simpleton",
+    "pronunciation": "シンプルトン",
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "『個別に』または『別々に』を意味する英単語。状況や物事が分けられている状態を指す。主に副詞的に使われるが、名詞的にも解釈される場合がある。"
+    "priority": 7,
+    "meaning": "愚か者、単純者（英語の単語）"
+  },
+  {
+    "surface": "sit",
+    "pronunciation": "シット",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "座る、または座った状態になることを指す動詞。たとえば、『Please sit down』は『どうぞお座りください』という意味。"
+  },
+  {
+    "surface": "sometimes",
+    "pronunciation": "サムタイムズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "『時々』や『たまに』を意味する副詞。何かが不定期に起こることを指す。たとえば、『I sometimes go to the park』は『私は時々公園に行きます』という意味。"
+  },
+  {
+    "surface": "songs",
+    "pronunciation": "ソングズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "『歌』や『曲』を指す名詞の複数形。たとえば、『I like these songs』は『私はこれらの歌が好きです』という意味。"
   },
   {
     "surface": "stiff",
@@ -952,6 +1256,14 @@
     "meaning": "硬い"
   },
   {
+    "surface": "sun-clear",
+    "pronunciation": "サンクリア",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "非常に明白な、日光のように明らかな（英語の形容詞）"
+  },
+  {
     "surface": "sweet",
     "pronunciation": "スウィート",
     "accent_type": 1,
@@ -960,12 +1272,100 @@
     "meaning": "甘い"
   },
   {
+    "surface": "tact",
+    "pronunciation": "タクト",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "機転、思いやり、場の空気を読む能力（英語の単語）"
+  },
+  {
+    "surface": "take",
+    "pronunciation": "テイク",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "取る、持っていく（英語の動詞）"
+  },
+  {
+    "surface": "tame",
+    "pronunciation": "テイム",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "飼い慣らされた、大人しい（英語の形容詞）"
+  },
+  {
     "surface": "teaspoonful",
     "pronunciation": "ティースプーンフル",
     "accent_type": 2,
     "word_type": "COMMON_NOUN",
     "priority": 4,
     "meaning": "ティースプーン1杯分"
+  },
+  {
+    "surface": "ten",
+    "pronunciation": "テン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "数字の『10』を指す名詞。たとえば、『There are ten apples』は『10個のリンゴがあります』という意味。"
+  },
+  {
+    "surface": "that",
+    "pronunciation": "ザット",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "それ、あれ（英語の代名詞）"
+  },
+  {
+    "surface": "the",
+    "pronunciation": "ザ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "その（特定のものを指す英語の冠詞）"
+  },
+  {
+    "surface": "then",
+    "pronunciation": "ゼン",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "それでは、そのとき（英語の副詞）"
+  },
+  {
+    "surface": "there",
+    "pronunciation": "ゼア",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "そこに、あそこに（英語の副詞）"
+  },
+  {
+    "surface": "these",
+    "pronunciation": "ズィーズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 9,
+    "meaning": "『これらの』または『これら』を意味する名詞や形容詞。複数のものを指す際に使われる。たとえば、『These books are mine』は『これらの本は私のものです』という意味。"
+  },
+  {
+    "surface": "think",
+    "pronunciation": "シンク",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 10,
+    "meaning": "考える、思う、または意見を持つことを指す動詞。たとえば、『I think it’s a good idea』は『それは良いアイデアだと思います』という意味。"
+  },
+  {
+    "surface": "thousand",
+    "pronunciation": "サウザンド",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "数字の『千（1,000）』を指す名詞。たとえば、『One thousand people attended the event』は『1,000人がそのイベントに参加した』という意味。"
   },
   {
     "surface": "to",
@@ -992,6 +1392,14 @@
     "meaning": "2（数字）"
   },
   {
+    "surface": "unreturn",
+    "pronunciation": "アンリターン",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "返却しない、または元に戻さないことを意味する動詞。主に比喩的な文脈で使用されることがあるが、標準的な英語では一般的ではない。"
+  },
+  {
     "surface": "waffles",
     "pronunciation": "ワッフルズ",
     "accent_type": 1,
@@ -1000,396 +1408,28 @@
     "meaning": "ワッフル（複数形）"
   },
   {
-    "surface": "well",
-    "pronunciation": "ウェル",
+    "surface": "wait",
+    "pronunciation": "ウェイト",
     "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 3,
-    "meaning": "上手に"
-  },
-  {
-    "surface": "whites",
-    "pronunciation": "ホワイツ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 3,
-    "meaning": "卵白（複数形）"
-  },
-  {
-    "surface": "you",
-    "pronunciation": "ユー",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "あなた"
-  },
-  {
-    "surface": "Care",
-    "pronunciation": "ケア",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "注意、世話"
-  },
-  {
-    "surface": "Nichibei",
-    "pronunciation": "ニチベイ",
-    "accent_type": 2,
-    "word_type": "PROPER_NOUN",
-    "priority": 9,
-    "meaning": "日米"
-  },
-  {
-    "surface": "Kyokai",
-    "pronunciation": "キョーカイ",
-    "accent_type": 3,
-    "word_type": "PROPER_NOUN",
-    "priority": 9,
-    "meaning": "協会"
-  },
-  {
-    "surface": "NO.",
-    "pronunciation": "ナンバー",
-    "accent_type": 3,
-    "word_type": "PROPER_NOUN",
-    "priority": 9,
-    "meaning": "ナンバー"
-  },
-  {
-    "surface": "Avenue",
-    "pronunciation": "アベニュー",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "大通り"
-  },
-  {
-    "surface": "East",
-    "pronunciation": "イースト",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 6,
-    "meaning": "東"
-  },
-  {
-    "surface": "End",
-    "pronunciation": "エンド",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "終わり、終端"
-  },
-  {
-    "surface": "York",
-    "pronunciation": "ヨーク",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
+    "word_type": "VERB",
     "priority": 10,
-    "meaning": "ニューヨークの一部（地名）"
+    "meaning": "何かが起こるのを待つ、または行動を一時的に停止することを指す動詞。たとえば、『Please wait for me』は『私を待ってください』という意味。"
   },
   {
-    "surface": "simpleton",
-    "pronunciation": "シンプルトン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "愚か者、単純者（英語の単語）"
-  },
-  {
-    "surface": "sun-clear",
-    "pronunciation": "サンクリア",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "非常に明白な、日光のように明らかな（英語の形容詞）"
-  },
-  {
-    "surface": "clear",
-    "pronunciation": "クリア",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "明確な、透明な、障害物がない（英語の形容詞）"
-  },
-  {
-    "surface": "tact",
-    "pronunciation": "タクト",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "機転、思いやり、場の空気を読む能力（英語の単語）"
-  },
-  {
-    "surface": "Devil",
-    "pronunciation": "デヴィル",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "悪魔（英語の単語）"
-  },
-  {
-    "surface": "take",
-    "pronunciation": "テイク",
+    "surface": "was",
+    "pronunciation": "ワズ",
     "accent_type": 1,
     "word_type": "VERB",
-    "priority": 8,
-    "meaning": "取る、持っていく（英語の動詞）"
+    "priority": 10,
+    "meaning": "英語の動詞『be』の過去形で、一人称単数（I）および三人称単数（he, she, it）に使用される。たとえば、『She was happy』は『彼女は幸せだった』という意味。"
   },
   {
-    "surface": "it",
-    "pronunciation": "イット",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "それ（英語の代名詞）"
-  },
-  {
-    "surface": "tame",
-    "pronunciation": "テイム",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "飼い慣らされた、大人しい（英語の形容詞）"
-  },
-  {
-    "surface": "creature",
-    "pronunciation": "クリーチャー",
+    "surface": "way",
+    "pronunciation": "ウェイ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "生物、動物、存在（英語の単語）"
-  },
-  {
-    "surface": "then",
-    "pronunciation": "ゼン",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "それでは、そのとき（英語の副詞）"
-  },
-  {
-    "surface": "eh",
-    "pronunciation": "エイ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "確認や疑問を示す間投詞（英語の間投詞）"
-  },
-  {
-    "surface": "mean",
-    "pronunciation": "ミーン",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "意味する、指す（英語の動詞）"
-  },
-  {
-    "surface": "the",
-    "pronunciation": "ザ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "その（特定のものを指す英語の冠詞）"
-  },
-  {
-    "surface": "roughrider",
-    "pronunciation": "ラフライダー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "ラフライダー（Theodore Rooseveltが率いたアメリカ陸軍の騎兵部隊を指すことが多い）"
-  },
-  {
-    "surface": "Good",
-    "pronunciation": "グッド",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "良い（英語の形容詞）"
-  },
-  {
-    "surface": "hit",
-    "pronunciation": "ヒット",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "当たり、命中（英語の名詞）"
-  },
-  {
-    "surface": "Mr.",
-    "pronunciation": "ミスター",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "〜氏、男性の敬称（英語の敬称）"
-  },
-  {
-    "surface": "Captain",
-    "pronunciation": "キャプテン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "船長、隊長（英語の名詞）"
-  },
-  {
-    "surface": "adventure",
-    "pronunciation": "アドベンチャー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "冒険、思いがけない出来事（英語の名詞）"
-  },
-  {
-    "surface": "adventuress",
-    "pronunciation": "アドベンチャレス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "冒険を好む女性、冒険家（特に機会を狙う女性や詐欺師の意味を持つこともある）"
-  },
-  {
-    "surface": "assault",
-    "pronunciation": "アソルト",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "攻撃、暴行（英語の名詞）"
-  },
-  {
-    "surface": "nonchalant",
-    "pronunciation": "ナンシャラント",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "無関心な、冷静な（英語の形容詞）"
-  },
-  {
-    "surface": "diabolic",
-    "pronunciation": "ダイアボリック",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "悪魔のような、極悪非道な（英語の形容詞）"
-  },
-  {
-    "surface": "akimbo",
-    "pronunciation": "アキンボ",
-    "accent_type": 2,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "腕を腰に当てて肘を張った姿勢（英語の形容詞）"
-  },
-  {
-    "surface": "Town",
-    "pronunciation": "タウン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "町、市（英語の名詞）"
-  },
-  {
-    "surface": "Fare",
-    "pronunciation": "フェア",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "運賃、料金（英語の名詞）"
-  },
-  {
-    "surface": "¢",
-    "pronunciation": "セント",
-    "accent_type": 1,
-    "word_type": "SUFFIX",
-    "priority": 8,
-    "meaning": "セント（貨幣単位）"
-  },
-  {
-    "surface": "ecstasy",
-    "pronunciation": "エクスタシー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "恍惚、至福（英語の名詞）"
-  },
-  {
-    "surface": "Charmin",
-    "pronunciation": "チャーミン",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "魅力的な（英語の形容詞、口語的な短縮形）"
-  },
-  {
-    "surface": "little",
-    "pronunciation": "リトル",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "小さい（英語の形容詞）"
-  },
-  {
-    "surface": "lassie",
-    "pronunciation": "ラッシー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "少女（スコットランド英語）"
-  },
-  {
-    "surface": "One",
-    "pronunciation": "ワン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "1つ（英語の数詞）"
-  },
-  {
-    "surface": "more",
-    "pronunciation": "モア",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "もっと（英語の副詞）"
-  },
-  {
-    "surface": "that",
-    "pronunciation": "ザット",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "それ、あれ（英語の代名詞）"
-  },
-  {
-    "surface": "over",
-    "pronunciation": "オーバー",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "〜の上に、越えて（英語の前置詞）"
-  },
-  {
-    "surface": "there",
-    "pronunciation": "ゼア",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "そこに、あそこに（英語の副詞）"
-  },
-  {
-    "surface": "look",
-    "pronunciation": "ルック",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "見る（英語の動詞）"
-  },
-  {
-    "surface": "Here",
-    "pronunciation": "ヒア",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "ここに、ここで（英語の副詞）"
+    "priority": 10,
+    "meaning": "道、方法、手段、または方向を指す名詞。たとえば、『This is the best way to do it』は『これがそれをする最善の方法です』という意味。"
   },
   {
     "surface": "we",
@@ -1400,92 +1440,12 @@
     "meaning": "私たち（英語の代名詞）"
   },
   {
-    "surface": "are",
-    "pronunciation": "アー",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "〜である（英語の動詞）"
-  },
-  {
-    "surface": "is",
-    "pronunciation": "イズ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "〜である（英語の動詞）"
-  },
-  {
-    "surface": "reached",
-    "pronunciation": "リーチト",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 8,
-    "meaning": "到達した（英語の過去形動詞）"
-  },
-  {
-    "surface": "better",
-    "pronunciation": "ベター",
+    "surface": "well",
+    "pronunciation": "ウェル",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "より良い（英語の形容詞）"
-  },
-  {
-    "surface": "half",
-    "pronunciation": "ハーフ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "半分、配偶者（英語の名詞）"
-  },
-  {
-    "surface": "Attraction",
-    "pronunciation": "アトラクション",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "魅力、引きつける力（英語の名詞）"
-  },
-  {
-    "surface": "caress",
-    "pronunciation": "カレス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "愛撫、優しく触れること（英語の名詞）"
-  },
-  {
-    "surface": "boudoir",
-    "pronunciation": "ブドワール",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "婦人の私室（フランス語由来の英語名詞）"
-  },
-  {
-    "surface": "Lady",
-    "pronunciation": "レディ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "女性、貴婦人（英語の名詞）"
-  },
-  {
-    "surface": "Friend",
-    "pronunciation": "フレンド",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "友達、友人（英語の名詞）"
-  },
-  {
-    "surface": "Pathos",
-    "pronunciation": "パソス",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "哀愁、感動（英語の名詞、ギリシャ語由来）"
+    "priority": 3,
+    "meaning": "上手に"
   },
   {
     "surface": "wha",
@@ -1496,35 +1456,75 @@
     "meaning": "what（何）の省略形（英語の単語）"
   },
   {
-    "surface": "Thanks",
-    "pronunciation": "サンクス",
+    "surface": "whether",
+    "pronunciation": "ウェザー",
     "accent_type": 1,
-    "word_type": "ADJECTIVE",
+    "word_type": "COMMON_NOUN",
     "priority": 8,
-    "meaning": "ありがとう（英語の感謝を表す単語）"
+    "meaning": "何らかの選択肢や条件を表す際に使われる接続詞。『～かどうか』を意味する。たとえば、『I don’t know whether he will come』は『彼が来るかどうかわからない』という意味。"
   },
   {
-    "surface": "Foolish",
-    "pronunciation": "フーリッシュ",
+    "surface": "whites",
+    "pronunciation": "ホワイツ",
     "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 6,
-    "meaning": "愚かな、ばかげた、知恵や判断力に欠けることを表す形容詞。"
+    "word_type": "COMMON_NOUN",
+    "priority": 3,
+    "meaning": "卵白（複数形）"
   },
   {
-    "surface": "cha-cha-cha",
-    "pronunciation": "チャチャチャ",
-    "accent_type": 3,
+    "surface": "with",
+    "pronunciation": "ウィズ",
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "音"
+    "priority": 10,
+    "meaning": "英語の前置詞で、『～と一緒に』『～を持って』『～に対して』などの意味を持つ。たとえば、『I went to the park with my friend』は『私は友人と一緒に公園に行きました』という意味。"
   },
   {
-    "surface": "cha-cha",
-    "pronunciation": "チャチャ",
-    "accent_type": 2,
+    "surface": "world",
+    "pronunciation": "ワールド",
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "音。"
+    "priority": 10,
+    "meaning": "地球全体、または人間社会、特定の分野や領域を指す名詞。たとえば、『The world is beautiful』は『世界は美しい』という意味。"
+  },
+  {
+    "surface": "written",
+    "pronunciation": "リトゥン",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "動詞『write』の過去分詞形で、『書かれた』を意味する。たとえば、『The letter was written yesterday』は『その手紙は昨日書かれた』という意味。"
+  },
+  {
+    "surface": "years",
+    "pronunciation": "イヤーズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "『年』を意味する『year』の複数形。たとえば、『It has been five years』は『5年が経ちました』という意味。"
+  },
+  {
+    "surface": "yet",
+    "pronunciation": "イェット",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "『まだ』『しかし』などの意味を持つ副詞または接続詞。たとえば、『He hasn’t arrived yet』は『彼はまだ到着していない』という意味。"
+  },
+  {
+    "surface": "you",
+    "pronunciation": "ユー",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "あなた"
+  },
+  {
+    "surface": "¢",
+    "pronunciation": "セント",
+    "accent_type": 1,
+    "word_type": "SUFFIX",
+    "priority": 8,
+    "meaning": "セント（貨幣単位）"
   }
 ]

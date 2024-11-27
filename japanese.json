@@ -1,51 +1,11 @@
 [
   {
-    "surface": "笴",
-    "pronunciation": "カン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "矢の軸を指す古い言葉。矢羽を付ける部分として弓矢の構造において重要な役割を果たす。現代では一般的には使用されない表記であり、歴史的または専門的な文脈で見られる。"
-  },
-  {
-    "surface": "滴たり",
-    "pronunciation": "シタタリ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "液体がしずくとなって垂れることを表す。旧仮名遣いでは『滴たり』と表記され、現代仮名遣いでは『滴ったり』と書かれることが一般的。"
-  },
-  {
-    "surface": "選まれ",
-    "pronunciation": "エラマレ",
-    "accent_type": 3,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "選択される、または選ばれることを指す旧仮名遣い表記。現代では『選ばれ』と表記されることが一般的。"
-  },
-  {
-    "surface": "選む",
-    "pronunciation": "エラム",
-    "accent_type": 2,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "多くの中から適したものを選び取る行為を指す古風な表現。現代では『選ぶ』と表記されることが一般的。"
-  },
-  {
-    "surface": "於て",
-    "pronunciation": "オイテ",
-    "accent_type": 2,
-    "word_type": "SUFFIX",
-    "priority": 7,
-    "meaning": "場所や時間を示す格助詞。現代では『において』と表記されることが一般的。文章語や古文で用いられることが多い。"
-  },
-  {
-    "surface": "年若き",
-    "pronunciation": "トシワカキ",
-    "accent_type": 4,
+    "surface": "あの方",
+    "pronunciation": "アノカタ",
+    "accent_type": "0",
     "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "年齢が若いことを形容する表現。特に、成人に比べて幼さや未熟さを含むニュアンスで使われる。古風な言い回しとして用いられる。"
+    "priority": 5,
+    "meaning": "あの人、尊敬の意味を含む表現"
   },
   {
     "surface": "いざ不知",
@@ -56,60 +16,28 @@
     "meaning": "未来のことや結果について確信が持てない、または未知であることを示す表現。『いざ知らず』として現代でも使われるが、古風な語感を伴う表現。"
   },
   {
-    "surface": "額の汗",
-    "pronunciation": "ヒタイノアセ",
-    "accent_type": 5,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "額に浮かぶ汗を指し、特に努力や緊張、暑さによってかいた汗を表現する。労働や真剣な取り組みの象徴として用いられることもある。"
+    "surface": "お珍らし",
+    "pronunciation": "オメズラシ",
+    "accent_type": "1",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "珍しい、稀なこと"
   },
   {
-    "surface": "高遠",
-    "pronunciation": "タカトオ",
-    "accent_type": 3,
-    "word_type": "PROPER_NOUN",
-    "priority": 7,
-    "meaning": "長野県伊那市の地名として知られる。山々に囲まれた地域で、高遠城址公園は桜の名所として有名。また、『高く遠い』という意味で抽象的に使われることもある。"
-  },
-  {
-    "surface": "別れ心",
-    "pronunciation": "ワカレゴコロ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "離別や別離を意識した心の動きを指す。人や物事に対して別れを決意したり、別れを予感した心情を表現する言葉。"
-  },
-  {
-    "surface": "あの方",
-    "pronunciation": "アノカタ",
+    "surface": "その様",
+    "pronunciation": "ソノサマ",
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "あの人、尊敬の意味を含む表現"
+    "meaning": "そのような、そういう様子"
   },
   {
-    "surface": "親しかッた",
-    "pronunciation": "シタシカッタ",
-    "accent_type": "6",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "親しい関係であった"
-  },
-  {
-    "surface": "親しかった",
-    "pronunciation": "シタシカッタ",
-    "accent_type": "6",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "親しい関係であった"
-  },
-  {
-    "surface": "親娘",
-    "pronunciation": "オヤムスメ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "親子関係の娘"
+    "surface": "万石",
+    "pronunciation": "マンゴク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、1万石を表す"
   },
   {
     "surface": "主馬",
@@ -120,6 +48,14 @@
     "meaning": "侍の位の一つ"
   },
   {
+    "surface": "五分苅",
+    "pronunciation": "ゴブガリ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "髪を半分ほど刈る髪型"
+  },
+  {
     "surface": "代々",
     "pronunciation": "ダイダイ",
     "accent_type": "1",
@@ -128,12 +64,108 @@
     "meaning": "世代を超えて続くこと"
   },
   {
-    "surface": "五分苅",
-    "pronunciation": "ゴブガリ",
+    "surface": "八木節",
+    "pronunciation": "ヤギブシ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "群馬県を中心とした地域で伝統的に歌われる民謡の一種"
+  },
+  {
+    "surface": "別れ心",
+    "pronunciation": "ワカレゴコロ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "離別や別離を意識した心の動きを指す。人や物事に対して別れを決意したり、別れを予感した心情を表現する言葉。"
+  },
+  {
+    "surface": "十石",
+    "pronunciation": "ジッコク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、10石を表す"
+  },
+  {
+    "surface": "千石",
+    "pronunciation": "センゴク",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、1000石を表す"
+  },
+  {
+    "surface": "反影",
+    "pronunciation": "ハンエイ",
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "髪を半分ほど刈る髪型"
+    "meaning": "反映、影響を与えること"
+  },
+  {
+    "surface": "味噌漬",
+    "pronunciation": "ミソヅケ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "味噌で漬けたもの"
+  },
+  {
+    "surface": "味噌漬け",
+    "pronunciation": "ミソヅケ",
+    "accent_type": "3",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "味噌で漬けたもの"
+  },
+  {
+    "surface": "嗤",
+    "pronunciation": "ワラウ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "嘲笑する"
+  },
+  {
+    "surface": "嗤う",
+    "pronunciation": "ワラウ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "嘲笑する"
+  },
+  {
+    "surface": "家並",
+    "pronunciation": "イエナミ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "家が並んでいること"
+  },
+  {
+    "surface": "家並み",
+    "pronunciation": "イエナミ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "家が並んでいること"
+  },
+  {
+    "surface": "寝床",
+    "pronunciation": "ネドコ",
+    "accent_type": "2",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "寝るための場所や寝具"
+  },
+  {
+    "surface": "就て",
+    "pronunciation": "ツイテ",
+    "accent_type": 2,
+    "word_type": "SUFFIX",
+    "priority": 7,
+    "meaning": "対象や話題に関して述べる場合に用いる表現。現代では『について』と表記されることが一般的。古風な文体や文章で用いられることが多い。"
   },
   {
     "surface": "工場主",
@@ -144,20 +176,100 @@
     "meaning": "工場を所有する人"
   },
   {
-    "surface": "贜",
-    "pronunciation": "ゾウ",
+    "surface": "年若き",
+    "pronunciation": "トシワカキ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "年齢が若いことを形容する表現。特に、成人に比べて幼さや未熟さを含むニュアンスで使われる。古風な言い回しとして用いられる。"
+  },
+  {
+    "surface": "店ん中",
+    "pronunciation": "ミセンナカ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "店の中"
+  },
+  {
+    "surface": "強き",
+    "pronunciation": "ツヨキ",
     "accent_type": "2",
     "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "盗み、隠し事"
+    "meaning": "強い、力強い"
   },
   {
-    "surface": "贜す",
-    "pronunciation": "カクス",
+    "surface": "慥へ",
+    "pronunciation": "タシカヘ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "確かに"
+  },
+  {
+    "surface": "所謂",
+    "pronunciation": "イワユル",
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "隠す"
+    "meaning": "いわゆる、俗に言う"
+  },
+  {
+    "surface": "敗か",
+    "pronunciation": "マカ",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "負ける、敗北する"
+  },
+  {
+    "surface": "文童",
+    "pronunciation": "ブンドウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "文学や文章に優れた才能を持つ若者、またはそのように称される者"
+  },
+  {
+    "surface": "於て",
+    "pronunciation": "オイテ",
+    "accent_type": 2,
+    "word_type": "SUFFIX",
+    "priority": 7,
+    "meaning": "場所や時間を示す格助詞。現代では『において』と表記されることが一般的。文章語や古文で用いられることが多い。"
+  },
+  {
+    "surface": "未だ",
+    "pronunciation": "イマダ",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "まだ、いまだに、ある状態が続いていることを表す副詞。"
+  },
+  {
+    "surface": "滴たり",
+    "pronunciation": "シタタリ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "液体がしずくとなって垂れることを表す。旧仮名遣いでは『滴たり』と表記され、現代仮名遣いでは『滴ったり』と書かれることが一般的。"
+  },
+  {
+    "surface": "珍らし",
+    "pronunciation": "メズラシ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "珍しい、稀なこと"
+  },
+  {
+    "surface": "百石",
+    "pronunciation": "ヒャッコク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "石高の単位で、100石を表す"
   },
   {
     "surface": "窶しい",
@@ -184,76 +296,20 @@
     "meaning": "体が痩せ衰えた状態"
   },
   {
-    "surface": "寝床",
-    "pronunciation": "ネドコ",
-    "accent_type": "2",
+    "surface": "立還って",
+    "pronunciation": "タチカエッテ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "その場から直ちに戻る、あるいは回帰することを指す。旧仮名遣いでは『立還って』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
+  },
+  {
+    "surface": "笴",
+    "pronunciation": "カン",
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
-    "meaning": "寝るための場所や寝具"
-  },
-  {
-    "surface": "識らず",
-    "pronunciation": "シラズ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "知らない"
-  },
-  {
-    "surface": "所謂",
-    "pronunciation": "イワユル",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "いわゆる、俗に言う"
-  },
-  {
-    "surface": "嗤う",
-    "pronunciation": "ワラウ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "嘲笑する"
-  },
-  {
-    "surface": "嗤",
-    "pronunciation": "ワラウ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "嘲笑する"
-  },
-  {
-    "surface": "重大事",
-    "pronunciation": "ジュウダイジ",
-    "accent_type": "4",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "非常に重要な事柄"
-  },
-  {
-    "surface": "反影",
-    "pronunciation": "ハンエイ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "反映、影響を与えること"
-  },
-  {
-    "surface": "家並",
-    "pronunciation": "イエナミ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "家が並んでいること"
-  },
-  {
-    "surface": "家並み",
-    "pronunciation": "イエナミ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "家が並んでいること"
+    "meaning": "矢の軸を指す古い言葉。矢羽を付ける部分として弓矢の構造において重要な役割を果たす。現代では一般的には使用されない表記であり、歴史的または専門的な文脈で見られる。"
   },
   {
     "surface": "緊った",
@@ -264,28 +320,12 @@
     "meaning": "締まった、堅固な状態"
   },
   {
-    "surface": "強き",
-    "pronunciation": "ツヨキ",
-    "accent_type": "2",
+    "surface": "若し",
+    "pronunciation": "モシ",
+    "accent_type": 1,
     "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "強い、力強い"
-  },
-  {
-    "surface": "慥へ",
-    "pronunciation": "タシカヘ",
-    "accent_type": "3",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "確かに"
-  },
-  {
-    "surface": "その様",
-    "pronunciation": "ソノサマ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "そのような、そういう様子"
+    "priority": 7,
+    "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
   },
   {
     "surface": "蚊帳",
@@ -304,100 +344,28 @@
     "meaning": "赤ちゃんのおむつ"
   },
   {
-    "surface": "味噌漬",
-    "pronunciation": "ミソヅケ",
+    "surface": "親しかった",
+    "pronunciation": "シタシカッタ",
+    "accent_type": "6",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "親しい関係であった"
+  },
+  {
+    "surface": "親しかッた",
+    "pronunciation": "シタシカッタ",
+    "accent_type": "6",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "親しい関係であった"
+  },
+  {
+    "surface": "親娘",
+    "pronunciation": "オヤムスメ",
     "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "味噌で漬けたもの"
-  },
-  {
-    "surface": "味噌漬け",
-    "pronunciation": "ミソヅケ",
-    "accent_type": "3",
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "味噌で漬けたもの"
-  },
-  {
-    "surface": "珍らし",
-    "pronunciation": "メズラシ",
-    "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "珍しい、稀なこと"
-  },
-  {
-    "surface": "お珍らし",
-    "pronunciation": "オメズラシ",
-    "accent_type": "1",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "珍しい、稀なこと"
-  },
-  {
-    "surface": "露ほど",
-    "pronunciation": "ツユホド",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "ごくわずか"
-  },
-  {
-    "surface": "敗か",
-    "pronunciation": "マカ",
-    "accent_type": "2",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "負ける、敗北する"
-  },
-  {
-    "surface": "十石",
-    "pronunciation": "ジッコク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "石高の単位で、10石を表す"
-  },
-  {
-    "surface": "百石",
-    "pronunciation": "ヒャッコク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "石高の単位で、100石を表す"
-  },
-  {
-    "surface": "千石",
-    "pronunciation": "センゴク",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "石高の単位で、1000石を表す"
-  },
-  {
-    "surface": "万石",
-    "pronunciation": "マンゴク",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 10,
-    "meaning": "石高の単位で、1万石を表す"
-  },
-  {
-    "surface": "八木節",
-    "pronunciation": "ヤギブシ",
-    "accent_type": 3,
-    "word_type": "PROPER_NOUN",
-    "priority": 7,
-    "meaning": "群馬県を中心とした地域で伝統的に歌われる民謡の一種"
-  },
-  {
-    "surface": "店ん中",
-    "pronunciation": "ミセンナカ",
-    "accent_type": 3,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "店の中"
+    "meaning": "親子関係の娘"
   },
   {
     "surface": "誰某",
@@ -408,28 +376,28 @@
     "meaning": "特定の名前を挙げずに人を指す語。なにがし。"
   },
   {
-    "surface": "文童",
-    "pronunciation": "ブンドウ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
+    "surface": "識らず",
+    "pronunciation": "シラズ",
+    "accent_type": "3",
+    "word_type": "ADJECTIVE",
     "priority": 5,
-    "meaning": "文学や文章に優れた才能を持つ若者、またはそのように称される者"
+    "meaning": "知らない"
   },
   {
-    "surface": "未だ",
-    "pronunciation": "イマダ",
-    "accent_type": 2,
+    "surface": "贜",
+    "pronunciation": "ゾウ",
+    "accent_type": "2",
     "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "まだ、いまだに、ある状態が続いていることを表す副詞。"
+    "priority": 5,
+    "meaning": "盗み、隠し事"
   },
   {
-    "surface": "若し",
-    "pronunciation": "モシ",
-    "accent_type": 1,
+    "surface": "贜す",
+    "pronunciation": "カクス",
+    "accent_type": "0",
     "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "もしも、仮定や条件を表す副詞。現代仮名遣いでも『もし』と書く。"
+    "priority": 5,
+    "meaning": "隠す"
   },
   {
     "surface": "迷雲",
@@ -440,6 +408,38 @@
     "meaning": "霧のように目の前が見えにくくなる心の迷いや混乱を象徴的に表す表現。"
   },
   {
+    "surface": "選まれ",
+    "pronunciation": "エラマレ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "選択される、または選ばれることを指す旧仮名遣い表記。現代では『選ばれ』と表記されることが一般的。"
+  },
+  {
+    "surface": "選む",
+    "pronunciation": "エラム",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "多くの中から適したものを選び取る行為を指す古風な表現。現代では『選ぶ』と表記されることが一般的。"
+  },
+  {
+    "surface": "重大事",
+    "pronunciation": "ジュウダイジ",
+    "accent_type": "4",
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "非常に重要な事柄"
+  },
+  {
+    "surface": "露ほど",
+    "pronunciation": "ツユホド",
+    "accent_type": "2",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "ごくわずか"
+  },
+  {
     "surface": "青梧",
     "pronunciation": "アオギリ",
     "accent_type": 3,
@@ -448,19 +448,19 @@
     "meaning": "アオギリ科の落葉高木。葉が大きく、庭木や街路樹として使われることがある。"
   },
   {
-    "surface": "立還って",
-    "pronunciation": "タチカエッテ",
-    "accent_type": 4,
-    "word_type": "VERB",
-    "priority": 6,
-    "meaning": "その場から直ちに戻る、あるいは回帰することを指す。旧仮名遣いでは『立還って』と表記されるが、現代仮名遣いでは『立ち還って』と書かれることが一般的。"
+    "surface": "額の汗",
+    "pronunciation": "ヒタイノアセ",
+    "accent_type": 5,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "額に浮かぶ汗を指し、特に努力や緊張、暑さによってかいた汗を表現する。労働や真剣な取り組みの象徴として用いられることもある。"
   },
   {
-    "surface": "就て",
-    "pronunciation": "ツイテ",
-    "accent_type": 2,
-    "word_type": "SUFFIX",
+    "surface": "高遠",
+    "pronunciation": "タカトオ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
     "priority": 7,
-    "meaning": "対象や話題に関して述べる場合に用いる表現。現代では『について』と表記されることが一般的。古風な文体や文章で用いられることが多い。"
+    "meaning": "長野県伊那市の地名として知られる。山々に囲まれた地域で、高遠城址公園は桜の名所として有名。また、『高く遠い』という意味で抽象的に使われることもある。"
   }
 ]
