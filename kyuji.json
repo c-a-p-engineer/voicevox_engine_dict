@@ -1,5 +1,13 @@
 [
   {
+  "surface": "圍爐裡",
+  "pronunciation": "イロリ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "伝統的な日本家屋で使用される床に掘り込まれた暖房設備を指す名詞。炭や薪を燃やして暖を取るための囲炉裏を指す。旧字体では『圍爐裡』と書かれるが、現代では『囲炉裏』と表記されるのが一般的。"
+},
+  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
