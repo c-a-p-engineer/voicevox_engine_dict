@@ -1,14 +1,13 @@
 [
-
   {
-  "surface": "笴",
-  "pronunciation": "カン",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "矢の軸を指す古い言葉。矢羽を付ける部分として弓矢の構造において重要な役割を果たす。現代では一般的には使用されない表記であり、歴史的または専門的な文脈で見られる。"
-}
-,{
+    "surface": "笴",
+    "pronunciation": "カン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "矢の軸を指す古い言葉。矢羽を付ける部分として弓矢の構造において重要な役割を果たす。現代では一般的には使用されない表記であり、歴史的または専門的な文脈で見られる。"
+  },
+  {
     "surface": "滴たり",
     "pronunciation": "シタタリ",
     "accent_type": 3,
