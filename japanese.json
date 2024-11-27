@@ -1,12 +1,12 @@
 [
   {
-  "surface": "滴たり",
-  "pronunciation": "シタタリ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "液体がしずくとなって垂れることを表す。旧仮名遣いでは『滴たり』と表記され、現代仮名遣いでは『滴ったり』と書かれることが一般的。"
-},
+    "surface": "滴たり",
+    "pronunciation": "シタタリ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "液体がしずくとなって垂れることを表す。旧仮名遣いでは『滴たり』と表記され、現代仮名遣いでは『滴ったり』と書かれることが一般的。"
+  },
   {
     "surface": "選まれ",
     "pronunciation": "エラマレ",
