@@ -1,5 +1,14 @@
 [
   {
+  "surface": "いよ／＼",
+  "pronunciation": "イヨイヨ",
+  "accent_type": 0,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "事態が進行して、最後の段階や重要な場面に至る様子を表す形容詞。たとえば、『いよいよ旅が始まる』は『ついに旅が始まる』という意味。また、期待や不安を伴う状況を強調する表現としても使われる。"
+}
+,
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
