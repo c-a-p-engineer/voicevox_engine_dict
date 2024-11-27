@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "覺め",
+  "pronunciation": "サメ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "眠りや夢、または意識が覚醒することを指す動詞。旧字体では『覺め』と表記され、現代では『覚め』と書かれることが一般的。たとえば、『夢から覺めた』は『夢から覚めた』という意味。"
+}
+,
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
