@@ -1,5 +1,14 @@
 [
   {
+  "surface": "くわつくわう／＼",
+  "pronunciation": "クワックワウックワックワウ",
+  "accent_type": 0,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "古典的な表現で、何かを噛むような音や動作を指す擬音的表現。特定の状況や動作に応じた文脈で使用されるが、現代ではほとんど見られない表現。"
+}
+,
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
