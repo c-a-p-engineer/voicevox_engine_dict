@@ -1,4 +1,443 @@
-[
+[{
+  "surface": "written",
+  "pronunciation": "リトゥン",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 9,
+  "meaning": "動詞『write』の過去分詞形で、『書かれた』を意味する。たとえば、『The letter was written yesterday』は『その手紙は昨日書かれた』という意味。"
+},{
+  "surface": "years",
+  "pronunciation": "イヤーズ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "『年』を意味する『year』の複数形。たとえば、『It has been five years』は『5年が経ちました』という意味。"
+},{
+  "surface": "yet",
+  "pronunciation": "イェット",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "『まだ』『しかし』などの意味を持つ副詞または接続詞。たとえば、『He hasn’t arrived yet』は『彼はまだ到着していない』という意味。"
+}
+
+
+,{
+  "surface": "world",
+  "pronunciation": "ワールド",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "地球全体、または人間社会、特定の分野や領域を指す名詞。たとえば、『The world is beautiful』は『世界は美しい』という意味。"
+}
+,{
+  "surface": "with",
+  "pronunciation": "ウィズ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "英語の前置詞で、『～と一緒に』『～を持って』『～に対して』などの意味を持つ。たとえば、『I went to the park with my friend』は『私は友人と一緒に公園に行きました』という意味。"
+}
+,{
+  "surface": "Whitman",
+  "pronunciation": "ウィットマン",
+  "accent_type": 1,
+  "word_type": "PROPER_NOUN",
+  "priority": 9,
+  "meaning": "英語圏の姓または固有名詞。特にアメリカの詩人ウォルト・ホイットマン（Walt Whitman）で知られる。"
+}
+,{
+  "surface": "whether",
+  "pronunciation": "ウェザー",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "何らかの選択肢や条件を表す際に使われる接続詞。『～かどうか』を意味する。たとえば、『I don’t know whether he will come』は『彼が来るかどうかわからない』という意味。"
+}
+,{
+  "surface": "way",
+  "pronunciation": "ウェイ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "道、方法、手段、または方向を指す名詞。たとえば、『This is the best way to do it』は『これがそれをする最善の方法です』という意味。"
+}
+,{
+  "surface": "was",
+  "pronunciation": "ワズ",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "英語の動詞『be』の過去形で、一人称単数（I）および三人称単数（he, she, it）に使用される。たとえば、『She was happy』は『彼女は幸せだった』という意味。"
+}
+,{
+  "surface": "Walt",
+  "pronunciation": "ウォルト",
+  "accent_type": 1,
+  "word_type": "PROPER_NOUN",
+  "priority": 9,
+  "meaning": "英語圏の男性の名前。『Walter』の短縮形として使われることが多い。たとえば、『Walt Disney』は著名なアニメーターおよび映画プロデューサーを指す。"
+}
+,{
+  "surface": "wait",
+  "pronunciation": "ウェイト",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "何かが起こるのを待つ、または行動を一時的に停止することを指す動詞。たとえば、『Please wait for me』は『私を待ってください』という意味。"
+}
+,{
+  "surface": "unreturn",
+  "pronunciation": "アンリターン",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 5,
+  "meaning": "返却しない、または元に戻さないことを意味する動詞。主に比喩的な文脈で使用されることがあるが、標準的な英語では一般的ではない。"
+}
+,{
+  "surface": "thousand",
+  "pronunciation": "サウザンド",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "数字の『千（1,000）』を指す名詞。たとえば、『One thousand people attended the event』は『1,000人がそのイベントに参加した』という意味。"
+}
+,{
+  "surface": "think",
+  "pronunciation": "シンク",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "考える、思う、または意見を持つことを指す動詞。たとえば、『I think it’s a good idea』は『それは良いアイデアだと思います』という意味。"
+}
+,{
+  "surface": "these",
+  "pronunciation": "ズィーズ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 9,
+  "meaning": "『これらの』または『これら』を意味する名詞や形容詞。複数のものを指す際に使われる。たとえば、『These books are mine』は『これらの本は私のものです』という意味。"
+}
+,{
+  "surface": "ten",
+  "pronunciation": "テン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "数字の『10』を指す名詞。たとえば、『There are ten apples』は『10個のリンゴがあります』という意味。"
+}
+,{
+  "surface": "songs",
+  "pronunciation": "ソングズ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "『歌』や『曲』を指す名詞の複数形。たとえば、『I like these songs』は『私はこれらの歌が好きです』という意味。"
+}
+,{
+  "surface": "sometimes",
+  "pronunciation": "サムタイムズ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "『時々』や『たまに』を意味する副詞。何かが不定期に起こることを指す。たとえば、『I sometimes go to the park』は『私は時々公園に行きます』という意味。"
+}
+,{
+  "surface": "sit",
+  "pronunciation": "シット",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 9,
+  "meaning": "座る、または座った状態になることを指す動詞。たとえば、『Please sit down』は『どうぞお座りください』という意味。"
+}
+,{
+  "surface": "return",
+  "pronunciation": "リターン",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 9,
+  "meaning": "戻る、返す、または元の状態に戻ることを指す動詞。たとえば、『I will return the book』は『私はその本を返します』という意味。"
+}
+,{
+  "surface": "rage",
+  "pronunciation": "レイジ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 9,
+  "meaning": "激しい怒りや憤怒を指す名詞。感情が制御不能になるほど高ぶる状態を表す。たとえば、『He was filled with rage』は『彼は激しい怒りに満ちていた』という意味。"
+}
+,{
+  "surface": "person",
+  "pronunciation": "パーソン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "個々の人間、一人の人を指す名詞。たとえば、『She is a kind person』は『彼女は親切な人です』という意味。"
+}
+,{
+  "surface": "pay",
+  "pronunciation": "ペイ",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 9,
+  "meaning": "お金を支払う、または報いる行為を指す動詞。たとえば、『I will pay the bill』は『私がその勘定を支払います』という意味。また、『注意を払う』という比喩的な意味でも使用される（例：pay attention）。"
+}
+,{
+  "surface": "own",
+  "pronunciation": "オウン",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 9,
+  "meaning": "『自分自身の』や『所有する』を意味する形容詞。たとえば、『I have my own car』は『私は自分自身の車を持っている』という意味。また、動詞として『所有する』の意味でも使用される。"
+}
+,{
+  "surface": "out",
+  "pronunciation": "アウト",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "外側や外部を指す言葉。副詞や前置詞としても使われ、『外に』や『外へ』の意味を持つ。たとえば、『He is out』は『彼は外にいる』を意味する。"
+}
+,{
+  "surface": "other",
+  "pronunciation": "アザー",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 9,
+  "meaning": "『他の』や『別の』を意味する形容詞。たとえば、『I have other plans』は『私は他の予定がある』という意味。"
+}
+,{
+  "surface": "or",
+  "pronunciation": "オア",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "選択肢や代替案を提示する接続詞。『または』や『あるいは』を意味する。たとえば、『Do you want tea or coffee?』は『紅茶かコーヒーが欲しいですか？』という意味。"
+}
+,{
+  "surface": "now",
+  "pronunciation": "ナウ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "現在の時点や今この瞬間を指す言葉。主に副詞として『今』という意味で使われるが、文脈によって名詞として『現在』を指すこともある。たとえば、『Now is the time』は『今がその時だ』という意味。"
+}
+,{
+  "surface": "myself",
+  "pronunciation": "マイセルフ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "英語の再帰代名詞で、『私自身』を意味する。主語が『I』の場合に使用され、自分自身を強調する場合や目的語として使われる。たとえば、『I did it myself』は『私はそれを自分でやった』という意味。"
+}
+,{
+  "surface": "my",
+  "pronunciation": "マイ",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 10,
+  "meaning": "英語の一人称代名詞『I』の所有格で、『私の』を意味する形容詞。たとえば、『This is my book』は『これは私の本です』という意味。"
+}
+,{
+  "surface": "million",
+  "pronunciation": "ミリオン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 9,
+  "meaning": "数字の単位で『百万』を指す名詞。たとえば、『one million dollars』は『100万ドル』という意味。比喩的に非常に多いことを表現する場合もある。"
+}
+,{
+  "surface": "me",
+  "pronunciation": "ミー",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "英語の一人称代名詞『I』の目的格で、自分自身を指す。たとえば、『He gave me a book』は『彼は私に本をくれた』という意味。"
+}
+,{
+  "surface": "loved",
+  "pronunciation": "ラヴド",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "動詞『love』の過去形または過去分詞形で、『愛された』や『愛した』を意味する。たとえば、『She was loved by everyone』は『彼女はみんなに愛されていた』という意味。"
+}
+,{
+  "surface": "largest",
+  "pronunciation": "ラージェスト",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "形容詞『large』の最上級で、『最大の』『最も大きい』を意味する。たとえば、『This is the largest city in the country』は『これはその国で最大の都市です』という意味。"
+}
+,{
+  "surface": "have",
+  "pronunciation": "ハヴ",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "持つ、所有する、または何かの状態を経験することを指す動詞。たとえば、『I have a car』は『私は車を持っている』という意味。また、助動詞として完了形を構成する場合にも使われる（例：I have seen it - それを見たことがある）。"
+}
+,{
+  "surface": "fill",
+  "pronunciation": "フィル",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 9,
+  "meaning": "何かを満たす、埋める、または容器や空間に詰めることを指す動詞。たとえば、『Fill the glass with water』は『グラスに水を満たしてください』という意味。"
+}
+,{
+  "surface": "fear",
+  "pronunciation": "フィア",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 9,
+  "meaning": "恐れや不安、または危険や悪い結果に対する恐怖心を指す名詞。たとえば、『She has a fear of heights』は『彼女は高所恐怖症だ』という意味。"
+}
+,{
+  "surface": "far",
+  "pronunciation": "ファー",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "距離や程度が遠いことを指す形容詞。また、副詞として『はるかに』や『遠くに』という意味で使われる場合もある。たとえば、『How far is it?』は『どれくらい遠いですか？』という意味。"
+}
+,{
+  "surface": "exist",
+  "pronunciation": "エグジスト",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 9,
+  "meaning": "存在する、生存する、または何かが現実にあることを指す動詞。たとえば、『Does life exist on Mars?』は『火星に生命は存在するのか？』という意味。"
+}
+,{
+  "surface": "equal",
+  "pronunciation": "イコール",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "量や価値、状態が等しい、または同じであることを指す形容詞。たとえば、『All men are created equal』は『すべての人は平等に作られている』という意味。"
+}
+,{
+  "surface": "enough",
+  "pronunciation": "イナフ",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "十分な、または必要とされるだけの量や程度を指す形容詞。たとえば、『We have enough food』は『私たちには十分な食べ物がある』という意味。"
+}
+,{
+  "surface": "effuse",
+  "pronunciation": "エフューズ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "感情や光、液体などがあふれ出る、または流れ出すことを指す動詞。たとえば、『She effused her gratitude』は『彼女は感謝の意をあふれさせた』という意味。"
+}
+,{
+  "surface": "each",
+  "pronunciation": "イーチ",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "個々のものや人を指し、それぞれを強調する際に使われる形容詞。たとえば、『Each person has a role』は『それぞれの人が役割を持つ』という意味。"
+}
+,{
+  "surface": "day",
+  "pronunciation": "デイ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 10,
+  "meaning": "一日の時間、特に太陽が昇っている明るい時間を指す。また、暦の単位としての『日』も含む（例：Monday - 月曜日、a day - 一日）。"
+},{
+  "surface": "content",
+  "pronunciation": "コンテント",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "中身、内容、または含まれているものを指す名詞。たとえば、文書やウェブページの情報内容、容器の中にある物などを表す。"
+}
+,{
+  "surface": "cheerfulness",
+  "pronunciation": "チアフルネス",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "明るく元気な性質や状態を指す名詞。喜びや楽しい気分を周囲に伝えるポジティブな態度や雰囲気を表す。"
+}
+,{
+  "surface": "cheerfully",
+  "pronunciation": "チアフリー",
+  "accent_type": 1,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "快活に、元気よく、または明るい気持ちでという意味を持つ。行動や態度が明るく、楽しげであることを表す。"
+},{
+  "surface": "by",
+  "pronunciation": "バイ",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "英語の前置詞"
+}
+,{
+  "surface": "be",
+  "pronunciation": "ビー",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "英語で存在や状態を表す基本動詞。主語の存在や性質を示すときに使われる。例えば『I am happy』では『私は幸せです』の状態を表す。時制によって形が変化し（am, is, are, was, were, beenなど）、幅広く使用される。"
+}
+,{
+  "surface": "aware",
+  "pronunciation": "アウェア",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 9,
+  "meaning": "何かに気づいている、または認識していることを表す形容詞。例えば『I am aware of the problem』は『その問題に気づいている』を意味する。"
+}
+,{
+  "surface": "ardently",
+  "pronunciation": "アーデントリー",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "熱心に、情熱的にという意味を持つ副詞。感情や意欲を込めて行動する様子を表現する。例えば『She spoke ardently』は『彼女は情熱的に話した』を意味する。"
+}
+,{
+  "surface": "another",
+  "pronunciation": "アナザー",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 9,
+  "meaning": "もう一つの、別の、あるいは追加のものを指す形容詞。例えば『another day』は『別の日』や『もう一つの日』を意味する。代名詞として『もう一人』や『もう一つ』の意味で使われることもある。"
+}
+,
+  {
+  "surface": "a certain",
+  "pronunciation": "エイ、サートン",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "特定の、あるいは具体的に名指しされないが特別なものを指す形容詞。例えば『a certain person』は『ある特定の人』を意味する。"
+},
+  {
+  "surface": "certain",
+  "pronunciation": "サートン",
+  "accent_type": 2,
+  "word_type": "ADJECTIVE",
+  "priority": 8,
+  "meaning": "特定の、あるいは具体的に名指しされないが特別なものを指す形容詞。例えば『a certain person』は『ある特定の人』を意味する。"
+}
+,{
+  "surface": "am",
+  "pronunciation": "アム",
+  "accent_type": 1,
+  "word_type": "VERB",
+  "priority": 10,
+  "meaning": "英語のbe動詞の一つで、一人称単数（I）に使用される現在形。『私は〜です』や『私は〜である』を意味する。存在や状態を示す基本的な動詞。"
+}
+,
   {
     "surface": "Sadistic",
     "pronunciation": "サディスティック",
