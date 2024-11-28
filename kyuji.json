@@ -1,5 +1,13 @@
 [
   {
+  "surface": "笟",
+  "pronunciation": "ザル",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "竹や金属などで編んで作られた、物をすくったり水を切ったりするための容器を指す。現代では『笊（ざる）』と表記されることが一般的。"
+},
+  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
