@@ -1,75 +1,4 @@
-[{
-  "surface": "唸つて",
-  "pronunciation": "ウナッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "低い声を出してうなる動作を表す。旧仮名遣いでは『唸つて』と表記されるが、現代仮名遣いでは『唸って』が一般的。"
-},{
-  "surface": "唸つて",
-  "pronunciation": "ウナッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "低い声を出してうなる動作を表す。旧仮名遣いでは『唸つて』と表記されるが、現代仮名遣いでは『唸って』が一般的。"
-}
-,{
-  "surface": "ひよつと",
-  "pronunciation": "ヒヨット",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "もしかしたら、あるいは偶然という意味を持つ。旧仮名遣いで『ひよつと』と表記され、現代では『ひょっと』が一般的。"
-}
-,{
-  "surface": "食ひしんぼ",
-  "pronunciation": "クイシンボ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "食べることが大好きな人を指す表現。旧仮名遣いでは『食ひしんぼ』と書かれるが、現代仮名遣いでは『食いしんぼ』が一般的。"
-}
-,{
-  "surface": "湿つた",
-  "pronunciation": "シメッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "湿気を帯びた状態を指す。旧仮名遣いでは『湿つた』と書かれるが、現代仮名遣いでは『湿った』が一般的。"
-}
-,{
-  "surface": "病友",
-  "pronunciation": "ビョウユウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "病気を共有する友人や同じ病を持つ仲間を指す。"
-}
-,{
-  "surface": "断つて",
-  "pronunciation": "タッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "何かを終わらせたり、関係を切る動作を指す。旧仮名遣いでは『断つて』と表記されるが、現代仮名遣いでは『断って』が一般的。"
-}
-,{
-  "surface": "割つた",
-  "pronunciation": "ワッタ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "物を分ける、または壊す行動を指す。旧仮名遣いでは『割つた』と表記され、現代では『割った』が一般的。"
-}
-,{
-  "surface": "ほんたう",
-  "pronunciation": "ホントウ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "『本当』の旧仮名遣いで、正しいことや真実を意味する表現。現代仮名遣いでは『ほんとう』が一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -836,6 +765,14 @@
     "priority": 5
   },
   {
+    "surface": "ひよつと",
+    "pronunciation": "ヒヨット",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "もしかしたら、あるいは偶然という意味を持つ。旧仮名遣いで『ひよつと』と表記され、現代では『ひょっと』が一般的。"
+  },
+  {
     "surface": "ひゝ",
     "pronunciation": "ヒヒ",
     "accent_type": "0",
@@ -939,6 +876,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ほんたう",
+    "pronunciation": "ホントウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "『本当』の旧仮名遣いで、正しいことや真実を意味する表現。現代仮名遣いでは『ほんとう』が一般的。"
   },
   {
     "surface": "ほゝ",
@@ -2258,6 +2203,14 @@
     "priority": 5
   },
   {
+    "surface": "割つた",
+    "pronunciation": "ワッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "物を分ける、または壊す行動を指す。旧仮名遣いでは『割つた』と表記され、現代では『割った』が一般的。"
+  },
+  {
     "surface": "加はつて",
     "pronunciation": "クワワッテ",
     "accent_type": 4,
@@ -2343,6 +2296,22 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "特定の方向や対象に向かった過去の行為を指す。旧仮名遣いで用いられる形。"
+  },
+  {
+    "surface": "唸つて",
+    "pronunciation": "ウナッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "低い声を出してうなる動作を表す。旧仮名遣いでは『唸つて』と表記されるが、現代仮名遣いでは『唸って』が一般的。"
+  },
+  {
+    "surface": "唸つて",
+    "pronunciation": "ウナッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "低い声を出してうなる動作を表す。旧仮名遣いでは『唸つて』と表記されるが、現代仮名遣いでは『唸って』が一般的。"
   },
   {
     "surface": "変つた",
@@ -2475,6 +2444,14 @@
     "meaning": "過去の出来事や背後にあるものを思い出したり、振り向いて確認する動作を指す旧仮名遣い表記。現代では『振り返って』と表記されることが一般的。"
   },
   {
+    "surface": "断つて",
+    "pronunciation": "タッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "何かを終わらせたり、関係を切る動作を指す。旧仮名遣いでは『断つて』と表記されるが、現代仮名遣いでは『断って』が一般的。"
+  },
+  {
     "surface": "曇つた",
     "pronunciation": "クモッタ",
     "accent_type": 3,
@@ -2523,6 +2500,14 @@
     "meaning": "動作が進行している状態を表す形。現代仮名遣いでは『渡って』"
   },
   {
+    "surface": "湿つた",
+    "pronunciation": "シメッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "湿気を帯びた状態を指す。旧仮名遣いでは『湿つた』と書かれるが、現代仮名遣いでは『湿った』が一般的。"
+  },
+  {
     "surface": "漂ふ",
     "pronunciation": "タダヨウ",
     "accent_type": 3,
@@ -2568,6 +2553,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "物事の真偽や妥当性に対して疑念を抱くことを指す旧仮名遣い表記。現代では『疑わ』と表記されることが一般的。"
+  },
+  {
+    "surface": "病友",
+    "pronunciation": "ビョウユウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "病気を共有する友人や同じ病を持つ仲間を指す。"
   },
   {
     "surface": "痛い／＼",
@@ -2913,6 +2906,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "食べることを他人に強いられる、または食べるよう仕向けられることを指す旧仮名遣い表記。現代では『食べさせられて』と表記されることが一般的。"
+  },
+  {
+    "surface": "食ひしんぼ",
+    "pronunciation": "クイシンボ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "食べることが大好きな人を指す表現。旧仮名遣いでは『食ひしんぼ』と書かれるが、現代仮名遣いでは『食いしんぼ』が一般的。"
   },
   {
     "surface": "飽ない",
