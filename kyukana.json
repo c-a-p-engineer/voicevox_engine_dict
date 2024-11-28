@@ -1,21 +1,5 @@
 [
   {
-    "surface": "引つ張",
-    "pronunciation": "ヒツパ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "物を力を加えて引くこと。または、人や物を無理に引き寄せる行動を指す表現。現代仮名遣いでは『引っ張り』。"
-  },
-  {
-    "surface": "引つぱ",
-    "pronunciation": "ヒツパ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "『引つ張り』と同義の表記揺れ。現代仮名遣いでは『引っぱり』。"
-  },
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -2396,6 +2380,22 @@
     "accent_type": "2",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "引つぱ",
+    "pronunciation": "ヒツパ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "『引つ張り』と同義の表記揺れ。現代仮名遣いでは『引っぱり』。"
+  },
+  {
+    "surface": "引つ張",
+    "pronunciation": "ヒツパ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "物を力を加えて引くこと。または、人や物を無理に引き寄せる行動を指す表現。現代仮名遣いでは『引っ張り』。"
   },
   {
     "surface": "怒つた",
