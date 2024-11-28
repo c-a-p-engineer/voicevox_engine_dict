@@ -1,13 +1,5 @@
 [
   {
-  "surface": "笟",
-  "pronunciation": "ザル",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "竹や金属などで編んで作られた、物をすくったり水を切ったりするための容器を指す。現代では『笊（ざる）』と表記されることが一般的。"
-},
-  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
@@ -966,6 +958,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "大気中に存在する無色透明の気体。呼吸に必要なもの。現代では『空気』と書くことが一般的。"
+  },
+  {
+    "surface": "笟",
+    "pronunciation": "ザル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "竹や金属などで編んで作られた、物をすくったり水を切ったりするための容器を指す。現代では『笊（ざる）』と表記されることが一般的。"
   },
   {
     "surface": "經",
