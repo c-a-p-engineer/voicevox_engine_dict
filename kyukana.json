@@ -1,29 +1,5 @@
-[{
-  "surface": "交る／″＼",
-  "pronunciation": "カワルガワル",
-  "accent_type": 5,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "順番に入れ替わる、または交互に行われる様子を指す表現。旧仮名遣いの動詞で、現代仮名遣いでは『代わる代わる』が一般的。"
-},
+[
   {
-  "surface": "繰つて",
-  "pronunciation": "クッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "糸やひもを手元に引き寄せたり、繰り返して行うことを指す動作。旧仮名遣いでは『繰つて』と表記されるが、現代仮名遣いでは『繰って』が一般的。"
-}
-,
-{
-  "surface": "キョロ／＼",
-  "pronunciation": "キョロキョロ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "落ち着きなく周囲を見回す様子を表す擬音語。視線が頻繁に動く様子を示す。"
-}
-,  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -1210,6 +1186,14 @@
     "priority": 5
   },
   {
+    "surface": "キョロ／＼",
+    "pronunciation": "キョロキョロ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "落ち着きなく周囲を見回す様子を表す擬音語。視線が頻繁に動く様子を示す。"
+  },
+  {
     "surface": "キラ／＼",
     "pronunciation": "キラキラ",
     "accent_type": 4,
@@ -2149,6 +2133,14 @@
     "meaning": "言葉を使って何かを伝える行為を指す旧字・旧仮名遣い表記。現代では『言う』と表記されることが一般的。主に話すことや言葉を発する行為を表現する。"
   },
   {
+    "surface": "交る／″＼",
+    "pronunciation": "カワルガワル",
+    "accent_type": 5,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "順番に入れ替わる、または交互に行われる様子を指す表現。旧仮名遣いの動詞で、現代仮名遣いでは『代わる代わる』が一般的。"
+  },
+  {
     "surface": "余外",
     "pronunciation": "ヨガイ",
     "accent_type": 2,
@@ -2694,6 +2686,14 @@
     "word_type": "SUFFIX",
     "priority": 7,
     "meaning": "尊敬や丁寧を表す助動詞の命令形で、『〜してください』の意。現代仮名遣いでは『たまえ』"
+  },
+  {
+    "surface": "繰つて",
+    "pronunciation": "クッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "糸やひもを手元に引き寄せたり、繰り返して行うことを指す動作。旧仮名遣いでは『繰つて』と表記されるが、現代仮名遣いでは『繰って』が一般的。"
   },
   {
     "surface": "纏つた",
