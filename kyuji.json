@@ -1,5 +1,13 @@
 [
-  {
+{
+  "surface": "人數",
+  "pronunciation": "ニンズウ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "人数、すなわち人の数を指す漢字表記。旧字体では『人數』と書かれるが、現代では『人数』が一般的。"
+}
+,  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
