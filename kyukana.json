@@ -1,4 +1,20 @@
-[
+[{
+  "surface": "死損つた",
+  "pronunciation": "シソコッタ",
+  "accent_type": 4,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "死に損なう、または死ぬことができなかった状態を表す。旧仮名遣いでは『死損つた』と表記され、現代仮名遣いでは『死損った』が一般的。"
+}
+,{
+  "surface": "死損ひ",
+  "pronunciation": "シソコナイ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "死に損なうこと、または死ぬことができず命を取り留めることを意味する。旧仮名遣いでは『死損ひ』と表記され、現代仮名遣いでは『死損ない』が一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
