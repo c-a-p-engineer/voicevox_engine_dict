@@ -1,5 +1,29 @@
-[
+[{
+  "surface": "交る／″＼",
+  "pronunciation": "カワルガワル",
+  "accent_type": 5,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "順番に入れ替わる、または交互に行われる様子を指す表現。旧仮名遣いの動詞で、現代仮名遣いでは『代わる代わる』が一般的。"
+},
   {
+  "surface": "繰つて",
+  "pronunciation": "クッテ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "糸やひもを手元に引き寄せたり、繰り返して行うことを指す動作。旧仮名遣いでは『繰つて』と表記されるが、現代仮名遣いでは『繰って』が一般的。"
+}
+,
+{
+  "surface": "キョロ／＼",
+  "pronunciation": "キョロキョロ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "落ち着きなく周囲を見回す様子を表す擬音語。視線が頻繁に動く様子を示す。"
+}
+,  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
