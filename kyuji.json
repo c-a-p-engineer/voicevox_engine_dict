@@ -1,13 +1,5 @@
 [
   {
-  "surface": "顰め",
-  "pronunciation": "ヒソメ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "顔の表情を歪め、不快感や困惑を表す動作を指す。『眉をひそめる』などの表現で用いられる。旧字体では『顰め』と書かれることもあるが、現代仮名遣いでは『ひそめ』が一般的。"
-},
-  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
@@ -1430,6 +1422,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "顔"
+  },
+  {
+    "surface": "顰め",
+    "pronunciation": "ヒソメ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "顔の表情を歪め、不快感や困惑を表す動作を指す。『眉をひそめる』などの表現で用いられる。旧字体では『顰め』と書かれることもあるが、現代仮名遣いでは『ひそめ』が一般的。"
   },
   {
     "surface": "餘",
