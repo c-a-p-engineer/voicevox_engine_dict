@@ -1,4 +1,34 @@
-[
+[{
+  "surface": "踊つて",
+  "pronunciation": "オドッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "舞い踊る動作を指す。旧仮名遣いでは『踊つて』と表記され、現代仮名遣いでは『踊って』が一般的。"
+},{
+  "surface": "踊つた",
+  "pronunciation": "オドッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "舞い踊ったことを表す。旧仮名遣いでは『踊つた』と表記され、現代仮名遣いでは『踊った』が一般的。"
+}
+,{
+  "surface": "歌つて",
+  "pronunciation": "ウタッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "歌を歌う動作を指す。旧仮名遣いでは『歌つて』と表記され、現代仮名遣いでは『歌って』が一般的。"
+}
+,{
+  "surface": "歌つた",
+  "pronunciation": "ウタッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "歌を歌ったことを表す。旧仮名遣いでは『歌つた』と表記され、現代仮名遣いでは『歌った』が一般的。"
+}
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
