@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "願ふ",
+  "pronunciation": "ネガウ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "何かを求めたり望むことを指す動詞。旧仮名遣いでは『願ふ』と表記され、現代仮名遣いでは『願う』が一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
