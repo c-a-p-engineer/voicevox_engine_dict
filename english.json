@@ -1,5 +1,21 @@
 [
-  {
+{
+  "surface": "Washington",
+  "pronunciation": "ワシントン",
+  "accent_type": 2,
+  "word_type": "PROPER_NOUN",
+  "priority": 10,
+  "meaning": "アメリカ合衆国の地名および人名。首都ワシントンD.C.やアメリカ初代大統領ジョージ・ワシントン（George Washington）に関連する名称。"
+}
+,{
+  "surface": "Irving",
+  "pronunciation": "アーヴィング",
+  "accent_type": 2,
+  "word_type": "PROPER_NOUN",
+  "priority": 9,
+  "meaning": "英語圏の姓や地名。特にアメリカの作家ワシントン・アーヴィング（Washington Irving）で知られる。"
+}
+,  {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
     "accent_type": 1,
