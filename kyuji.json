@@ -1,11 +1,4 @@
-[{
-  "surface": "獵",
-  "pronunciation": "リョウ",
-  "accent_type": 1,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "狩猟、または動物を捕まえることを指す。旧字体では『獵』と表記され、現代では『猟』が一般的。"
-},
+[
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
@@ -997,6 +990,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "動物を捕らえること、特に狩りや狩猟を指す。旧字体では『狩獵』と表記され、現代では『狩猟』が一般的。"
+  },
+  {
+    "surface": "獵",
+    "pronunciation": "リョウ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "狩猟、または動物を捕まえることを指す。旧字体では『獵』と表記され、現代では『猟』が一般的。"
   },
   {
     "surface": "田舍",
