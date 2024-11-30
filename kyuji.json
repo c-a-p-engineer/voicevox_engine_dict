@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "馭者臺",
+  "pronunciation": "ギョウシャダイ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "馬車や車両の馭者（御者）が座る台座を指す。旧字体では『馭者臺』と表記され、現代では『御者台』が一般的。"
+},
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
