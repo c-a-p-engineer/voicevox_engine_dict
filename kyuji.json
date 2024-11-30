@@ -1,35 +1,4 @@
-[{
-  "surface": "數哩",
-  "pronunciation": "スウマイル",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "いくつかのマイル、またはある程度の距離を指す表現。旧字体では『數哩』と表記され、現代では『数マイル』が一般的。"
-}
-,{
-  "surface": "叫聲",
-  "pronunciation": "キョウセイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "大声で叫ぶこと、またはその声を指す。旧字体では『叫聲』と表記され、現代では『叫声』が一般的。"
-},{
-  "surface": "乘合",
-  "pronunciation": "ノリアイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "複数の人が同じ乗り物に乗ること、またはその仕組みを指す。旧字体では『乘合』と表記され、現代では『乗合』が一般的。"
-}
-,{
-  "surface": "哩",
-  "pronunciation": "マイル",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "距離の単位で、約1.60934キロメートルに相当する。旧字体では『哩』と表記され、現代では『マイル』とカタカナで表記されることが一般的。"
-}
-,
+[
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
@@ -101,6 +70,14 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "乗り物やある対象の上に身を置く行為を表す。旧字表記では『乘る』と書かれるが、現代では『乗る』が一般的。"
+  },
+  {
+    "surface": "乘合",
+    "pronunciation": "ノリアイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "複数の人が同じ乗り物に乗ること、またはその仕組みを指す。旧字体では『乘合』と表記され、現代では『乗合』が一般的。"
   },
   {
     "surface": "乘客",
@@ -351,12 +328,28 @@
     "meaning": "現代では『参れ』と書く。"
   },
   {
+    "surface": "叫聲",
+    "pronunciation": "キョウセイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "大声で叫ぶこと、またはその声を指す。旧字体では『叫聲』と表記され、現代では『叫声』が一般的。"
+  },
+  {
     "surface": "同舊友",
     "pronunciation": "ドウキュウユウ",
     "accent_type": 4,
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "昔からの友人、旧友を指す言葉。特に旧友と一緒にいることや行動することを表す場合に用いられる。旧字表記では『同舊友』と書かれるが、現代では『同旧友』と書かれることが一般的。"
+  },
+  {
+    "surface": "哩",
+    "pronunciation": "マイル",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "距離の単位で、約1.60934キロメートルに相当する。旧字体では『哩』と表記され、現代では『マイル』とカタカナで表記されることが一般的。"
   },
   {
     "surface": "哲學",
@@ -733,6 +726,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "物を肩に乗せて運ぶ行為を指す。また、比喩的に他人をだましたり、祭りの神輿を担ぐなどの意味でも使われる。旧字体では『擔ぐ』と表記され、現代では『担ぐ』と書かれることが一般的。"
+  },
+  {
+    "surface": "數哩",
+    "pronunciation": "スウマイル",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "いくつかのマイル、またはある程度の距離を指す表現。旧字体では『數哩』と表記され、現代では『数マイル』が一般的。"
   },
   {
     "surface": "斑點",
