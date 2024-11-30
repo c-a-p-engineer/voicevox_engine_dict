@@ -1,42 +1,4 @@
-[{
-  "surface": "大籃",
-  "pronunciation": "オオザル",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "大きな籠や編み物で作られた容器を指す。『籃』は旧字体であり、現代仮名遣いでは『大ざる』や『大籠』が一般的。"
-}
-,{
-  "surface": "驛傳",
-  "pronunciation": "エキデン",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "駅と駅を結び、リレー方式で物資や情報を伝達する古代の制度を指す。現在では駅伝競走として長距離のリレー形式の競技を指す。旧字体では『驛傳』と表記され、現代では『駅伝』が一般的。"
-},{
-  "surface": "來ぬ",
-  "pronunciation": "コヌ",
-  "accent_type": 1,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "来ない、または訪れないことを表す。旧仮名遣いでは『來ぬ』と表記され、現代仮名遣いでは『来ぬ』が一般的。"
-}
-,{
-  "surface": "乘客",
-  "pronunciation": "ジョウキャク",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "交通機関に乗る人、乗客を指す。旧字体では『乘客』と表記され、現代では『乗客』が一般的。"
-},{
-  "surface": "狩獵",
-  "pronunciation": "シュリョウ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "動物を捕らえること、特に狩りや狩猟を指す。旧字体では『狩獵』と表記され、現代では『狩猟』が一般的。"
-}
-,
+[
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
@@ -110,6 +72,14 @@
     "meaning": "乗り物やある対象の上に身を置く行為を表す。旧字表記では『乘る』と書かれるが、現代では『乗る』が一般的。"
   },
   {
+    "surface": "乘客",
+    "pronunciation": "ジョウキャク",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "交通機関に乗る人、乗客を指す。旧字体では『乘客』と表記され、現代では『乗客』が一般的。"
+  },
+  {
     "surface": "亂",
     "pronunciation": "ラン",
     "accent_type": 1,
@@ -156,6 +126,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "話し手のいる場所や特定の地点に到達する動作を指す旧字表記。現代では『来て』と表記されることが一般的。"
+  },
+  {
+    "surface": "來ぬ",
+    "pronunciation": "コヌ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "来ない、または訪れないことを表す。旧仮名遣いでは『來ぬ』と表記され、現代仮名遣いでは『来ぬ』が一般的。"
   },
   {
     "surface": "來る",
@@ -404,6 +382,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "荘厳。仏教用語で、仏や仏堂を美しく立派に整えること。または、その様子。現代では『荘厳』と書くことが一般的。"
+  },
+  {
+    "surface": "大籃",
+    "pronunciation": "オオザル",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "大きな籠や編み物で作られた容器を指す。『籃』は旧字体であり、現代仮名遣いでは『大ざる』や『大籠』が一般的。"
   },
   {
     "surface": "奔",
@@ -868,6 +854,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "行う、行動する、または理由や目的を示すために用いられる漢字。現代では『為』と書くことが一般的。"
+  },
+  {
+    "surface": "狩獵",
+    "pronunciation": "シュリョウ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "動物を捕らえること、特に狩りや狩猟を指す。旧字体では『狩獵』と表記され、現代では『狩猟』が一般的。"
   },
   {
     "surface": "田舍",
@@ -1500,6 +1494,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "走る、または速く動くことを指す。現代では『駆』と書くことが一般的。"
+  },
+  {
+    "surface": "驛傳",
+    "pronunciation": "エキデン",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "駅と駅を結び、リレー方式で物資や情報を伝達する古代の制度を指す。現在では駅伝競走として長距離のリレー形式の競技を指す。旧字体では『驛傳』と表記され、現代では『駅伝』が一般的。"
   },
   {
     "surface": "體",
