@@ -1,4 +1,20 @@
-[
+[{
+  "surface": "使ひ",
+  "pronunciation": "ツカイ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "道具や手段を利用すること、または使者を指す。旧仮名遣いでは『使ひ』と表記され、現代仮名遣いでは『使い』が一般的。"
+}
+,{
+  "surface": "笑ひ",
+  "pronunciation": "ワライ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "笑うこと、または笑い声を指す表現。旧仮名遣いでは『笑ひ』と表記され、現代仮名遣いでは『笑い』が一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
