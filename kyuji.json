@@ -1,19 +1,4 @@
-[{
-  "surface": "具體",
-  "pronunciation": "グタイ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "抽象的な概念ではなく、具体的で明確な状態や形を指す。旧字体では『具體』と表記され、現代では『具体』が一般的。"
-},{
-  "surface": "例證",
-  "pronunciation": "レイショウ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "ある主張や説明を補強するための具体的な例や証拠を指す。旧字体では『例證』と表記され、現代では『例証』が一般的。"
-}
-,
+[
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
@@ -143,6 +128,14 @@
     "meaning": "話し手のいる場所や特定の地点に到達する動作を指す旧字表記。現代では『来る』と表記されることが一般的。"
   },
   {
+    "surface": "例證",
+    "pronunciation": "レイショウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "ある主張や説明を補強するための具体的な例や証拠を指す。旧字体では『例證』と表記され、現代では『例証』が一般的。"
+  },
+  {
     "surface": "假鳥",
     "pronunciation": "カチョウ",
     "accent_type": 1,
@@ -173,6 +166,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "両方、両者"
+  },
+  {
+    "surface": "具體",
+    "pronunciation": "グタイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "抽象的な概念ではなく、具体的で明確な状態や形を指す。旧字体では『具體』と表記され、現代では『具体』が一般的。"
   },
   {
     "surface": "出來",
