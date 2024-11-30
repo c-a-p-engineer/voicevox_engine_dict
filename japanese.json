@@ -1,4 +1,67 @@
-[
+[{
+  "surface": "指圖",
+  "pronunciation": "シジ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "指示、または指導を指す表現。旧字体では『指圖』と表記され、現代では『指図』が一般的。"
+},{
+  "surface": "從つた",
+  "pronunciation": "シタガッタ",
+  "accent_type": 4,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "指示や状況に従った行動を指す。旧字体・旧仮名遣いでは『從つた』と表記され、現代仮名遣いでは『従った』が一般的。"
+}
+,{
+  "surface": "從う",
+  "pronunciation": "シタガウ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "指示や状況に従うことを指す。旧字体では『從う』と表記され、現代では『従う』が一般的。"
+},{
+  "surface": "從つて",
+  "pronunciation": "シタガッテ",
+  "accent_type": 4,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "指示や状況に従って行動することを表す。または、『それゆえに』という接続の意味で使われることもある。旧字体・旧仮名遣いでは『從つて』と表記され、現代仮名遣いでは『従って』が一般的。"
+},{
+  "surface": "從って",
+  "pronunciation": "シタガッテ",
+  "accent_type": 4,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "指示や状況に従うことを表す。旧字体では『從って』と表記され、現代では『従って』が一般的。"
+},{
+  "surface": "從った",
+  "pronunciation": "シタガッタ",
+  "accent_type": 4,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "指示や状況に従ったことを表す。旧字体・旧仮名遣いでは『從った』と表記され、現代仮名遣いでは『従った』が一般的。"
+}
+
+
+
+,{
+  "surface": "發足",
+  "pronunciation": "ホッソク",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "物事を開始すること、または活動を始めることを指す。旧字体では『發足』と表記され、現代では『発足』が一般的。"
+}
+,{
+  "surface": "歡迎",
+  "pronunciation": "カンゲイ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "来訪者や新たな事柄を喜んで迎えることを指す。旧字体では『歡迎』と表記され、現代では『歓迎』が一般的。"
+}
+,
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
