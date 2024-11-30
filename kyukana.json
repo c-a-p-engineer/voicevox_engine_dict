@@ -1,36 +1,4 @@
-[{
-  "surface": "賑つて",
-  "pronunciation": "ニギワッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "場所や人々が活気づき、にぎやかになることを指す。旧仮名遣いでは『賑つて』と表記され、現代仮名遣いでは『賑わって』が一般的。"
-}
-,{
-  "surface": "迎ひ",
-  "pronunciation": "ムカイ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "人を迎えること、またはその行為を指す。旧仮名遣いでは『迎ひ』と表記され、現代仮名遣いでは『迎い』が一般的。"
-}
-,{
-  "surface": "出迎ひ",
-  "pronunciation": "デムカイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "来訪者を迎えるために外に出ること、またはその行動を指す。旧仮名遣いでは『出迎ひ』と表記され、現代仮名遣いでは『出迎い』が一般的。"
-}
-,{
-  "surface": "倣つて",
-  "pronunciation": "ナラッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "他の例や行動を手本として従うことを指す。旧仮名遣いでは『倣つて』と表記され、現代仮名遣いでは『倣って』が一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2221,6 +2189,14 @@
     "meaning": "関わらない、または関係しないことを意味する。現代仮名遣いでは『係わらず』"
   },
   {
+    "surface": "倣つて",
+    "pronunciation": "ナラッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "他の例や行動を手本として従うことを指す。旧仮名遣いでは『倣つて』と表記され、現代仮名遣いでは『倣って』が一般的。"
+  },
+  {
     "surface": "入つた",
     "pronunciation": "ハイッタ",
     "accent_type": 3,
@@ -2250,6 +2226,14 @@
     "accent_type": "4",
     "word_type": "VERB",
     "priority": 5
+  },
+  {
+    "surface": "出迎ひ",
+    "pronunciation": "デムカイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "来訪者を迎えるために外に出ること、またはその行動を指す。旧仮名遣いでは『出迎ひ』と表記され、現代仮名遣いでは『出迎い』が一般的。"
   },
   {
     "surface": "切つた",
@@ -2941,12 +2925,28 @@
     "priority": 5
   },
   {
+    "surface": "賑つて",
+    "pronunciation": "ニギワッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "場所や人々が活気づき、にぎやかになることを指す。旧仮名遣いでは『賑つて』と表記され、現代仮名遣いでは『賑わって』が一般的。"
+  },
+  {
     "surface": "載つて",
     "pronunciation": "ノッテ",
     "accent_type": 2,
     "word_type": "VERB",
     "priority": 6,
     "meaning": "何かの上に置かれる、または記録・記載されること。現代仮名遣いでは『載って』"
+  },
+  {
+    "surface": "迎ひ",
+    "pronunciation": "ムカイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "人を迎えること、またはその行為を指す。旧仮名遣いでは『迎ひ』と表記され、現代仮名遣いでは『迎い』が一般的。"
   },
   {
     "surface": "返つて",
