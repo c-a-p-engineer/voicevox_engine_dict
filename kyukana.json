@@ -1,34 +1,4 @@
-[{
-  "surface": "踊つて",
-  "pronunciation": "オドッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "舞い踊る動作を指す。旧仮名遣いでは『踊つて』と表記され、現代仮名遣いでは『踊って』が一般的。"
-},{
-  "surface": "踊つた",
-  "pronunciation": "オドッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "舞い踊ったことを表す。旧仮名遣いでは『踊つた』と表記され、現代仮名遣いでは『踊った』が一般的。"
-}
-,{
-  "surface": "歌つて",
-  "pronunciation": "ウタッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "歌を歌う動作を指す。旧仮名遣いでは『歌つて』と表記され、現代仮名遣いでは『歌って』が一般的。"
-}
-,{
-  "surface": "歌つた",
-  "pronunciation": "ウタッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "歌を歌ったことを表す。旧仮名遣いでは『歌つた』と表記され、現代仮名遣いでは『歌った』が一般的。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2586,6 +2556,22 @@
     "meaning": "植物を土や地面に植える行為を指す旧仮名遣い表記。現代では『植え』と表記されることが一般的。"
   },
   {
+    "surface": "歌つた",
+    "pronunciation": "ウタッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "歌を歌ったことを表す。旧仮名遣いでは『歌つた』と表記され、現代仮名遣いでは『歌った』が一般的。"
+  },
+  {
+    "surface": "歌つて",
+    "pronunciation": "ウタッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "歌を歌う動作を指す。旧仮名遣いでは『歌つて』と表記され、現代仮名遣いでは『歌って』が一般的。"
+  },
+  {
     "surface": "死損つた",
     "pronunciation": "シソコッタ",
     "accent_type": 4,
@@ -2961,6 +2947,22 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "場所や人々が活気づき、にぎやかになることを指す。旧仮名遣いでは『賑つて』と表記され、現代仮名遣いでは『賑わって』が一般的。"
+  },
+  {
+    "surface": "踊つた",
+    "pronunciation": "オドッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "舞い踊ったことを表す。旧仮名遣いでは『踊つた』と表記され、現代仮名遣いでは『踊った』が一般的。"
+  },
+  {
+    "surface": "踊つて",
+    "pronunciation": "オドッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "舞い踊る動作を指す。旧仮名遣いでは『踊つて』と表記され、現代仮名遣いでは『踊って』が一般的。"
   },
   {
     "surface": "載つて",
