@@ -1,12 +1,4 @@
-[{
-  "surface": "願ふ",
-  "pronunciation": "ネガウ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "何かを求めたり望むことを指す動詞。旧仮名遣いでは『願ふ』と表記され、現代仮名遣いでは『願う』が一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2994,6 +2986,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "感謝や喜びを強調する際の繰り返し表現。たとえば、『こんな幸運は難有い難有い』は『こんな幸運は本当にありがたい』という意味。"
+  },
+  {
+    "surface": "願ふ",
+    "pronunciation": "ネガウ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "何かを求めたり望むことを指す動詞。旧仮名遣いでは『願ふ』と表記され、現代仮名遣いでは『願う』が一般的。"
   },
   {
     "surface": "食はされて",
