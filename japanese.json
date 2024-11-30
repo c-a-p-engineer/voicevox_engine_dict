@@ -1,20 +1,4 @@
-[{
-  "surface": "歸つて",
-  "pronunciation": "カエッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "元の場所に戻る動作を指す。旧字体・旧仮名遣いでは『歸つて』と表記され、現代仮名遣いでは『帰って』が一般的。"
-}
-,{
-  "surface": "歸つた",
-  "pronunciation": "カエッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "元の場所に戻ったことを表す。旧字体・旧仮名遣いでは『歸つた』と表記され、現代仮名遣いでは『帰った』が一般的。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -262,6 +246,22 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "まだ、いまだに、ある状態が続いていることを表す副詞。"
+  },
+  {
+    "surface": "歸つた",
+    "pronunciation": "カエッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "元の場所に戻ったことを表す。旧字体・旧仮名遣いでは『歸つた』と表記され、現代仮名遣いでは『帰った』が一般的。"
+  },
+  {
+    "surface": "歸つて",
+    "pronunciation": "カエッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "元の場所に戻る動作を指す。旧字体・旧仮名遣いでは『歸つて』と表記され、現代仮名遣いでは『帰って』が一般的。"
   },
   {
     "surface": "滴たり",
