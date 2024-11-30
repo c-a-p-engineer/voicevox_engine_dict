@@ -1,4 +1,20 @@
-[
+[{
+  "surface": "判つた",
+  "pronunciation": "ワカッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "理解した、または認識したことを表す。旧仮名遣いでは『判つた』と表記され、現代仮名遣いでは『分かった』が一般的。"
+}
+,{
+  "surface": "判つて",
+  "pronunciation": "ワカッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "理解している、または認識していることを表す。旧仮名遣いでは『判つて』と表記され、現代仮名遣いでは『分かって』が一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
