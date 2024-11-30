@@ -1,27 +1,4 @@
-[{
-  "surface": "風來",
-  "pronunciation": "フウライ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "風が吹いて来ること、または風と共に訪れる様子を表す。旧字体では『風來』と表記され、現代では『風来』が一般的。"
-}
-,{
-  "surface": "博勞",
-  "pronunciation": "バクロウ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "牛馬の良否を見分けることに巧みな人。また、牛馬の病気を治す人や、牛馬の売買・仲介を業とする人を指す。旧字体では『博勞』と表記される。"
-},{
-  "surface": "殘り",
-  "pronunciation": "ノコリ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "使われずに残ったものや、余りを指す。旧字体では『殘り』と表記され、現代では『残り』が一般的。"
-}
-,
+[
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
@@ -293,6 +270,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "励まし、元気づけること"
+  },
+  {
+    "surface": "博勞",
+    "pronunciation": "バクロウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "牛馬の良否を見分けることに巧みな人。また、牛馬の病気を治す人や、牛馬の売買・仲介を業とする人を指す。旧字体では『博勞』と表記される。"
   },
   {
     "surface": "卷き",
@@ -861,6 +846,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "何かが使われずに残った状態を表す。旧仮名遣いと旧字表記を用いた形。現代では『残った』と書かれる。"
+  },
+  {
+    "surface": "殘り",
+    "pronunciation": "ノコリ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "使われずに残ったものや、余りを指す。旧字体では『殘り』と表記され、現代では『残り』が一般的。"
   },
   {
     "surface": "氣取",
@@ -1597,6 +1590,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "顔の表情を歪め、不快感や困惑を表す動作を指す。『眉をひそめる』などの表現で用いられる。旧字体では『顰め』と書かれることもあるが、現代仮名遣いでは『ひそめ』が一般的。"
+  },
+  {
+    "surface": "風來",
+    "pronunciation": "フウライ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "風が吹いて来ること、または風と共に訪れる様子を表す。旧字体では『風來』と表記され、現代では『風来』が一般的。"
   },
   {
     "surface": "餘",
