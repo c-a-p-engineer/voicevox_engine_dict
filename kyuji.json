@@ -1,4 +1,35 @@
-[
+[{
+  "surface": "數哩",
+  "pronunciation": "スウマイル",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "いくつかのマイル、またはある程度の距離を指す表現。旧字体では『數哩』と表記され、現代では『数マイル』が一般的。"
+}
+,{
+  "surface": "叫聲",
+  "pronunciation": "キョウセイ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "大声で叫ぶこと、またはその声を指す。旧字体では『叫聲』と表記され、現代では『叫声』が一般的。"
+},{
+  "surface": "乘合",
+  "pronunciation": "ノリアイ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "複数の人が同じ乗り物に乗ること、またはその仕組みを指す。旧字体では『乘合』と表記され、現代では『乗合』が一般的。"
+}
+,{
+  "surface": "哩",
+  "pronunciation": "マイル",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "距離の単位で、約1.60934キロメートルに相当する。旧字体では『哩』と表記され、現代では『マイル』とカタカナで表記されることが一般的。"
+}
+,
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
