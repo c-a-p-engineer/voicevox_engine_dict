@@ -1,5 +1,99 @@
-[
-  {
+[{
+  "surface": "兩手",
+  "pronunciation": "リョウテ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "左右両方の手を指す表現。旧字体では『兩手』と表記され、現代では『両手』が一般的。"
+},{
+  "surface": "兩",
+  "pronunciation": "リョウ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "二つ、または両方を指す漢字。旧字体では『兩』と表記され、現代では『両』が一般的。"
+},{
+  "surface": "崇拜者",
+  "pronunciation": "スウハイシャ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "特定の人物や物事を崇拝する人を指す。旧字体では『崇拜者』と表記され、現代では『崇拝者』が一般的。"
+}
+,{
+  "surface": "崇拜",
+  "pronunciation": "スウハイ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "人や物事を敬い、尊ぶことを指す。旧字体では『崇拜』と表記され、現代では『崇拝』が一般的。"
+}
+
+
+,{
+  "surface": "揷し",
+  "pronunciation": "サシ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "物を何かの間に差し込む動作を指す。旧字体では『揷し』と表記され、現代では『挿し』が一般的。"
+},{
+  "surface": "揷す",
+  "pronunciation": "サス",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 8,
+  "meaning": "物を差し込む、または挿入する動作を指す。旧字体では『揷す』と表記され、現代では『挿す』が一般的。"
+}
+,{
+  "surface": "氣取",
+  "pronunciation": "キドリ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "自然体ではない振る舞いや、気取った態度を指す。旧字体では『氣取』と表記され、現代では『気取り』が一般的。"
+}
+,{
+  "surface": "氣取リ",
+  "pronunciation": "キドリ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "上記『氣取』と同義で、表記揺れの一つ。旧字体では『氣取リ』と表記される。現代では『気取り』が一般的。"
+}
+
+,{
+  "surface": "斑點",
+  "pronunciation": "ハンテン",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "不規則な形や色で生じる斑模様や斑点を指す。旧字体では『斑點』と表記され、現代では『斑点』が一般的。"
+},{
+  "surface": "身體",
+  "pronunciation": "シンタイ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "人や動物の肉体や体全体を指す表現。旧字体では『身體』と表記され、現代では『身体』が一般的。"
+}
+,
+{
+  "surface": "計畫",
+  "pronunciation": "ケイカク",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "目標を達成するための具体的な方法や手順を指す。旧字体では『計畫』と表記され、現代では『計画』が一般的。"
+},{
+  "surface": "全國",
+  "pronunciation": "ゼンコク",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "国全体、または全国規模を指す表現。旧字体では『全國』と表記され、現代では『全国』が一般的。"
+}
+, {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
