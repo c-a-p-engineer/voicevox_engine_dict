@@ -1,4 +1,19 @@
-[
+[{
+  "surface": "具體",
+  "pronunciation": "グタイ",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "抽象的な概念ではなく、具体的で明確な状態や形を指す。旧字体では『具體』と表記され、現代では『具体』が一般的。"
+},{
+  "surface": "例證",
+  "pronunciation": "レイショウ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "ある主張や説明を補強するための具体的な例や証拠を指す。旧字体では『例證』と表記され、現代では『例証』が一般的。"
+}
+,
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
