@@ -1,13 +1,5 @@
 [
   {
-  "surface": "稲㧡",
-  "pronunciation": "イネコキ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "稲の穂から籾を取り除く作業、またはその道具を指す。旧字体では『稲㧡』と表記され、現代では『稲こき』が一般的。"
-},
-  {
     "surface": "あの方",
     "pronunciation": "アノカタ",
     "accent_type": "0",
@@ -374,6 +366,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 10,
     "meaning": "石高の単位で、100石を表す"
+  },
+  {
+    "surface": "稲㧡",
+    "pronunciation": "イネコキ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "稲の穂から籾を取り除く作業、またはその道具を指す。旧字体では『稲㧡』と表記され、現代では『稲こき』が一般的。"
   },
   {
     "surface": "窶しい",
