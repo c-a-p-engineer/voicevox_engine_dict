@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "大變",
+  "pronunciation": "タイヘン",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "非常に重要で重大な出来事や状況を指す。また、日常会話では『非常に』や『とても』の意味で副詞的にも使われる。旧字体では『大變』と表記され、現代では『大変』が一般的。"
+},
   {
     "surface": "お經",
     "pronunciation": "オキョウ",
