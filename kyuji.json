@@ -1,13 +1,5 @@
 [
   {
-  "surface": "𠗕ぎ",
-  "pronunciation": "シノギ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "困難な状況を切り抜ける手段や方法を指す。また、収入や生計を意味することもある。『𠗕』は古い字体で、現代では『凌ぎ』と書かれることが一般的。"
-},
-  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
@@ -1718,5 +1710,13 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "歯"
+  },
+  {
+    "surface": "𠗕ぎ",
+    "pronunciation": "シノギ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "困難な状況を切り抜ける手段や方法を指す。また、収入や生計を意味することもある。『𠗕』は古い字体で、現代では『凌ぎ』と書かれることが一般的。"
   }
 ]
