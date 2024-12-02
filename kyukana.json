@@ -1,131 +1,4 @@
-[{
-  "surface": "代る／″＼",
-  "pronunciation": "カワルガワル",
-  "accent_type": 5,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "交互に入れ替わる、または次々に行われる様子を表す。旧仮名遣いでは『代る／″＼』と表記され、現代仮名遣いでは『代わる代わる』が一般的。"
-}
-,{
-  "surface": "ガヤ／＼",
-  "pronunciation": "ガヤガヤ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "多くの人が話したり騒いだりする様子を表す擬態語。現代仮名遣いでは『ガヤガヤ』が一般的。"
-}
-,{
-  "surface": "ワヤ／＼",
-  "pronunciation": "ワヤワヤ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "秩序がなく混乱している様子を表す擬態語。現代仮名遣いでは『ワヤワヤ』が一般的。"
-}
-,{
-  "surface": "飛び／＼",
-  "pronunciation": "トビトビ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "物や人が間を空けながら移動する様子を表す擬態語。現代仮名遣いでは『飛び飛び』が一般的。"
-}
-,{
-  "surface": "バラ／＼",
-  "pronunciation": "バラバラ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "まとまりがなく、散乱したり、分散している様子を表す擬態語。現代仮名遣いでは『バラバラ』が一般的。"
-}
-,{
-  "surface": "ヒラ／＼",
-  "pronunciation": "ヒラヒラ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "軽やかに舞う様子を表す擬態語。風に舞う花びらや紙などの動きを指す。現代仮名遣いでは『ヒラヒラ』が一般的。"
-},{
-  "surface": "ムザ／＼",
-  "pronunciation": "ムザムザ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "あっさりと無駄に、または無抵抗で物事が進む様子を表す擬態語。現代仮名遣いでは『ムザムザ』が一般的。"
-}
-
-,{
-  "surface": "チラ／＼",
-  "pronunciation": "チラチラ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "小さく何度も見え隠れする様子や、細かいものが舞い落ちる様子を表す擬態語。現代仮名遣いでは『チラチラ』が一般的。"
-},{
-  "surface": "ピシャ／＼",
-  "pronunciation": "ピシャピシャ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "水を打つ音や、勢いよく叩く音を表す擬音語。現代仮名遣いでは『ピシャピシャ』が一般的。"
-}
-
-,{
-  "surface": "カン／＼",
-  "pronunciation": "カンカン",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "怒りで非常に激しい様子、または金属などが鳴り響く音を表す擬音語・擬態語。現代仮名遣いでは『カンカン』が一般的。"
-},{
-  "surface": "思い／＼",
-  "pronunciation": "オモイオモイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "さまざまな考えや思いが入り混じる様子を表す。現代仮名遣いでは『思い思い』が一般的。"
-},{
-  "surface": "ソワ／＼",
-  "pronunciation": "ソワソワ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "落ち着かず、気持ちが落ち着かない様子を表す擬態語。現代仮名遣いでは『ソワソワ』が一般的。"
-}
-,{
-  "surface": "ガチ／＼",
-  "pronunciation": "ガチガチ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "非常に硬い音や、緊張で体が固まる様子を表す擬音語・擬態語。現代仮名遣いでは『ガチガチ』が一般的。"
-},{
-  "surface": "パチ／＼",
-  "pronunciation": "パチパチ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "拍手の音や、小さな火花がはじける様子を表す擬音語・擬態語。現代仮名遣いでは『パチパチ』が一般的。"
-}
-
-
-
-,{
-  "surface": "据つた",
-  "pronunciation": "スワッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "腰を据える、またはしっかりと固定する動作を表す。旧仮名遣いでは『据つた』と表記され、現代仮名遣いでは『据った』が一般的。"
-},{
-  "surface": "ポカ／＼",
-  "pronunciation": "ポカポカ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "穏やかに暖かい様子や、軽く叩く音を表す擬態語・擬音語。現代仮名遣いでは『ポカポカ』が一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1270,6 +1143,14 @@
     "priority": 5
   },
   {
+    "surface": "カン／＼",
+    "pronunciation": "カンカン",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "怒りで非常に激しい様子、または金属などが鳴り響く音を表す擬音語・擬態語。現代仮名遣いでは『カンカン』が一般的。"
+  },
+  {
     "surface": "ガゝ",
     "pronunciation": "ガガ",
     "accent_type": "0",
@@ -1290,6 +1171,22 @@
     "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "物が揺れたりぶつかったりして出る音を表す擬音語。"
+  },
+  {
+    "surface": "ガチ／＼",
+    "pronunciation": "ガチガチ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "非常に硬い音や、緊張で体が固まる様子を表す擬音語・擬態語。現代仮名遣いでは『ガチガチ』が一般的。"
+  },
+  {
+    "surface": "ガヤ／＼",
+    "pronunciation": "ガヤガヤ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "多くの人が話したり騒いだりする様子を表す擬態語。現代仮名遣いでは『ガヤガヤ』が一般的。"
   },
   {
     "surface": "キゝ",
@@ -1617,6 +1514,14 @@
     "priority": 5
   },
   {
+    "surface": "ソワ／＼",
+    "pronunciation": "ソワソワ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "落ち着かず、気持ちが落ち着かない様子を表す擬態語。現代仮名遣いでは『ソワソワ』が一般的。"
+  },
+  {
     "surface": "ゾゝ",
     "pronunciation": "ゾゾ",
     "accent_type": "0",
@@ -1685,6 +1590,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "チラ／＼",
+    "pronunciation": "チラチラ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "小さく何度も見え隠れする様子や、細かいものが舞い落ちる様子を表す擬態語。現代仮名遣いでは『チラチラ』が一般的。"
   },
   {
     "surface": "ヂゝ",
@@ -1876,6 +1789,14 @@
     "priority": 5
   },
   {
+    "surface": "バラ／＼",
+    "pronunciation": "バラバラ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "まとまりがなく、散乱したり、分散している様子を表す擬態語。現代仮名遣いでは『バラバラ』が一般的。"
+  },
+  {
     "surface": "パゝ",
     "pronunciation": "パパ",
     "accent_type": "0",
@@ -1888,6 +1809,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "パチ／＼",
+    "pronunciation": "パチパチ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "拍手の音や、小さな火花がはじける様子を表す擬音語・擬態語。現代仮名遣いでは『パチパチ』が一般的。"
   },
   {
     "surface": "パヽ",
@@ -1927,6 +1856,14 @@
     "meaning": "思いがけず突然現れる様子を表す擬態語または副詞。旧仮名遣いでは『ヒヨツコリ』と表記され、現代仮名遣いでは『ひょっこり』が一般的。"
   },
   {
+    "surface": "ヒラ／＼",
+    "pronunciation": "ヒラヒラ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "軽やかに舞う様子を表す擬態語。風に舞う花びらや紙などの動きを指す。現代仮名遣いでは『ヒラヒラ』が一般的。"
+  },
+  {
     "surface": "ビゝ",
     "pronunciation": "ビビ",
     "accent_type": "0",
@@ -1953,6 +1890,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ピシャ／＼",
+    "pronunciation": "ピシャピシャ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "水を打つ音や、勢いよく叩く音を表す擬音語。現代仮名遣いでは『ピシャピシャ』が一般的。"
   },
   {
     "surface": "フゝ",
@@ -2095,6 +2040,14 @@
     "priority": 5
   },
   {
+    "surface": "ポカ／＼",
+    "pronunciation": "ポカポカ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "穏やかに暖かい様子や、軽く叩く音を表す擬態語・擬音語。現代仮名遣いでは『ポカポカ』が一般的。"
+  },
+  {
     "surface": "マゝ",
     "pronunciation": "ママ",
     "accent_type": "0",
@@ -2122,6 +2075,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ムザ／＼",
+    "pronunciation": "ムザムザ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "あっさりと無駄に、または無抵抗で物事が進む様子を表す擬態語。現代仮名遣いでは『ムザムザ』が一般的。"
   },
   {
     "surface": "メゝ",
@@ -2199,6 +2160,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ワヤ／＼",
+    "pronunciation": "ワヤワヤ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "秩序がなく混乱している様子を表す擬態語。現代仮名遣いでは『ワヤワヤ』が一般的。"
   },
   {
     "surface": "ヰゝ",
@@ -2282,6 +2251,14 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "順番に入れ替わる、または交互に行われる様子を指す表現。旧仮名遣いの動詞で、現代仮名遣いでは『代わる代わる』が一般的。"
+  },
+  {
+    "surface": "代る／″＼",
+    "pronunciation": "カワルガワル",
+    "accent_type": 5,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "交互に入れ替わる、または次々に行われる様子を表す。旧仮名遣いでは『代る／″＼』と表記され、現代仮名遣いでは『代わる代わる』が一般的。"
   },
   {
     "surface": "余外",
@@ -2645,6 +2622,14 @@
     "meaning": "感情が高ぶり、怒りを表現することを指す。旧仮名遣いでは『怒つて』と表記されるが、現代仮名遣いでは『怒って』が一般的。"
   },
   {
+    "surface": "思い／＼",
+    "pronunciation": "オモイオモイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "さまざまな考えや思いが入り混じる様子を表す。現代仮名遣いでは『思い思い』が一般的。"
+  },
+  {
     "surface": "思つて",
     "pronunciation": "オモッテ",
     "accent_type": 3,
@@ -2689,6 +2674,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "過去の出来事や背後にあるものを思い出したり、振り向いて確認する動作を指す旧仮名遣い表記。現代では『振り返って』と表記されることが一般的。"
+  },
+  {
+    "surface": "据つた",
+    "pronunciation": "スワッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "腰を据える、またはしっかりと固定する動作を表す。旧仮名遣いでは『据つた』と表記され、現代仮名遣いでは『据った』が一般的。"
   },
   {
     "surface": "据つて",
@@ -3241,6 +3234,14 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "何かを求めたり望むことを指す動詞。旧仮名遣いでは『願ふ』と表記され、現代仮名遣いでは『願う』が一般的。"
+  },
+  {
+    "surface": "飛び／＼",
+    "pronunciation": "トビトビ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "物や人が間を空けながら移動する様子を表す擬態語。現代仮名遣いでは『飛び飛び』が一般的。"
   },
   {
     "surface": "食はされて",
