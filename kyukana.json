@@ -1,43 +1,4 @@
-[{
-  "surface": "据つて",
-  "pronunciation": "スワッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "何かをしっかりと固定する、または座るという意味で使われる。旧仮名遣いでは『据つて』と表記され、現代仮名遣いでは『据わって』が一般的。"
-},{
-  "surface": "ギラ／＼",
-  "pronunciation": "ギラギラ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "強い光が目に刺さるように輝く様子を表す擬態語。例えば、太陽の強い光や金属の輝きを表現する。"
-}
-
-,{
-  "surface": "ヒヨツコリ",
-  "pronunciation": "ヒヨッコリ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "思いがけず突然現れる様子を表す擬態語または副詞。旧仮名遣いでは『ヒヨツコリ』と表記され、現代仮名遣いでは『ひょっこり』が一般的。"
-}
-,{
-  "surface": "占ひ",
-  "pronunciation": "ウラナイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "未来や運勢を予測する行為を指す表現。旧仮名遣いでは『占ひ』と表記され、現代仮名遣いでは『占い』が一般的。"
-}
-,{
-  "surface": "帰れ／＼",
-  "pronunciation": "カエレカエレ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "帰ることを繰り返し強調した表現。叫びや命令の形で用いられることが多い。旧仮名遣いのニュアンスを持つが、現代仮名遣いでは『帰れ帰れ』と表記される。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1255,6 +1216,14 @@
     "priority": 5
   },
   {
+    "surface": "ギラ／＼",
+    "pronunciation": "ギラギラ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "強い光が目に刺さるように輝く様子を表す擬態語。例えば、太陽の強い光や金属の輝きを表現する。"
+  },
+  {
     "surface": "クゝ",
     "pronunciation": "クク",
     "accent_type": "0",
@@ -1823,6 +1792,14 @@
     "priority": 5
   },
   {
+    "surface": "ヒヨツコリ",
+    "pronunciation": "ヒヨッコリ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "思いがけず突然現れる様子を表す擬態語または副詞。旧仮名遣いでは『ヒヨツコリ』と表記され、現代仮名遣いでは『ひょっこり』が一般的。"
+  },
+  {
     "surface": "ビゝ",
     "pronunciation": "ビビ",
     "accent_type": "0",
@@ -2346,6 +2323,14 @@
     "meaning": "香りや臭いを指す旧仮名遣い表記。良い香りや悪い臭いのいずれにも用いられる。現代では『匂い』と表記されることが一般的。"
   },
   {
+    "surface": "占ひ",
+    "pronunciation": "ウラナイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "未来や運勢を予測する行為を指す表現。旧仮名遣いでは『占ひ』と表記され、現代仮名遣いでは『占い』が一般的。"
+  },
+  {
     "surface": "去つて",
     "pronunciation": "サッテ",
     "accent_type": 2,
@@ -2493,6 +2478,14 @@
     "priority": 5
   },
   {
+    "surface": "帰れ／＼",
+    "pronunciation": "カエレカエレ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "帰ることを繰り返し強調した表現。叫びや命令の形で用いられることが多い。旧仮名遣いのニュアンスを持つが、現代仮名遣いでは『帰れ帰れ』と表記される。"
+  },
+  {
     "surface": "引つぱ",
     "pronunciation": "ヒツパ",
     "accent_type": 3,
@@ -2569,6 +2562,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "過去の出来事や背後にあるものを思い出したり、振り向いて確認する動作を指す旧仮名遣い表記。現代では『振り返って』と表記されることが一般的。"
+  },
+  {
+    "surface": "据つて",
+    "pronunciation": "スワッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "何かをしっかりと固定する、または座るという意味で使われる。旧仮名遣いでは『据つて』と表記され、現代仮名遣いでは『据わって』が一般的。"
   },
   {
     "surface": "断つて",
