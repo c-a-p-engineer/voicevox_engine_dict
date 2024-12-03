@@ -1,12 +1,4 @@
-[{
-  "surface": "云はれ",
-  "pronunciation": "イワレ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "他者によって何かが言われる、または伝えられることを表す動詞の受身形。古風な表記で、現代では『言われ』と書かれることが一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2451,6 +2443,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "言葉で伝えて、話して。現代仮名遣いでは『言って』"
+  },
+  {
+    "surface": "云はれ",
+    "pronunciation": "イワレ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "他者によって何かが言われる、または伝えられることを表す動詞の受身形。古風な表記で、現代では『言われ』と書かれることが一般的。"
   },
   {
     "surface": "云ひ",
