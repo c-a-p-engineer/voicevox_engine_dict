@@ -422,7 +422,7 @@
     "surface": "しん／＼",
     "pronunciation": "シンシン",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "雪が静かに降り積もる様子や、静寂さが深まる様子を表す擬態語。『しんしんと降る雪』のように使用される。"
   },
@@ -646,7 +646,7 @@
     "surface": "つら／＼",
     "pronunciation": "ツラツラ",
     "accent_type": 0,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "注意深く物事を考えたり、じっくり観察する様子を表す。『つらつらと考える』などの表現で使われる古風な副詞。"
   },
@@ -690,7 +690,7 @@
     "surface": "てら／＼",
     "pronunciation": "テラテラ",
     "accent_type": 2,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "光が反射してぎらぎら輝く様子を表す擬態語。『てらてらと輝く』などで使用される。"
   },
@@ -2889,7 +2889,7 @@
     "surface": "復た",
     "pronunciation": "マタ",
     "accent_type": 1,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "繰り返し、再び、さらにという意味を持つ古風な副詞。現代では『また』と書くのが一般的。文語体や古典文学で使用されることがある。"
   },
