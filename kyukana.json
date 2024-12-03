@@ -1,12 +1,4 @@
-[{
-  "surface": "やいの／＼",
-  "pronunciation": "ヤイノヤイノ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "大勢の人が口々に騒ぎ立てたり、不満を言ったりする様子を表す擬音語。特に騒々しい場面や議論を表現する際に使用される。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -978,6 +970,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "やいの／＼",
+    "pronunciation": "ヤイノヤイノ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "大勢の人が口々に騒ぎ立てたり、不満を言ったりする様子を表す擬音語。特に騒々しい場面や議論を表現する際に使用される。"
   },
   {
     "surface": "やゝ",
