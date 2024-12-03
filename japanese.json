@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "了う",
+  "pronunciation": "オワウ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "物事が終わる、または完了することを意味する古語的な表現。現代では『終う』や『終わる』に置き換えられることが多い。"
+}
+,
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
