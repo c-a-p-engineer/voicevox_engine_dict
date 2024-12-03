@@ -1,42 +1,4 @@
-[{
-  "surface": "当つた",
-  "pronunciation": "アタッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物事が命中したり一致したりすることを表す動詞の過去形。古風な表記で、現代では『当たった』と書かれることが一般的。"
-},{
-  "surface": "当つて",
-  "pronunciation": "アタッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物事が命中する、一致する、または適応する動作を継続することを表す動詞の連用形。古風な表記で、現代では『当たって』と書かれることが一般的。"
-}
-
-,{
-  "surface": "合つて",
-  "pronunciation": "アッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物事が調和する、適合する、または一致することを表す動詞の連用形。古風な表記で、現代では『合って』と書かれることが一般的。"
-}
-,{
-  "surface": "合つた",
-  "pronunciation": "アッタ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "1. 二つ以上のものが一致する、または調和することを表す動詞の過去形。2. 条件や期待に適合することを表す。古風な表記で、現代では『合った』と書かれることが一般的。"
-},{
-  "surface": "ソコ／＼",
-  "pronunciation": "ソコソコ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "1. 状態や程度がそれなりに良いことを表す擬態語。2. 場所や状況を曖昧に指す表現として使われることもある。現代でもそのまま使用される。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1712,6 +1674,14 @@
     "priority": 5
   },
   {
+    "surface": "ソコ／＼",
+    "pronunciation": "ソコソコ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "1. 状態や程度がそれなりに良いことを表す擬態語。2. 場所や状況を曖昧に指す表現として使われることもある。現代でもそのまま使用される。"
+  },
+  {
     "surface": "ソワ／＼",
     "pronunciation": "ソワソワ",
     "accent_type": 3,
@@ -2785,6 +2755,22 @@
     "meaning": "他人の過ちや間違いを厳しく注意することを指す旧仮名遣い表記。現代では『叱って』と表記されることが一般的。"
   },
   {
+    "surface": "合つた",
+    "pronunciation": "アッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "1. 二つ以上のものが一致する、または調和することを表す動詞の過去形。2. 条件や期待に適合することを表す。古風な表記で、現代では『合った』と書かれることが一般的。"
+  },
+  {
+    "surface": "合つて",
+    "pronunciation": "アッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物事が調和する、適合する、または一致することを表す動詞の連用形。古風な表記で、現代では『合って』と書かれることが一般的。"
+  },
+  {
     "surface": "合はせ",
     "pronunciation": "アワセ",
     "accent_type": "0",
@@ -3002,6 +2988,22 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "物を力を加えて引くこと。または、人や物を無理に引き寄せる行動を指す表現。現代仮名遣いでは『引っ張り』。"
+  },
+  {
+    "surface": "当つた",
+    "pronunciation": "アタッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物事が命中したり一致したりすることを表す動詞の過去形。古風な表記で、現代では『当たった』と書かれることが一般的。"
+  },
+  {
+    "surface": "当つて",
+    "pronunciation": "アタッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物事が命中する、一致する、または適応する動作を継続することを表す動詞の連用形。古風な表記で、現代では『当たって』と書かれることが一般的。"
   },
   {
     "surface": "復た",
