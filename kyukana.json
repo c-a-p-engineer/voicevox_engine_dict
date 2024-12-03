@@ -1,19 +1,4 @@
-[{
-  "surface": "残つた",
-  "pronunciation": "ノコッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かが残った、または残存したことを表す動詞の過去形。現代では『残った』と書かれることが一般的。"
-},{
-  "surface": "残つて",
-  "pronunciation": "ノコッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かが残る動作を継続することを表す動詞の連用形。現代では『残って』と書かれることが一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -3201,6 +3186,22 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "死に損なうこと、または死ぬことができず命を取り留めることを意味する。旧仮名遣いでは『死損ひ』と表記され、現代仮名遣いでは『死損ない』が一般的。"
+  },
+  {
+    "surface": "残つた",
+    "pronunciation": "ノコッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かが残った、または残存したことを表す動詞の過去形。現代では『残った』と書かれることが一般的。"
+  },
+  {
+    "surface": "残つて",
+    "pronunciation": "ノコッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かが残る動作を継続することを表す動詞の連用形。現代では『残って』と書かれることが一般的。"
   },
   {
     "surface": "毎晩／＼",
