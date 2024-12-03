@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "云はれ",
+  "pronunciation": "イワレ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 6,
+  "meaning": "他者によって何かが言われる、または伝えられることを表す動詞の受身形。古風な表記で、現代では『言われ』と書かれることが一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
