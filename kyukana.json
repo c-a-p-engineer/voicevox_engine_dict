@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "思つた",
+  "pronunciation": "オモッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "考えや感情が心に浮かんだことを表す動詞の過去形。古風な表記で、現代では『思った』と書かれることが一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
