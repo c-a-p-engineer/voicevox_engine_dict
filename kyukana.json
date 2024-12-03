@@ -1,4 +1,20 @@
-[
+[{
+  "surface": "帰つた",
+  "pronunciation": "カエッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "自分が元いた場所や故郷に戻ったことを表す動詞の過去形。古風な表記で、現代では『帰った』と書かれることが一般的。"
+}
+,{
+  "surface": "帰つて",
+  "pronunciation": "カエッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "自分が元いた場所や故郷に戻る動作を継続することを表す動詞の連用形。古風な表記で、現代では『帰って』と書かれることが一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
