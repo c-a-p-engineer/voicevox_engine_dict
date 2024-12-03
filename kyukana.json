@@ -1,11 +1,4 @@
-[{
-  "surface": "貰ひ",
-  "pronunciation": "モライ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 6,
-  "meaning": "何かを受け取る、または頂くことを表す動詞の連用形。現代では『貰い』と書くのが一般的で、古風な表記として用いられる。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -3387,6 +3380,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "何かを受け取る動作を継続する、または依頼する意味を持つ動詞の連用形。現代では『貰って』と書くのが一般的。"
+  },
+  {
+    "surface": "貰ひ",
+    "pronunciation": "モライ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 6,
+    "meaning": "何かを受け取る、または頂くことを表す動詞の連用形。現代では『貰い』と書くのが一般的で、古風な表記として用いられる。"
   },
   {
     "surface": "買つて",
