@@ -1,43 +1,4 @@
-[  {
-    "surface": "とろ／＼",
-    "pronunciation": "トロトロ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "液体や物が粘り気を持ちながらゆっくりと動く様子や、眠気で意識がぼんやりする状態を表す擬音語。"
-  },
-  {
-    "surface": "こくり／＼",
-    "pronunciation": "コクリコクリ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "うなずく様子や、居眠りで頭をゆっくり上下に動かす様子を表す擬音語。"
-  },
-  {
-    "surface": "にや／＼",
-    "pronunciation": "ニヤニヤ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "意味ありげに笑う様子や、不気味に笑っている状態を表す擬音語。"
-  },
-  {
-    "surface": "むく／＼",
-    "pronunciation": "ムクムク",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "何かがふくらんでくる様子や、勢いよく起き上がる様子を表す擬音語。"
-  },
-  {
-    "surface": "なか／＼",
-    "pronunciation": "ナカナカ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "容易には実現しない様子や、非常に優れた状態を表す言葉。文脈に応じて肯定・否定のニュアンスが異なる。"
-  },
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -52,22 +13,6 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
-  },
-  {
-    "surface": "ごう／＼",
-    "pronunciation": "ゴウゴウ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "大きな音や勢いよく吹く風の音を表す擬音語。"
-  },
-  {
-    "surface": "たま／＼",
-    "pronunciation": "タマタマ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "偶然に、または稀に起こる様子を表す擬音語。"
   },
   {
     "surface": "いち／＼",
@@ -314,6 +259,14 @@
     "priority": 5
   },
   {
+    "surface": "こくり／＼",
+    "pronunciation": "コクリコクリ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "うなずく様子や、居眠りで頭をゆっくり上下に動かす様子を表す擬音語。"
+  },
+  {
     "surface": "こゝ",
     "pronunciation": "ココ",
     "accent_type": "0",
@@ -326,6 +279,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ごう／＼",
+    "pronunciation": "ゴウゴウ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "大きな音や勢いよく吹く風の音を表す擬音語。"
   },
   {
     "surface": "ごゝ",
@@ -356,6 +317,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "きっと、さぞかし、何かが想像通りであることを強く推測する表現。"
+  },
+  {
+    "surface": "さつくり／＼",
+    "pronunciation": "サックリサックリ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "切れ味が良い様子や、軽快で無駄のない動作を表す擬音語。"
   },
   {
     "surface": "さへなつた",
@@ -546,6 +515,14 @@
     "priority": 5
   },
   {
+    "surface": "たま／＼",
+    "pronunciation": "タマタマ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "偶然に、または稀に起こる様子を表す擬音語。"
+  },
+  {
     "surface": "たゝ",
     "pronunciation": "タタ",
     "accent_type": "0",
@@ -580,6 +557,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ちよい／＼",
+    "pronunciation": "チョイチョイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "軽い動作や何かを気軽に行う様子を表す擬音語。"
   },
   {
     "surface": "ちら／＼",
@@ -683,30 +668,6 @@
     "priority": 5
   },
   {
-    "surface": "さつくり／＼",
-    "pronunciation": "サックリサックリ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "切れ味が良い様子や、軽快で無駄のない動作を表す擬音語。"
-  },
-  {
-    "surface": "ばしや／＼",
-    "pronunciation": "バシャバシャ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "水が勢いよく跳ねる様子や、その音を表す擬音語。"
-  },
-  {
-    "surface": "ちよい／＼",
-    "pronunciation": "チョイチョイ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "軽い動作や何かを気軽に行う様子を表す擬音語。"
-  },
-  {
     "surface": "でゞ",
     "pronunciation": "デデ",
     "accent_type": "0",
@@ -728,6 +689,14 @@
     "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "非常に、大変、程度が強いことを繰り返し強調する表現。"
+  },
+  {
+    "surface": "とろ／＼",
+    "pronunciation": "トロトロ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "液体や物が粘り気を持ちながらゆっくりと動く様子や、眠気で意識がぼんやりする状態を表す擬音語。"
   },
   {
     "surface": "とゝ",
@@ -766,11 +735,27 @@
     "priority": 5
   },
   {
+    "surface": "なか／＼",
+    "pronunciation": "ナカナカ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "容易には実現しない様子や、非常に優れた状態を表す言葉。文脈に応じて肯定・否定のニュアンスが異なる。"
+  },
+  {
     "surface": "なゝ",
     "pronunciation": "ナナ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "にや／＼",
+    "pronunciation": "ニヤニヤ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "意味ありげに笑う様子や、不気味に笑っている状態を表す擬音語。"
   },
   {
     "surface": "にゝ",
@@ -821,6 +806,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ばしや／＼",
+    "pronunciation": "バシャバシャ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "水が勢いよく跳ねる様子や、その音を表す擬音語。"
   },
   {
     "surface": "ばら／＼",
@@ -1028,6 +1021,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "むく／＼",
+    "pronunciation": "ムクムク",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "何かがふくらんでくる様子や、勢いよく起き上がる様子を表す擬音語。"
   },
   {
     "surface": "むゝ",
