@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "砂利道",
+  "pronunciation": "ジャリミチ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "砂利が敷かれた道を指す。舗装されていない道の一種で、歩く際に足音が立ちやすい特徴がある。"
+},
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
