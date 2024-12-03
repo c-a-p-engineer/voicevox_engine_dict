@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "云はぬ",
+  "pronunciation": "イワヌ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "何かを言わない、または口にしないことを表す動詞の否定形。古風な表記で、現代では『言わない』と書かれることが一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
