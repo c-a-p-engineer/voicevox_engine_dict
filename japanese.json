@@ -1,12 +1,4 @@
-[{
-  "surface": "仏頂顔",
-  "pronunciation": "ブッチョウガオ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "不機嫌で無愛想な表情を指す言葉。仏像の顔が無表情であることに由来し、笑顔を見せずに真顔でいる様子を表現する。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -94,6 +86,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "髪を半分ほど刈る髪型"
+  },
+  {
+    "surface": "仏頂顔",
+    "pronunciation": "ブッチョウガオ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "不機嫌で無愛想な表情を指す言葉。仏像の顔が無表情であることに由来し、笑顔を見せずに真顔でいる様子を表現する。"
   },
   {
     "surface": "代々",
