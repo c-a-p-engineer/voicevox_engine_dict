@@ -1,4 +1,20 @@
-[
+[{
+  "surface": "廻つた",
+  "pronunciation": "マワッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "物が回転したり、ある地点を巡る動作が完了したことを表す動詞の過去形。現代では『回った』や『巡った』と書くのが一般的。"
+}
+,{
+  "surface": "廻つて",
+  "pronunciation": "マワッテ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "物が回転したり、ある地点を巡る動作を継続することを表す動詞の連用形。現代では『回って』や『巡って』と書くのが一般的。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
