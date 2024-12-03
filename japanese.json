@@ -1,20 +1,4 @@
-[{
-  "surface": "雖",
-  "pronunciation": "イエドモ",
-  "accent_type": 4,
-  "word_type": "ADJECTIVE",
-  "priority": 8,
-  "meaning": "逆接を表す語尾。文語体や古典文学で用いられる古風な表現。現代では『けれども』に近い意味を持つ。"
-}
-,{
-  "surface": "雖ども",
-  "pronunciation": "イエドモ",
-  "accent_type": 4,
-  "word_type": "ADJECTIVE",
-  "priority": 8,
-  "meaning": "逆接を表す語尾。文語体で使用され、現代語では『けれども』や『だが』に対応する。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -590,6 +574,22 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "非常に重要な事柄"
+  },
+  {
+    "surface": "雖",
+    "pronunciation": "イエドモ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "逆接を表す語尾。文語体や古典文学で用いられる古風な表現。現代では『けれども』に近い意味を持つ。"
+  },
+  {
+    "surface": "雖ども",
+    "pronunciation": "イエドモ",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "逆接を表す語尾。文語体で使用され、現代語では『けれども』や『だが』に対応する。"
   },
   {
     "surface": "露ほど",
