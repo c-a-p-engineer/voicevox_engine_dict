@@ -1,43 +1,4 @@
-[{
-  "surface": "モシ／＼",
-  "pronunciation": "モシモシ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "電話での挨拶や呼びかけの際に使用される言葉。また、注意を引くための声かけとしても使われる。"
-},{
-  "surface": "うと／＼",
-  "pronunciation": "ウトウト",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "浅い眠りに入りかけている様子や、まどろんでいる状態を表す擬音語。"
-}
-,{
-  "surface": "吊つて",
-  "pronunciation": "ツッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "何かを紐やロープで上から吊り下げる行為を指す。旧仮名遣いでは『吊つて』と表記され、現代では『吊って』が一般的。"
-},{
-  "surface": "惶て",
-  "pronunciation": "アワテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "急いで混乱したり、落ち着きを失ったりすることを指す。旧仮名遣いでは『惶て』と表記され、現代では『慌て』が一般的。"
-}
-
-,{
-  "surface": "吊つた",
-  "pronunciation": "ツッタ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 8,
-  "meaning": "何かを吊り下げた状態を指す。旧仮名遣いでは『吊つた』と表記され、現代では『吊った』が一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -99,6 +60,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "うと／＼",
+    "pronunciation": "ウトウト",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "浅い眠りに入りかけている様子や、まどろんでいる状態を表す擬音語。"
   },
   {
     "surface": "うゝ",
@@ -2154,6 +2123,14 @@
     "priority": 5
   },
   {
+    "surface": "モシ／＼",
+    "pronunciation": "モシモシ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "電話での挨拶や呼びかけの際に使用される言葉。また、注意を引くための声かけとしても使われる。"
+  },
+  {
     "surface": "ヤゝ",
     "pronunciation": "ヤヤ",
     "accent_type": "0",
@@ -2529,6 +2506,22 @@
     "priority": 5
   },
   {
+    "surface": "吊つた",
+    "pronunciation": "ツッタ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "何かを吊り下げた状態を指す。旧仮名遣いでは『吊つた』と表記され、現代では『吊った』が一般的。"
+  },
+  {
+    "surface": "吊つて",
+    "pronunciation": "ツッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "何かを紐やロープで上から吊り下げる行為を指す。旧仮名遣いでは『吊つて』と表記され、現代では『吊って』が一般的。"
+  },
+  {
     "surface": "向つた",
     "pronunciation": "ムカッタ",
     "accent_type": 3,
@@ -2721,6 +2714,14 @@
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "惶て",
+    "pronunciation": "アワテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "急いで混乱したり、落ち着きを失ったりすることを指す。旧仮名遣いでは『惶て』と表記され、現代では『慌て』が一般的。"
   },
   {
     "surface": "拾つた",
