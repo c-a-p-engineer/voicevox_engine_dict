@@ -1,4 +1,20 @@
-[
+[{
+  "surface": "そこら中",
+  "pronunciation": "ソコラジュウ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "その周囲全体、または至るところを指す表現。一般的には口語で使われる日常的な言葉。"
+}
+,{
+  "surface": "ソコラ中",
+  "pronunciation": "ソコラジュウ",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "『そこら中』をカタカナ表記したもので、より強調的または文学的なニュアンスを持つことがある。"
+}
+,
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
