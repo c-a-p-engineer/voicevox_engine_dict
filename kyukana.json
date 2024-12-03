@@ -1,11 +1,4 @@
-[{
-  "surface": "ゲラ／＼",
-  "pronunciation": "ゲラゲラ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "大きな声で止まらずに笑う様子を表す擬態語。特に制御できないほどの笑いを表現する際に用いられる。現代でもそのまま使用される。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1483,6 +1476,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ゲラ／＼",
+    "pronunciation": "ゲラゲラ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "大きな声で止まらずに笑う様子を表す擬態語。特に制御できないほどの笑いを表現する際に用いられる。現代でもそのまま使用される。"
   },
   {
     "surface": "コゝ",
