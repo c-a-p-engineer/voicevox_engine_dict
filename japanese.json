@@ -1,12 +1,4 @@
-[{
-  "surface": "間もない",
-  "pronunciation": "マモナイ",
-  "accent_type": 3,
-  "word_type": "ADJECTIVE",
-  "priority": 6,
-  "meaning": "ある出来事や状況が起きてからあまり時間が経過していないことを表す形容詞。現代では『間もなく』や『しばらくのうちに』に近い意味合いで使用されることが多い。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -606,6 +598,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "非常に重要な事柄"
+  },
+  {
+    "surface": "間もない",
+    "pronunciation": "マモナイ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "ある出来事や状況が起きてからあまり時間が経過していないことを表す形容詞。現代では『間もなく』や『しばらくのうちに』に近い意味合いで使用されることが多い。"
   },
   {
     "surface": "雖",
