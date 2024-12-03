@@ -1,4 +1,11 @@
-[
+[  {
+    "surface": "代る／＼",
+    "pronunciation": "カワルカワル",
+    "accent_type": 5,
+    "word_type": "VERB",
+    "priority": 8,
+    "meaning": "交互に入れ替わる、または次々に行われる様子を表す。旧仮名遣いでは『代る／＼』と表記され、現代仮名遣いでは『代わる代わる』が一般的。"
+  },
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
