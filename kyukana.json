@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "復た",
+  "pronunciation": "マタ",
+  "accent_type": 1,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "繰り返し、再び、さらにという意味を持つ古風な副詞。現代では『また』と書くのが一般的。文語体や古典文学で使用されることがある。"
+}
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
