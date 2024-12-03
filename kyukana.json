@@ -1,11 +1,4 @@
-[{
-  "surface": "別れ／＼",
-  "pronunciation": "ワカレワカレ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "繰り返される別離や、さまざまな別れを表現する表現。古風な表記で、文学的な文脈で用いられることが多い。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2680,6 +2673,14 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "理解している、または認識していることを表す。旧仮名遣いでは『判つて』と表記され、現代仮名遣いでは『分かって』が一般的。"
+  },
+  {
+    "surface": "別れ／＼",
+    "pronunciation": "ワカレワカレ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "繰り返される別離や、さまざまな別れを表現する表現。古風な表記で、文学的な文脈で用いられることが多い。"
   },
   {
     "surface": "割つた",
