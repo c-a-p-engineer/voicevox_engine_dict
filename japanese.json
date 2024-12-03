@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "恭謹",
+  "pronunciation": "キョウキン",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "謹んで礼儀正しく振る舞うことを意味する名詞。特に敬意や礼儀を重んじる文脈で使用される。"
+}
+,
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
