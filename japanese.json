@@ -1,12 +1,4 @@
-[{
-  "surface": "先々代",
-  "pronunciation": "センセンダイ",
-  "accent_type": 5,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "現在の世代（代）よりも2代前を指す表現。家系や組織の歴史を語る際に用いられる。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -94,6 +86,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "世代を超えて続くこと"
+  },
+  {
+    "surface": "先々代",
+    "pronunciation": "センセンダイ",
+    "accent_type": 5,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "現在の世代（代）よりも2代前を指す表現。家系や組織の歴史を語る際に用いられる。"
   },
   {
     "surface": "八木節",
