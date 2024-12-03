@@ -1,12 +1,4 @@
-[{
-  "surface": "粧ふ",
-  "pronunciation": "ヨソオウ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "外見を整える、または身なりを飾ることを意味する動詞。古風な表記で、現代では『装う』と書かれることが多い。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -3278,6 +3270,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "笑うこと、または笑い声を指す表現。旧仮名遣いでは『笑ひ』と表記され、現代仮名遣いでは『笑い』が一般的。"
+  },
+  {
+    "surface": "粧ふ",
+    "pronunciation": "ヨソオウ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "外見を整える、または身なりを飾ることを意味する動詞。古風な表記で、現代では『装う』と書かれることが多い。"
   },
   {
     "surface": "給へ",
