@@ -1,12 +1,4 @@
-[{
-  "surface": "思つた",
-  "pronunciation": "オモッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "考えや感情が心に浮かんだことを表す動詞の過去形。古風な表記で、現代では『思った』と書かれることが一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2908,6 +2900,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "さまざまな考えや思いが入り混じる様子を表す。現代仮名遣いでは『思い思い』が一般的。"
+  },
+  {
+    "surface": "思つた",
+    "pronunciation": "オモッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "考えや感情が心に浮かんだことを表す動詞の過去形。古風な表記で、現代では『思った』と書かれることが一般的。"
   },
   {
     "surface": "思つて",
