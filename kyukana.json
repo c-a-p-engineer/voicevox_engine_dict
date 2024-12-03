@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "云つた",
+  "pronunciation": "イッタ",
+  "accent_type": 2,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "何かを言葉にして伝えたことを表す動詞の過去形。現代では『言った』と書かれることが一般的。『云う』は古風な表記や文学的な文脈で用いられることが多い。"
+},
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
