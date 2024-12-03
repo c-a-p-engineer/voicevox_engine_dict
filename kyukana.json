@@ -1,19 +1,4 @@
-[{
-  "surface": "パリ／＼",
-  "pronunciation": "パリパリ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "薄い物が乾燥している、または硬い物が砕ける音や感触を表す擬音語。例えば、乾いた海苔や紙の触感を表現する際に使用される。"
-},{
-  "surface": "ワンワン／＼／＼",
-  "pronunciation": "ワンワンワンワン",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "犬が繰り返し鳴く声を表す擬音語。犬が勢いよく吠える様子を表現する際に使用される。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1834,6 +1819,14 @@
     "meaning": "拍手の音や、小さな火花がはじける様子を表す擬音語・擬態語。現代仮名遣いでは『パチパチ』が一般的。"
   },
   {
+    "surface": "パリ／＼",
+    "pronunciation": "パリパリ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "薄い物が乾燥している、または硬い物が砕ける音や感触を表す擬音語。例えば、乾いた海苔や紙の触感を表現する際に使用される。"
+  },
+  {
     "surface": "パヽ",
     "pronunciation": "パパ",
     "accent_type": 1,
@@ -2183,6 +2176,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "秩序がなく混乱している様子を表す擬態語。現代仮名遣いでは『ワヤワヤ』が一般的。"
+  },
+  {
+    "surface": "ワンワン／＼／＼",
+    "pronunciation": "ワンワンワンワン",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "犬が繰り返し鳴く声を表す擬音語。犬が勢いよく吠える様子を表現する際に使用される。"
   },
   {
     "surface": "ヰゝ",
