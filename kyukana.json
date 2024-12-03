@@ -1,112 +1,4 @@
-[{
-  "surface": "収まつた",
-  "pronunciation": "オサマッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "混乱や問題が解決し、状況が安定した、または物が適切な場所に収まったことを表す動詞の過去形。現代では『収まった』と書くのが一般的。"
-}
-,{
-  "surface": "収まつて",
-  "pronunciation": "オサマッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "混乱や問題が解決し、状況が安定する、または物が適切な場所に収まる動作を継続することを表す動詞の連用形。現代では『収まって』と書くのが一般的。"
-}
-,{
-  "surface": "上つて",
-  "pronunciation": "アガッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物理的に高い場所へ移動する、または地位や状態が向上する動作を継続することを表す動詞の連用形。現代では『上って』または『上がって』と書くのが一般的。"
-}
-,{
-  "surface": "上つた",
-  "pronunciation": "アガッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "物理的に高い場所へ移動した、または地位や状態が向上したことを表す動詞の過去形。現代では『上った』または『上がった』と書くのが一般的。"
-}
-,{
-  "surface": "貰つて",
-  "pronunciation": "モラッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かを受け取る動作を継続する、または依頼する意味を持つ動詞の連用形。現代では『貰って』と書くのが一般的。"
-}
-,{
-  "surface": "貰つた",
-  "pronunciation": "モラッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "何かを受け取った、または頂いたことを意味する動詞の過去形。現代では『貰った』と書くのが一般的。"
-},{
-  "surface": "しん／″＼",
-  "pronunciation": "シンジン",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 8,
-  "meaning": "純粋な心や信仰心の厚い人を表す表現。『新人』や『信心』と関連する文脈で使用される場合もある。古風な仮名遣いを含む表記。"
-},{
-  "surface": "しん／＼",
-  "pronunciation": "シンシン",
-  "accent_type": 0,
-  "word_type": "ADVERB",
-  "priority": 8,
-  "meaning": "雪が静かに降り積もる様子や、静寂さが深まる様子を表す擬態語。『しんしんと降る雪』のように使用される。"
-}
-,{
-  "surface": "てら／＼",
-  "pronunciation": "テラテラ",
-  "accent_type": 2,
-  "word_type": "ADVERB",
-  "priority": 5,
-  "meaning": "光が反射してぎらぎら輝く様子を表す擬態語。『てらてらと輝く』などで使用される。"
-}
-,{
-  "surface": "うら／＼",
-  "pronunciation": "ウラウラ",
-  "accent_type": 1,
-  "word_type": "ADJECTIVE",
-  "priority": 6,
-  "meaning": "穏やかで晴れ晴れしい様子や、心が落ち着いていることを表す古語。現代では詩的な表現として用いられることがある。"
-}
-,{
-  "surface": "つら／＼",
-  "pronunciation": "ツラツラ",
-  "accent_type": 0,
-  "word_type": "ADVERB",
-  "priority": 7,
-  "meaning": "注意深く物事を考えたり、じっくり観察する様子を表す。『つらつらと考える』などの表現で使われる古風な副詞。"
-}
-,{
-  "surface": "げふ／＼",
-  "pronunciation": "ゲフゲフ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "咳やむせる際の音を表現した擬音語。息苦しさや咳き込む様子を描写する際に使われる。現代では使用頻度が低い古風な表現。"
-},{
-  "surface": "しだい／＼",
-  "pronunciation": "シダイシダイ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "次第に、徐々に変化していく様子を表す語。古風な表現で、現代では『次第に』が一般的に使われる。"
-}
-,{
-  "surface": "なか／＼",
-  "pronunciation": "ナカナカ",
-  "accent_type": 0,
-  "word_type": "ADJECTIVE",
-  "priority": 7,
-  "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
-},
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -176,6 +68,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "浅い眠りに入りかけている様子や、まどろんでいる状態を表す擬音語。"
+  },
+  {
+    "surface": "うら／＼",
+    "pronunciation": "ウラウラ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "穏やかで晴れ晴れしい様子や、心が落ち着いていることを表す古語。現代では詩的な表現として用いられることがある。"
   },
   {
     "surface": "うゝ",
@@ -353,6 +253,14 @@
     "priority": 5
   },
   {
+    "surface": "げふ／＼",
+    "pronunciation": "ゲフゲフ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "咳やむせる際の音を表現した擬音語。息苦しさや咳き込む様子を描写する際に使われる。現代では使用頻度が低い古風な表現。"
+  },
+  {
     "surface": "げゝ",
     "pronunciation": "ゲゲ",
     "accent_type": "0",
@@ -479,6 +387,14 @@
     "priority": 5
   },
   {
+    "surface": "しだい／＼",
+    "pronunciation": "シダイシダイ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "次第に、徐々に変化していく様子を表す語。古風な表現で、現代では『次第に』が一般的に使われる。"
+  },
+  {
     "surface": "しみ／″＼",
     "pronunciation": "シミジミ",
     "accent_type": 3,
@@ -493,6 +409,22 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "密かに喜んだり、何かがうまくいったことに満足する様子を表す擬態語。現代でも『しめしめ』として使われる。"
+  },
+  {
+    "surface": "しん／″＼",
+    "pronunciation": "シンジン",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "純粋な心や信仰心の厚い人を表す表現。『新人』や『信心』と関連する文脈で使用される場合もある。古風な仮名遣いを含む表記。"
+  },
+  {
+    "surface": "しん／＼",
+    "pronunciation": "シンシン",
+    "accent_type": 0,
+    "word_type": "ADVERB",
+    "priority": 8,
+    "meaning": "雪が静かに降り積もる様子や、静寂さが深まる様子を表す擬態語。『しんしんと降る雪』のように使用される。"
   },
   {
     "surface": "しゝ",
@@ -711,6 +643,14 @@
     "priority": 5
   },
   {
+    "surface": "つら／＼",
+    "pronunciation": "ツラツラ",
+    "accent_type": 0,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "注意深く物事を考えたり、じっくり観察する様子を表す。『つらつらと考える』などの表現で使われる古風な副詞。"
+  },
+  {
     "surface": "つゝ",
     "pronunciation": "ツツ",
     "accent_type": "0",
@@ -745,6 +685,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "てら／＼",
+    "pronunciation": "テラテラ",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 5,
+    "meaning": "光が反射してぎらぎら輝く様子を表す擬態語。『てらてらと輝く』などで使用される。"
   },
   {
     "surface": "てゝ",
@@ -841,6 +789,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "なか／＼",
+    "pronunciation": "ナカナカ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
   },
   {
     "surface": "なか／＼",
@@ -2436,9 +2392,25 @@
   {
     "surface": "上つた",
     "pronunciation": "アガッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物理的に高い場所へ移動した、または地位や状態が向上したことを表す動詞の過去形。現代では『上った』または『上がった』と書くのが一般的。"
+  },
+  {
+    "surface": "上つた",
+    "pronunciation": "アガッタ",
     "accent_type": "3",
     "word_type": "VERB",
     "priority": 5
+  },
+  {
+    "surface": "上つて",
+    "pronunciation": "アガッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "物理的に高い場所へ移動する、または地位や状態が向上する動作を継続することを表す動詞の連用形。現代では『上って』または『上がって』と書くのが一般的。"
   },
   {
     "surface": "了つて",
@@ -2677,6 +2649,22 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "降参した、または困った状況を表現する。現代仮名遣いでは『参った』"
+  },
+  {
+    "surface": "収まつた",
+    "pronunciation": "オサマッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "混乱や問題が解決し、状況が安定した、または物が適切な場所に収まったことを表す動詞の過去形。現代では『収まった』と書くのが一般的。"
+  },
+  {
+    "surface": "収まつて",
+    "pronunciation": "オサマッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "混乱や問題が解決し、状況が安定する、または物が適切な場所に収まる動作を継続することを表す動詞の連用形。現代では『収まって』と書くのが一般的。"
   },
   {
     "surface": "叱つて",
@@ -3344,6 +3332,22 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "話した、何かを伝えるために言葉を使ったことを指す。現代仮名遣いでは『語った』と書く。"
+  },
+  {
+    "surface": "貰つた",
+    "pronunciation": "モラッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを受け取った、または頂いたことを意味する動詞の過去形。現代では『貰った』と書くのが一般的。"
+  },
+  {
+    "surface": "貰つて",
+    "pronunciation": "モラッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "何かを受け取る動作を継続する、または依頼する意味を持つ動詞の連用形。現代では『貰って』と書くのが一般的。"
   },
   {
     "surface": "買つて",
