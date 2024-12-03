@@ -1,11 +1,4 @@
-[{
-  "surface": "一語々々",
-  "pronunciation": "イチゴイチゴ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "一つ一つの言葉や語句を指す表現。『々』は前の漢字を繰り返す記号であり、二字以上の繰り返しを表す際には『々々』と表記することがある。"
-},
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -53,6 +46,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "『そこら中』をカタカナ表記したもので、より強調的または文学的なニュアンスを持つことがある。"
+  },
+  {
+    "surface": "一語々々",
+    "pronunciation": "イチゴイチゴ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "一つ一つの言葉や語句を指す表現。『々』は前の漢字を繰り返す記号であり、二字以上の繰り返しを表す際には『々々』と表記することがある。"
   },
   {
     "surface": "万石",
