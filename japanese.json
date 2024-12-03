@@ -1,12 +1,4 @@
-[{
-  "surface": "幻し",
-  "pronunciation": "マボロシ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "現実には存在せず、一時的に現れたり感じたりするだけのもの。夢や幻想のように儚いものを指す。古風な表記で、現代では『幻』と書かれることが多い。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -230,6 +222,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "年齢が若いことを形容する表現。特に、成人に比べて幼さや未熟さを含むニュアンスで使われる。古風な言い回しとして用いられる。"
+  },
+  {
+    "surface": "幻し",
+    "pronunciation": "マボロシ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "現実には存在せず、一時的に現れたり感じたりするだけのもの。夢や幻想のように儚いものを指す。古風な表記で、現代では『幻』と書かれることが多い。"
   },
   {
     "surface": "店ん中",
