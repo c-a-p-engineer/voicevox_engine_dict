@@ -1,43 +1,4 @@
-[{
-  "surface": "帰つた",
-  "pronunciation": "カエッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "自分が元いた場所や故郷に戻ったことを表す動詞の過去形。古風な表記で、現代では『帰った』と書かれることが一般的。"
-},{
-  "surface": "帰つて",
-  "pronunciation": "カエッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "自分が元いた場所や故郷に戻る動作を継続することを表す動詞の連用形。古風な表記で、現代では『帰って』と書かれることが一般的。"
-}
-,{
-  "surface": "奪はれ",
-  "pronunciation": "ウバワレ",
-  "accent_type": 4,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "他者によって何かを力ずくで取り去られる、または失うことを表す動詞の受身形。古風な表記で、現代では『奪われ』と書かれることが一般的。"
-}
-,{
-  "surface": "参つて",
-  "pronunciation": "マイッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "1. 敬意を込めて訪問する、または特定の場所に行くことを表す動詞の連用形。2. 困り果てたり、疲労したりすることを表す動詞の連用形。古風な表記で、現代では『参って』と書かれることが一般的。"
-},
-  {
-  "surface": "ヘタ／＼",
-  "pronunciation": "ヘタヘタ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "力が抜けて座り込む様子や、疲労や恐怖などで動けなくなる様子を表す擬態語。古風な表現だが、現代でもそのまま使用されることがある。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -2178,6 +2139,14 @@
     "priority": 5
   },
   {
+    "surface": "ヘタ／＼",
+    "pronunciation": "ヘタヘタ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "力が抜けて座り込む様子や、疲労や恐怖などで動けなくなる様子を表す擬態語。古風な表現だが、現代でもそのまま使用されることがある。"
+  },
+  {
     "surface": "ベゝ",
     "pronunciation": "ベベ",
     "accent_type": "0",
@@ -2468,20 +2437,20 @@
     "meaning": "物事が終了した、または完了したことを表す動詞の過去形。古風な表現であり、現代では『終わった』または『完了した』と書かれることが多い。"
   },
   {
-  "surface": "了ひ",
-  "pronunciation": "シマイ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "物事の終わりや完了を表す名詞。古風な表記で、現代では『仕舞い』や『終わり』と書かれることが一般的。"
-},
-  {
     "surface": "了つて",
     "pronunciation": "シマッテ",
     "accent_type": 3,
     "word_type": "VERB",
     "priority": 7,
     "meaning": "物事が終わる、または完了することを表す。現代仮名遣いでは『了って』と書く。"
+  },
+  {
+    "surface": "了ひ",
+    "pronunciation": "シマイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "物事の終わりや完了を表す名詞。古風な表記で、現代では『仕舞い』や『終わり』と書かれることが一般的。"
   },
   {
     "surface": "云つた",
@@ -2746,6 +2715,14 @@
     "meaning": "降参した、または困った状況を表現する。現代仮名遣いでは『参った』"
   },
   {
+    "surface": "参つて",
+    "pronunciation": "マイッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "1. 敬意を込めて訪問する、または特定の場所に行くことを表す動詞の連用形。2. 困り果てたり、疲労したりすることを表す動詞の連用形。古風な表記で、現代では『参って』と書かれることが一般的。"
+  },
+  {
     "surface": "収まつた",
     "pronunciation": "オサマッタ",
     "accent_type": 3,
@@ -2863,6 +2840,14 @@
     "meaning": "何かをなくす、または失うこと。現代仮名遣いでは『失って』"
   },
   {
+    "surface": "奪はれ",
+    "pronunciation": "ウバワレ",
+    "accent_type": 4,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "他者によって何かを力ずくで取り去られる、または失うことを表す動詞の受身形。古風な表記で、現代では『奪われ』と書かれることが一般的。"
+  },
+  {
     "surface": "奪ひ",
     "pronunciation": "ウバイ",
     "accent_type": 3,
@@ -2915,6 +2900,22 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "自分が元いた場所や故郷に戻ったことを表す動詞の過去形。古風な表記で、現代では『帰った』と書かれることが一般的。"
+  },
+  {
+    "surface": "帰つた",
+    "pronunciation": "カエッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "自分が元いた場所や故郷に戻ったことを表す動詞の過去形。古風な表記で、現代では『帰った』と書かれることが一般的。"
+  },
+  {
+    "surface": "帰つて",
+    "pronunciation": "カエッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "自分が元いた場所や故郷に戻る動作を継続することを表す動詞の連用形。古風な表記で、現代では『帰って』と書かれることが一般的。"
   },
   {
     "surface": "帰つて",
