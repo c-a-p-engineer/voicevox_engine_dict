@@ -1,12 +1,4 @@
-[{
-  "surface": "沈着き",
-  "pronunciation": "オチツキ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "心や態度が動揺せず安定していることを表す名詞。冷静さや落ち着いた状態を指す。現代では『落ち着き』と書かれることが一般的。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -3034,6 +3026,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "物事が確定した、または定まった状態を指す。現代仮名遣いでは『決まった』"
+  },
+  {
+    "surface": "沈着き",
+    "pronunciation": "オチツキ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "心や態度が動揺せず安定していることを表す名詞。冷静さや落ち着いた状態を指す。現代では『落ち着き』と書かれることが一般的。"
   },
   {
     "surface": "渡つた",
