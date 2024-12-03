@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "了つた",
+  "pronunciation": "オワッタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "物事が終了した、または完了したことを表す動詞の過去形。古風な表現であり、現代では『終わった』または『完了した』と書かれることが多い。"
+},
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
