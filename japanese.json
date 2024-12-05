@@ -1,12 +1,4 @@
-[{
-  "surface": "受影",
-  "pronunciation": "じゅえい",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "主語が他者の行為や影響を受けることを示す言葉。受動文における概念の一つで、主語が他者の行為や影響によって何らかの作用を受ける場合に使用される。"
-}
-,
+[
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -158,6 +150,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "反映、影響を与えること"
+  },
+  {
+    "surface": "受影",
+    "pronunciation": "じゅえい",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "主語が他者の行為や影響を受けることを示す言葉。受動文における概念の一つで、主語が他者の行為や影響によって何らかの作用を受ける場合に使用される。"
   },
   {
     "surface": "味噌漬",
