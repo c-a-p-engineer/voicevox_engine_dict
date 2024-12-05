@@ -1,4 +1,12 @@
-[
+[{
+  "surface": "Sneer",
+  "pronunciation": "スニア",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "軽蔑的な笑い、または冷笑を意味する言葉。相手を見下すような感情が込められた表情や言動を指す。"
+}
+,
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
