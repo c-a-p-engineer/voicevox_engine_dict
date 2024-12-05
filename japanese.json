@@ -1,4 +1,19 @@
-[
+[{
+  "surface": "愕いた",
+  "pronunciation": "オドロイタ",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "驚いた、または驚愕したことを表す動詞の過去形。現代では『驚いた』と書かれることが一般的。"
+},{
+  "surface": "愕く",
+  "pronunciation": "オドロク",
+  "accent_type": 3,
+  "word_type": "VERB",
+  "priority": 7,
+  "meaning": "驚く、または驚愕することを意味する動詞。現代では『驚く』と書かれることが一般的で、より強い驚きや衝撃を表現する際に使われる。"
+}
+,
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
