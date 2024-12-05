@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "頤",
+  "pronunciation": "アゴ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "人間の顔の下部、口の下に位置する部分を指す。現代では『顎』と書かれることが多いが、『頤』は文学的または古典的な表現として使われる。"
+},
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
