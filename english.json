@@ -1,12 +1,4 @@
-[{
-  "surface": "Sneer",
-  "pronunciation": "スニア",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "軽蔑的な笑い、または冷笑を意味する言葉。相手を見下すような感情が込められた表情や言動を指す。"
-}
-,
+[
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
@@ -182,6 +174,14 @@
     "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "他者に苦痛を与えることに快感を覚える性質や行為を指す。心理学的にはサディズム（加虐性）の形容詞形として用いられる。日常会話では、他人に厳しく接する態度や意地悪な性格を軽い意味で表現する場合にも使われる。"
+  },
+  {
+    "surface": "Sneer",
+    "pronunciation": "スニア",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "軽蔑的な笑い、または冷笑を意味する言葉。相手を見下すような感情が込められた表情や言動を指す。"
   },
   {
     "surface": "Thanks",
