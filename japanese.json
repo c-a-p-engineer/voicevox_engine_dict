@@ -1,13 +1,5 @@
 [
-{
-  "surface": "解せぬ",
-  "pronunciation": "ゲセヌ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 7,
-  "meaning": "理解できない、または納得できないことを意味する動詞の否定形。現代では『解せない』と書かれることが一般的で、文語体や古語的な表現で使用される。"
-}
-,  {
+  {
     "surface": "あの方",
     "pronunciation": "アノカタ",
     "accent_type": "0",
@@ -590,6 +582,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "親子関係の娘"
+  },
+  {
+    "surface": "解せぬ",
+    "pronunciation": "ゲセヌ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 7,
+    "meaning": "理解できない、または納得できないことを意味する動詞の否定形。現代では『解せない』と書かれることが一般的で、文語体や古語的な表現で使用される。"
   },
   {
     "surface": "誰某",
