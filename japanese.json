@@ -1,21 +1,5 @@
 [
   {
-  "surface": "小暗い",
-  "pronunciation": "コグライ",
-  "accent_type": 3,
-  "word_type": "ADJECTIVE",
-  "priority": 6,
-  "meaning": "明るさが足りず、少し暗い様子を表す形容詞。全体的に薄暗く、光が足りない状況を指す。"
-},{
-  "surface": "腮",
-  "pronunciation": "アゴ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "顔の下部、口の両脇にある部分。現代では『顎』という表現が一般的だが、『腮』は特に古典的な表現で使われることが多い。"
-}
-,
-  {
     "surface": "あの方",
     "pronunciation": "アノカタ",
     "accent_type": "0",
@@ -222,6 +206,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "寝るための場所や寝具"
+  },
+  {
+    "surface": "小暗い",
+    "pronunciation": "コグライ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "明るさが足りず、少し暗い様子を表す形容詞。全体的に薄暗く、光が足りない状況を指す。"
   },
   {
     "surface": "就て",
@@ -510,6 +502,14 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "締まった、堅固な状態"
+  },
+  {
+    "surface": "腮",
+    "pronunciation": "アゴ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "顔の下部、口の両脇にある部分。現代では『顎』という表現が一般的だが、『腮』は特に古典的な表現で使われることが多い。"
   },
   {
     "surface": "若し",
