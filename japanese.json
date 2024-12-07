@@ -530,7 +530,8 @@
   {
     "surface": "腮",
     "pronunciation": "アゴ",
-    "accent_type": 3,
+    "accent_type": 0
+    ,
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "顔の下部、口の両脇にある部分。現代では『顎』という表現が一般的だが、『腮』は特に古典的な表現で使われることが多い。"
@@ -698,7 +699,7 @@
   {
     "surface": "頤",
     "pronunciation": "アゴ",
-    "accent_type": 3,
+    "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "人間の顔の下部、口の下に位置する部分を指す。現代では『顎』と書かれることが多いが、『頤』は文学的または古典的な表現として使われる。"
