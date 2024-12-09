@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "融氷",
+  "pronunciation": "ユウヒョウ",
+  "accent_type": 0,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "氷が溶けて水に変わる現象。自然環境や気象において重要なプロセスであり、気温の上昇によって氷が解けることを指す。"
+},
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
