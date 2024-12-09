@@ -1,5 +1,29 @@
 [
   {
+    "surface": "傍に",
+    "pronunciation": "ソバニ",
+    "accent_type": 0,
+    "word_type": "ADVERB",
+    "priority": 5,
+    "meaning": "近くに、または近辺に存在する様子を表す。"
+  },
+  {
+    "surface": "傍から",
+    "pronunciation": "ハタカラ",
+    "accent_type": 0,
+    "word_type": "ADVERB",
+    "priority": 5,
+    "meaning": "外部の視点から、または周囲からの立場を表す。"
+  },
+  {
+    "surface": "額",
+    "pronunciation": "ヒタイ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "頭部の前面、または額の部分。顔の一部を指す。"
+  },
+  {
     "surface": "あの方",
     "pronunciation": "アノカタ",
     "accent_type": "0",
