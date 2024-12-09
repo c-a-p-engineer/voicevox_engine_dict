@@ -1,29 +1,5 @@
 [
   {
-    "surface": "Lovecraft",
-    "pronunciation": "ラヴクラフト",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 10,
-    "meaning": "アメリカの作家、H.P.ラヴクラフト。ホラーやサイエンスフィクションの分野で知られ、特にクトゥルフ神話で有名。"
-  },
-  {
-    "surface": "Creative",
-    "pronunciation": "クリエイティブ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 8,
-    "meaning": "創造的な、独創的な。新しいアイデアや概念を生み出す能力に関連する形容詞。"
-  },
-  {
-    "surface": "CAT",
-    "pronunciation": "キャット",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "猫。哺乳類で、家庭で飼われることが多い動物。"
-  },
-  {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
     "accent_type": 1,
@@ -38,6 +14,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "大通り"
+  },
+  {
+    "surface": "CAT",
+    "pronunciation": "キャット",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "猫。哺乳類で、家庭で飼われることが多い動物。"
   },
   {
     "surface": "Captain",
@@ -62,6 +46,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "魅力的な（英語の形容詞、口語的な短縮形）"
+  },
+  {
+    "surface": "Creative",
+    "pronunciation": "クリエイティブ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 8,
+    "meaning": "創造的な、独創的な。新しいアイデアや概念を生み出す能力に関連する形容詞。"
   },
   {
     "surface": "Devil",
@@ -150,6 +142,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "女性、貴婦人（英語の名詞）"
+  },
+  {
+    "surface": "Lovecraft",
+    "pronunciation": "ラヴクラフト",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 10,
+    "meaning": "アメリカの作家、H.P.ラヴクラフト。ホラーやサイエンスフィクションの分野で知られ、特にクトゥルフ神話で有名。"
   },
   {
     "surface": "Mr.",
