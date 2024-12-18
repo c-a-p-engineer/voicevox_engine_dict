@@ -1,12 +1,4 @@
-[{
-  "surface": "ガチャ／＼",
-  "pronunciation": "ガチャガチャ",
-  "accent_type": 0,
-  "word_type": "ONOMATOPOEIA",
-  "priority": 6,
-  "meaning": "物が激しくぶつかる音や、複数の物が混ざって動く音を表す擬音語。特に、ガチャポンやガチャガチャ回すような音や動きを示す場合に使われることが多い。"
-}
-,
+[
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1355,6 +1347,14 @@
     "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "物が揺れたりぶつかったりして出る音を表す擬音語。"
+  },
+  {
+    "surface": "ガチャ／＼",
+    "pronunciation": "ガチャガチャ",
+    "accent_type": 0,
+    "word_type": "ONOMATOPOEIA",
+    "priority": 6,
+    "meaning": "物が激しくぶつかる音や、複数の物が混ざって動く音を表す擬音語。特に、ガチャポンやガチャガチャ回すような音や動きを示す場合に使われることが多い。"
   },
   {
     "surface": "ガチ／＼",
