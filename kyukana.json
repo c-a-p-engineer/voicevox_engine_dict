@@ -1,4 +1,28 @@
-[
+[{
+  "surface": "まだ／＼",
+  "pronunciation": "マダマダ",
+  "accent_type": 0,
+  "word_type": "ADVERB",
+  "priority": 7,
+  "meaning": "時間や状況が未だ完了していないことを表す。これから先のことを示唆する際にも使用され、通常は何かが遅れている、または未完了であることを示す。"
+}
+,{
+  "surface": "われ／＼",
+  "pronunciation": "ワレワレ",
+  "accent_type": 0,
+  "word_type": "PRONOUN",
+  "priority": 7,
+  "meaning": "自分たち、または我々を指す言葉。多くの場合、集団を表す場合に使用され、特に自分たちを謙遜して表現する際に使われる。"
+},{
+  "surface": "バタ／＼",
+  "pronunciation": "バタバタ",
+  "accent_type": 0,
+  "word_type": "ADVERB",
+  "priority": 6,
+  "meaning": "物が急に倒れたり、動いたりする様子を表す。音や動きが急で騒がしい様子を示す擬音語。"
+}
+
+,
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
