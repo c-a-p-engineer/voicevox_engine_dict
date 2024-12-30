@@ -799,12 +799,12 @@
     "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
   },
   {
-    "surface": "なか／＼",
+    "surface": "ナカ／＼",
     "pronunciation": "ナカナカ",
-    "accent_type": 3,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "容易には実現しない様子や、非常に優れた状態を表す言葉。文脈に応じて肯定・否定のニュアンスが異なる。"
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
   },
   {
     "surface": "なゝ",
