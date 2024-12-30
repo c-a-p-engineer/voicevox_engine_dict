@@ -799,14 +799,6 @@
     "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
   },
   {
-    "surface": "ナカ／＼",
-    "pronunciation": "ナカナカ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
-  },
-  {
     "surface": "なゝ",
     "pronunciation": "ナナ",
     "accent_type": "0",
@@ -1924,6 +1916,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ナカ／＼",
+    "pronunciation": "ナカナカ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "程度が非常に高い様子や容易ではないことを表す副詞。現代では『なかなか』と書かれることが多い。"
   },
   {
     "surface": "ニゝ",
