@@ -1,19 +1,5 @@
 [
   {
-    "surface": "探檢",
-    "pronunciation": "タンケン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 7
-  },
-  {
-    "surface": "實記",
-    "pronunciation": "ジッキ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 6
-  },
-  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
@@ -558,6 +544,13 @@
     "meaning": "本当に、非常に、心からそう思うさまを表す。現代では『実』と書くことが一般的。"
   },
   {
+    "surface": "實記",
+    "pronunciation": "ジッキ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6
+  },
+  {
     "surface": "尨大",
     "pronunciation": "ボウダイ",
     "accent_type": 3,
@@ -684,6 +677,13 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "何かを払う、または取り除く行為を指す。現代仮名遣いでは『払い』と書く。"
+  },
+  {
+    "surface": "探檢",
+    "pronunciation": "タンケン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7
   },
   {
     "surface": "描寫",
