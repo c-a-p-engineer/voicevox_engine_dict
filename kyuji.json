@@ -1,5 +1,19 @@
 [
   {
+    "surface": "探檢",
+    "pronunciation": "タンケン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 7
+  },
+  {
+    "surface": "實記",
+    "pronunciation": "ジッキ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 6
+  },
+  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
