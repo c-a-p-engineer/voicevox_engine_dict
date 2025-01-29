@@ -1,14 +1,5 @@
 [
   {
-  "surface": "北畠顕家",
-  "pronunciation": "キタバタケアキイエ",
-  "accent_type": 5,
-  "word_type": "PROPER_NOUN",
-  "priority": 9,
-  "meaning": "南北朝時代の武将・公卿。北畠親房の子で、後醍醐天皇の忠臣として戦功を挙げた。1338年に戦死。"
-}
-,
-  {
     "surface": "あの方",
     "pronunciation": "アノカタ",
     "accent_type": "0",
@@ -151,6 +142,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "離別や別離を意識した心の動きを指す。人や物事に対して別れを決意したり、別れを予感した心情を表現する言葉。"
+  },
+  {
+    "surface": "北畠顕家",
+    "pronunciation": "キタバタケアキイエ",
+    "accent_type": 5,
+    "word_type": "PROPER_NOUN",
+    "priority": 9,
+    "meaning": "南北朝時代の武将・公卿。北畠親房の子で、後醍醐天皇の忠臣として戦功を挙げた。1338年に戦死。"
   },
   {
     "surface": "十石",
