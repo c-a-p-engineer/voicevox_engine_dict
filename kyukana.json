@@ -1,94 +1,5 @@
 [
   {
-  "surface": "払ひ",
-  "pronunciation": "ハライ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "支払いや払い除けることを意味する。"
-},
-{
-  "surface": "払つた",
-  "pronunciation": "ハラッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "「払う」の過去形。支払いを行ったり、物を取り除いたりすることを指す。"
-},
-{
-  "surface": "疑ひ",
-  "pronunciation": "ウタガイ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "疑うこと、不信感を抱くことを意味する。"
-},
-{
-  "surface": "厭き／＼",
-  "pronunciation": "アキアキ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "飽き飽きすること、嫌気が差すことを意味する。"
-},
-{
-  "surface": "まし／＼",
-  "pronunciation": "マシマシ",
-  "accent_type": 2,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "程度が増すこと、より良くなることを意味する。"
-},
-{
-  "surface": "始まつて",
-  "pronunciation": "ハジマッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "「始まる」の連用形。物事が開始されることを意味する。"
-},
-{
-  "surface": "始まつた",
-  "pronunciation": "ハジマッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "「始まる」の過去形。何かが開始されたことを指す。"
-},
-  {
-  "surface": "こと／″＼",
-  "pronunciation": "コトゴト",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "すべて、ことごとく。物事のすべてに及ぶことを意味する。"
-},
-  {
-  "surface": "取つて",
-  "pronunciation": "トッテ",
-  "accent_type": 2,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "「取る」の連用形。物を手にする、獲得するという意味を持つ。古典的表記として「取つて」が使われることもある。"
-},
-{
-  "surface": "加はつた",
-  "pronunciation": "クワワッタ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "「加わる」の連用形。何かに新たに参加することや、増えることを意味する。古典的表記として「加はつた」が使われることもある。"
-},
-  {
-  "surface": "さいはひ",
-  "pronunciation": "サイワイ",
-  "accent_type": 4,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "幸福や幸運を指す語。古文では「さいはひ」と表記されることもある。"
-}
-,
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -372,6 +283,14 @@
     "meaning": "うなずく様子や、居眠りで頭をゆっくり上下に動かす様子を表す擬音語。"
   },
   {
+    "surface": "こと／″＼",
+    "pronunciation": "コトゴト",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "すべて、ことごとく。物事のすべてに及ぶことを意味する。"
+  },
+  {
     "surface": "こゝ",
     "pronunciation": "ココ",
     "accent_type": "0",
@@ -406,6 +325,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "さいはひ",
+    "pronunciation": "サイワイ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "幸福や幸運を指す語。古文では「さいはひ」と表記されることもある。"
   },
   {
     "surface": "さうする",
@@ -1144,6 +1071,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "まし／＼",
+    "pronunciation": "マシマシ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "程度が増すこと、より良くなることを意味する。"
   },
   {
     "surface": "ます／＼",
@@ -2804,6 +2739,14 @@
     "meaning": "物を分ける、または壊す行動を指す。旧仮名遣いでは『割つた』と表記され、現代では『割った』が一般的。"
   },
   {
+    "surface": "加はつた",
+    "pronunciation": "クワワッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「加わる」の連用形。何かに新たに参加することや、増えることを意味する。古典的表記として「加はつた」が使われることもある。"
+  },
+  {
     "surface": "加はつて",
     "pronunciation": "クワワッテ",
     "accent_type": 4,
@@ -2834,6 +2777,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "未来や運勢を予測する行為を指す表現。旧仮名遣いでは『占ひ』と表記され、現代仮名遣いでは『占い』が一般的。"
+  },
+  {
+    "surface": "厭き／＼",
+    "pronunciation": "アキアキ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "飽き飽きすること、嫌気が差すことを意味する。"
   },
   {
     "surface": "去つて",
@@ -2874,6 +2825,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "混乱や問題が解決し、状況が安定する、または物が適切な場所に収まる動作を継続することを表す動詞の連用形。現代では『収まって』と書くのが一般的。"
+  },
+  {
+    "surface": "取つて",
+    "pronunciation": "トッテ",
+    "accent_type": 2,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「取る」の連用形。物を手にする、獲得するという意味を持つ。古典的表記として「取つて」が使われることもある。"
   },
   {
     "surface": "叱つて",
@@ -3015,6 +2974,22 @@
     "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "良いだろう、望ましいと推測される。現代仮名遣いでは『よいだろう』"
+  },
+  {
+    "surface": "始まつた",
+    "pronunciation": "ハジマッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「始まる」の過去形。何かが開始されたことを指す。"
+  },
+  {
+    "surface": "始まつて",
+    "pronunciation": "ハジマッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「始まる」の連用形。物事が開始されることを意味する。"
   },
   {
     "surface": "嫌ひ",
@@ -3211,6 +3186,22 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "急いで混乱したり、落ち着きを失ったりすることを指す。旧仮名遣いでは『惶て』と表記され、現代では『慌て』が一般的。"
+  },
+  {
+    "surface": "払つた",
+    "pronunciation": "ハラッタ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「払う」の過去形。支払いを行ったり、物を取り除いたりすることを指す。"
+  },
+  {
+    "surface": "払ひ",
+    "pronunciation": "ハライ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "支払いや払い除けることを意味する。"
   },
   {
     "surface": "拾つた",
@@ -3426,6 +3417,14 @@
     "word_type": "VERB",
     "priority": 7,
     "meaning": "物事の真偽や妥当性に対して疑念を抱くことを指す旧仮名遣い表記。現代では『疑わ』と表記されることが一般的。"
+  },
+  {
+    "surface": "疑ひ",
+    "pronunciation": "ウタガイ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "疑うこと、不信感を抱くことを意味する。"
   },
   {
     "surface": "病友",
