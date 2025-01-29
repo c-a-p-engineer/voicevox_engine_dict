@@ -1,5 +1,13 @@
 [
   {
+  "surface": "重ね／″＼",
+  "pronunciation": "カサネガサネ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 7,
+  "meaning": "同じものを何度も繰り返し重ねること。度重なること。"
+},
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
