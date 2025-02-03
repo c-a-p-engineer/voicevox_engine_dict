@@ -1,4 +1,35 @@
-[
+[{
+  "surface": "Polikouchka",
+  "pronunciation": "ポリクーチカ",
+  "accent_type": 4,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "レフ・トルストイの短編小説『ポリクーチカ』。ロシアの農奴制度を背景にした物語で、農奴ポリクーチカの生涯を描いた作品。"
+},
+  {
+    "surface": "Tantalizing",
+    "pronunciation": "タンタライジング",
+    "accent_type": 4,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "興味や欲求を刺激するが、手に入れにくい、もしくは焦らされる状態を指す。"
+  },
+  {
+    "surface": "Tantalus",
+    "pronunciation": "タンタラス",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "ギリシャ神話に登場するタンタロス（Tantalus）。神々の宴に招かれたが不敬を働き、冥界で飢えと渇きに苦しむ罰を受ける存在。"
+  },
+  {
+    "surface": "Inferno",
+    "pronunciation": "インフェルノ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "ダンテの『神曲』における地獄（Inferno）を指す。一般的に燃え盛る炎や地獄のような状況を意味することもある。"
+  },
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
