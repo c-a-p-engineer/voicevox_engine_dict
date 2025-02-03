@@ -1,21 +1,5 @@
 [
   {
-    "surface": "Black",
-    "pronunciation": "ブラック",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "黒色を指す一般的な言葉。また、暗闇や神秘、悪意などの象徴としても使われる。"
-  },
-  {
-    "surface": "White",
-    "pronunciation": "ホワイト",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "白色を指す一般的な言葉。純粋、清潔、善良の象徴としても使われる。"
-  },
-  {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
     "accent_type": 1,
@@ -30,6 +14,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "大通り"
+  },
+  {
+    "surface": "Black",
+    "pronunciation": "ブラック",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "黒色を指す一般的な言葉。また、暗闇や神秘、悪意などの象徴としても使われる。"
   },
   {
     "surface": "CAT",
@@ -286,6 +278,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 10,
     "meaning": "アメリカ合衆国の地名および人名。首都ワシントンD.C.やアメリカ初代大統領ジョージ・ワシントン（George Washington）に関連する名称。"
+  },
+  {
+    "surface": "White",
+    "pronunciation": "ホワイト",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "白色を指す一般的な言葉。純粋、清潔、善良の象徴としても使われる。"
   },
   {
     "surface": "Whitman",
