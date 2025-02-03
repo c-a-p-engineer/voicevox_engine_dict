@@ -1,5 +1,21 @@
 [
   {
+    "surface": "Black",
+    "pronunciation": "ブラック",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "黒色を指す一般的な言葉。また、暗闇や神秘、悪意などの象徴としても使われる。"
+  },
+  {
+    "surface": "White",
+    "pronunciation": "ホワイト",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "白色を指す一般的な言葉。純粋、清潔、善良の象徴としても使われる。"
+  },
+  {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
     "accent_type": 1,
