@@ -1,5 +1,13 @@
 [
-  {
+{
+  "surface": "Doppelgänger",
+  "pronunciation": "ドッペルゲンガー",
+  "accent_type": 4,
+  "word_type": "COMMON_NOUN",
+  "priority": 8,
+  "meaning": "自分そっくりの存在（分身）を指すドイツ語。神秘的または不吉な予兆とされることが多い。"
+}
+,  {
     "surface": "DAS SCHLOSS",
     "pronunciation": "ダスシュロス",
     "accent_type": 1,
