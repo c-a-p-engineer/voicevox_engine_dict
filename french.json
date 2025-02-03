@@ -6,5 +6,93 @@
     "word_type": "COMMON_NOUN",
     "priority": 8,
     "meaning": "フランス語で「名誉の問題」を意味し、名誉や誇りを守るための重要な事柄"
+  },
+  {
+    "surface": "Bien",
+    "pronunciation": "ビヤン",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "良い、うまく、十分に"
+  },
+  {
+    "surface": "très",
+    "pronunciation": "トレ",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "とても（強調の副詞）"
+  },
+  {
+    "surface": "trs",
+    "pronunciation": "トレ",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "とても（'très'の誤表記）"
+  },
+  {
+    "surface": "mauvais",
+    "pronunciation": "モヴェ",
+    "accent_type": 3,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "悪い、不快な"
+  },
+  {
+    "surface": "pourquoi",
+    "pronunciation": "プルクワ",
+    "accent_type": 3,
+    "word_type": "INTERROGATIVE",
+    "priority": 8,
+    "meaning": "なぜ、どうして"
+  },
+  {
+    "surface": "le",
+    "pronunciation": "ル",
+    "accent_type": 1,
+    "word_type": "ARTICLE",
+    "priority": 9,
+    "meaning": "定冠詞（男性単数）"
+  },
+  {
+    "surface": "diable",
+    "pronunciation": "ディアブル",
+    "accent_type": 3,
+    "word_type": "NOUN",
+    "priority": 7,
+    "meaning": "悪魔"
+  },
+  {
+    "surface": "est",
+    "pronunciation": "エ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "（êtreの三人称単数現在）～である"
+  },
+  {
+    "surface": "mort",
+    "pronunciation": "モール",
+    "accent_type": 2,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "死んだ"
+  },
+  {
+    "surface": "Oui",
+    "pronunciation": "ウイ",
+    "accent_type": 1,
+    "word_type": "ADVERB",
+    "priority": 9,
+    "meaning": "はい"
+  },
+  {
+    "surface": "d'enfer",
+    "pronunciation": "ドンフェール",
+    "accent_type": 4,
+    "word_type": "EXPRESSION",
+    "priority": 5,
+    "meaning": "地獄のような、または非常に素晴らしい（文脈による）"
   }
 ]
