@@ -1,4 +1,21 @@
-[
+[{
+  "surface": "Mrs",
+  "pronunciation": "ミセス",
+  "accent_type": 2,
+  "word_type": "COMMON_NOUN",
+  "priority": 9,
+  "meaning": "既婚女性に対する敬称（英語）。日本語では「ミセス」と音訳される。"
+}
+,
+  {
+  "surface": "Townshead",
+  "pronunciation": "タウンスヘッド",
+  "accent_type": 4,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "架空または特定の文脈に登場する人物名。"
+}
+,
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
