@@ -1,29 +1,5 @@
 [
   {
-  "surface": "ピカ／＼",
-  "pronunciation": "ピカピカ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 6,
-  "meaning": "光り輝く様子、または新品のように綺麗な状態を指す。"
-},
-{
-  "surface": "光つて",
-  "pronunciation": "ヒカッテ",
-  "accent_type": 3,
-  "word_type": "VERB",
-  "priority": 5,
-  "meaning": "「光る」の連用形。明るく輝くことを指す。"
-},
-{
-  "surface": "クチヤ／＼",
-  "pronunciation": "クチャクチャ",
-  "accent_type": 3,
-  "word_type": "COMMON_NOUN",
-  "priority": 5,
-  "meaning": "物が潰れてしわくちゃになった様子、または咀嚼音を表す擬態語。"
-},
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -1485,6 +1461,14 @@
     "priority": 5
   },
   {
+    "surface": "クチヤ／＼",
+    "pronunciation": "クチャクチャ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "物が潰れてしわくちゃになった様子、または咀嚼音を表す擬態語。"
+  },
+  {
     "surface": "グゝ",
     "pronunciation": "ググ",
     "accent_type": "0",
@@ -2156,6 +2140,14 @@
     "priority": 5
   },
   {
+    "surface": "ピカ／＼",
+    "pronunciation": "ピカピカ",
+    "accent_type": 3,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "光り輝く様子、または新品のように綺麗な状態を指す。"
+  },
+  {
     "surface": "ピシャ／＼",
     "pronunciation": "ピシャピシャ",
     "accent_type": 3,
@@ -2667,6 +2659,14 @@
     "word_type": "VERB",
     "priority": 8,
     "meaning": "他の例や行動を手本として従うことを指す。旧仮名遣いでは『倣つて』と表記され、現代仮名遣いでは『倣って』が一般的。"
+  },
+  {
+    "surface": "光つて",
+    "pronunciation": "ヒカッテ",
+    "accent_type": 3,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「光る」の連用形。明るく輝くことを指す。"
   },
   {
     "surface": "入つた",
