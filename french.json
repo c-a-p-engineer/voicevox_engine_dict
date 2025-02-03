@@ -8,6 +8,14 @@
     "meaning": "良い、うまく、十分に"
   },
   {
+    "surface": "Le",
+    "pronunciation": "ル",
+    "accent_type": 1,
+    "word_type": "ARTICLE",
+    "priority": 9,
+    "meaning": "定冠詞（男性単数）。英語の 'The' に相当。"
+  },
+  {
     "surface": "Oui",
     "pronunciation": "ウイ",
     "accent_type": 1,
@@ -38,6 +46,14 @@
     "word_type": "VERB",
     "priority": 9,
     "meaning": "（êtreの三人称単数現在）～である"
+  },
+  {
+    "surface": "est",
+    "pronunciation": "エ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 9,
+    "meaning": "動詞 'être'（～である）の三人称単数現在形。"
   },
   {
     "surface": "le",
@@ -94,22 +110,5 @@
     "word_type": "ADVERB",
     "priority": 7,
     "meaning": "とても（強調の副詞）"
-  },
-  
-  {
-    "surface": "Le",
-    "pronunciation": "ル",
-    "accent_type": 1,
-    "word_type": "ARTICLE",
-    "priority": 9,
-    "meaning": "定冠詞（男性単数）。英語の 'The' に相当。"
-  },
-  {
-    "surface": "est",
-    "pronunciation": "エ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 9,
-    "meaning": "動詞 'être'（～である）の三人称単数現在形。"
   }
 ]
