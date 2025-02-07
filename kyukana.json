@@ -1,5 +1,13 @@
 [
   {
+  "surface": "ぎら／″＼",
+  "pronunciation": "ギラギラ",
+  "accent_type": 3,
+  "word_type": "COMMON_NOUN",
+  "priority": 6,
+  "meaning": "強く輝く様子や、まぶしい光を放つ状態を表す擬態語。"
+},
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
