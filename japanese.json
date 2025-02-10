@@ -1,4 +1,11 @@
-[
+[{
+  "surface": "Kappa",
+  "pronunciation": "カッパ",
+  "accent_type": 3,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "日本の伝説上の妖怪。水辺に住み、甲羅を持ち、頭に水をたたえた存在として描かれる。"
+},
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
