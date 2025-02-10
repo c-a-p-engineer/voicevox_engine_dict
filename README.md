@@ -39,7 +39,8 @@ VOICEVOX ENGINE APIの辞書登録用
 ├── kyuji.json           # 旧字（旧漢字）の辞書。
 ├── kyukana.json         # 旧仮名遣いの辞書。
 ├── personal.json        # 個人名の辞書。（各言語jsonに移動予定
-└── russian.json         # ロシア語の辞書。
+├── russian.json         # ロシア語の辞書。 
+└── spanish.json         # スペイン語の辞書。 
 ```
 
 ## 登録サンプルコード
