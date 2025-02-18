@@ -1,4 +1,14 @@
 [
+    {
+      "surface": "Pietro d'Apone",
+      "pronunciation": "ピエトロッダポーネ",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "13世紀イタリアの医師・占星術師。魔術や錬金術に関与したとされ、異端審問で有罪判決を受けた。"
+    }
+  ,
+  
   {
     "surface": "Allegro",
     "pronunciation": "アレグロ",
