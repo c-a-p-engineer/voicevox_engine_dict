@@ -1,21 +1,4 @@
 [
-    {
-      "surface": "le samourai",
-      "pronunciation": "ルッサムライ",
-      "accent_type": 3,
-      "word_type": "PROPER_NOUN",
-      "priority": 5,
-      "meaning": "1967年のフランス映画。ジャン＝ピエール・メルヴィル監督、アラン・ドロン主演のフィルム・ノワール作品。"
-    },
-    {
-      "surface": "Quantin",
-      "pronunciation": "カンタン",
-      "accent_type": 2,
-      "word_type": "PROPER_NOUN",
-      "priority": 4,
-      "meaning": "フランスの出版社。19世紀に活動し、多くの文学作品を刊行した。"
-    },
-  
   {
     "surface": "Bien",
     "pronunciation": "ビヤン",
@@ -55,6 +38,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 9,
     "meaning": "イギリスの作家ジョン・バニヤンによる1678年刊行の寓意物語。主人公クリスチャンが「滅亡の市」から「天の都」へ至る旅路を描き、キリスト教徒の信仰の歩みを象徴している。日本語では『天路歴程』として知られる。"
+  },
+  {
+    "surface": "Quantin",
+    "pronunciation": "カンタン",
+    "accent_type": 2,
+    "word_type": "PROPER_NOUN",
+    "priority": 4,
+    "meaning": "フランスの出版社。19世紀に活動し、多くの文学作品を刊行した。"
   },
   {
     "surface": "d'enfer",
@@ -103,6 +94,14 @@
     "word_type": "ADJECTIVE",
     "priority": 9,
     "meaning": "定冠詞（男性単数）"
+  },
+  {
+    "surface": "le samourai",
+    "pronunciation": "ルッサムライ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "1967年のフランス映画。ジャン＝ピエール・メルヴィル監督、アラン・ドロン主演のフィルム・ノワール作品。"
   },
   {
     "surface": "mauvais",
