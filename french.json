@@ -1,12 +1,4 @@
-[{
-  "surface": "Judith Gautier",
-  "pronunciation": "ジュディット・ゴーティエ",
-  "accent_type": 4,
-  "word_type": "PROPER_NOUN",
-  "priority": 8,
-  "meaning": "フランスの詩人、小説家、翻訳家（1845年8月25日 - 1917年12月26日）。テオフィル・ゴーティエの娘であり、中国や日本の文学をフランス語に紹介した先駆者。リヒャルト・ワーグナーとの関係や、アカデミー・ゴンクール初の女性会員としても知られる。"
-}
-,
+[
   {
     "surface": "Bien",
     "pronunciation": "ビヤン",
@@ -14,6 +6,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "良い、うまく、十分に"
+  },
+  {
+    "surface": "Judith Gautier",
+    "pronunciation": "ジュディット・ゴーティエ",
+    "accent_type": 4,
+    "word_type": "PROPER_NOUN",
+    "priority": 8,
+    "meaning": "フランスの詩人、小説家、翻訳家（1845年8月25日 - 1917年12月26日）。テオフィル・ゴーティエの娘であり、中国や日本の文学をフランス語に紹介した先駆者。リヒャルト・ワーグナーとの関係や、アカデミー・ゴンクール初の女性会員としても知られる。"
   },
   {
     "surface": "Le",
