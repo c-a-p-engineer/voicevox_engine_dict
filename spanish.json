@@ -6,5 +6,21 @@
     "word_type": "PROPER_NOUN",
     "priority": 8,
     "meaning": "スペインの伝説的な放蕩者（プレイボーイ）。多くの女性を魅了し、その後破滅する物語がさまざまな文学や芸術で描かれている。"
-  }
+  },
+    {
+      "surface": "Dona Maria Theresa",
+      "pronunciation": "ドーニャッマリアッテレサ",
+      "accent_type": 5,
+      "word_type": "PROPER_NOUN",
+      "priority": 6,
+      "meaning": "スペイン・ハプスブルク家の王女で、フランス王ルイ14世の王妃（1638年-1683年）。"
+    },
+    {
+      "surface": "Don Jos Alvalez de Toledo",
+      "pronunciation": "ドンッホセッアルバレスッデットレド",
+      "accent_type": 6,
+      "word_type": "PROPER_NOUN",
+      "priority": 4,
+      "meaning": "スペインの貴族。正確な情報は限られているが、トレド家の一員とされる。"
+    }
 ]
