@@ -1,4 +1,76 @@
 [
+    {
+      "surface": "witch",
+      "pronunciation": "ウィッチ",
+      "accent_type": 1,
+      "word_type": "COMMON_NOUN",
+      "priority": 8,
+      "meaning": "魔女。魔法や呪術を使うとされる女性。"
+    },
+    {
+      "surface": "The Courting of Dinah Shadd",
+      "pronunciation": "ザッコーティングッオブッダイナッシャッド",
+      "accent_type": 5,
+      "word_type": "PROPER_NOUN",
+      "priority": 6,
+      "meaning": "ラドヤード・キップリングによる短編小説。兵士テレンス・マルバニーと彼の恋人ダイナ・シャッドの物語。"
+    },
+    {
+      "surface": "Lyra Nicotiana",
+      "pronunciation": "ライラッニコチアナ",
+      "accent_type": 5,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "ウィリアム・G・ハッチソン編纂の、タバコに関する詩集。"
+    },
+    {
+      "surface": "Under the Greenwood",
+      "pronunciation": "アンダーッザッグリーンウッド",
+      "accent_type": 6,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "トーマス・ハーディの小説『Under the Greenwood Tree』の略称。田舎の生活と恋愛を描いた作品。"
+    },
+    {
+      "surface": "Witch of Prague",
+      "pronunciation": "ウィッチッオブップラハ",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 4,
+      "meaning": "フランシス・マリオン・クロフォードによる小説。プラハを舞台にした神秘的な物語。"
+    },
+    {
+      "surface": "Po",
+      "pronunciation": "ポー",
+      "accent_type": 1,
+      "word_type": "PROPER_NOUN",
+      "priority": 7,
+      "meaning": "エドガー・アラン・ポー。アメリカの詩人、作家、文学評論家。"
+    },
+    {
+      "surface": "Pietro d'Apone",
+      "pronunciation": "ピエトロッダポーネ",
+      "accent_type": 5,
+      "word_type": "PROPER_NOUN",
+      "priority": 4,
+      "meaning": "中世イタリアの医師、占星術師。魔術の疑いで異端審問にかけられた。"
+    },
+    {
+      "surface": "Reginald Scot",
+      "pronunciation": "レジナルドッスコット",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "16世紀イングランドの著述家。著書『The Discoverie of Witchcraft』で魔女裁判を批判した。"
+    },
+    {
+      "surface": "Under the Greenwood Tree",
+      "pronunciation": "アンダーッザッグリーンウッドッツリー",
+      "accent_type": 6,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "トーマス・ハーディの小説。田舎の生活と恋愛を描いた作品。"
+    },
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
