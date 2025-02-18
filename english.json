@@ -1,4 +1,71 @@
 [
+
+    {
+      "surface": "Wierus",
+      "pronunciation": "ウィーラス",
+      "accent_type": 2,
+      "word_type": "PROPER_NOUN",
+      "priority": 7,
+      "meaning": "ヨハン・ヴィア（Johann Weyer）のラテン名。16世紀のドイツの医師で、魔女裁判に反対する著作『悪魔の偽計（De Praestigiis Daemonum）』で知られる。"
+    },
+    {
+      "surface": "George",
+      "pronunciation": "ジョージ",
+      "accent_type": 3,
+      "word_type": "PROPER_NOUN",
+      "priority": 6,
+      "meaning": "英語の男性名または姓。"
+    },
+    {
+      "surface": "George Eekhoud",
+      "pronunciation": "ジョルジュッエクー",
+      "accent_type": 3,
+      "word_type": "PROPER_NOUN",
+      "priority": 6,
+      "meaning": "ベルギーの作家（1854年-1927年）。同性愛をテーマにした作品『エスカル・ヴィゴール（Escal Vigor）』で知られる。"
+    },
+    {
+      "surface": "Escal Vigor",
+      "pronunciation": "エスカルッヴィゴール",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "ジョルジュ・エクーによる1899年の小説。同性間の愛を描き、当時物議を醸した。"
+    },
+    {
+      "surface": "Los Caprichos",
+      "pronunciation": "ロスッカプリチョス",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 6,
+      "meaning": "スペインの画家フランシスコ・ゴヤが1799年に発表した版画集。社会風刺や人間の愚行を描いた80の作品からなる。"
+    },
+    {
+      "surface": "Maja vestida",
+      "pronunciation": "マハッベスティダ",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "フランシスコ・ゴヤが描いた絵画『着衣のマハ』。服を着た女性を描いており、対となる『裸のマハ（Maja desnuda）』とともに知られる。"
+    },
+    {
+      "surface": "Maja desnuda",
+      "pronunciation": "マハッデスヌーダ",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "フランシスコ・ゴヤが描いた絵画『裸のマハ』。裸の女性を描いており、対となる『着衣のマハ（Maja vestida）』とともに知られる。"
+    },
+    {
+      "surface": "Edouard Manet",
+      "pronunciation": "エドゥアール・マネ",
+      "accent_type": 4,
+      "word_type": "PROPER_NOUN",
+      "priority": 8,
+      "meaning": "19世紀フランスの画家。印象派の先駆者とされ、『草上の昼食』や『オランピア』などの作品で知られる。"
+    }
+  ,
+  
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
