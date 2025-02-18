@@ -1,4 +1,21 @@
 [
+    {
+      "surface": "le samourai",
+      "pronunciation": "ルッサムライ",
+      "accent_type": 3,
+      "word_type": "PROPER_NOUN",
+      "priority": 5,
+      "meaning": "1967年のフランス映画。ジャン＝ピエール・メルヴィル監督、アラン・ドロン主演のフィルム・ノワール作品。"
+    },
+    {
+      "surface": "Quantin",
+      "pronunciation": "カンタン",
+      "accent_type": 2,
+      "word_type": "PROPER_NOUN",
+      "priority": 4,
+      "meaning": "フランスの出版社。19世紀に活動し、多くの文学作品を刊行した。"
+    },
+  
   {
     "surface": "Bien",
     "pronunciation": "ビヤン",
