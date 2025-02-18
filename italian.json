@@ -1,14 +1,4 @@
 [
-    {
-      "surface": "Pietro d'Apone",
-      "pronunciation": "ピエトロッダポーネ",
-      "accent_type": 4,
-      "word_type": "PROPER_NOUN",
-      "priority": 5,
-      "meaning": "13世紀イタリアの医師・占星術師。魔術や錬金術に関与したとされ、異端審問で有罪判決を受けた。"
-    }
-  ,
-  
   {
     "surface": "Allegro",
     "pronunciation": "アレグロ",
@@ -32,6 +22,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "音楽用語で、『非常に』または『多く』を意味する。速度や強弱を強調する際に使用される。イタリア語由来で、副詞的に使われるが、名詞的にも解釈可能。"
+  },
+  {
+    "surface": "Pietro d'Apone",
+    "pronunciation": "ピエトロッダポーネ",
+    "accent_type": 4,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "13世紀イタリアの医師・占星術師。魔術や錬金術に関与したとされ、異端審問で有罪判決を受けた。"
   },
   {
     "surface": "pianissimo",
