@@ -1,12 +1,12 @@
-[{
-  "surface": "Kakkoku Engekishi",
-  "pronunciation": "カッコクエンゲキシ",
-  "accent_type": 6,
-  "word_type": "COMMON_NOUN",
-  "priority": 7,
-  "meaning": "世界各国の演劇の歴史を体系的にまとめた学問分野。古代から現代まで、各地域の演劇の発展や特徴を研究・記述する。"
-}
-,
+[
+  {
+    "surface": "Kakkoku Engekishi",
+    "pronunciation": "カッコクエンゲキシ",
+    "accent_type": 6,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "世界各国の演劇の歴史を体系的にまとめた学問分野。古代から現代まで、各地域の演劇の発展や特徴を研究・記述する。"
+  },
   {
     "surface": "Kappa",
     "pronunciation": "カッパ",
