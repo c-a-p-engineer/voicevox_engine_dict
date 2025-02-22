@@ -1,12 +1,5 @@
 [
   {
-    "surface": "姊妹",
-    "pronunciation": "シマイ",
-    "accent_type": 2,
-    "word_type": "COMMON_NOUN",
-    "priority": 8,
-    "meaning": "姉と妹。女のきょうだい。"
-  },  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
@@ -485,6 +478,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "女性の医者を指す旧字表記。現代では『女医』と表記されることが一般的。医療分野における女性の専門家を示す言葉。"
+  },
+  {
+    "surface": "姊妹",
+    "pronunciation": "シマイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "姉と妹。女のきょうだい。"
   },
   {
     "surface": "姙娠",
