@@ -1,5 +1,12 @@
 [
   {
+    "surface": "姊妹",
+    "pronunciation": "シマイ",
+    "accent_type": 2,
+    "word_type": "COMMON_NOUN",
+    "priority": 8,
+    "meaning": "姉と妹。女のきょうだい。"
+  },  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
