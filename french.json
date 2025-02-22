@@ -1,4 +1,12 @@
 [
+    {
+    "surface": "Flaubert",
+    "pronunciation": "フロベール",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "フランスの小説家、ギュスターヴ・フロベール（Gustave Flaubert）の姓。"
+    },
   {
     "surface": "Bien",
     "pronunciation": "ビヤン",
