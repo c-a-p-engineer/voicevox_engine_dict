@@ -1,12 +1,4 @@
 [
-    {
-    "surface": "Flaubert",
-    "pronunciation": "フロベール",
-    "accent_type": 3,
-    "word_type": "PROPER_NOUN",
-    "priority": 7,
-    "meaning": "フランスの小説家、ギュスターヴ・フロベール（Gustave Flaubert）の姓。"
-    },
   {
     "surface": "Bien",
     "pronunciation": "ビヤン",
@@ -14,6 +6,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "良い、うまく、十分に"
+  },
+  {
+    "surface": "Flaubert",
+    "pronunciation": "フロベール",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "フランスの小説家、ギュスターヴ・フロベール（Gustave Flaubert）の姓。"
   },
   {
     "surface": "Judith Gautier",
