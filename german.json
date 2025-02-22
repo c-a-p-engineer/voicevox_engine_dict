@@ -1,12 +1,4 @@
 [
-    {
-    "surface": "durch",
-    "pronunciation": "ドゥルヒ",
-    "accent_type": 1,
-    "word_type": "PREPOSITION",
-    "priority": 6,
-    "meaning": "～を通じて、～を通して。"
-  },
   {
     "surface": "DAS SCHLOSS",
     "pronunciation": "ダスシュロス",
@@ -110,6 +102,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "ドイツ語で女性名詞の定冠詞（主格・与格）"
+  },
+  {
+    "surface": "durch",
+    "pronunciation": "ドゥルヒ",
+    "accent_type": 1,
+    "word_type": "PREPOSITION",
+    "priority": 6,
+    "meaning": "～を通じて、～を通して。"
   },
   {
     "surface": "gedicht-form",
