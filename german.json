@@ -1,4 +1,12 @@
 [
+    {
+    "surface": "durch",
+    "pronunciation": "ドゥルヒ",
+    "accent_type": 1,
+    "word_type": "PREPOSITION",
+    "priority": 6,
+    "meaning": "～を通じて、～を通して。"
+  },
   {
     "surface": "DAS SCHLOSS",
     "pronunciation": "ダスシュロス",
