@@ -1,34 +1,4 @@
-[  {
-    "surface": "through",
-    "pronunciation": "スルー",
-    "accent_type": 2,
-    "word_type": "PREPOSITION",
-    "priority": 9,
-    "meaning": "～を通じて、～を通して。"
-  },
-    {
-    "surface": "Europe",
-    "pronunciation": "ヨーロッパ",
-    "accent_type": 3,
-    "word_type": "PROPER_NOUN",
-    "priority": 9,
-    "meaning": "ヨーロッパ大陸。"
-  },  {
-    "surface": "Walt",
-    "pronunciation": "ウォルト",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 7,
-    "meaning": "ウォルト・ホイットマン（Walt Whitman）の名。"
-  },
-  {
-    "surface": "Whitman",
-    "pronunciation": "ホイットマン",
-    "accent_type": 1,
-    "word_type": "PROPER_NOUN",
-    "priority": 7,
-    "meaning": "アメリカの詩人、ウォルト・ホイットマン（Walt Whitman）の姓。"
-  },
+[
   {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
@@ -132,6 +102,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 5,
     "meaning": "ジョルジュ・エクーによる1899年の小説。同性間の愛を描き、当時物議を醸した。"
+  },
+  {
+    "surface": "Europe",
+    "pronunciation": "ヨーロッパ",
+    "accent_type": 3,
+    "word_type": "PROPER_NOUN",
+    "priority": 9,
+    "meaning": "ヨーロッパ大陸。"
   },
   {
     "surface": "Fare",
@@ -426,6 +404,14 @@
     "pronunciation": "ウォルト",
     "accent_type": 1,
     "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "ウォルト・ホイットマン（Walt Whitman）の名。"
+  },
+  {
+    "surface": "Walt",
+    "pronunciation": "ウォルト",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
     "priority": 9,
     "meaning": "英語圏の男性の名前。『Walter』の短縮形として使われることが多い。たとえば、『Walt Disney』は著名なアニメーターおよび映画プロデューサーを指す。"
   },
@@ -444,6 +430,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "白色を指す一般的な言葉。純粋、清潔、善良の象徴としても使われる。"
+  },
+  {
+    "surface": "Whitman",
+    "pronunciation": "ホイットマン",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 7,
+    "meaning": "アメリカの詩人、ウォルト・ホイットマン（Walt Whitman）の姓。"
   },
   {
     "surface": "Whitman",
@@ -1636,6 +1630,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 10,
     "meaning": "数字の『千（1,000）』を指す名詞。たとえば、『One thousand people attended the event』は『1,000人がそのイベントに参加した』という意味。"
+  },
+  {
+    "surface": "through",
+    "pronunciation": "スルー",
+    "accent_type": 2,
+    "word_type": "PREPOSITION",
+    "priority": 9,
+    "meaning": "～を通じて、～を通して。"
   },
   {
     "surface": "to",
