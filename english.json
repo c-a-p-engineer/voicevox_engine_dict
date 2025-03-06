@@ -81,7 +81,7 @@
   },
   {
     "surface": "Edouard Manet",
-    "pronunciation": "エドゥアール・マネ",
+    "pronunciation": "エドゥアールマネ",
     "accent_type": 4,
     "word_type": "PROPER_NOUN",
     "priority": 8,
@@ -1635,7 +1635,7 @@
     "surface": "through",
     "pronunciation": "スルー",
     "accent_type": 2,
-    "word_type": "PREPOSITION",
+    "word_type": "VERB",
     "priority": 9,
     "meaning": "～を通じて、～を通して。"
   },
