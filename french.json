@@ -1,4 +1,158 @@
 [
+
+  {
+    "surface": "Pour",
+    "pronunciation": "プール",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "フランス語で「〜のために」を意味する前置詞。"
+  },
+  {
+    "surface": "tout",
+    "pronunciation": "トゥ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "「全ての」または「すべて」を意味する形容詞。"
+  },
+  {
+    "surface": "homme",
+    "pronunciation": "オム",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "「男」または「人間」を意味する普通名詞。"
+  },
+  {
+    "surface": "il",
+    "pronunciation": "イル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "三人称単数の主語で、男性または不特定の人物を指す。"
+  },
+  {
+    "surface": "vient",
+    "pronunciation": "ヴィアン",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『venir』（来る）の三人称単数形。"
+  },
+  {
+    "surface": "une",
+    "pronunciation": "ユヌ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "女性名詞の冠詞。ここでは「一つの」という意味合いを持つ。"
+  },
+  {
+    "surface": "poque",
+    "pronunciation": "ポック",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "『époque』の古い表記で、「時代」や「期間」を意味する。"
+  },
+  {
+    "surface": "o",
+    "pronunciation": "オ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "『où』の縮約または古い表記と考えられ、「どこで」や「そこで」を意味する。"
+  },
+  {
+    "surface": "l'homme",
+    "pronunciation": "ロム",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "定冠詞と結合した『homme』。男性または人間を指す。"
+  },
+  {
+    "surface": "languit",
+    "pronunciation": "ランギュイ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『languir』（衰える、苦しむ）の三人称単数形。ここでは「虚弱になる」や「衰える」の意味。"
+  },
+  {
+    "surface": "Proverbe",
+    "pronunciation": "プロヴェルブ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "「ことわざ」を意味する普通名詞。"
+  },
+  {
+    "surface": "Il",
+    "pronunciation": "イル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "三人称単数の主語として用いられる。"
+  },
+  {
+    "surface": "faut",
+    "pronunciation": "フォ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『falloir』（必要である）の三人称単数形。"
+  },
+  {
+    "surface": "d'abord",
+    "pronunciation": "ダボール",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "「まずは」または「初めに」を意味する副詞的表現。"
+  },
+  {
+    "surface": "avoir",
+    "pronunciation": "アヴォワール",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "「持つ」または「得る」を意味する動詞。"
+  },
+  {
+    "surface": "soif",
+    "pronunciation": "ソワフ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "「渇き」や「喉の渇き」を意味する名詞。"
+  },
+  {
+    "surface": "Cathrine",
+    "pronunciation": "カトリーヌ",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "固有名詞。フランス系の女性の名前。"
+  },
+  {
+    "surface": "de",
+    "pronunciation": "ド",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "所属や起源を示す前置詞。"
+  },
+  {
+    "surface": "Mdicis",
+    "pronunciation": "メディシス",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "固有名詞。『Médicis』家を指す、古い表記。"
+  },
+  
   {
     "surface": "Bien",
     "pronunciation": "ビヤン",
