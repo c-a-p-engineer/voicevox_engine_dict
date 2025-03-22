@@ -1,5 +1,14 @@
 [
   {
+  "surface": "ハツキリ",
+  "pronunciation": "ハツキリ",
+  "accent_type": 1,
+  "word_type": "COMMON_NOUN",
+  "priority": 5,
+  "meaning": "明確に、率直である様子を表す副詞。旧仮名遣いの表記であり、現代仮名遣いでは「はっきり」と表記される。"
+}
+,
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
