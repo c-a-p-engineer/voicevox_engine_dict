@@ -177,7 +177,7 @@
   },
   {
     "surface": "Hail, quake stiles",
-    "pronunciation": "ヘイル クェイク スタイルズ",
+    "pronunciation": "ヘイルックェイクッスタイルズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -201,7 +201,7 @@
   },
   {
     "surface": "Hinder Bortier",
-    "pronunciation": "ヒンダー ボルティエ",
+    "pronunciation": "ヒンダーッボルティエ",
     "accent_type": 1,
     "word_type": "PROPER_NOUN",
     "priority": 5,
@@ -209,7 +209,7 @@
   },
   {
     "surface": "In his costumes",
-    "pronunciation": "イン ヒズ コスチュームズ",
+    "pronunciation": "インッヒズッコスチュームズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -249,7 +249,7 @@
   },
   {
     "surface": "Lo. unexpected mort",
-    "pronunciation": "ロー アンエクスペクテッド モート",
+    "pronunciation": "ローッアンエクスペクテッドッモート",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -425,7 +425,7 @@
   },
   {
     "surface": "The flower of Heaven",
-    "pronunciation": "ザ フラワー オブ ヘヴン",
+    "pronunciation": "ザッフラワーッオブッヘヴン",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -433,7 +433,7 @@
   },
   {
     "surface": "The word",
-    "pronunciation": "ザ ワード",
+    "pronunciation": "ザッワード",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -473,7 +473,7 @@
   },
   {
     "surface": "Upper Stages",
-    "pronunciation": "アッパー ステイジズ",
+    "pronunciation": "アッパーッステイジズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -1113,7 +1113,7 @@
   },
   {
     "surface": "he recites",
-    "pronunciation": "ヒー リサイツ",
+    "pronunciation": "ヒーッリサイツ",
     "accent_type": 1,
     "word_type": "VERB",
     "priority": 5,
@@ -1185,7 +1185,7 @@
   },
   {
     "surface": "it is per stages",
-    "pronunciation": "イット イズ パー ステイジズ",
+    "pronunciation": "イットッイズッパーッステイジズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -1361,7 +1361,7 @@
   },
   {
     "surface": "now enabled",
-    "pronunciation": "ナウ エネイブルド",
+    "pronunciation": "ナウッエネイブルド",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
     "priority": 5,
@@ -1369,7 +1369,7 @@
   },
   {
     "surface": "now fabled",
-    "pronunciation": "ナウ フェイブルド",
+    "pronunciation": "ナウッフェイブルド",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
     "priority": 5,
@@ -1401,7 +1401,7 @@
   },
   {
     "surface": "once dreamed",
-    "pronunciation": "ワンス ドリームド",
+    "pronunciation": "ワンスッドリームド",
     "accent_type": 1,
     "word_type": "ADJECTIVE",
     "priority": 5,
@@ -1721,7 +1721,7 @@
   },
   {
     "surface": "the poet",
-    "pronunciation": "ザ ポエット",
+    "pronunciation": "ザッポエット",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -1785,7 +1785,7 @@
   },
   {
     "surface": "to his dear ones",
-    "pronunciation": "トゥ ヒズ ディア ワンズ",
+    "pronunciation": "トゥッヒズッディアッワンズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
@@ -1873,7 +1873,7 @@
   },
   {
     "surface": "where joy forever dwells",
-    "pronunciation": "ウェア ジョイ フォーエヴァー ドウェルズ",
+    "pronunciation": "ウェアッジョイッフォーエヴァーッドウェルズ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
