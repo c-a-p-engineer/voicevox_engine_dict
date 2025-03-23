@@ -8,151 +8,6 @@
     "meaning": "感嘆詞。驚きや感動を表す。"
   },
   {
-    "surface": "que",
-    "pronunciation": "ク",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "接続詞的用法。感嘆文を導く。"
-  },
-  {
-    "surface": "temps",
-    "pronunciation": "タン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "時間、時代を意味する名詞。"
-  },
-  {
-    "surface": "viennent",
-    "pronunciation": "ヴィヤン",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "動詞『venir』の三人称複数形。『来る』を意味する。"
-  },
-  {
-    "surface": "O",
-    "pronunciation": "オー",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "感嘆詞。呼びかけや驚きを表す。"
-  },
-  {
-    "surface": "les",
-    "pronunciation": "レ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "定冠詞。複数形の名詞に付く。"
-  },
-  {
-    "surface": "curs",
-    "pronunciation": "キュル",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "古い表記の名詞。現代仮名遣いでは『cours』と表記され、流れや走り・動きの概念を含む。"
-  },
-  {
-    "surface": "s'prennent",
-    "pronunciation": "スプルヌ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "動詞『se prendre』の三人称複数形の縮約形。状況によって『捕らわれる』や『巻き込まれる』などの意味を持つ。"
-  },
-  {
-    "surface": "Je",
-    "pronunciation": "ジュ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "一人称単数の主語。『私』を意味する。"
-  },
-  {
-    "surface": "me",
-    "pronunciation": "ム",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "目的格の再帰代名詞。『私を／私に』の意味。"
-  },
-  {
-    "surface": "suis",
-    "pronunciation": "スイ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "動詞『être』の一人称単数形。『である』を意味する。"
-  },
-  {
-    "surface": "dit",
-    "pronunciation": "ディ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "動詞『dire』の過去形。『言った』を意味する。"
-  },
-  {
-    "surface": "Laisse",
-    "pronunciation": "レッス",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "動詞『laisser』の命令形。『放っておけ』や『許す』の意味。"
-  },
-  {
-    "surface": "Et",
-    "pronunciation": "エ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "接続詞。『そして』の意味。"
-  },
-  {
-    "surface": "qu'on",
-    "pronunciation": "コン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "『que + on』の縮約形。文脈に応じた主語を示す。"
-  },
-  {
-    "surface": "ne",
-    "pronunciation": "ヌ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "否定を表す補助語。"
-  },
-  {
-    "surface": "te",
-    "pronunciation": "テ",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "二人称目的格の代名詞。『あなたを／あなたに』の意味。"
-  },
-  {
-    "surface": "voie",
-    "pronunciation": "ヴォワ",
-    "accent_type": 1,
-    "word_type": "VERB",
-    "priority": 5,
-    "meaning": "動詞『voir』の接続法現在形。ここでは『見られる』という意味で用いられる。"
-  },
-  {
-    "surface": "qu'on",
-    "pronunciation": "コン",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "『que + on』の縮約形。"
-  }
-,
-  {
     "surface": "Bien",
     "pronunciation": "ビヤン",
     "accent_type": 2,
@@ -167,6 +22,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 5,
     "meaning": "固有名詞。フランス系の女性の名前。"
+  },
+  {
+    "surface": "Et",
+    "pronunciation": "エ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "接続詞。『そして』の意味。"
   },
   {
     "surface": "Flaubert",
@@ -185,12 +48,28 @@
     "meaning": "三人称単数の主語として用いられる。"
   },
   {
+    "surface": "Je",
+    "pronunciation": "ジュ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "一人称単数の主語。『私』を意味する。"
+  },
+  {
     "surface": "Judith Gautier",
     "pronunciation": "ジュディットゴーティエ",
     "accent_type": 4,
     "word_type": "PROPER_NOUN",
     "priority": 8,
     "meaning": "フランスの詩人、小説家、翻訳家（1845年8月25日 - 1917年12月26日）。テオフィル・ゴーティエの娘であり、中国や日本の文学をフランス語に紹介した先駆者。リヒャルト・ワーグナーとの関係や、アカデミー・ゴンクール初の女性会員としても知られる。"
+  },
+  {
+    "surface": "Laisse",
+    "pronunciation": "レッス",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『laisser』の命令形。『放っておけ』や『許す』の意味。"
   },
   {
     "surface": "Le",
@@ -207,6 +86,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 5,
     "meaning": "固有名詞。『Médicis』家を指す、古い表記。"
+  },
+  {
+    "surface": "O",
+    "pronunciation": "オー",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "感嘆詞。呼びかけや驚きを表す。"
   },
   {
     "surface": "Oui",
@@ -257,6 +144,14 @@
     "meaning": "「持つ」または「得る」を意味する動詞。"
   },
   {
+    "surface": "curs",
+    "pronunciation": "キュル",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "古い表記の名詞。現代仮名遣いでは『cours』と表記され、流れや走り・動きの概念を含む。"
+  },
+  {
     "surface": "d'abord",
     "pronunciation": "ダボール",
     "accent_type": 1,
@@ -287,6 +182,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 7,
     "meaning": "悪魔"
+  },
+  {
+    "surface": "dit",
+    "pronunciation": "ディ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『dire』の過去形。『言った』を意味する。"
   },
   {
     "surface": "est",
@@ -361,6 +264,14 @@
     "meaning": "1967年のフランス映画。ジャン＝ピエール・メルヴィル監督、アラン・ドロン主演のフィルム・ノワール作品。"
   },
   {
+    "surface": "les",
+    "pronunciation": "レ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "定冠詞。複数形の名詞に付く。"
+  },
+  {
     "surface": "mauvais",
     "pronunciation": "モヴェ",
     "accent_type": 2,
@@ -369,12 +280,28 @@
     "meaning": "悪い、不快な"
   },
   {
+    "surface": "me",
+    "pronunciation": "ム",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "目的格の再帰代名詞。『私を／私に』の意味。"
+  },
+  {
     "surface": "mort",
     "pronunciation": "モール",
     "accent_type": 2,
     "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "死んだ"
+  },
+  {
+    "surface": "ne",
+    "pronunciation": "ヌ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "否定を表す補助語。"
   },
   {
     "surface": "o",
@@ -409,12 +336,68 @@
     "meaning": "なぜ、どうして"
   },
   {
+    "surface": "qu'on",
+    "pronunciation": "コン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "『que + on』の縮約形。文脈に応じた主語を示す。"
+  },
+  {
+    "surface": "qu'on",
+    "pronunciation": "コン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "『que + on』の縮約形。"
+  },
+  {
+    "surface": "que",
+    "pronunciation": "ク",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "接続詞的用法。感嘆文を導く。"
+  },
+  {
+    "surface": "s'prennent",
+    "pronunciation": "スプルヌ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『se prendre』の三人称複数形の縮約形。状況によって『捕らわれる』や『巻き込まれる』などの意味を持つ。"
+  },
+  {
     "surface": "soif",
     "pronunciation": "ソワフ",
     "accent_type": 1,
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "「渇き」や「喉の渇き」を意味する名詞。"
+  },
+  {
+    "surface": "suis",
+    "pronunciation": "スイ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『être』の一人称単数形。『である』を意味する。"
+  },
+  {
+    "surface": "te",
+    "pronunciation": "テ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "二人称目的格の代名詞。『あなたを／あなたに』の意味。"
+  },
+  {
+    "surface": "temps",
+    "pronunciation": "タン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "時間、時代を意味する名詞。"
   },
   {
     "surface": "tout",
@@ -449,11 +432,27 @@
     "meaning": "女性名詞の冠詞。ここでは「一つの」という意味合いを持つ。"
   },
   {
+    "surface": "viennent",
+    "pronunciation": "ヴィヤン",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『venir』の三人称複数形。『来る』を意味する。"
+  },
+  {
     "surface": "vient",
     "pronunciation": "ヴィアン",
     "accent_type": 1,
     "word_type": "VERB",
     "priority": 5,
     "meaning": "動詞『venir』（来る）の三人称単数形。"
+  },
+  {
+    "surface": "voie",
+    "pronunciation": "ヴォワ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『voir』の接続法現在形。ここでは『見られる』という意味で用いられる。"
   }
 ]
