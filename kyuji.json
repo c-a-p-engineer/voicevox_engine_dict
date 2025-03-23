@@ -1,5 +1,21 @@
 [
   {
+    "surface": "繞る",
+    "pronunciation": "メグル",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "『巡る』の異体字。ある地点を回る、または複数の場所を巡回する動作を示す。"
+  },
+  {
+    "surface": "繞って",
+    "pronunciation": "メグッテ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "動詞『めぐる』の連用形。文中で理由や結果、または並列の関係を示す際に用いられる形。"
+  },
+  {
     "surface": "お經",
     "pronunciation": "オキョウ",
     "accent_type": 2,
