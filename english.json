@@ -1,5 +1,157 @@
 [
   {
+    "surface": "In his costumes",
+    "pronunciation": "イン ヒズ コスチュームズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "彼が着用する衣装や装いを指す句。"
+  },
+  {
+    "surface": "he recites",
+    "pronunciation": "ヒー リサイツ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "彼が朗読する、詩や文章を口にする行為を示す。"
+  },
+  {
+    "surface": "The word",
+    "pronunciation": "ザ ワード",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "特定の表現や語句、あるいは詩の中の一語を示す。"
+  },
+  {
+    "surface": "the poet",
+    "pronunciation": "ザ ポエット",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "詩を創作する人物、詩人を意味する。"
+  },
+  {
+    "surface": "to his dear ones",
+    "pronunciation": "トゥ ヒズ ディア ワンズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "彼の愛する人々、親しい者たちを指す句。"
+  },
+  {
+    "surface": "composed",
+    "pronunciation": "コンポーズド",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "詩や文章が創作・作曲されたことを示す過去形。"
+  },
+  {
+    "surface": "Hinder Bortier",
+    "pronunciation": "ヒンダー ボルティエ",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "詩中に登場する固有名詞、あるいは称号・名称として用いられる表現。"
+  },
+  {
+    "surface": "it is per stages",
+    "pronunciation": "イット イズ パー ステイジズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "段階を経てという意味を、古風な表現で示した句。"
+  },
+  {
+    "surface": "The flower of Heaven",
+    "pronunciation": "ザ フラワー オブ ヘヴン",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "天の花、神聖な美や理想を象徴する比喩的表現。"
+  },
+  {
+    "surface": "once dreamed",
+    "pronunciation": "ワンス ドリームド",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "かつて夢見られた、想像されたという状態を表す。"
+  },
+  {
+    "surface": "now enabled",
+    "pronunciation": "ナウ エネイブルド",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "現在可能になった、実現された状態を示す。"
+  },
+  {
+    "surface": "where joy forever dwells",
+    "pronunciation": "ウェア ジョイ フォーエヴァー ドウェルズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "永遠に喜びが宿る場所や状態を表す句。"
+  },
+  {
+    "surface": "Hinder",
+    "pronunciation": "ヒンダー",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "詩中で名称や称号として用いられる単語。"
+  },
+  {
+    "surface": "Border",
+    "pronunciation": "ボーダー",
+    "accent_type": 1,
+    "word_type": "PROPER_NOUN",
+    "priority": 5,
+    "meaning": "詩中に登場する固有名詞、あるいは「Hinder Bortier」と対比される名称。"
+  },
+  {
+    "surface": "Upper Stages",
+    "pronunciation": "アッパー ステイジズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "上位の段階や高いレベルを示す、比喩的な表現。"
+  },
+  {
+    "surface": "now fabled",
+    "pronunciation": "ナウ フェイブルド",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "伝説として語られるようになった、または物語に出るようになった状態を示す。"
+  },
+  {
+    "surface": "Farewell, happy field",
+    "pronunciation": "フェアウェル ハッピー フィールド",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "別れを告げるとともに、幸福な大地を称える詩的な表現。"
+  },
+  {
+    "surface": "Hail, quake stiles",
+    "pronunciation": "ヘイル クェイク スタイルズ",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "挨拶や叫びと、激しく揺れる様子を示唆する語句。"
+  },
+  {
+    "surface": "Lo. unexpected mort",
+    "pronunciation": "ロー アンエクスペクテッド モート",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "驚きを表す感嘆詞『Lo』と、予期せぬ終焉や死を暗示する語句の組み合わせ。"
+  },
+  {
     "surface": "Attraction",
     "pronunciation": "アトラクション",
     "accent_type": 1,
