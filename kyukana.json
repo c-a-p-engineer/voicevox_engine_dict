@@ -1,14 +1,5 @@
 [
   {
-  "surface": "かゝつた",
-  "pronunciation": "カカッタ",
-  "accent_type": 1,
-  "word_type": "VERB",
-  "priority": 5,
-    "meaning": "かかった"
-}
-,
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -137,6 +128,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "かゝつた",
+    "pronunciation": "カカッタ",
+    "accent_type": 1,
+    "word_type": "VERB",
+    "priority": 5,
+    "meaning": "かかった"
   },
   {
     "surface": "かゞ",
