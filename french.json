@@ -1,21 +1,4 @@
 [
-
-  {
-    "surface": "Potes",
-    "pronunciation": "ポット",
-    "accent_type": 1,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "フランス語の俗語で「友達」や「仲間」を意味する。"
-  },
-  {
-    "surface": "maudits",
-    "pronunciation": "モディ",
-    "accent_type": 1,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "フランス語で「呪われた」や「忌み嫌われる」という意味の形容詞（複数形）。"
-  },
   {
     "surface": "Ah",
     "pronunciation": "アー",
@@ -127,6 +110,14 @@
     "word_type": "PROPER_NOUN",
     "priority": 9,
     "meaning": "イギリスの作家ジョン・バニヤンによる1678年刊行の寓意物語。主人公クリスチャンが「滅亡の市」から「天の都」へ至る旅路を描き、キリスト教徒の信仰の歩みを象徴している。日本語では『天路歴程』として知られる。"
+  },
+  {
+    "surface": "Potes",
+    "pronunciation": "ポット",
+    "accent_type": 1,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "フランス語の俗語で「友達」や「仲間」を意味する。"
   },
   {
     "surface": "Pour",
@@ -287,6 +278,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 5,
     "meaning": "定冠詞。複数形の名詞に付く。"
+  },
+  {
+    "surface": "maudits",
+    "pronunciation": "モディ",
+    "accent_type": 1,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "フランス語で「呪われた」や「忌み嫌われる」という意味の形容詞（複数形）。"
   },
   {
     "surface": "mauvais",
