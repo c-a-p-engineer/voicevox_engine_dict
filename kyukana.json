@@ -1,4 +1,28 @@
 [
+    {
+    "surface": "話し／＼",
+    "pronunciation": "ハナシバナシ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "さまざまな話や物語が次々と続く様子を表す。"
+  },
+  {
+    "surface": "ツカ／＼",
+    "pronunciation": "ツカツカ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 5,
+    "meaning": "遠慮なく、または怒った様子で勢いよく歩くさまを表す擬態語。"
+  },
+  {
+    "surface": "もし／＼",
+    "pronunciation": "モシモシ",
+    "accent_type": 3,
+    "word_type": "INTERJECTION",
+    "priority": 9,
+    "meaning": "人に呼びかける際の言葉。特に電話での最初の挨拶として用いられる。"
+  },
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
