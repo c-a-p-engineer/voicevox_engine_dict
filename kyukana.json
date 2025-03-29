@@ -1,37 +1,5 @@
 [
   {
-    "surface": "まあ／＼",
-    "pronunciation": "マアマア",
-    "accent_type": 2,
-    "word_type": "ADVERB",
-    "priority": 8,
-    "meaning": "落ち着いているさまや、適度であることを表す。"
-  },
-  {
-    "surface": "うか／＼",
-    "pronunciation": "ウカウカ",
-    "accent_type": 3,
-    "word_type": "ADVERB",
-    "priority": 6,
-    "meaning": "注意が足りず、油断しているさまを表す。"
-  },
-  {
-    "surface": "ソロ／＼",
-    "pronunciation": "ソロソロ",
-    "accent_type": 3,
-    "word_type": "ADVERB",
-    "priority": 9,
-    "meaning": "物事をゆっくりと始めるさまや、静かに行動するさまを表す。"
-  },
-  {
-    "surface": "ジリ／＼",
-    "pronunciation": "ジリジリ",
-    "accent_type": 3,
-    "word_type": "ADVERB",
-    "priority": 7,
-    "meaning": "焦りや苛立ちを感じるさま、または太陽が強く照りつけるさまを表す。"
-  },
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -92,6 +60,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "うか／＼",
+    "pronunciation": "ウカウカ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "注意が足りず、油断しているさまを表す。"
   },
   {
     "surface": "うと／＼",
@@ -1121,6 +1097,14 @@
     "priority": 5
   },
   {
+    "surface": "まあ／＼",
+    "pronunciation": "マアマア",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 8,
+    "meaning": "落ち着いているさまや、適度であることを表す。"
+  },
+  {
     "surface": "まし／＼",
     "pronunciation": "マシマシ",
     "accent_type": 2,
@@ -1687,6 +1671,14 @@
     "priority": 5
   },
   {
+    "surface": "ジリ／＼",
+    "pronunciation": "ジリジリ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "焦りや苛立ちを感じるさま、または太陽が強く照りつけるさまを表す。"
+  },
+  {
     "surface": "スゝ",
     "pronunciation": "スス",
     "accent_type": "0",
@@ -1784,6 +1776,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "1. 状態や程度がそれなりに良いことを表す擬態語。2. 場所や状況を曖昧に指す表現として使われることもある。現代でもそのまま使用される。"
+  },
+  {
+    "surface": "ソロ／＼",
+    "pronunciation": "ソロソロ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 9,
+    "meaning": "物事をゆっくりと始めるさまや、静かに行動するさまを表す。"
   },
   {
     "surface": "ソワ／＼",
