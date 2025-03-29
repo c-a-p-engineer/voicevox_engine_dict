@@ -1,5 +1,37 @@
 [
   {
+    "surface": "まあ／＼",
+    "pronunciation": "マアマア",
+    "accent_type": 2,
+    "word_type": "ADVERB",
+    "priority": 8,
+    "meaning": "落ち着いているさまや、適度であることを表す。"
+  },
+  {
+    "surface": "うか／＼",
+    "pronunciation": "ウカウカ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 6,
+    "meaning": "注意が足りず、油断しているさまを表す。"
+  },
+  {
+    "surface": "ソロ／＼",
+    "pronunciation": "ソロソロ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 9,
+    "meaning": "物事をゆっくりと始めるさまや、静かに行動するさまを表す。"
+  },
+  {
+    "surface": "ジリ／＼",
+    "pronunciation": "ジリジリ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 7,
+    "meaning": "焦りや苛立ちを感じるさま、または太陽が強く照りつけるさまを表す。"
+  },
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
