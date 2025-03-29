@@ -1,28 +1,4 @@
 [
-    {
-    "surface": "話し／＼",
-    "pronunciation": "ハナシバナシ",
-    "accent_type": 4,
-    "word_type": "COMMON_NOUN",
-    "priority": 6,
-    "meaning": "さまざまな話や物語が次々と続く様子を表す。"
-  },
-  {
-    "surface": "ツカ／＼",
-    "pronunciation": "ツカツカ",
-    "accent_type": 3,
-    "word_type": "ADVERB",
-    "priority": 5,
-    "meaning": "遠慮なく、または怒った様子で勢いよく歩くさまを表す擬態語。"
-  },
-  {
-    "surface": "もし／＼",
-    "pronunciation": "モシモシ",
-    "accent_type": 3,
-    "word_type": "INTERJECTION",
-    "priority": 9,
-    "meaning": "人に呼びかける際の言葉。特に電話での最初の挨拶として用いられる。"
-  },
   {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
@@ -1181,6 +1157,14 @@
     "priority": 5
   },
   {
+    "surface": "もし／＼",
+    "pronunciation": "モシモシ",
+    "accent_type": 3,
+    "word_type": "INTERJECTION",
+    "priority": 9,
+    "meaning": "人に呼びかける際の言葉。特に電話での最初の挨拶として用いられる。"
+  },
+  {
     "surface": "もゝ",
     "pronunciation": "モモ",
     "accent_type": "0",
@@ -1897,6 +1881,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ツカ／＼",
+    "pronunciation": "ツカツカ",
+    "accent_type": 3,
+    "word_type": "ADVERB",
+    "priority": 5,
+    "meaning": "遠慮なく、または怒った様子で勢いよく歩くさまを表す擬態語。"
   },
   {
     "surface": "ヅゝ",
@@ -3764,6 +3756,14 @@
     "accent_type": "0",
     "word_type": "ADJECTIVE",
     "priority": 5
+  },
+  {
+    "surface": "話し／＼",
+    "pronunciation": "ハナシバナシ",
+    "accent_type": 4,
+    "word_type": "COMMON_NOUN",
+    "priority": 6,
+    "meaning": "さまざまな話や物語が次々と続く様子を表す。"
   },
   {
     "surface": "語つた",
