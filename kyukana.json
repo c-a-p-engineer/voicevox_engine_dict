@@ -65,7 +65,7 @@
     "surface": "うか／＼",
     "pronunciation": "ウカウカ",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 6,
     "meaning": "注意が足りず、油断しているさまを表す。"
   },
@@ -1100,7 +1100,7 @@
     "surface": "まあ／＼",
     "pronunciation": "マアマア",
     "accent_type": 2,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 8,
     "meaning": "落ち着いているさまや、適度であることを表す。"
   },
@@ -1674,7 +1674,7 @@
     "surface": "ジリ／＼",
     "pronunciation": "ジリジリ",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "焦りや苛立ちを感じるさま、または太陽が強く照りつけるさまを表す。"
   },
@@ -1781,7 +1781,7 @@
     "surface": "ソロ／＼",
     "pronunciation": "ソロソロ",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 9,
     "meaning": "物事をゆっくりと始めるさまや、静かに行動するさまを表す。"
   },
@@ -1918,7 +1918,7 @@
     "surface": "ツカ／＼",
     "pronunciation": "ツカツカ",
     "accent_type": 3,
-    "word_type": "ADVERB",
+    "word_type": "ADJECTIVE",
     "priority": 5,
     "meaning": "遠慮なく、または怒った様子で勢いよく歩くさまを表す擬態語。"
   },
