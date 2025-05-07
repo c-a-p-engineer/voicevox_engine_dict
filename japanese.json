@@ -15,6 +15,16 @@
     "priority": 7,
     "meaning": "日本の伝説上の妖怪。水辺に住み、甲羅を持ち、頭に水をたたえた存在として描かれる。"
   },
+
+  
+  {
+    "surface": "呌び",
+    "pronunciation": "サケビ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "さけぶ。大声をだす。"
+  },
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
