@@ -15,16 +15,6 @@
     "priority": 7,
     "meaning": "日本の伝説上の妖怪。水辺に住み、甲羅を持ち、頭に水をたたえた存在として描かれる。"
   },
-
-  
-  {
-    "surface": "呌び",
-    "pronunciation": "サケビ",
-    "accent_type": "0",
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "さけぶ。大声をだす。"
-  },
   {
     "surface": "あの方",
     "pronunciation": "アノカタ",
@@ -208,6 +198,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 7,
     "meaning": "主語が他者の行為や影響を受けることを示す言葉。受動文における概念の一つで、主語が他者の行為や影響によって何らかの作用を受ける場合に使用される。"
+  },
+  {
+    "surface": "呌び",
+    "pronunciation": "サケビ",
+    "accent_type": "0",
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "さけぶ。大声をだす。"
   },
   {
     "surface": "味噌漬",
