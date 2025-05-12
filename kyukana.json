@@ -1,53 +1,5 @@
 [
   {
-    "surface": "さま／″＼",
-    "pronunciation": "サマザマ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "多様であることを表す。現代では「様々」と書き、『さまざま』と読む。"
-  },
-  {
-    "surface": "ひら／＼",
-    "pronunciation": "ヒラヒラ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "柔らかいものが軽やかに舞う様子や、薄いものがひらひらと動く様子を表す。"
-  },
-  {
-    "surface": "コリ／＼",
-    "pronunciation": "コリコリ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "硬いものを噛んだときの音や食感を表す。"
-  },
-  {
-    "surface": "くる／＼",
-    "pronunciation": "クルクル",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 5,
-    "meaning": "物が連続して回転する様子や、同じ動作が繰り返される様子を表す。"
-  },
-  {
-    "surface": "ゲジ／″＼",
-    "pronunciation": "ゲジゲジ",
-    "accent_type": 0,
-    "word_type": "COMMON_NOUN",
-    "priority": 5,
-    "meaning": "ヤスデ目の節足動物の一種。家屋内で見られることがある、細長い多足の虫。"
-  },
-  {
-  "surface": "忌ま／＼し",
-  "pronunciation": "イマイマシ",
-  "accent_type": 5,
-  "word_type": "ADJECTIVE",
-  "priority": 6,
-  "meaning": "古語の形容詞で、憎らしく腹立たしい様子を表す。現代語の「忌々しい」に相当。"
-  },
-  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
@@ -267,6 +219,14 @@
     "meaning": "しわが多く寄ったり、物が乱れたりした状態を指す形容詞。たとえば、『紙をくしやくしやにする』は『紙をしわくちゃにする』という意味。感情的には落ち込んだり、元気がない様子を表す場合もある。"
   },
   {
+    "surface": "くる／＼",
+    "pronunciation": "クルクル",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "物が連続して回転する様子や、同じ動作が繰り返される様子を表す。"
+  },
+  {
     "surface": "くわつくわう／＼",
     "pronunciation": "クワックワウクワックワウ",
     "accent_type": 0,
@@ -437,6 +397,14 @@
     "word_type": "VERB",
     "priority": 5,
     "meaning": "そうなった。現代仮名遣いでは『さえなった』"
+  },
+  {
+    "surface": "さま／″＼",
+    "pronunciation": "サマザマ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "多様であることを表す。現代では「様々」と書き、『さまざま』と読む。"
   },
   {
     "surface": "さん／＼",
@@ -995,6 +963,14 @@
     "word_type": "COMMON_NOUN",
     "priority": 6,
     "meaning": "もしかしたら、あるいは偶然という意味を持つ。旧仮名遣いで『ひよつと』と表記され、現代では『ひょっと』が一般的。"
+  },
+  {
+    "surface": "ひら／＼",
+    "pronunciation": "ヒラヒラ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "柔らかいものが軽やかに舞う様子や、薄いものがひらひらと動く様子を表す。"
   },
   {
     "surface": "ひゝ",
@@ -1606,6 +1582,14 @@
     "priority": 5
   },
   {
+    "surface": "ゲジ／″＼",
+    "pronunciation": "ゲジゲジ",
+    "accent_type": 0,
+    "word_type": "COMMON_NOUN",
+    "priority": 5,
+    "meaning": "ヤスデ目の節足動物の一種。家屋内で見られることがある、細長い多足の虫。"
+  },
+  {
     "surface": "ゲラ／＼",
     "pronunciation": "ゲラゲラ",
     "accent_type": 3,
@@ -1633,6 +1617,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "コリ／＼",
+    "pronunciation": "コリコリ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 5,
+    "meaning": "硬いものを噛んだときの音や食感を表す。"
   },
   {
     "surface": "ゴゝ",
@@ -3260,6 +3252,14 @@
     "word_type": "ADJECTIVE",
     "priority": 7,
     "meaning": "繰り返し、再び、さらにという意味を持つ古風な副詞。現代では『また』と書くのが一般的。文語体や古典文学で使用されることがある。"
+  },
+  {
+    "surface": "忌ま／＼し",
+    "pronunciation": "イマイマシ",
+    "accent_type": 5,
+    "word_type": "ADJECTIVE",
+    "priority": 6,
+    "meaning": "古語の形容詞で、憎らしく腹立たしい様子を表す。現代語の「忌々しい」に相当。"
   },
   {
     "surface": "怒つた",
