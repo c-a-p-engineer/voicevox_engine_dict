@@ -1,13 +1,5 @@
 [
   {
-    "surface": "あを／＼",
-    "pronunciation": "アオアオ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "古典的な表現で、深い青色や青々とした状態を指す形容詞。自然や植物の新鮮さ、生命力を強調する際に使われる。現代仮名遣いでは『青々』と書かれることが多い。"
-  },
-  {
     "surface": "あれ／＼",
     "pronunciation": "アレアレ",
     "accent_type": 0,
@@ -16,53 +8,12 @@
     "meaning": "何かを指している様子。"
   },
   {
-    "surface": "ふわ／＼",
-    "pronunciation": "フワフワ",
+    "surface": "あを／＼",
+    "pronunciation": "アオアオ",
     "accent_type": 0,
     "word_type": "ADJECTIVE",
     "priority": 7,
-    "meaning": "浮きだっている様子。"
-  },
-  {
-    "surface": "ぺた／＼",
-    "pronunciation": "ペタペタ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "平たいものが貼りついたり、素足で音を立てて歩いたりする様子を表す擬音語。"
-  },
-  {
-    "surface": "ぴら／＼",
-    "pronunciation": "ピラピラ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "紙や布などの薄くて軽いものが風などでひらひらと揺れる様子。"
-  },
-  {
-    "surface": "ひや／＼",
-    "pronunciation": "ヒヤヒヤ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "ヒヤヒヤ"
-  },
-  {
-    "surface": "ゆさ／＼",
-    "pronunciation": "ユサユサ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "揺さぶっている"
-  },
-  
-  {
-    "surface": "ぽつ／＼",
-    "pronunciation": "ポツポツ",
-    "accent_type": 0,
-    "word_type": "ADJECTIVE",
-    "priority": 7,
-    "meaning": "ぽつぽつ"
+    "meaning": "古典的な表現で、深い青色や青々とした状態を指す形容詞。自然や植物の新鮮さ、生命力を強調する際に使われる。現代仮名遣いでは『青々』と書かれることが多い。"
   },
   {
     "surface": "あゝ",
@@ -1014,6 +965,14 @@
     "priority": 5
   },
   {
+    "surface": "ひや／＼",
+    "pronunciation": "ヒヤヒヤ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "ヒヤヒヤ"
+  },
+  {
     "surface": "ひよつと",
     "pronunciation": "ヒヨット",
     "accent_type": 2,
@@ -1058,11 +1017,27 @@
     "priority": 5
   },
   {
+    "surface": "ぴら／＼",
+    "pronunciation": "ピラピラ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "紙や布などの薄くて軽いものが風などでひらひらと揺れる様子。"
+  },
+  {
     "surface": "ぴゝ",
     "pronunciation": "ピピ",
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ふわ／＼",
+    "pronunciation": "フワフワ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "浮きだっている様子。"
   },
   {
     "surface": "ふゝ",
@@ -1128,6 +1103,14 @@
     "priority": 5
   },
   {
+    "surface": "ぺた／＼",
+    "pronunciation": "ペタペタ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "平たいものが貼りついたり、素足で音を立てて歩いたりする様子を表す擬音語。"
+  },
+  {
     "surface": "ぺゝ",
     "pronunciation": "ペペ",
     "accent_type": "0",
@@ -1169,6 +1152,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ぽつ／＼",
+    "pronunciation": "ポツポツ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "ぽつぽつ"
   },
   {
     "surface": "ぽゝ",
@@ -1282,6 +1273,14 @@
     "accent_type": "0",
     "word_type": "COMMON_NOUN",
     "priority": 5
+  },
+  {
+    "surface": "ゆさ／＼",
+    "pronunciation": "ユサユサ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "揺さぶっている"
   },
   {
     "surface": "ゆゝ",
