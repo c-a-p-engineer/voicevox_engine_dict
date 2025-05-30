@@ -8,6 +8,38 @@
     "meaning": "何かを指している様子。"
   },
   {
+    "surface": "ひた／＼",
+    "pronunciation": "ヒタヒタ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "静かに物事が進行する様子や、水などがひたひたと迫る・満ちる様子。"
+  },
+  {
+    "surface": "ぢり／＼",
+    "pronunciation": "ヂリヂリ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "焦る気持ちや、暑さ・痛みなどがじわじわと迫ってくる様子を表す擬態語。"
+  },
+  {
+    "surface": "すく／＼",
+    "pronunciation": "スクスク",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "子どもや植物などが健やかに順調に育つ様子を表す擬態語。"
+  },
+  {
+    "surface": "ごろ／＼",
+    "pronunciation": "ゴロゴロ",
+    "accent_type": 0,
+    "word_type": "ADJECTIVE",
+    "priority": 7,
+    "meaning": "大きなものが転がる音や様子、あるいはくつろいで寝転ぶ様子を表す言葉。"
+  },
+  {
     "surface": "あを／＼",
     "pronunciation": "アオアオ",
     "accent_type": 0,
