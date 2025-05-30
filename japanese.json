@@ -1,13 +1,5 @@
 [
   {
-    "surface": "二三歩",
-    "pronunciation": "ニサンポ",
-    "accent_type": 6,
-    "word_type": "COMMON_NOUN",
-    "priority": 7,
-    "meaning": "二、三歩"
-  },
-  {
     "surface": "Kakkoku Engekishi",
     "pronunciation": "カッコクエンゲキシ",
     "accent_type": 6,
@@ -102,6 +94,14 @@
     "word_type": "VERB",
     "priority": 6,
     "meaning": "物事が終わる、または完了することを意味する古語的な表現。"
+  },
+  {
+    "surface": "二三歩",
+    "pronunciation": "ニサンポ",
+    "accent_type": 6,
+    "word_type": "COMMON_NOUN",
+    "priority": 7,
+    "meaning": "二、三歩"
   },
   {
     "surface": "五分苅",
