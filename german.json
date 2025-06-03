@@ -1,5 +1,13 @@
 [
   {
+  "surface": "Gebrüder Grimm",
+  "pronunciation": "ゲブリューダー グリム",
+  "accent_type": 1,
+  "word_type": "PROPER_NOUN",
+  "priority": 7,
+  "meaning": "ドイツの文献学者・言語学者の兄弟、ヤーコプとヴィルヘルム・グリム。『グリム童話』の編者として知られる。"
+},
+  {
     "surface": "DAS SCHLOSS",
     "pronunciation": "ダスシュロス",
     "accent_type": 1,
