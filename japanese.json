@@ -790,5 +790,13 @@
     "word_type": "PROPER_NOUN",
     "priority": 7,
     "meaning": "長野県伊那市の地名として知られる。山々に囲まれた地域で、高遠城址公園は桜の名所として有名。また、『高く遠い』という意味で抽象的に使われることもある。"
+  },
+  {
+    "surface": "根本原因",
+    "pronunciation": "コンポンゲンイン",
+    "accent_type": 5,
+    "word_type": "COMMON_NOUN",
+    "priority": 10,
+    "meaning": "物事が起こる最も根本的な原因。「根本」は単独では「ねもと」とも読むが、本語では「こんぽん」と読む。"
   }
 ]
